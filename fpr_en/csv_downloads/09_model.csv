@@ -1,0 +1,11 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Total Files
+AutoCAD Last Saved Layer State,.las,09. Model,To be reviewed,Basic,1
+Bentley Microstation Hidden Line File,".hln, .dgn",09. Model,Original,Basic,1
+Binvox,.binvox,09. Model,Original,Basic,"340,338"
+CloudCompare Entity File,.bin,09. Model,Original,Basic,2
+GL Transmission Format,.gltf,09. Model,Original,Watch,0
+GL Transmission Format Binary,.glb,09. Model,Original,Watch,0
+Microstation CAD Drawing,.dgn,09. Model,Transform to PDF/A,Basic,1
+Polygon File Format,.ply,09. Model,Original,Watch,102
+Tilt Brush,.tilt,09. Model,To be reviewed,Watch,3
+Visualization Toolkit,.vtk,09. Model,Original,Watch,"145,761"

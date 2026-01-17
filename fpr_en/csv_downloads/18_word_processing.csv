@@ -1,0 +1,11 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Total Files
+Microsoft Word (Generic),.doc,18. Word Processing,Transform to ODT,Full,1
+Microsoft Word Document,".docx, .doc",18. Word Processing,Transform to ODT,Full,26
+Microsoft Word for Windows,".docx, .doc",18. Word Processing,Transform to ODT,Full,99
+OpenDocument Text,".odt, .ott",18. Word Processing,Original,Full,2
+Rich Text Format,.rtf,18. Word Processing,Transform to PDF/A,Full,57
+Statistica Report File,.str,18. Word Processing,Transform to PDF/A,Watch,1
+Ventura Publisher,.gen,18. Word Processing,Transform to PDF/A,Watch,1
+Wordcraft Chapter Files,.001,18. Word Processing,Original,Basic,1
+WordStar for Windows Document,.ws,18. Word Processing,Transform to PDF/A,Full,1
+XYWrite Document,.xz,18. Word Processing,Original,Basic,3

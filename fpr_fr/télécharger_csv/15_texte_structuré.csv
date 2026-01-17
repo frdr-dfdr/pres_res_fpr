@@ -1,0 +1,23 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Nombre total de fichiers
+BibTeX Database File,.bib,15. Texte (structuré),Original,Complet,55
+Cascading Style Sheet,.css,15. Texte (structuré),Original,Complet,932
+Clock RINEX File Format,.clk,15. Texte (structuré),Original,Complet,188
+Comma Separated Values,.csv,15. Texte (structuré),Original,Complet,"849,469"
+Data Interchange Format,.dif,15. Texte (structuré),Original,Veille,2
+JSON Data Interchange Format,.json,15. Texte (structuré),Original,Complet,"82,657"
+Leaner Style Sheets,.less,15. Texte (structuré),Original,Complet,14
+MD5 File,.md5,15. Texte (structuré),Original,Complet,110
+OPML File,.opml,15. Texte (structuré),Original,Complet,1
+Prime OCR,.pro,15. Texte (structuré),À réviser,Base,173
+PrimeOCR,.pro,15. Texte (structuré),À réviser,Base,961
+Protein Data Bank File,.pdb,15. Texte (structuré),À réviser,Veille,51
+QGIS Spatial Index File,.qix,15. Texte (structuré),À réviser,Veille,3
+RINEX Observation File,.obs,15. Texte (structuré),Original,Complet,24
+Standard for the Exchange of Product model data,".step, .stp",15. Texte (structuré),Original,Base,4
+Structured Query Language Data,.sql,15. Texte (structuré),Original,Complet,5
+Subsurface Material Properties File,.mprops,15. Texte (structuré),Original,Complet,28
+Surface Domain Properties File,.oprops,15. Texte (structuré),Original,Complet,28
+Syntactically Awesome Style Sheets,".sass, .scss",15. Texte (structuré),Original,Complet,14
+Tab-separated Values,".tsv, .tab",15. Texte (structuré),Transformer en CSV,Complet,"4,809"
+Text Configuration file,.ini,15. Texte (structuré),Original,Complet,"2,308"
+YAML,".yml, .yaml",15. Texte (structuré),Original,Complet,"3,510"

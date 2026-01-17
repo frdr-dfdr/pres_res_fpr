@@ -1,0 +1,9 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Nombre total de fichiers
+Apple iWork Numbers,.numbers,13. Feuille de calcul,Transformer en CSV,Veille,1
+Gnumeric,.gnumeric,13. Feuille de calcul,À réviser,Base,1
+Microsoft Excel 5.0/95 Workbook (xls),.xls,13. Feuille de calcul,Transformer en ODS,Complet,1
+Microsoft Excel 97 Workbook (xls),.xls,13. Feuille de calcul,Transformer en ODS,Complet,157
+Microsoft Excel for Windows,.xlsx,13. Feuille de calcul,Original,Complet,"1,736"
+Microsoft Excel Macro-Enabled,.xlsm,13. Feuille de calcul,Original,Veille,3
+Microsoft Multiplan,.mod,13. Feuille de calcul,À réviser,Base,33
+OpenDocument Spreadsheet,.ods,13. Feuille de calcul,Original,Complet,1

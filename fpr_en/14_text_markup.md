@@ -1,0 +1,35 @@
+# 14. Text - Markup 
+Last updated: 2026-01-16 
+
+## Format 
+[14_text_markup.csv](./csv_downloads/14_text_markup.csv) (CSV 8.8 KB) 
+
+Original refers to the original file deposited in the repository. 
+
+| Format                                         | Extension        | Proposed Preservation Action   | Preservation Level   | Total Files   |
+|:-----------------------------------------------|:-----------------|:-------------------------------|:---------------------|:--------------|
+| Agisoft Project File                           | .psx             | To be reviewed                 | Basic                | 2             |
+| Canadian Avalanche Association Markup Language | .caaml           | Original                       | Full                 | 825           |
+| Document Type Definition                       | .dtd             | Original                       | Full                 | 14            |
+| eRuby HTML document                            | .rhtml, .rhtm    | Original                       | Full                 | 4             |
+| Extensible Hypertext Markup Language           | .html            | Original                       | Full                 | 0             |
+| Extensible Markup Language                     | .xml             | Original                       | Full                 | 7,041         |
+| Extensible Metadata Platform Format            | .xmp             | Original                       | Full                 | 22,785        |
+| Extensible Metadata Platform Packet            | .xmp             | Original                       | Full                 | 30,626        |
+| Geography Markup Language                      | .gml             | Original                       | Full                 | 5             |
+| GPS Exchange Format                            | .gpx             | Original                       | Full                 | 2             |
+| Hypertext Markup Language                      | .html            | Original                       | Full                 | 6,446         |
+| Keyhole Markup Language (Container)            | .kmz             | Original                       | Full                 | 48            |
+| Keyhole Markup Language (KML)                  | .kml             | Original                       | Full                 | 0             |
+| LaTeX (Master document)                        | .tex             | Transform                      | Full                 | 351           |
+| LaTeX (Subdocument)                            | .tex             | Transform                      | Full                 | 492           |
+| Markdown                                       | .md              | Original                       | Full                 | 560           |
+| OGR GFS File                                   | .gfs             | Original                       | Watch                | 8             |
+| QGIS Metadata File                             | .qmd             | Original                       | Full                 | 50            |
+| QGIS Style Language                            | .qml             | Original                       | Full                 | 4             |
+| reStructuredText                               | .rst             | Original                       | Full                 | 4             |
+| SGML/XML Entity File                           | .sgml            | Original                       | Full                 | 22            |
+| Standard Generalized Markup Language           | .sgml            | Original                       | Full                 | 1             |
+| TEI P5 - Single Text File                      | .tei, .odd, .xml | Original                       | Full                 | 1             |
+| XML Property List                              | .plist           | Original                       | Full                 | 6             |
+| XML Schema Definition                          | .xsd             | Original                       | Full                 | 9             |

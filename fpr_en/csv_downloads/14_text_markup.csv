@@ -1,0 +1,26 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Total Files
+Agisoft Project File,.psx,14. Text (Markup),To be reviewed,Basic,2
+Canadian Avalanche Association Markup Language,.caaml,14. Text (Markup),Original,Full,825
+Document Type Definition,.dtd,14. Text (Markup),Original,Full,14
+eRuby HTML document,".rhtml, .rhtm",14. Text (Markup),Original,Full,4
+Extensible Hypertext Markup Language,.html,14. Text (Markup),Original,Full,0
+Extensible Markup Language,.xml,14. Text (Markup),Original,Full,"7,041"
+Extensible Metadata Platform Format,.xmp,14. Text (Markup),Original,Full,"22,785"
+Extensible Metadata Platform Packet,.xmp,14. Text (Markup),Original,Full,"30,626"
+Geography Markup Language,.gml,14. Text (Markup),Original,Full,5
+GPS Exchange Format,.gpx,14. Text (Markup),Original,Full,2
+Hypertext Markup Language,.html,14. Text (Markup),Original,Full,"6,446"
+Keyhole Markup Language (Container),.kmz,14. Text (Markup),Original,Full,48
+Keyhole Markup Language (KML),.kml,14. Text (Markup),Original,Full,0
+LaTeX (Master document),.tex,14. Text (Markup),Transform,Full,351
+LaTeX (Subdocument),.tex,14. Text (Markup),Transform,Full,492
+Markdown,.md,14. Text (Markup),Original,Full,560
+OGR GFS File,.gfs,14. Text (Markup),Original,Watch,8
+QGIS Metadata File,.qmd,14. Text (Markup),Original,Full,50
+QGIS Style Language,.qml,14. Text (Markup),Original,Full,4
+reStructuredText,.rst,14. Text (Markup),Original,Full,4
+SGML/XML Entity File,.sgml,14. Text (Markup),Original,Full,22
+Standard Generalized Markup Language,.sgml,14. Text (Markup),Original,Full,1
+TEI P5 - Single Text File,".tei, .odd, .xml",14. Text (Markup),Original,Full,1
+XML Property List,.plist,14. Text (Markup),Original,Full,6
+XML Schema Definition,.xsd,14. Text (Markup),Original,Full,9
