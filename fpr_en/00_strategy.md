@@ -3,7 +3,7 @@ Last updated: 2026-01-18
 
 Understanding file formats is integral to implementing strategies that aid in the continued access and reuse of research data. This page contains information about digital preservation services file format work. This page will be updated as we develop our strategy. 
 
-For additional information about Digital Preservation Services at the Digital Research Alliance of Canada, please visit the [digital preservation services page](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services).
+For additional information about Digital Preservation Services at the Digital Research Alliance of Canada, please visit the [Digital Preservation Services page](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services).
 
 ## Strategy
 While repositories may provide a list of recommended formats we recognize that not all research projects can use openor recommended file formats. Therefore, all file formats are accepted. Different preservation levels are implemented to determine digital preservation capabilities for the various file formats received. 
