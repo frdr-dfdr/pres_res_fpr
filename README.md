@@ -30,7 +30,6 @@ This repository contains information about file formats and file format work und
 - [Video](/fpr_en/17_video.md)
 - [Word Processing](/fpr_en/18_word_processing.md)
 
----
 ## How to Use the Resource
 Each file type has been grouped into a larger file category. A table for each category is created that provides the following information:
 - Format - includes the name of the format. The official name is used if it exists.
@@ -39,12 +38,10 @@ Each file type has been grouped into a larger file category. A table for each ca
 - Preservation Level - indicates the level of preservation given to the format. A listing of what is included in each preservation level can be found in the strategy.
 - Total Files - includes the number of files in FRDR associated with the format. 
 
----
 ## Acknowledgments
 
 Digital preservation services wishes to acknowledge and thank the Digital Research Alliance of Canada translation team for their help in translating this content. 
 
----
 ---
 # Services de préservation numérique - Registre et stratégie en matière de formats
 [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -71,7 +68,6 @@ Digital preservation services wishes to acknowledge and thank the Digital Resear
 - [Vidéo](/fpr_fr/17_vidéo.md)
 - [Traitement de texte](/fpr_fr/18_traitement_de_texte.md)
 
----
 ## Comment utiliser la ressource
 Chaque type de fichier a été regroupé dans une catégorie de fichiers plus large. Un tableau a été créé pour chaque catégorie, qui fournit les informations suivantes :
 - Format : comprend le nom du format. Le nom officiel est utilisé s'il existe.
@@ -84,7 +80,7 @@ Chaque type de fichier a été regroupé dans une catégorie de fichiers plus la
 Les services de préservation numérique souhaitent remercier l'équipe de traduction de l'Alliance de recherche numérique du Canada pour son aide dans la traduction de ce contenu. 
 
 ---
----
+# General Information
 ## License / Licence
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
@@ -99,15 +95,21 @@ Cette œuvre est mise à disposition selon les termes de la
 [cc-by]: https://creativecommons.org/licenses/by/4.0/deed.fr
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
+---
 ## Citation
 Please cite these materials as: / Veuillez citer ces documents comme suit : 
+
 ```
 Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
 https://github.com/frdr-dfdr/pres_res_fpr 
 ```
+---
 ## Contact
 Digital Preservation Services / Services de préservation numérique <br>
 Email/courriel: preservation@frdr-dfdr.ca
+
+---
+Last Updated: / Dernière mise à jour : 2026-01-18
 
 ---
 <p align="center">
