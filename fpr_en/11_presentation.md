@@ -1,6 +1,7 @@
 # 11. Presentation 
-Last updated: 2026-01-16 
+Last updated: 2026-01-17 
 
+Presentation file formats consist of files that are used to create slide shows and graphically rich documents. 
 ## Format 
 [11_presentation.csv](./csv_downloads/11_presentation.csv) (CSV 0.76 KB) 
 

@@ -1,6 +1,7 @@
 # 03. Database 
-Last updated: 2026-01-16 
+Last updated: 2026-01-17 
 
+Database file formats are organized collections of structured information. 
 ## Format 
 [03_database.csv](./csv_downloads/03_database.csv) (CSV 1.53 KB) 
 

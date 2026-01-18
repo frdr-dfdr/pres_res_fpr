@@ -1,6 +1,7 @@
 # 10. Page Description 
-Last updated: 2026-01-16 
+Last updated: 2026-01-17 
 
+Page description files describe the visual appearance of printed or displayed page, independent of specific hardware or software. 
 ## Format 
 [10_page_description.csv](./csv_downloads/10_page_description.csv) (CSV 4.61 KB) 
 

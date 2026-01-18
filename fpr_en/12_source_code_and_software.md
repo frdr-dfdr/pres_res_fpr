@@ -1,6 +1,10 @@
 # 12. Source Code and Software 
-Last updated: 2026-01-16 
+Last updated: 2026-01-17 
 
+Source code files include human readable instructions that are written using a programming language. It defines how a computer program performances tasks and behaves. 
+
+Software includes a collection of programs, data, and instructions that tell a computer to perform tasks. Source code forms the foundation of software.
+  
 ## Format 
 [12_source_code_and_software.csv](./csv_downloads/12_source_code_and_software.csv) (CSV 13.19 KB) 
 

@@ -1,6 +1,7 @@
 # 05. Font 
-Last updated: 2026-01-16 
+Last updated: 2026-01-17 
 
+Font file formats define how the text looks in a document. 
 ## Format 
 [05_font.csv](./csv_downloads/05_font.csv) (CSV 2.19 KB) 
 

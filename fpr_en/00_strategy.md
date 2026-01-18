@@ -88,22 +88,3 @@ The file format strategy and the format policy registry (fpr) draws on the excel
 - [National Archives and Records Administration (NARA), Digital Preservation](https://github.com/usnationalarchives/digital-preservation)
 
 Thank you for all your work!
-
----
-## License
-
-    This work is licensed under a Creative Commons Attribution 4.0 International License:  
-    https://creativecommons.org/licenses/by/4.0/
-
----
-## Citation
-
-    Please cite these materials as:  
-    Digital Preservation Services. (2025). Digital Research Alliance of Canada.  
-    https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services/ 
-
----
-## Contact
-
-    Digital Preservation Services  
-    Email: amanda.tome@alliancecan.ca 

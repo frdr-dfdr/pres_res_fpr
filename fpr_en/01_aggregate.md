@@ -1,6 +1,9 @@
 # 01. Aggregate 
-Last updated: 2026-01-16 
+Last updated: 2026-01-17 
 
+Aggregate file formats are also known as archive formats. These formats typically bundle together multiple files into one file making it easier to store and simplifies portability. Compression is often applied to aggregate formats. 
+
+Aggregate file formats are generally decompressed and unpacked prior to preservation. Therefore, the files contained in the aggregate formats will be assessed for preservation processing. 
 ## Format 
 [01_aggregate.csv](./csv_downloads/01_aggregate.csv) (CSV 3.79 KB) 
 
