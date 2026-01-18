@@ -1,5 +1,5 @@
 # Digital Preservation Services File Format Strategy
-Last updated: 2025-12-09
+Last updated: 2026-01-18
 
 Understanding file formats is integral to implementing strategies that aid in the continued access and reuse of research data. This page contains information about digital preservation services file format work. This page will be updated as we develop our strategy. 
 
@@ -23,8 +23,7 @@ While repositories may provide a list of recommended formats we recognize that n
 | Perform normalization (file migration)  |  | | ✔️ |
 | Long-term storage in preservation format  |  | | ✔️ |
 
-
-- Adapted from Simon Fraser University, Archives and Records Management, Format Policy Registry
+- Adapted from [Simon Fraser University, Archives and Records Management, Format Policy Registry](https://github.com/sfu-archives/format-policy-registry)
   
 #### Basic Level
 Basic level of preservation, the bit-stream (1s and 0s) of the file are preserved. No file migration or normalization occurs at this level. Basic level includes:
@@ -79,7 +78,7 @@ The Digital Research Alliance of Canada develops [file format signatures](https:
 
 ---
 ## Acknowledgements
-The file format strategy and the format policy registry (fpr) draws on the excellent work being undertaking internationally by libraries, archives, galleries, museums and repositories including but not limited to
+The file format strategy and the format policy registry (fpr) draws on the excellent work being undertaking internationally by libraries, archives, galleries, museums, and repositories including but not limited to
 
 - [Archives and Records Management, Simon Fraser University](https://www.sfu.ca/archives.html)
 - [DANS (Data Archiving and Records Service)](https://dans.knaw.nl/en/)
