@@ -19,9 +19,10 @@ While repositories may provide a list of recommended formats we recognize that n
 | File format identification | ✔️ | ✔️ | ✔️ |
 | Generation of preservation metadata |  | ✔️ | ✔️ |
 | Watch format for ability to preserve  |  | ✔️ | ✔️ |
+| Monitor format over time |  | ✔️ | ✔️ |
 | Perform normalization (file migration)  |  | | ✔️ |
 | Long-term storage in preservation format  |  | | ✔️ |
-| Monitor format over time |  | | ✔️ |
+
 
 - Adapted from Simon Fraser University, Archives and Records Management, Format Policy Registry
   
@@ -44,7 +45,6 @@ Full level includes files that the repository has confidence will be available i
 - Normalization of file formats to preservation friendly formats
 - File format identification
 - File format validation
-- Monitoring of format
 
 The team is currently working on a develoing a list for researchers outlining which file formats fall into which categories.
 
@@ -74,8 +74,8 @@ Different storage options are employed to achieve digital preservation activitie
 - Level 3: Three complete copies of the files in the dataset, one copy stored in a different location with a different disaster threat level.
   
 ## File Format Risk Matrix - Forthcoming
----
-The Digital Research Alliance of Canada develops [file format signatures](https://drive.google.com/drive/folders/1ZHI51Nnb_yAqfIatL7rdSqwHTUGLkSJk) for the inclusion in PRONOM maintained by The National Archives of the United Kingdom (TNA).
+
+The Digital Research Alliance of Canada develops [file format signatures](https://drive.google.com/drive/folders/1j6AcG88DUs2rIZ3GmOsq8nj4uo7wPVmx?usp=drive_link) for the inclusion in PRONOM maintained by The National Archives of the United Kingdom (TNA).
 
 ---
 ## Acknowledgements

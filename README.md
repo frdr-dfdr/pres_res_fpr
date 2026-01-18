@@ -82,20 +82,6 @@ Chaque type de fichier a été regroupé dans une catégorie de fichiers plus la
 - Nombre total de fichiers - comprend le nombre de fichiers dans le DFDR associés au format.
 
 ---
-## Citation
-
-  Please cite these materials as: / Veuillez citer ces documents comme suit : 
-  ```
-  Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
-  https://github.com/frdr-dfdr/pres_res_fpr 
-  ```
----
-## Contact
-
-  Digital Preservation Services / Services de préservation numérique <br>
-  Email/courriel: preservation@frdr-dfdr.ca
-
----
 ## License / Licence
 
 This work is licensed under a
@@ -111,6 +97,19 @@ Cette œuvre est mise à disposition selon les termes de la
 [cc-by]: https://creativecommons.org/licenses/by/4.0/deed.fr
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
+---
+## Citation
+
+  Please cite these materials as: / Veuillez citer ces documents comme suit : 
+  ```
+  Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
+  https://github.com/frdr-dfdr/pres_res_fpr 
+  ```
+---
+## Contact
+
+  Digital Preservation Services / Services de préservation numérique <br>
+  Email/courriel: preservation@frdr-dfdr.ca
 ---
 <p align="center">
 <img width="400" height="120" alt="frdr_logo" src="https://github.com/user-attachments/assets/daba313d-3b50-48c9-80b7-4b595c715339" />
