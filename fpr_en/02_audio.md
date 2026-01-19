@@ -1,10 +1,10 @@
 # 02. Audio 
-Last updated: 2026-01-17 
+Last updated: 2026-01-18 
 
 Digital audio is defined as an audio waveform that has been created as, or converted into, digital form and encoded as a sequence of numerical samples with the purpose of converting to a continuous analogue signal reproducing sound. 
 
 Audio formats may include various levels of compression including lossy, lossless and uncompressed. 
-## Format 
+## Formats 
 [02_audio.csv](./csv_downloads/02_audio.csv) (CSV 1.18 KB) 
 
 Original refers to the original file deposited in the repository. 

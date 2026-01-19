@@ -1,8 +1,8 @@
 # 10. Page Description 
-Last updated: 2026-01-17 
+Last updated: 2026-01-18 
 
 Page description files describe the visual appearance of printed or displayed page, independent of specific hardware or software. 
-## Format 
+## Formats 
 [10_page_description.csv](./csv_downloads/10_page_description.csv) (CSV 4.61 KB) 
 
 Original refers to the original file deposited in the repository. 

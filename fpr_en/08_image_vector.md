@@ -1,8 +1,8 @@
 # 08. Image - Vector 
-Last updated: 2026-01-17 
+Last updated: 2026-01-18 
 
 Vector images include 2-dimensional visual representations of objects, designs, etc. This can include but is not limited to photographs, posters, graphs, diagrams and graphics. Vector images are created from geometric shapes, lines, curves, points, defined in mathematical terms. 
-## Format 
+## Formats 
 [08_image_vector.csv](./csv_downloads/08_image_vector.csv) (CSV 2.36 KB) 
 
 Original refers to the original file deposited in the repository. 

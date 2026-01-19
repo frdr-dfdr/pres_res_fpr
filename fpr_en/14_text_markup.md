@@ -1,10 +1,10 @@
 # 14. Text - Markup 
-Last updated: 2026-01-17 
+Last updated: 2026-01-18 
 
 Markup language files are files that include tags to annotate and provide structure and formatting to the text. 
 
 A markup language defines what markup information can be included in the file, which facilitates use by humans and computers. 
-## Format 
+## Formats 
 [14_text_markup.csv](./csv_downloads/14_text_markup.csv) (CSV 8.8 KB) 
 
 Original refers to the original file deposited in the repository. 

@@ -1,8 +1,8 @@
 # 13. Spreadsheet 
-Last updated: 2026-01-17 
+Last updated: 2026-01-18 
 
 Spreadsheet file formats organize data in a grid of columns and rows and are used for storing, manipulating, and analyzing numbers and text. 
-## Format 
+## Formats 
 [13_spreadsheet.csv](./csv_downloads/13_spreadsheet.csv) (CSV 2.92 KB) 
 
 Original refers to the original file deposited in the repository. 

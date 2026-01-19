@@ -1,8 +1,8 @@
 # 09. Model 
-Last updated: 2026-01-17 
+Last updated: 2026-01-18 
 
 Model file formats, 3D or CAD for example, are file formats that store complex information about the three-dimensional objects. The file formats can encode the geometry, appearance and behaviours of the object. 
-## Format 
+## Formats 
 [09_model.csv](./csv_downloads/09_model.csv) (CSV 3.53 KB) 
 
 Original refers to the original file deposited in the repository. 

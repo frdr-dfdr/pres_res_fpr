@@ -1,8 +1,8 @@
 # 06. Geospatial 
-Last updated: 2026-01-17 
+Last updated: 2026-01-18 
 
 Geospatial file formats include formats that are used for storing, analyzing and managing spatial data. They are often created from geographic information systems (GIS). 
-## Format 
+## Formats 
 [06_geospatial.csv](./csv_downloads/06_geospatial.csv) (CSV 5.42 KB) 
 
 Original refers to the original file deposited in the repository. 

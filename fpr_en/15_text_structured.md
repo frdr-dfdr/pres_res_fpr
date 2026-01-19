@@ -1,8 +1,8 @@
 # 15. Text - Structured 
-Last updated: 2026-01-17 
+Last updated: 2026-01-18 
 
 Structured text refers to files that present data in a defined and organized way that is easy for machines as well as humans to read and process.  
-## Format 
+## Formats 
 [15_text_structured.csv](./csv_downloads/15_text_structured.csv) (CSV 7.84 KB) 
 
 Original refers to the original file deposited in the repository. 

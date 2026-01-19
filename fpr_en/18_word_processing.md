@@ -1,8 +1,8 @@
 # 18. Word Processing 
-Last updated: 2026-01-17 
+Last updated: 2026-01-18 
 
 Word processing formats are the output of word processors like Microsoft Word. These formats store text with varying levels of formatting and structure. Word processing formats define how the content, (text, fonts, images, layout), are saved and shared. 
-## Format 
+## Formats 
 [18_word_processing.csv](./csv_downloads/18_word_processing.csv) (CSV 3.23 KB) 
 
 Original refers to the original file deposited in the repository. 
@@ -18,4 +18,4 @@ Original refers to the original file deposited in the repository.
 | Ventura Publisher             | .gen        | Transform to PDF/A             | Watch                |             1 |
 | Wordcraft Chapter Files       | .001        | Original                       | Basic                |             1 |
 | WordStar for Windows Document | .ws         | Transform to PDF/A             | Full                 |             1 |
-| XYWrite Document              | .xz         | Original                       | Basic                |             3 || Format                        | Extension   | Proposed Preservation Action   | Preservation Level   |   Total Files |
+| XYWrite Document              | .xz         | Original                       | Basic                |             3 |
