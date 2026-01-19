@@ -2,10 +2,10 @@
 
 ---
 # Digital Preservation Services - Format Policy Registry and Strategy
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC0 1.0][cc-0-shield]][cc-0]
 
-[cc-by]: https://creativecommons.org/licenses/by/4.0/
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-0]: http://creativecommons.org/publicdomain/zero/1.0/
+[cc-0-shield]: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
 
 [Version française ci-dessous](#services-de-préservation-numérique---registre-et-stratégie-en-matière-de-formats)
 
@@ -54,10 +54,10 @@ Digital preservation services wishes to acknowledge and thank the Digital Resear
 
 ---
 # Services de préservation numérique - Registre et stratégie en matière de formats
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC0 1.0][cc-0-shield]][cc-0]
 
-[cc-by]: https://creativecommons.org/licenses/by/4.0/deed.fr
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-0]: http://creativecommons.org/publicdomain/zero/1.0/
+[cc-0-shield]: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
 
 Ce dépôt contient le registre des politiques de format et la stratégie élaborée par les Services de préservation numérique. La page [Services de préservation numérique](https://github.com/frdr-dfdr/pres_res_dpservices?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique) contient des informations générales sur le service et les ressources destinées aux chercheur·euse·s.
 
@@ -105,34 +105,25 @@ Les services de préservation numérique souhaitent remercier l'équipe de tradu
 ---
 # General Information
 ## License / Licence
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+This work is licensed under [Creative Commons Zero 1.0 Universal][cc-0].
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-0]: https://creativecommons.org/publicdomain/zero/1.0/
 
 Cette œuvre est mise à disposition selon les termes de la
-[licence Creative Commons Attribution 4.0 International][cc-by].
+[licence Creative Commons Zero 1.0 Universal][cc-0-fr].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC0 1.0][cc-0-image]][cc-0-fr]
 
-[cc-by]: https://creativecommons.org/licenses/by/4.0/deed.fr
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-0-fr]: https://creativecommons.org/publicdomain/zero/1.0/deed.fr
+[cc-0-image]: https://licensebuttons.net/p/88x31.png
 
----
-## Citation
-Please cite these materials as: / Veuillez citer ces documents comme suit : 
-
-```
-Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
-https://github.com/frdr-dfdr/pres_res_fpr 
-```
 ---
 ## Contact
 Digital Preservation Services / Services de préservation numérique <br>
 Email/courriel: preservation@frdr-dfdr.ca
 
 ---
-Last Updated: / Dernière mise à jour : 2026-01-18
+Last Updated: / Dernière mise à jour : 2026-01-19
 
 ---
 <p align="center">
