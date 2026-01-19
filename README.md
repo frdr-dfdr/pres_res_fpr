@@ -9,8 +9,24 @@
 
 [Version française ci-dessous](#services-de-préservation-numérique---registre-et-stratégie-en-matière-de-formats)
 
-This repository contains information about file formats and file format work undertaken by Digital Preservation Services. The [Digital Preservation Services page](https://github.com/frdr-dfdr/pres_res_dpservices) contains general information about the service and resources for researchers.
+This repository contains Digital Preservation Services' Format Policy Registry and the Strategy. The [Digital Preservation Services page](https://github.com/frdr-dfdr/pres_res_dpservices) contains general information about the service and resources for researchers.
 
+The Format Policy Registry provides information about the formats found in the Federated Research Data Repository (FRDR). It includes information about proposed preservation actions and preservation levels for a format.
+
+The Strategy outlines the preservation levels used and different preservation activities that are undertaken by the Service.
+
+Please visit the [Background](/background_contexte.md) page for more information about how the FPR came into existance.
+
+## How to Use the Resource
+Each file type has been grouped into a larger file category. A table for each category is created that provides the following information:
+- Format - includes the name of the format. The official name is used if it exists.
+- Extension - includes the extension(s) most commonly associated with the format.
+- Proposed Preservation Action - includes actions undertaken to preserve the format. The original file is alway maintained if a preservation action is listed. If there is no preservation action associated with the format then Original is listed.
+- Preservation Level - indicates the level of preservation given to the format. A listing of what is included in each preservation level can be found in the strategy.
+- Total Files - includes the number of files in FRDR associated with the format. 
+
+## Categories
+- [Strategy](/fpr_en/00_strategy.md)
 - [Aggregate](/fpr_en/01_aggregate.md)
 - [Audio](/fpr_en/02_audio.md)
 - [Database](/fpr_en/03_database.md)
@@ -30,13 +46,7 @@ This repository contains information about file formats and file format work und
 - [Video](/fpr_en/17_video.md)
 - [Word Processing](/fpr_en/18_word_processing.md)
 
-## How to Use the Resource
-Each file type has been grouped into a larger file category. A table for each category is created that provides the following information:
-- Format - includes the name of the format. The official name is used if it exists.
-- Extension - includes the extension(s) most commonly associated with the format.
-- Proposed Preservation Action - includes actions undertaken to preserve the format. The original file is alway maintained if a preservation action is listed. If there is no preservation action associated with the format then Original is listed.
-- Preservation Level - indicates the level of preservation given to the format. A listing of what is included in each preservation level can be found in the strategy.
-- Total Files - includes the number of files in FRDR associated with the format. 
+Some formats may belong in more than one category. Mapping to multiple categories is under development.
 
 ## Acknowledgments
 
@@ -49,6 +59,25 @@ Digital preservation services wishes to acknowledge and thank the Digital Resear
 [cc-by]: https://creativecommons.org/licenses/by/4.0/deed.fr
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+Ce dépôt contient le registre des politiques de format et la stratégie élaborée par les Services de préservation numérique. La page [Services de préservation numérique](https://github.com/frdr-dfdr/pres_res_dpservices?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique) contient des informations générales sur le service et les ressources destinées aux chercheur·euse·s.
+
+Le registre des politiques de format fournit des informations sur les formats présents dans le dépôt fédéré de données de recherche (FRDR). Il comprend des informations sur les mesures de préservation proposées et les niveaux de préservation pour un format spécifique.
+
+La stratégie présente les niveaux de préservation utilisés et les différentes activités de préservation entreprises par le service.
+
+Veuillez consulter la page [Contexte](/background_contexte.md#contexte) pour plus d'informations sur la création du FPR.
+
+## Comment utiliser la ressource
+Chaque type de fichier a été regroupé dans une catégorie de fichiers plus large. Un tableau a été créé pour chaque catégorie, qui fournit les informations suivantes :
+- Format : comprend le nom du format. Le nom officiel est utilisé s'il existe.
+- Extension : comprend la ou les extensions les plus couramment associées au format.
+- Action de préservation proposée - comprend les actions entreprises pour préserver le format. Le fichier original est toujours conservé si une action de préservation est indiquée. Si aucune action de préservation n'est associée au format, la mention « Original » est indiquée.
+- Niveau de préservation - indique le niveau de préservation attribué au format. La stratégie détaille ce qui est inclus dans chaque niveau de préservation.
+- Nombre total de fichiers - comprend le nombre de fichiers dans le DFDR associés au format.
+
+## Catégories
+
+- [Stratégie](/fpr_fr/00_stratégie.md)
 - [Agrégat](/fpr_fr/01_agrégat.md)
 - [Audio](/fpr_fr/02_audio.md)
 - [Base de données](/fpr_fr/03_base_de_données.md)
@@ -68,13 +97,7 @@ Digital preservation services wishes to acknowledge and thank the Digital Resear
 - [Vidéo](/fpr_fr/17_vidéo.md)
 - [Traitement de texte](/fpr_fr/18_traitement_de_texte.md)
 
-## Comment utiliser la ressource
-Chaque type de fichier a été regroupé dans une catégorie de fichiers plus large. Un tableau a été créé pour chaque catégorie, qui fournit les informations suivantes :
-- Format : comprend le nom du format. Le nom officiel est utilisé s'il existe.
-- Extension : comprend la ou les extensions les plus couramment associées au format.
-- Action de préservation proposée - comprend les actions entreprises pour préserver le format. Le fichier original est toujours conservé si une action de préservation est indiquée. Si aucune action de préservation n'est associée au format, la mention « Original » est indiquée.
-- Niveau de préservation - indique le niveau de préservation attribué au format. La stratégie détaille ce qui est inclus dans chaque niveau de préservation.
-- Nombre total de fichiers - comprend le nombre de fichiers dans le DFDR associés au format.
+Certains formats peuvent appartenir à plusieurs catégories. Le classement dans plusieurs catégories est en cours de développement.
 
 ## Remerciements
 Les services de préservation numérique souhaitent remercier l'équipe de traduction de l'Alliance de recherche numérique du Canada pour son aide dans la traduction de ce contenu. 
