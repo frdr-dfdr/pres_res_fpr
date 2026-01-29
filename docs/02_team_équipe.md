@@ -17,8 +17,12 @@ Digital Preservation Services would like to thank these members, past and presen
 - Mike Winter, Senior Developer, University of Saskatchewan
 - Jin Zhang, Developer, Simon Fraser University
 
+## Translation
+- Eugehne Adangwa, French Translator/Content Coordinator, Digital Research Alliance of Canada
+
 ## Past Members
 - Erin Clary, Curation Coordinator, Digital Research Alliance of Canada
+- Todd Trann, Technical Lead, University of Saskatchewan
 
 ---
 # L'équipe
@@ -40,5 +44,9 @@ Les services de préservation numérique tiennent à remercier ces membres, pass
 - Mike Winter, développeur principal, Université de la Saskatchewan
 - Jin Zhang, développeur, Université Simon Fraser
 
+## Traduction
+- Eugehne Adangwa, Traducteur et coordonnateur de contenu en français, Alliance de recherche numérique du Canada
+
 ## Anciens membres
 - Erin Clary, coordonnatrice de la curation, Alliance de recherche numérique du Canada
+- Todd Trann, responsable technique, Université de Saskatchewan

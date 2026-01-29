@@ -49,7 +49,10 @@ Each file type has been grouped into a larger file category. A table for each ca
 - [Video](/fpr_en/17_video.md)
 - [Word Processing](/fpr_en/18_word_processing.md)
 
-Some formats may belong in more than one category. Mapping to multiple categories is under development.
+## About
+- [Background](/docs/01_background_contexte.md)
+- [Team](/docs/02_team_équipe.md)
+- [Development](/docs/03_developments_développements.md)
 
 ## Acknowledgments
 
@@ -104,6 +107,11 @@ Chaque type de fichier a été regroupé dans une catégorie de fichiers plus la
 - [Traitement de texte](/fpr_fr/18_traitement_de_texte.md)
 
 Certains formats peuvent appartenir à plusieurs catégories. Le classement dans plusieurs catégories est en cours de développement.
+
+## À propos
+- [Context](/docs/01_background_contexte.md#contexte)
+- [Équipe](/docs/02_team_équipe.md#léquipe)
+- [Développement](/docs/03_developments_développements.md#développements-futurs-et-mises-à-jour)
 
 ## Remerciements
 Les Services de préservation numérique remercient l’équipe de traduction de l’Alliance de recherche numérique du Canada pour sa précieuse contribution à la traduction de ce contenu.

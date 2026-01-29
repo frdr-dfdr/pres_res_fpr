@@ -36,3 +36,6 @@ Le FPR doit être mis à jour au moins deux fois par an, en juin et en décembre
 - T2 - avril à juin
 - T3 - juillet à septembre
 - T4 - octobre à décembre
+
+
+<!--Some formats may belong in more than one category. Mapping to multiple categories is under development.-->
