@@ -53,7 +53,7 @@ Some formats may belong in more than one category. Mapping to multiple categorie
 
 ## Acknowledgments
 
-Digital preservation services wishes to acknowledge and thank the Digital Research Alliance of Canada translation team for their help in translating this content. 
+Digital Preservation Services wishes to acknowledge and thank the Digital Research Alliance of Canada translation team for their help in translating this content. 
 
 ---
 # Services de préservation numérique - Registre et stratégie en matière de formats
