@@ -19,11 +19,14 @@ Please visit the [Background](/docs/background_contexte.md) page for more inform
 
 ## How to Use the Resource
 Each file type has been grouped into a larger file category. A table for each category is created that provides the following information:
-- Format - includes the name of the format. The official name is used if it exists.
-- Extension - includes the extension(s) most commonly associated with the format.
-- Proposed Preservation Action - includes actions undertaken to preserve the format. The original file is alway maintained if a preservation action is listed. If there is no preservation action associated with the format then Original is listed.
-- Preservation Level - indicates the level of preservation given to the format. A listing of what is included in each preservation level can be found in the strategy.
-- Total Files - includes the number of files in FRDR associated with the format. 
+
+|Column|Description|
+|:----|:-----|
+|Format|Includes the name of the format. The official name is used if it exists.|
+|Extension|Includes the extension(s) most commonly associated with the format.|
+|Proposed Preservation Action|Includes actions undertaken to preserve the format. The original file is alway maintained if a preservation action is listed. If there is no preservation action associated with the format then Original is listed.|
+|Preservation Level|Indicates the level of preservation given to the format. A listing of what is included in each preservation level can be found in the strategy.|
+|Total Files|Includes the number of files in FRDR associated with the format.| 
 
 ## Categories
 - [Strategy](/fpr_en/00_strategy.md)
@@ -33,16 +36,16 @@ Each file type has been grouped into a larger file category. A table for each ca
 - [Dataset](/fpr_en/04_dataset.md)
 - [Font](/fpr_en/05_font.md)
 - [Geospatial](/fpr_en/06_geospatial.md)
-- [Image (Raster)](/fpr_en/07_image_raster.md)
-- [Image (Vector)](/fpr_en/08_image_vector.md)
+- [Image - Raster](/fpr_en/07_image_raster.md)
+- [Image - Vector](/fpr_en/08_image_vector.md)
 - [Model](/fpr_en/09_model.md)
 - [Page Description](/fpr_en/10_page_description.md)
 - [Presentation](/fpr_en/11_presentation.md)
 - [Source Code and Software](/fpr_en/12_source_code_and_software.md)
 - [Spreadsheet](/fpr_en/13_spreadsheet.md)
-- [Text (Markup)](/fpr_en/14_text_markup.md)
-- [Text (Structured)](/fpr_en/15_text_structured.md)
-- [Text (Unstructured)](/fpr_en/16_text_unstructured.md)
+- [Text - Markup](/fpr_en/14_text_markup.md)
+- [Text - Structured](/fpr_en/15_text_structured.md)
+- [Text - Unstructured](/fpr_en/16_text_unstructured.md)
 - [Video](/fpr_en/17_video.md)
 - [Word Processing](/fpr_en/18_word_processing.md)
 
@@ -69,11 +72,14 @@ Veuillez consulter la page [Contexte](/docs/background_contexte.md#contexte) pou
 
 ## Comment utiliser la ressource
 Chaque type de fichier a été regroupé dans une catégorie de fichiers plus large. Un tableau a été créé pour chaque catégorie, qui fournit les informations suivantes :
-- Format : comprend le nom du format. Le nom officiel est utilisé s'il existe.
-- Extension : comprend la ou les extensions les plus couramment associées au format.
-- Action de préservation proposée - comprend les actions entreprises pour préserver le format. Le fichier original est toujours conservé si une action de préservation est indiquée. Si aucune action de préservation n'est associée au format, la mention « Original » est indiquée.
-- Niveau de préservation - indique le niveau de préservation attribué au format. La stratégie détaille ce qui est inclus dans chaque niveau de préservation.
-- Nombre total de fichiers - comprend le nombre de fichiers dans le DFDR associés au format.
+
+|Colonne|Description|
+|:----|:-----|
+|Format | Comprend le nom du format. Le nom officiel est utilisé s'il existe.|
+|Extension| Comprend la ou les extensions les plus couramment associées au format.|
+|Action de préservation proposée| Comprend les actions entreprises pour préserver le format. Le fichier original est toujours conservé si une action de préservation est indiquée. Si aucune action de préservation n'est associée au format, la mention « Fichier original » est indiquée|
+|Niveau de préservation| Indique le niveau de préservation attribué au format. La stratégie détaille ce qui est inclus dans chaque niveau de préservation|
+|Nombre total de fichiers| Comprend le nombre de fichiers dans le DFDR associés au format.|
 
 ## Catégories
 
@@ -83,8 +89,8 @@ Chaque type de fichier a été regroupé dans une catégorie de fichiers plus la
 - [Base de données](/fpr_fr/03_base_de_données.md)
 - [Jeu de données](/fpr_fr/04_jeu_de_données.md)
 - [Police](/fpr_fr/05_police.md)
-- [Géospatial](/fpr_fr/06_géospatial.md)
-- [Image - matricielles](/fpr_fr/07_image_tramée.md)
+- [Données géospatiales](/fpr_fr/06_données_géospatiales.md)
+- [Image - matricielles](/fpr_fr/07_image_matricielles.md.md)
 - [Image - vectorielle](/fpr_fr/08_image_vectorielle.md)
 - [Modèles](/fpr_fr/09_modèle.md)
 - [Description de page](/fpr_fr/10_description_de_la_page.md)
@@ -123,7 +129,7 @@ Digital Preservation Services / Services de préservation numérique <br>
 Email/courriel: preservation@frdr-dfdr.ca
 
 ---
-Last Updated: / Dernière mise à jour : 2026-01-27
+Last Updated: / Dernière mise à jour : 2026-01-29
 
 ---
 <p align="center">

@@ -3,8 +3,7 @@ Dernière mise à jour : 2026-01-29
 
 Les fichiers de code source contiennent des instructions lisibles par l'homme, écrites dans un langage de programmation. Ils définissent la manière dont un programme informatique exécute des tâches. 
 
-Un logiciel comprend un ensemble de programmes, de données et d'instructions qui indiquent à un ordinateur les tâches à effectuer. Le code source constitue la base du logiciel.
-  
+Un logiciel comprend un ensemble de programmes, de données et d'instructions qui indiquent à un ordinateur les tâches à effectuer. Le code source constitue la base du logiciel. 
 ## Formats 
 [12_code_source_et_logiciel.csv](./csv_downloads/12_code_source_et_logiciel.csv) (CSV 13.5 Ko) 
 
