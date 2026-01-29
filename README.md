@@ -93,7 +93,7 @@ Chaque type de fichier a été regroupé dans une catégorie de fichiers plus la
 - [Jeu de données](/fpr_fr/04_jeu_de_données.md)
 - [Police](/fpr_fr/05_police.md)
 - [Données géospatiales](/fpr_fr/06_données_géospatiales.md)
-- [Image - matricielles](/fpr_fr/07_image_matricielles.md.md)
+- [Image - matricielle](/fpr_fr/07_image_matricielle.md)
 - [Image - vectorielle](/fpr_fr/08_image_vectorielle.md)
 - [Modèles](/fpr_fr/09_modèle.md)
 - [Description de page](/fpr_fr/10_description_de_la_page.md)
@@ -117,7 +117,7 @@ Certains formats peuvent appartenir à plusieurs catégories. Le classement dans
 Les Services de préservation numérique remercient l’équipe de traduction de l’Alliance de recherche numérique du Canada pour sa précieuse contribution à la traduction de ce contenu.
 
 ---
-# General Information
+# General Information / Informations générales
 ## License / Licence
 This work is licensed under [Creative Commons Zero 1.0 Universal][cc-0].
 
