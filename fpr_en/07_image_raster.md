@@ -1,5 +1,5 @@
 # 07. Image - Raster 
-Last updated: 2026-01-18 
+Last updated: 2026-01-29 
 
 Raster images include 2-dimensional visual representations of objects, designs, etc. This can include but is not limited to photographs, posters, graphs, diagrams and graphics. Raster images are represented by pixels. 
 ## Formats 
@@ -22,14 +22,14 @@ Original refers to the original file deposited in the repository.
 | Geographic Tagged Image File Format (GeoTIFF) | .tif, .tiff, .cog                    | Original                       | Full                 | 3,671,805     |
 | Graphics Interchange Format                   | .gif                                 | Transform to TIFF              | Full                 | 39,149        |
 | Hasselblad 3FR Raw Image                      | .3fr                                 | Transform to TIFF              | Full                 | 2,895         |
-| Icon file format                              | .ico                                 | Transfrom to SVG or PNG        | Watch                | 13            |
+| Icon file format                              | .ico                                 | Transfrom to SVG or PNG        | Watch                | 17            |
 | JPEG File Interchange Format                  | .jpeg, .jpg, .jif, .jpe, .jfif, .jfi | Transform to TIFF              | Full                 | 3,601,658     |
 | JPX (JPEG 2000 part 2)                        | .jpx, .jpf                           | Transform to TIFF              | Full                 | 2             |
 | Nikon Digital SLR Camera Raw Image File       | .nef                                 | Transform to TIFF              | Full                 | 2,218         |
-| Portable Network Graphics                     | .png                                 | Transform to TIFF              | Full                 | 1,103,095     |
+| Portable Network Graphics                     | .png                                 | Transform to TIFF              | Full                 | 1,103,203     |
 | Raw Bitmap                                    | .raw                                 | Transform to TIFF              | Full                 | 151           |
 | Raw JPEG Stream                               | .jpeg, .jpg, .jif, .jpe, .jfif, .jfi | Transform to TIFF              | Full                 | 763           |
-| Tagged Image File Format                      | .tiff, .tif                          | Original                       | Full                 | 176,542       |
-| Windows Bitmap                                | .bmp                                 | Transform to TIFF              | Full                 | 824,789       |
+| Tagged Image File Format                      | .tiff, .tif                          | Original                       | Full                 | 176,624       |
+| Windows Bitmap                                | .bmp                                 | Transform to TIFF              | Full                 | 831,198       |
 | X-Windows Bitmap Image                        | .xbm                                 | To be reviewed                 | Watch                | 6             |
 | X-Windows Pixmap Image                        | .xpm                                 | To be reviewed                 | Watch                | 13            |

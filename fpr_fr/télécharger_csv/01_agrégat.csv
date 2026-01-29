@@ -5,9 +5,9 @@ Archiver Format,.ar,01. Agrégat,À réviser,Base,228
 ARJ File Format,.arj,01. Agrégat,À réviser,Base,2
 BZIP2 Compressed Archive,.bz2,01. Agrégat,Conserver mais extraire le contenu,Complet,0
 CPIO,.cpio,01. Agrégat,À réviser,Base,1
-OLE2 Compound Document Format,".ole, .ole2",01. Agrégat,Original,Base,293
-PDF Portfolio,.pdf,01. Agrégat,Conserver mais extraire le contenu si possible,Veille,1
-RAR Archive,.rar,01. Agrégat,Conserver mais extraire le contenu,Veille,1
-Tape Archive Format,.tar,01. Agrégat,Conserver mais extraire le contenu,Complet,16
+OLE2 Compound Document Format,".ole, .ole2",01. Agrégat,Fichier original,Base,293
+PDF Portfolio,.pdf,01. Agrégat,Conserver mais extraire le contenu si possible,Surveillance,1
+RAR Archive,.rar,01. Agrégat,Conserver mais extraire le contenu,Surveillance,1
+Tape Archive Format,.tar,01. Agrégat,Conserver mais extraire le contenu,Complet,17
 XZ File Format,.xz,01. Agrégat,Conserver mais extraire le contenu,Complet,5
-ZIP Format,.zip,01. Agrégat,Conserver mais extraire le contenu,Complet,558
+ZIP Format,.zip,01. Agrégat,Conserver mais extraire le contenu,Complet,595

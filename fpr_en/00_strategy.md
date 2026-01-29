@@ -3,7 +3,7 @@ Last updated: 2026-01-18
 
 Understanding file formats is integral to implementing strategies that aid in the continued access and reuse of research data. This page contains information about digital preservation services file format work. This page will be updated as we develop our strategy. 
 
-For additional information about Digital Preservation Services at the Digital Research Alliance of Canada, please visit the [Digital Preservation Services page](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services).
+For additional information about Digital Preservation Services at the Digital Research Alliance of Canada, please visit the [Digital Preservation Services](https://github.com/frdr-dfdr/pres_res_dpservices) page.
 
 ## Strategy
 While repositories may provide a list of recommended formats we recognize that not all research projects can use openor recommended file formats. Therefore, all file formats are accepted. Different preservation levels are implemented to determine digital preservation capabilities for the various file formats received. 
@@ -16,18 +16,17 @@ While repositories may provide a list of recommended formats we recognize that n
 | Virus scanning  | ✔️ | ✔️ | ✔️ |
 | Geo-redundant storage | ✔️ | ✔️ | ✔️ |
 | Storage refresh/replace | ✔️ | ✔️ | ✔️ |
-| File format identification | ✔️ | ✔️ | ✔️ |
+| File format identification |  | ✔️ | ✔️ |
 | Generation of preservation metadata |  | ✔️ | ✔️ |
 | Watch format for ability to preserve  |  | ✔️ | ✔️ |
 | Monitor format over time |  | ✔️ | ✔️ |
-| Perform normalization (file migration)  |  | | ✔️ |
+| Perform normalization |  | | ✔️ |
 | Long-term storage in preservation format  |  | | ✔️ |
 
 - Adapted from [Simon Fraser University, Archives and Records Management, Format Policy Registry](https://github.com/sfu-archives/format-policy-registry)
   
 #### Basic Level
 Basic level of preservation, the bit-stream (1s and 0s) of the file are preserved. No file migration or normalization occurs at this level. Basic level includes:
-- File identification, when possible
 - Fixity checks
 - Store two complete copies of the digital files in different geographic locations
 - Virus checking
@@ -36,6 +35,7 @@ The basic level of preservation cannot ensure that the file can be rendered in t
 
 #### Watch Level 
 Watch level includes files that are proprietary but are prevalent in the industry that the likelihood of obsolescence is unlikely. The watch level includes all elements of basic level with the additional preservation activities:
+- File identification, when possible
 - Monitoring of the formats
 - Generation of metadata for preservation and access
 
@@ -44,8 +44,6 @@ Full level includes files that the repository has confidence will be available i
 - Normalization of file formats to preservation friendly formats
 - File format identification
 - File format validation
-
-The team is currently working on a develoing a list for researchers outlining which file formats fall into which categories.
 
 ## Digital Preservation Activities
 ### Fixity Checking
@@ -71,10 +69,6 @@ Different storage options are employed to achieve digital preservation activitie
 - Level 1: Two complete copies of the files in the dataset stored in two different geographic locations. 
 - Level 2: Three complete copies of files in the dataset with one copy on a different storage media type. 
 - Level 3: Three complete copies of the files in the dataset, one copy stored in a different location with a different disaster threat level.
-  
-## File Format Risk Matrix - Forthcoming
-
-The Digital Research Alliance of Canada develops [file format signatures](https://drive.google.com/drive/folders/1j6AcG88DUs2rIZ3GmOsq8nj4uo7wPVmx?usp=drive_link) for the inclusion in PRONOM maintained by The National Archives of the United Kingdom (TNA).
 
 ---
 ## Acknowledgements

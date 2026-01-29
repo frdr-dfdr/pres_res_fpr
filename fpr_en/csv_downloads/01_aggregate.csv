@@ -8,6 +8,6 @@ CPIO,.cpio,01. Aggregate,To be reviewed,Basic,1
 OLE2 Compound Document Format,".ole, .ole2",01. Aggregate,Original,Basic,293
 PDF Portfolio,.pdf,01. Aggregate,Retain but extract content if possible,Watch,1
 RAR Archive,.rar,01. Aggregate,Retain but extract content,Watch,1
-Tape Archive Format,.tar,01. Aggregate,Retain but extract content,Full,16
+Tape Archive Format,.tar,01. Aggregate,Retain but extract content,Full,17
 XZ File Format,.xz,01. Aggregate,Retain but extract content,Full,5
-ZIP Format,.zip,01. Aggregate,Retain but extract content,Full,558
+ZIP Format,.zip,01. Aggregate,Retain but extract content,Full,595

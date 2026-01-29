@@ -1,8 +1,8 @@
 Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Nombre total de fichiers
-Adobe Illustrator,.ai,08. Image (vectorielle),Transformer en PDF/A,Veille,4
+Adobe Illustrator,.ai,08. Image (vectorielle),Transformer en PDF/A,Surveillance,4
 Autodesk Animator CEL File Format,".pic, .cel",08. Image (vectorielle),À réviser,Base,2
-Drawing Interchange File Format (ASCII),.dxf,08. Image (vectorielle),Original,Veille,1
-Drawing Interchange Format (ASCII),.dxf,08. Image (vectorielle),Original,Veille,5
-Encapsulated PostScript File Format,.eps,08. Image (vectorielle),Transformer en PDF/A,Veille,4
-Hewlett Packard Vector Graphic Plotter File,.plt,08. Image (vectorielle),Transformer,Veille,1
-Scalable Vector Graphics,.svg,08. Image (vectorielle),Transformer en Plain SVG,Complet,447
+Drawing Interchange File Format (ASCII),.dxf,08. Image (vectorielle),Original,Surveillance,1
+Drawing Interchange Format (ASCII),.dxf,08. Image (vectorielle),Original,Surveillance,5
+Encapsulated PostScript File Format,.eps,08. Image (vectorielle),Transformer en PDF/A,Surveillance,4
+Hewlett Packard Vector Graphic Plotter File,.plt,08. Image (vectorielle),Transformer,Surveillance,1
+Scalable Vector Graphics,.svg,08. Image (vectorielle),Transformer en Plain SVG,Complet,461

@@ -1,5 +1,5 @@
 # 01. Aggregate 
-Last updated: 2026-01-18 
+Last updated: 2026-01-29 
 
 Aggregate file formats are also known as archive formats. These formats typically bundle together multiple files into one file making it easier to store and simplifies portability. Compression is often applied to aggregate formats. 
 
@@ -20,6 +20,6 @@ Original refers to the original file deposited in the repository.
 | OLE2 Compound Document Format | .ole, .ole2 | Original                               | Basic                |           293 |
 | PDF Portfolio                 | .pdf        | Retain but extract content if possible | Watch                |             1 |
 | RAR Archive                   | .rar        | Retain but extract content             | Watch                |             1 |
-| Tape Archive Format           | .tar        | Retain but extract content             | Full                 |            16 |
+| Tape Archive Format           | .tar        | Retain but extract content             | Full                 |            17 |
 | XZ File Format                | .xz         | Retain but extract content             | Full                 |             5 |
-| ZIP Format                    | .zip        | Retain but extract content             | Full                 |           558 |
+| ZIP Format                    | .zip        | Retain but extract content             | Full                 |           595 |

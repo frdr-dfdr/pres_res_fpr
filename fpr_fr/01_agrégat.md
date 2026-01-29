@@ -1,10 +1,16 @@
-# 01. Agrégat
-Dernière mise à jour : 2026-01-16 
+# 01. Agrégat 
+Dernière mise à jour : 2026-01-29
 
-## Format 
-[01_agrégat.csv](./télécharger_csv/01_agrégat.csv) (CSV 4.07 KB) 
+Les formats de fichiers agrégés sont également appelés formats d’archive. Ces formats regroupent généralement plusieurs fichiers dans un seul, ce qui facilite le stockage et en améliore la portabilité. La compression est souvent appliquée aux formats agrégés. 
 
-Le terme « original » fait référence au fichier original déposé dans le dépôt. 
+
+Les formats de fichiers agrégés sont généralement décompressés et dépaquetés avant la préservation. Par conséquent, les fichiers contenus dans ces formats sont ensuite évalués dans le cadre du processus de préservation. 
+Vous trouverez ci-dessous une liste des formats de fichiers agrégés.
+ 
+## Formats 
+[01_agrégat.csv](./csv_downloads/01_agrégat.csv) (CSV 4.09 Ko) 
+
+Original désigne le fichier original déposé dans le dépôt. 
 
 | Format                        | Extension   | Action de préservation proposée                | Niveau de préservation   |   Nombre total de fichiers |
 |:------------------------------|:------------|:-----------------------------------------------|:-------------------------|---------------------------:|
@@ -14,9 +20,9 @@ Le terme « original » fait référence au fichier original déposé dans le d�
 | ARJ File Format               | .arj        | À réviser                                      | Base                     |                          2 |
 | BZIP2 Compressed Archive      | .bz2        | Conserver mais extraire le contenu             | Complet                  |                          0 |
 | CPIO                          | .cpio       | À réviser                                      | Base                     |                          1 |
-| OLE2 Compound Document Format | .ole, .ole2 | Original                                       | Base                     |                        293 |
-| PDF Portfolio                 | .pdf        | Conserver mais extraire le contenu si possible | Veille                   |                          1 |
-| RAR Archive                   | .rar        | Conserver mais extraire le contenu             | Veille                   |                          1 |
-| Tape Archive Format           | .tar        | Conserver mais extraire le contenu             | Complet                  |                         16 |
+| OLE2 Compound Document Format | .ole, .ole2 | Fichier original                               | Base                     |                        293 |
+| PDF Portfolio                 | .pdf        | Conserver mais extraire le contenu si possible | Surveillance             |                          1 |
+| RAR Archive                   | .rar        | Conserver mais extraire le contenu             | Surveillance             |                          1 |
+| Tape Archive Format           | .tar        | Conserver mais extraire le contenu             | Complet                  |                         17 |
 | XZ File Format                | .xz         | Conserver mais extraire le contenu             | Complet                  |                          5 |
-| ZIP Format                    | .zip        | Conserver mais extraire le contenu             | Complet                  |                        558 |
+| ZIP Format                    | .zip        | Conserver mais extraire le contenu             | Complet                  |                        595 |

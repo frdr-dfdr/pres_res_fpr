@@ -1,7 +1,7 @@
 Format,Extension,Category,Proposed Preservation Action,Preservation Level,Total Files
 Microsoft Word (Generic),.doc,18. Word Processing,Transform to ODT,Full,1
 Microsoft Word Document,".docx, .doc",18. Word Processing,Transform to ODT,Full,26
-Microsoft Word for Windows,".docx, .doc",18. Word Processing,Transform to ODT,Full,99
+Microsoft Word for Windows,".docx, .doc",18. Word Processing,Transform to ODT,Full,101
 OpenDocument Text,".odt, .ott",18. Word Processing,Original,Full,2
 Rich Text Format,.rtf,18. Word Processing,Transform to PDF/A,Full,57
 Statistica Report File,.str,18. Word Processing,Transform to PDF/A,Watch,1

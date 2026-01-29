@@ -1,5 +1,5 @@
 # 16. Text - Unstructured 
-Last updated: 2026-01-18 
+Last updated: 2026-01-29 
 
 Unstructured text files contain content written in a free-form style. These files do not include a pre-defined model or schema and are usually text heavy. 
 ## Formats 
@@ -11,4 +11,4 @@ Original refers to the original file deposited in the repository.
 |:-----------------------------------------------------|:------------|:-------------------------------|:---------------------|:--------------|
 | 7-bit ASCII Text                                     | .asc        | Original                       | Full                 | 1,891,856     |
 | Garmin Flexible and Interoperable Data Transfer File | .fit        | Original                       | Basic                | 0             |
-| Plain Text File                                      | .txt        | Original                       | Full                 | 1,212,800     |
+| Plain Text File                                      | .txt        | Original                       | Full                 | 1,214,043     |

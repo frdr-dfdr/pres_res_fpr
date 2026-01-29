@@ -1,5 +1,5 @@
 # 05. Font 
-Last updated: 2026-01-18 
+Last updated: 2026-01-29 
 
 Font file formats define how the text looks in a document. 
 ## Formats 
@@ -11,8 +11,8 @@ Original refers to the original file deposited in the repository.
 |:------------------------------------|:------------|:-------------------------------|:---------------------|--------------:|
 | Adobe PostScript Font Metrics file  | .pfm        | Original                       | Watch                |           505 |
 | Adobe Printer Font Binary           | .pfb        | Original                       | Watch                |           681 |
-| Daisy-Dot Font File                 | .nlq        | Original                       | Watch                |             2 |
-| Embedded OpenType (EOT) File Format | .eot        | Original                       | Watch                |             5 |
+| Daisy-Dot Font File                 | .nlq        | Original                       | Watch                |             4 |
+| Embedded OpenType (EOT) File Format | .eot        | Original                       | Watch                |            19 |
 | OpenType Font File                  | .otf        | Original                       | Watch                |           213 |
-| TrueType Font                       | .tff        | Original                       | Watch                |            90 |
-| Web Open Font Format                | .woff       | Original                       | Watch                |            51 |
+| TrueType Font                       | .tff        | Original                       | Watch                |           108 |
+| Web Open Font Format                | .woff       | Original                       | Watch                |            87 |

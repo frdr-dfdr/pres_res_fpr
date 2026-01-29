@@ -1,5 +1,5 @@
 # 14. Text - Markup 
-Last updated: 2026-01-18 
+Last updated: 2026-01-29 
 
 Markup language files are files that include tags to annotate and provide structure and formatting to the text. 
 
@@ -16,12 +16,12 @@ Original refers to the original file deposited in the repository.
 | Document Type Definition                       | .dtd             | Original                       | Full                 | 14            |
 | eRuby HTML document                            | .rhtml, .rhtm    | Original                       | Full                 | 4             |
 | Extensible Hypertext Markup Language           | .html            | Original                       | Full                 | 0             |
-| Extensible Markup Language                     | .xml             | Original                       | Full                 | 7,041         |
+| Extensible Markup Language                     | .xml             | Original                       | Full                 | 7,042         |
 | Extensible Metadata Platform Format            | .xmp             | Original                       | Full                 | 22,785        |
 | Extensible Metadata Platform Packet            | .xmp             | Original                       | Full                 | 30,626        |
 | Geography Markup Language                      | .gml             | Original                       | Full                 | 5             |
 | GPS Exchange Format                            | .gpx             | Original                       | Full                 | 2             |
-| Hypertext Markup Language                      | .html            | Original                       | Full                 | 6,446         |
+| Hypertext Markup Language                      | .html            | Original                       | Full                 | 6,472         |
 | Keyhole Markup Language (Container)            | .kmz             | Original                       | Full                 | 48            |
 | Keyhole Markup Language (KML)                  | .kml             | Original                       | Full                 | 0             |
 | LaTeX (Master document)                        | .tex             | Transform                      | Full                 | 351           |

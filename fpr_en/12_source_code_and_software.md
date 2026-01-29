@@ -1,5 +1,5 @@
 # 12. Source Code and Software 
-Last updated: 2026-01-18 
+Last updated: 2026-01-29 
 
 Source code files include human readable instructions that are written using a programming language. It defines how a computer program performances tasks and behaves. 
 
@@ -16,7 +16,7 @@ Original refers to the original file deposited in the repository.
 | B Source Code File               | .b               | Original                       | Full                 | 2             |
 | Back Up File                     | .bak             | Original                       | Watch                | 1             |
 | Batch file (executable)          | .bat             | Original                       | Full                 | 31            |
-| Binary File                      | .bin             | Original                       | Basic                | 898           |
+| Binary File                      | .bin             | Original                       | Basic                | 1,077         |
 | C Source Code File               | .c               | Original                       | Full                 | 396           |
 | C/C++ Header File                | .h, .hpp, .hxx   | Original                       | Full                 | 45,130        |
 | C++ Source Code File             | .cpp, .cxx, .cc  | Original                       | Full                 | 438           |
@@ -28,11 +28,11 @@ Original refers to the original file deposited in the repository.
 | GROK input file                  | .grok            | To be reviewed                 | Basic                | 20            |
 | Java Class File                  | .class           | Original                       | Full                 | 2             |
 | Java Language Source Code File   | .java            | Original                       | Full                 | 3             |
-| JavaScript file                  | .js              | Original                       | Full                 | 3,637         |
-| Jupyter Python Notebook          | .ipynb           | Original                       | Watch                | 95            |
+| JavaScript file                  | .js              | Original                       | Full                 | 3,904         |
+| Jupyter Python Notebook          | .ipynb           | Original                       | Watch                | 115           |
 | Log File                         | .log             | Original                       | Full                 | 10,541        |
 | Mach-O                           | no extension     | Original                       | Basic                | 7             |
-| MATLAB Script File               | .m               | Original                       | Basic                | 991           |
+| MATLAB Script File               | .m               | Original                       | Basic                | 995           |
 | Microsoft Windows Shortcut       | .lnk             | Original                       | Basic                | 8             |
 | MS-DOS Executable                | .exe             | Original                       | Basic                | 1             |
 | Perl Script                      | .pl              | Original                       | Full                 | 1,888         |
@@ -43,7 +43,7 @@ Original refers to the original file deposited in the repository.
 | Portable Grey Map - Binary       | .pgmb, .pgm      | Original                       | Basic                | 2             |
 | Portable Pixel Map - Binary      | .ppm, .ppmb      | Original                       | Basic                | 7             |
 | Python Compiled File             | .pyc             | Original                       | Full                 | 735           |
-| Python Source Code File          | .py              | Original                       | Full                 | 1,685         |
+| Python Source Code File          | .py              | Original                       | Full                 | 1,690         |
 | R Program File                   | .r               | Original                       | Full                 | 4,100         |
 | Typescript                       | .ts              | Original                       | Full                 | 2             |
 | Unisys (Sperry) System Data File | .sdf             | To be reviewed                 | Basic                | 4             |

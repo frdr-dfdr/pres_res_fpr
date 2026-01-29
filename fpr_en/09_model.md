@@ -1,5 +1,5 @@
 # 09. Model 
-Last updated: 2026-01-18 
+Last updated: 2026-01-29 
 
 Model file formats, 3D or CAD for example, are file formats that store complex information about the three-dimensional objects. The file formats can encode the geometry, appearance and behaviours of the object. 
 ## Formats 

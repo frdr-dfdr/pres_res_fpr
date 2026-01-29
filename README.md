@@ -59,7 +59,7 @@ Digital preservation services wishes to acknowledge and thank the Digital Resear
 [cc-0]: http://creativecommons.org/publicdomain/zero/1.0/
 [cc-0-shield]: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
 
-Ce dépôt contient le registre des politiques de format et la stratégie élaborée par les Services de préservation numérique. La page [Services de préservation numérique](https://github.com/frdr-dfdr/pres_res_dpservices?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique) contient des informations générales sur le service et les ressources destinées aux chercheur·euse·s.
+Ce dépôt contient de l’information sur les formats de fichiers et les travaux relatifs aux formats de fichiers menés par les Services de préservation numérique. La page des [Services de préservation numérique](https://github.com/frdr-dfdr/pres_res_dpservices?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique) présente de l’information générale sur le service.
 
 Le registre des politiques de format fournit des informations sur les formats présents dans le dépôt fédéré de données de recherche (FRDR). Il comprend des informations sur les mesures de préservation proposées et les niveaux de préservation pour un format spécifique.
 
@@ -84,23 +84,23 @@ Chaque type de fichier a été regroupé dans une catégorie de fichiers plus la
 - [Jeu de données](/fpr_fr/04_jeu_de_données.md)
 - [Police](/fpr_fr/05_police.md)
 - [Géospatial](/fpr_fr/06_géospatial.md)
-- [Image (tramée)](/fpr_fr/07_image_tramée.md)
-- [Image (vectorielle)](/fpr_fr/08_image_vectorielle.md)
+- [Image - matricielles](/fpr_fr/07_image_tramée.md)
+- [Image - vectorielle](/fpr_fr/08_image_vectorielle.md)
 - [Modèles](/fpr_fr/09_modèle.md)
 - [Description de page](/fpr_fr/10_description_de_la_page.md)
 - [Présentation](/fpr_fr/11_présentation.md)
 - [Code source et logiciel](/fpr_fr/12_code_source_et_logiciel.md)
 - [Feuilles de calcul](/fpr_fr/13_feuille_de_calcul.md)
-- [Texte (balisage)](/fpr_fr/14_texte_balisage.md)
-- [Texte (structuré)](/fpr_fr/15_texte_structuré.md)
-- [Texte (non structuré)](/fpr_fr/16_texte_non_structuré.md)
+- [Texte - balisage](/fpr_fr/14_texte_balisage.md)
+- [Texte - structuré](/fpr_fr/15_texte_structuré.md)
+- [Texte - non structuré](/fpr_fr/16_texte_non_structuré.md)
 - [Vidéo](/fpr_fr/17_vidéo.md)
 - [Traitement de texte](/fpr_fr/18_traitement_de_texte.md)
 
 Certains formats peuvent appartenir à plusieurs catégories. Le classement dans plusieurs catégories est en cours de développement.
 
 ## Remerciements
-Les services de préservation numérique souhaitent remercier l'équipe de traduction de l'Alliance de recherche numérique du Canada pour son aide dans la traduction de ce contenu. 
+Les Services de préservation numérique remercient l’équipe de traduction de l’Alliance de recherche numérique du Canada pour sa précieuse contribution à la traduction de ce contenu.
 
 ---
 # General Information
@@ -123,7 +123,7 @@ Digital Preservation Services / Services de préservation numérique <br>
 Email/courriel: preservation@frdr-dfdr.ca
 
 ---
-Last Updated: / Dernière mise à jour : 2026-01-19
+Last Updated: / Dernière mise à jour : 2026-01-27
 
 ---
 <p align="center">

@@ -1,9 +1,9 @@
 # 04. Dataset 
-Last updated: 2026-01-18 
+Last updated: 2026-01-29 
 
 Dataset file formats include formats for individual datasets and data values that are organized and structured for analysis. 
 ## Formats 
-[04_dataset.csv](./csv_downloads/04_dataset.csv) (CSV 10.06 KB) 
+[04_dataset.csv](./csv_downloads/04_dataset.csv) (CSV 10.05 KB) 
 
 Original refers to the original file deposited in the repository. 
 
@@ -13,15 +13,15 @@ Original refers to the original file deposited in the repository.
 | BioSemi Data Format                                            | .bsd              | Original                       | Basic                | 81            |
 | Digital Imaging and Communications in Medicine File Format     | .dicom            | Original                       | Basic                | 2,127         |
 | FASTA                                                          | .fasta, .fas, .fa | Original                       | Full                 | 344           |
-| FASTQ                                                          | .fastq, .fq       | Original                       | Full                 | 5,348         |
+| FASTQ                                                          | .fastq, .fq       | Original                       | Full                 | 5,562         |
 | Flow Cytometry Standard File                                   | .fcs              | Original                       | Watch                | 59            |
-| HDF5                                                           | .hdf, .h5         | Original                       | Watch                | 32,256        |
-| MATLAB Mat File                                                | .m, .mat          | Original                       | Basic                | 37,189        |
+| HDF5                                                           | .hdf, .h5         | Original                       | Watch                | 31,448        |
+| MATLAB Mat File                                                | .m, .mat          | Original                       | Basic                | 37,973        |
 | MRtrix Image Format                                            | .mif              | Original                       | Watch                | 128           |
 | MRtrix Tracks File Format                                      | .tck              | Original                       | Watch                | 468           |
 | netCDF-3 64-bit                                                | .nc               | Original                       | Watch                | 5,795         |
 | netCDF-3 Classic                                               | .nc               | Original                       | Watch                | 18,508        |
-| netCDF4                                                        | .nc, .nc4         | Original                       | Watch                | 669,414       |
+| netCDF4                                                        | .nc, .nc4         | Original                       | Watch                | 0             |
 | The Neuroimaging Informatics Technology Initiative File Format | .nii              | Original                       | Watch                | 109,239       |
 | Norbit Wideband Multibeam Sonar Format                         | .wbm              | Original                       | Basic                | 822           |
 | Origin Project Format                                          | .opj, .opju       | Original                       | Basic                | 3             |

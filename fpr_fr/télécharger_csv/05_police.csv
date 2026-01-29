@@ -1,8 +1,8 @@
 Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Nombre total de fichiers
-Adobe PostScript Font Metrics file,.pfm,05. Police,Original,Veille,505
-Adobe Printer Font Binary,.pfb,05. Police,Original,Veille,681
-Daisy-Dot Font File,.nlq,05. Police,Original,Veille,2
-Embedded OpenType (EOT) File Format,.eot,05. Police,Original,Veille,5
-OpenType Font File,.otf,05. Police,Original,Veille,213
-TrueType Font,.tff,05. Police,Original,Veille,90
-Web Open Font Format,.woff,05. Police,Original,Veille,51
+Adobe PostScript Font Metrics file,.pfm,05. Police,Fichier original,Surveillance,505
+Adobe Printer Font Binary,.pfb,05. Police,Fichier original,Surveillance,681
+Daisy-Dot Font File,.nlq,05. Police,Fichier original,Surveillance,4
+Embedded OpenType (EOT) File Format,.eot,05. Police,Fichier original,Surveillance,19
+OpenType Font File,.otf,05. Police,Fichier original,Surveillance,213
+TrueType Font,.tff,05. Police,Fichier original,Surveillance,108
+Web Open Font Format,.woff,05. Police,Fichier original,Surveillance,87

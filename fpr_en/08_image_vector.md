@@ -1,5 +1,5 @@
 # 08. Image - Vector 
-Last updated: 2026-01-18 
+Last updated: 2026-01-29 
 
 Vector images include 2-dimensional visual representations of objects, designs, etc. This can include but is not limited to photographs, posters, graphs, diagrams and graphics. Vector images are created from geometric shapes, lines, curves, points, defined in mathematical terms. 
 ## Formats 
@@ -15,4 +15,4 @@ Original refers to the original file deposited in the repository.
 | Drawing Interchange Format (ASCII)          | .dxf        | Original                       | Watch                |             5 |
 | Encapsulated PostScript File Format         | .eps        | Transform to PDF/A             | Watch                |             4 |
 | Hewlett Packard Vector Graphic Plotter File | .plt        | Transform                      | Watch                |             1 |
-| Scalable Vector Graphics                    | .svg        | Transform to Plain SVG         | Full                 |           447 |
+| Scalable Vector Graphics                    | .svg        | Transform to Plain SVG         | Full                 |           461 |
