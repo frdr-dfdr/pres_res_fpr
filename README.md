@@ -15,7 +15,7 @@ The Format Policy Registry provides information about the formats found in the F
 
 The Strategy outlines the preservation levels used and different preservation activities that are undertaken by the Service.
 
-Please visit the [background](/docs/background_contexte.md) page for more information about how the FPR came into existance.
+Please visit the [background](/docs/01_background_contexte.md) page for more information about how the FPR came into existance.
 
 ## How to Use the Resource
 Each file type has been grouped into a larger file category. A table for each category is created that provides the following information:
@@ -82,7 +82,7 @@ Le registre des politiques de format fournit des informations sur les formats pr
 
 La stratégie présente les niveaux de préservation utilisés et les différentes activités de préservation entreprises par le service.
 
-Veuillez consulter la page [contexte](/docs/background_contexte.md#contexte) pour plus d'informations sur la création du FPR.
+Veuillez consulter la page [contexte](/docs/01_background_contexte.md#contexte) pour plus d'informations sur la création du FPR.
 
 ## Comment utiliser la ressource
 Chaque type de fichier a été regroupé dans une catégorie de fichiers plus large. Un tableau a été créé pour chaque catégorie, qui fournit les informations suivantes :
