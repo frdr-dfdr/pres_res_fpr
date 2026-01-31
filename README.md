@@ -15,7 +15,7 @@ The Format Policy Registry provides information about the formats found in the F
 
 The Strategy outlines the preservation levels used and different preservation activities that are undertaken by the Service.
 
-Please visit the [Background](/docs/background_contexte.md) page for more information about how the FPR came into existance.
+Please visit the [background](/docs/background_contexte.md) page for more information about how the FPR came into existance.
 
 ## How to Use the Resource
 Each file type has been grouped into a larger file category. A table for each category is created that provides the following information:
@@ -49,6 +49,17 @@ Each file type has been grouped into a larger file category. A table for each ca
 - [Video](/fpr_en/17_video.md)
 - [Word Processing](/fpr_en/18_word_processing.md)
 
+Formats may belong to multiple categories. Mapping to multiple categories is under development.
+
+## Preservation Levels
+The table below provides a brief overview of how many formats are associated with each preservation level and the average of the collection that is associated with each level. For a description of each  preservation level consult the [format strategy](/fpr_en/00_strategy.md).
+
+|Preservation Level|Number of Formats|Average|
+|:----------------|:-----------------|:------|
+|Basic|109|46.78%|
+|Watch|71|30.47%|
+|Full|53|22.75%|
+
 ## About
 - [Background](/docs/01_background_contexte.md)
 - [Team](/docs/02_team_équipe.md)
@@ -71,7 +82,7 @@ Le registre des politiques de format fournit des informations sur les formats pr
 
 La stratégie présente les niveaux de préservation utilisés et les différentes activités de préservation entreprises par le service.
 
-Veuillez consulter la page [Contexte](/docs/background_contexte.md#contexte) pour plus d'informations sur la création du FPR.
+Veuillez consulter la page [contexte](/docs/background_contexte.md#contexte) pour plus d'informations sur la création du FPR.
 
 ## Comment utiliser la ressource
 Chaque type de fichier a été regroupé dans une catégorie de fichiers plus large. Un tableau a été créé pour chaque catégorie, qui fournit les informations suivantes :
@@ -107,6 +118,15 @@ Chaque type de fichier a été regroupé dans une catégorie de fichiers plus la
 - [Traitement de texte](/fpr_fr/18_traitement_de_texte.md)
 
 Certains formats peuvent appartenir à plusieurs catégories. Le classement dans plusieurs catégories est en cours de développement.
+
+## Niveaux de préservation
+Le tableau ci-dessous donne un aperçu du nombre de formats associés à chaque niveau de préservation et de la moyenne de la collection associée à chaque niveau. Pour une description de chaque niveau de préservation, consultez la [stratégie de format](/fpr_fr/00_stratégie.md).
+
+|Niveau de préservation|Nombre de formats|Moyenne|
+|:----------------|:-----------------|:------|
+|Niveau de base |109|46,78 %|
+|Niveau de surveillance|71|30,47 %|
+|Niveau complet|53|22,75 %|
 
 ## À propos
 - [Context](/docs/01_background_contexte.md#contexte)
