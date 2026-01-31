@@ -1,5 +1,5 @@
 # 18. Traitement de texte 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les formats de traitement de texte sont le résultat de l'utilisation de logiciels tels que Microsoft Word. Ces formats stockent du texte avec différents niveaux de mise en forme et de structure. Les formats de traitement de texte définissent la manière dont le contenu (texte, polices, images, mise en page) est enregistré et partagé. 
 ## Formats 

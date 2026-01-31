@@ -1,5 +1,5 @@
 # 10. Page Description 
-Last updated: 2026-01-29 
+Last updated: 2026-01-30 
 
 Page description files describe the visual appearance of printed or displayed page, independent of specific hardware or software. 
 ## Formats 

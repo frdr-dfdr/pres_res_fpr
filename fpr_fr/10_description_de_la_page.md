@@ -1,5 +1,5 @@
 # 10. Description de la page 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les fichiers de description de page décrivent l'apparence visuelle d'une page imprimée ou affichée, indépendamment du matériel ou des logiciels spécifiques. 
 ## Formats 

@@ -1,0 +1,5 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Total Files
+dBASE Database,.dbf,03. Database,Transform to CSV,Full,"29,060"
+Lotus Approach View File,".apt, .apr",03. Database,Transform to CSV,Full,1
+Microsoft FoxPro Memo,".fpt, .dct",03. Database,To be reviewed,Basic,102
+SQLite Database File Format,".sqlite, .db",03. Database,Original,Watch,105

@@ -1,5 +1,5 @@
 # 16. Texte - non structuré 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les fichiers texte non structurés contiennent du contenu rédigé dans un style libre. Ces fichiers ne comprennent pas de modèle ou de schéma prédéfini et contiennent généralement beaucoup de texte. 
 ## Formats 

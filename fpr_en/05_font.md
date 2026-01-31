@@ -1,5 +1,5 @@
 # 05. Font 
-Last updated: 2026-01-29 
+Last updated: 2026-01-30 
 
 Font file formats define how the text looks in a document. 
 ## Formats 

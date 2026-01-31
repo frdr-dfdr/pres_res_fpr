@@ -1,5 +1,5 @@
 # 15. Texte - structuré 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les formats de texte structuré désignent des fichiers qui présentent les données de manière définie et organisée, facilitant leur lecture et leur traitement tant par les humains que par les machines. 
 ## Formats 

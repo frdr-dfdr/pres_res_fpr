@@ -1,5 +1,5 @@
 # 02. Audio 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Le son numérique est défini comme une onde sonore créée sous forme numérique, ou convertie en format numérique, puis encodée sous forme d’une séquence d’échantillons numériques dans le but d’être reconvertie en un signal analogique continu reproduisant le son. 
 

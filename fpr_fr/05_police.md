@@ -1,5 +1,5 @@
 # 05. Police 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les formats de fichiers de polices définissent l’apparence du texte dans un document. 
 ## Formats 

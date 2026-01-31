@@ -1,5 +1,5 @@
 # 13. Feuille de calcul 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les formats de fichiers de feuilles de calcul organisent les données dans une grille de colonnes et de lignes et sont utilisés pour stocker, manipuler et analyser des chiffres et du texte. 
 ## Formats 

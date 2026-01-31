@@ -1,5 +1,5 @@
 # 12. Code source et logiciel 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les fichiers de code source contiennent des instructions lisibles par l'homme, écrites dans un langage de programmation. Ils définissent la manière dont un programme informatique exécute des tâches. 
 

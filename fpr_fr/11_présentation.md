@@ -1,5 +1,5 @@
 # 11. Présentation 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les formats de fichiers de présentation comprennent les fichiers utilisés pour créer des diaporamas et des documents visuellement riches. 
 ## Formats 

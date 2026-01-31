@@ -1,0 +1,38 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Total Files
+Adobe Flash,.swf,12. Source Code and Software,To be reviewed,Basic,1
+B Source Code File,.b,12. Source Code and Software,Original,Full,2
+Back Up File,.bak,12. Source Code and Software,Original,Watch,1
+Batch file (executable),.bat,12. Source Code and Software,Original,Full,31
+Binary File,.bin,12. Source Code and Software,Original,Basic,"1,077"
+C Source Code File,.c,12. Source Code and Software,Original,Full,396
+C/C++ Header File,".h, .hpp, .hxx",12. Source Code and Software,Original,Full,"45,130"
+C++ Source Code File,".cpp, .cxx, .cc",12. Source Code and Software,Original,Full,438
+Data File,.dat,12. Source Code and Software,Original,Basic,"10,392"
+DataFlex Query Tag Name,.tag,12. Source Code and Software,Original,Basic,2
+Executable and Linkable Format,.elf,12. Source Code and Software,Original,Basic,524
+Fortran,".f90, .f",12. Source Code and Software,Original,Full,"7,965"
+Generic Library File,.lib,12. Source Code and Software,To be reviewed,Basic,3
+GROK input file,.grok,12. Source Code and Software,To be reviewed,Basic,20
+Java Class File,.class,12. Source Code and Software,Original,Full,2
+Java Language Source Code File,.java,12. Source Code and Software,Original,Full,3
+JavaScript file,.js,12. Source Code and Software,Original,Full,"3,904"
+Jupyter Python Notebook,.ipynb,12. Source Code and Software,Original,Watch,115
+Log File,.log,12. Source Code and Software,Original,Full,"10,541"
+Mach-O,no extension,12. Source Code and Software,Original,Basic,7
+MATLAB Script File,.m,12. Source Code and Software,Original,Basic,995
+Microsoft Windows Shortcut,.lnk,12. Source Code and Software,Original,Basic,8
+MS-DOS Executable,.exe,12. Source Code and Software,Original,Basic,1
+Perl Script,.pl,12. Source Code and Software,Original,Full,"1,888"
+PEST Template File,.tpl,12. Source Code and Software,Original,Basic,16
+PEST Instruction File,.ins,12. Source Code and Software,Original,Basic,16
+PEST Control File,.pst,12. Source Code and Software,Original,Basic,8
+PHP Script Page,.php,12. Source Code and Software,Original,Full,5
+Portable Grey Map - Binary,".pgmb, .pgm",12. Source Code and Software,Original,Basic,2
+Portable Pixel Map - Binary,".ppm, .ppmb",12. Source Code and Software,Original,Basic,7
+Python Compiled File,.pyc,12. Source Code and Software,Original,Full,735
+Python Source Code File,.py,12. Source Code and Software,Original,Full,"1,690"
+R Program File,.r,12. Source Code and Software,Original,Full,"4,105"
+Typescript,.ts,12. Source Code and Software,Original,Full,2
+Unisys (Sperry) System Data File,.sdf,12. Source Code and Software,To be reviewed,Basic,4
+VBScript (VBS) File,.vbs,12. Source Code and Software,To be reviewed,Basic,2
+Windows Portable Executable,".exe, .dll, .sys",12. Source Code and Software,Original,Basic,44

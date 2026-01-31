@@ -1,5 +1,5 @@
 # 18. Word Processing 
-Last updated: 2026-01-29 
+Last updated: 2026-01-30 
 
 Word processing formats are the output of word processors like Microsoft Word. These formats store text with varying levels of formatting and structure. Word processing formats define how the content, (text, fonts, images, layout), are saved and shared. 
 ## Formats 

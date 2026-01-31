@@ -1,5 +1,5 @@
 # 16. Text - Unstructured 
-Last updated: 2026-01-29 
+Last updated: 2026-01-30 
 
 Unstructured text files contain content written in a free-form style. These files do not include a pre-defined model or schema and are usually text heavy. 
 ## Formats 

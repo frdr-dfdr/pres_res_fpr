@@ -1,5 +1,5 @@
 # 13. Spreadsheet 
-Last updated: 2026-01-29 
+Last updated: 2026-01-30 
 
 Spreadsheet file formats organize data in a grid of columns and rows and are used for storing, manipulating, and analyzing numbers and text. 
 ## Formats 

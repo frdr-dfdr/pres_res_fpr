@@ -1,5 +1,5 @@
 # 06. Données géospatiales 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les formats de fichiers géospatiaux comprennent les formats utilisés pour stocker, analyser et gérer des données spatiales. Ils sont souvent produits à partir de systèmes d’information géographique (SIG). 
 ## Formats 

@@ -1,5 +1,5 @@
 # 07. Image - Raster 
-Last updated: 2026-01-29 
+Last updated: 2026-01-30 
 
 Raster images include 2-dimensional visual representations of objects, designs, etc. This can include but is not limited to photographs, posters, graphs, diagrams and graphics. Raster images are represented by pixels. 
 ## Formats 

@@ -1,5 +1,5 @@
 # 14. Texte - balisage 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les fichiers de langages de balisage contiennent des balises servant à annoter le texte et à en définir la structure et la mise en forme. 
  

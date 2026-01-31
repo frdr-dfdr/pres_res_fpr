@@ -1,5 +1,5 @@
 # 15. Text - Structured 
-Last updated: 2026-01-29 
+Last updated: 2026-01-30 
 
 Structured text refers to files that present data in a defined and organized way that is easy for machines as well as humans to read and process.  
 ## Formats 

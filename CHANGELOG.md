@@ -47,7 +47,6 @@ Première version.
 * SPSS Data File
 * SPSS Output File (spv)
 * Stata Data (DTA) Format
-* Statistical Analysis System Data (Windows)
 * SuperDARN Raw Auto-Correlation Function File
 * SuperDARN Raw Data File
 * Variant Call Format
@@ -110,7 +109,6 @@ Première version.
 * Bentley Microstation Hidden Line File
 * Binvox
 * CloudCompare Entity File
-* GL Transmission Format
 * GL Transmission Format Binary
 * Microstation CAD Drawing
 * Polygon File Format
@@ -223,7 +221,6 @@ Première version.
 * Text Configuration file
 * YAML
 * 7-bit ASCII Text
-* Garmin Flexible and Interoperable Data Transfer File
 * Plain Text File
 * Audio/Video Interleaved Format
 * MPEG-1 Program Stream

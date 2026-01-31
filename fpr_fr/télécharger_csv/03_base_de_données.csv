@@ -1,5 +1,0 @@
-Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Nombre total de fichiers
-dBASE Database,.dbf,03. Base de données,Transformer en CSV,Complet,"29,042"
-Lotus Approach View File,".apt, .apr",03. Base de données,Transformer en CSV,Complet,1
-Microsoft FoxPro Memo,".fpt, .dct",03. Base de données,À réviser,Base,102
-SQLite Database File Format,".sqlite, .db",03. Base de données,Fichier original,Surveillance,105

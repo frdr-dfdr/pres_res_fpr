@@ -1,5 +1,5 @@
 # 07. Image - matricielle 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les images matricielles comprennent les représentations visuelles bidimensionnelles d'objets, de dessins, etc. Cela peut inclure les photographies, affiches, graphiques,  diagrammes et illustrations. Les images matricielles sont composées de pixels. 
 ## Formats 

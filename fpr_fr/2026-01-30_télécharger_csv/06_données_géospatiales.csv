@@ -1,0 +1,16 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Nombre total de fichiers
+ASPRS Lidar Data Exchange Format,".las, .laz",06. Données géospatiales,À réviser,Base,"2,536"
+ESRI Arc/Info Binary Grid,.adf,06. Données géospatiales,Fichier original,Base,6
+ESRI ArcInfo DAT File (External),.dat,06. Données géospatiales,Fichier original,Base,5
+ESRI Arc/Info Export File,.e00,06. Données géospatiales,"Transformer en KML, ESRI Shapefile, et/ou GML, selon le cas",Base,1
+ESRI Arc/View ShapeFile,.shp,06. Données géospatiales,Fichier original,Surveillance,"29,057"
+ESRI Arc/View Shapefile Index,.shx,06. Données géospatiales,Fichier original,Base,"29,057"
+ESRI ArcInfo Grid .nit File,.nit,06. Données géospatiales,Fichier original,Base,7
+ESRI ArcMap Document,".mxd, .mxt",06. Données géospatiales,Fichier original,Base,1
+ESRI Code Page File,.cpg,06. Données géospatiales,Fichier original,Base,"28,890"
+ESRI Persistent Auxiliary Metadata File,.aux.xml,06. Données géospatiales,Fichier original,Base,12
+Esri Shapefile Geospatial Metadata File,.xml,06. Données géospatiales,Fichier original,Base,345
+ESRI Shapefile Projection (Well-Known Text) Format,.prj,06. Données géospatiales,Fichier original,Base,"29,169"
+ESRI Spatial Index File,".sbn, .sbx",06. Données géospatiales,Fichier original,Base,710
+ESRI World File Format,.tfw,06. Données géospatiales,Fichier original,Base,88
+OGC GeoPackage,.gpkg,06. Données géospatiales,Fichier original,Surveillance,156

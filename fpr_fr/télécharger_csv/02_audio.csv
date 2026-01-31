@@ -1,4 +1,0 @@
-Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Nombre total de fichiers
-MPEG 1/2 Audio Layer 3,.mp3,02. Audio,Transformer en format audio Waveform (PCMWAVEFORMAT),Complet,3
-MuBu (MUlti-BUffer) Object,.mubu,02. Audio,Fichier original,Base,63
-Waveform Audio (PCMWAVEFORMAT),.wav,02. Audio,Fichier original,Complet,"65,988"

@@ -1,5 +1,5 @@
 # 01. Agrégat 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les formats de fichiers agrégés sont également appelés formats d’archive. Ces formats regroupent généralement plusieurs fichiers dans un seul, ce qui facilite le stockage et en améliore la portabilité. La compression est souvent appliquée aux formats agrégés. 
 
@@ -18,7 +18,7 @@ Original désigne le fichier original déposé dans le dépôt.
 | Apple Safari Webarchive       | .webarchive | À réviser                                      | Base                     |                          9 |
 | Archiver Format               | .ar         | À réviser                                      | Base                     |                        228 |
 | ARJ File Format               | .arj        | À réviser                                      | Base                     |                          2 |
-| BZIP2 Compressed Archive      | .bz2        | Conserver mais extraire le contenu             | Complet                  |                          0 |
+| BZIP2 Compressed Archive      | .bz2        | Conserver mais extraire le contenu             | Complet                  |                          2,605,011|
 | CPIO                          | .cpio       | À réviser                                      | Base                     |                          1 |
 | OLE2 Compound Document Format | .ole, .ole2 | Fichier original                               | Base                     |                        293 |
 | PDF Portfolio                 | .pdf        | Conserver mais extraire le contenu si possible | Surveillance             |                          1 |

@@ -1,5 +1,5 @@
 # 09. Modèle 
-Dernière mise à jour : 2026-01-29
+Dernière mise à jour : 2026-01-30
 
 Les formats de fichiers de modèles, notamment en 3D ou en CAO, servent à stocker des informations complexes sur des objets tridimensionnels. Ces formats peuvent encoder la géométrie, l’apparence et les comportements de l’objet. 
 ## Formats 

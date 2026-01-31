@@ -1,5 +1,5 @@
 # 02. Audio 
-Last updated: 2026-01-29 
+Last updated: 2026-01-30 
 
 Digital audio is defined as an audio waveform that has been created as, or converted into, digital form and encoded as a sequence of numerical samples with the purpose of converting to a continuous analogue signal reproducing sound. 
 

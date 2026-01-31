@@ -1,5 +1,5 @@
 # 14. Text - Markup 
-Last updated: 2026-01-29 
+Last updated: 2026-01-30 
 
 Markup language files are files that include tags to annotate and provide structure and formatting to the text. 
 
