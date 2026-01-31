@@ -56,9 +56,9 @@ The table below provides a brief overview of how many formats are associated wit
 
 |Preservation Level|Number of Formats|Average|
 |:----------------|:-----------------|:------|
-|Basic|109|46.78%|
-|Watch|71|30.47%|
-|Full|53|22.75%|
+|Basic|72|30.9%|
+|Watch||52|22.32%|
+|Full|109|46.78%|
 
 ## About
 - [Background](/docs/01_background_contexte.md)
@@ -124,9 +124,9 @@ Le tableau ci-dessous donne un aperçu du nombre de formats associés à chaque 
 
 |Niveau de préservation|Nombre de formats|Moyenne|
 |:----------------|:-----------------|:------|
-|Niveau de base |109|46,78 %|
-|Niveau de surveillance|71|30,47 %|
-|Niveau complet|53|22,75 %|
+|Niveau de base |72|30,9 %|
+|Niveau de surveillance|52|22,32 %|
+|Niveau complet|109|46,78 %|
 
 ## À propos
 - [Context](/docs/01_background_contexte.md#contexte)

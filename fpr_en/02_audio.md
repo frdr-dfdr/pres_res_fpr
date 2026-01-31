@@ -13,4 +13,4 @@ Original refers to the original file deposited in the repository.
 |:-------------------------------|:------------|:--------------------------------------------|:---------------------|:--------------|
 | MPEG 1/2 Audio Layer 3         | .mp3        | Transform to Waveform Audio (PCMWAVEFORMAT) | Full                 | 3             |
 | MuBu (MUlti-BUffer) Object     | .mubu       | Original                                    | Basic                | 63            |
-| Waveform Audio (PCMWAVEFORMAT) | .wav        | Original                                    | Full                 | 65,988        |
+| Waveform Audio (PCMWAVEFORMAT) | .wav        | Original                                    | Full                 | 65,989        |

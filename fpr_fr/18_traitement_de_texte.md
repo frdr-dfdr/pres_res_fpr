@@ -11,7 +11,7 @@ Original désigne le fichier original déposé dans le dépôt.
 |:------------------------------|:------------|:----------------------------------|:-------------------------|---------------------------:|
 | Microsoft Word (Generic)      | .doc        | Transformer en ODT                | Complet                  |                          1 |
 | Microsoft Word Document       | .docx, .doc | Transformer en ODT                | Complet                  |                         26 |
-| Microsoft Word for Windows    | .docx, .doc | Transformer en ODT                | Complet                  |                        101 |
+| Microsoft Word for Windows    | .docx, .doc | Transformer en ODT                | Complet                  |                        102 |
 | OpenDocument Text             | .odt, .ott  | Fichier original                  | Complet                  |                          2 |
 | Rich Text Format              | .rtf        | Transformer en PDF/A              | Complet                  |                         57 |
 | Statistica Report File        | .str        | Transformer en PDF/A              | Surveillance             |                          1 |

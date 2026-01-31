@@ -44,7 +44,7 @@ Original refers to the original file deposited in the repository.
 | Portable Pixel Map - Binary      | .ppm, .ppmb      | Original                       | Basic                | 7             |
 | Python Compiled File             | .pyc             | Original                       | Full                 | 735           |
 | Python Source Code File          | .py              | Original                       | Full                 | 1,690         |
-| R Program File                   | .r               | Original                       | Full                 | 4,100         |
+| R Program File                   | .r               | Original                       | Full                 | 4,105         |
 | Typescript                       | .ts              | Original                       | Full                 | 2             |
 | Unisys (Sperry) System Data File | .sdf             | To be reviewed                 | Basic                | 4             |
 | VBScript (VBS) File              | .vbs             | To be reviewed                 | Basic                | 2             |

@@ -43,7 +43,7 @@ Original désigne le fichier original déposé dans le dépôt.
 | Portable Pixel Map - Binary      | .ppm, .ppmb      | Fichier original                  | Base                     | 7                          |
 | Python Compiled File             | .pyc             | Fichier original                  | Complet                  | 735                        |
 | Python Source Code File          | .py              | Fichier original                  | Complet                  | 1,690                      |
-| R Program File                   | .r               | Fichier original                  | Complet                  | 4,100                      |
+| R Program File                   | .r               | Fichier original                  | Complet                  | 4,105                      |
 | Typescript                       | .ts              | Fichier original                  | Complet                  | 2                          |
 | Unisys (Sperry) System Data File | .sdf             | À réviser                         | Base                     | 4                          |
 | VBScript (VBS) File              | .vbs             | À réviser                         | Base                     | 2                          |

@@ -5,7 +5,7 @@ Markup language files are files that include tags to annotate and provide struct
 
 A markup language defines what markup information can be included in the file, which facilitates use by humans and computers. 
 ## Formats 
-[14_text_markup.csv](./csv_downloads/14_text_markup.csv) (CSV 8.8 KB) 
+[14_text_markup.csv](./csv_downloads/14_text_markup.csv) (CSV 8.44 KB) 
 
 Original refers to the original file deposited in the repository. 
 
@@ -15,7 +15,6 @@ Original refers to the original file deposited in the repository.
 | Canadian Avalanche Association Markup Language | .caaml           | Original                       | Full                 | 825           |
 | Document Type Definition                       | .dtd             | Original                       | Full                 | 14            |
 | eRuby HTML document                            | .rhtml, .rhtm    | Original                       | Full                 | 4             |
-| Extensible Hypertext Markup Language           | .html            | Original                       | Full                 | 0             |
 | Extensible Markup Language                     | .xml             | Original                       | Full                 | 7,042         |
 | Extensible Metadata Platform Format            | .xmp             | Original                       | Full                 | 22,785        |
 | Extensible Metadata Platform Packet            | .xmp             | Original                       | Full                 | 30,626        |
@@ -23,10 +22,10 @@ Original refers to the original file deposited in the repository.
 | GPS Exchange Format                            | .gpx             | Original                       | Full                 | 2             |
 | Hypertext Markup Language                      | .html            | Original                       | Full                 | 6,472         |
 | Keyhole Markup Language (Container)            | .kmz             | Original                       | Full                 | 48            |
-| Keyhole Markup Language (KML)                  | .kml             | Original                       | Full                 | 0             |
+| Keyhole Markup Language (XML)                  | .kml             | Original                       | Full                 | 94            |
 | LaTeX (Master document)                        | .tex             | Transform                      | Full                 | 351           |
 | LaTeX (Subdocument)                            | .tex             | Transform                      | Full                 | 492           |
-| Markdown                                       | .md              | Original                       | Full                 | 560           |
+| Markdown                                       | .md              | Original                       | Full                 | 562           |
 | OGR GFS File                                   | .gfs             | Original                       | Watch                | 8             |
 | QGIS Metadata File                             | .qmd             | Original                       | Full                 | 50            |
 | QGIS Style Language                            | .qml             | Original                       | Full                 | 4             |

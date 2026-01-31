@@ -12,7 +12,7 @@ Fujifilm RAW Image Format,.raf,07. Image (matricielle),Transformer en TIFF,Surve
 Geographic Tagged Image File Format (GeoTIFF),".tif, .tiff, .cog",07. Image (matricielle),Fichier original,Complet,"3,671,818"
 Graphics Interchange Format,.gif,07. Image (matricielle),Transformer en TIFF,Complet,"39,149"
 Hasselblad 3FR Raw Image,.3fr,07. Image (matricielle),Transformer en TIFF,Complet,"2,895"
-Icon file format,.ico,07. Image (matricielle),Transformer en SVG ou PNG,Surveillance,17
+Icon file format,.ico,07. Image (matricielle),,Surveillance,17
 JPEG File Interchange Format,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (matricielle),Transformer en TIFF,Complet,"3,639,396"
 JPX (JPEG 2000 part 2),".jpx, .jpf",07. Image (matricielle),Transformer en TIFF,Complet,2
 Nikon Digital SLR Camera Raw Image File,.nef,07. Image (matricielle),Transformer en TIFF,Complet,"2,218"

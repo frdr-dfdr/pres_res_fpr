@@ -13,7 +13,7 @@ Original refers to the original file deposited in the repository.
 | Gnumeric                              | .gnumeric   | To be reviewed                 | Basic                | 1             |
 | Microsoft Excel 5.0/95 Workbook (xls) | .xls        | Transform to ODS               | Full                 | 1             |
 | Microsoft Excel 97 Workbook (xls)     | .xls        | Transform to ODS               | Full                 | 157           |
-| Microsoft Excel for Windows           | .xlsx       | Original                       | Full                 | 1,759         |
+| Microsoft Excel for Windows           | .xlsx       | Original                       | Full                 | 1,767         |
 | Microsoft Excel Macro-Enabled         | .xlsm       | Original                       | Watch                | 3             |
 | Microsoft Multiplan                   | .mod        | To be reviewed                 | Basic                | 33            |
 | OpenDocument Spreadsheet              | .ods        | Original                       | Full                 | 1             |

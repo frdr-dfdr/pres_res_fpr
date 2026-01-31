@@ -13,7 +13,7 @@ Original désigne le fichier original déposé dans le dépôt.
 | Gnumeric                              | .gnumeric   | À réviser                         | Base                     | 1                          |
 | Microsoft Excel 5.0/95 Workbook (xls) | .xls        | Transformer en ODS                | Complet                  | 1                          |
 | Microsoft Excel 97 Workbook (xls)     | .xls        | Transformer en ODS                | Complet                  | 157                        |
-| Microsoft Excel for Windows           | .xlsx       | Fichier original                  | Complet                  | 1,759                      |
+| Microsoft Excel for Windows           | .xlsx       | Fichier original                  | Complet                  | 1,767                      |
 | Microsoft Excel Macro-Enabled         | .xlsm       | Fichier original                  | Surveillance             | 3                          |
 | Microsoft Multiplan                   | .mod        | À réviser                         | Base                     | 33                         |
 | OpenDocument Spreadsheet              | .ods        | Fichier original                  | Complet                  | 1                          |

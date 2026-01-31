@@ -9,7 +9,7 @@ Original désigne le fichier original déposé dans le dépôt.
 
 | Format                      | Extension    | Action de préservation proposée   | Niveau de préservation   | Nombre total de fichiers   |
 |:----------------------------|:-------------|:----------------------------------|:-------------------------|:---------------------------|
-| dBASE Database              | .dbf         | Transformer en CSV                | Complet                  | 29,042                     |
+| dBASE Database              | .dbf         | Transformer en CSV                | Complet                  | 29,060                     |
 | Lotus Approach View File    | .apt, .apr   | Transformer en CSV                | Complet                  | 1                          |
 | Microsoft FoxPro Memo       | .fpt, .dct   | À réviser                         | Base                     | 102                        |
 | SQLite Database File Format | .sqlite, .db | Fichier original                  | Surveillance             | 105                        |

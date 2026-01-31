@@ -14,4 +14,4 @@ Original désigne le fichier original déposé dans le dépôt.
 |:-------------------------------|:------------|:-----------------------------------------------------|:-------------------------|:---------------------------|
 | MPEG 1/2 Audio Layer 3         | .mp3        | Transformer en format audio Waveform (PCMWAVEFORMAT) | Complet                  | 3                          |
 | MuBu (MUlti-BUffer) Object     | .mubu       | Fichier original                                     | Base                     | 63                         |
-| Waveform Audio (PCMWAVEFORMAT) | .wav        | Fichier original                                     | Complet                  | 65,988                     |
+| Waveform Audio (PCMWAVEFORMAT) | .wav        | Fichier original                                     | Complet                  | 65,989                     |

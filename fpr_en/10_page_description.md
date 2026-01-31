@@ -11,11 +11,11 @@ Original refers to the original file deposited in the repository.
 |:------------------------------------------------------------|:------------|:-------------------------------|:---------------------|:--------------|
 | Acrobat PDF 1.1 - Portable Document Format                  | .pdf        | Transform to PDF/A             | Full                 | 6             |
 | Acrobat PDF 1.2 - Portable Document Format                  | .pdf        | Transform to PDF/A             | Full                 | 6             |
-| Acrobat PDF 1.3 - Portable Document Format                  | .pdf        | Transform to PDF/A             | Full                 | 492           |
+| Acrobat PDF 1.3 - Portable Document Format                  | .pdf        | Transform to PDF/A             | Full                 | 494           |
 | Acrobat PDF 1.4 - Portable Document Format                  | .pdf        | Transform to PDF/A             | Full                 | 2,178         |
 | Acrobat PDF 1.5 - Portable Document Format                  | .pdf        | Transform to PDF/A             | Full                 | 338           |
 | Acrobat PDF 1.6 - Portable Document Format                  | .pdf        | Transform to PDF/A             | Full                 | 1,886         |
-| Acrobat PDF 1.7 - Portable Document Format                  | .pdf        | Transform to PDF/A             | Full                 | 69            |
+| Acrobat PDF 1.7 - Portable Document Format                  | .pdf        | Transform to PDF/A             | Full                 | 71            |
 | Acrobat PDF/A - Portable Document Format                    | .pdf        | Original                       | Full                 | 2             |
 | Acrobat PDF/X - Portable Document Format - Exchange 1a:2001 | .pdf        | Transform to PDF/A             | Full                 | 1             |
 | Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4 | .pdf        | Transform to PDF/A             | Full                 | 1             |

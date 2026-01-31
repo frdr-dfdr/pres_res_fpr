@@ -11,7 +11,7 @@ Original refers to the original file deposited in the repository.
 |:------------------------------|:------------|:-------------------------------|:---------------------|--------------:|
 | Microsoft Word (Generic)      | .doc        | Transform to ODT               | Full                 |             1 |
 | Microsoft Word Document       | .docx, .doc | Transform to ODT               | Full                 |            26 |
-| Microsoft Word for Windows    | .docx, .doc | Transform to ODT               | Full                 |           101 |
+| Microsoft Word for Windows    | .docx, .doc | Transform to ODT               | Full                 |           102 |
 | OpenDocument Text             | .odt, .ott  | Original                       | Full                 |             2 |
 | Rich Text Format              | .rtf        | Transform to PDF/A             | Full                 |            57 |
 | Statistica Report File        | .str        | Transform to PDF/A             | Watch                |             1 |

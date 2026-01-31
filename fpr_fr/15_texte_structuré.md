@@ -9,12 +9,12 @@ Original désigne le fichier original déposé dans le dépôt.
 
 | Format                                          | Extension    | Action de préservation proposée   | Niveau de préservation   | Nombre total de fichiers   |
 |:------------------------------------------------|:-------------|:----------------------------------|:-------------------------|:---------------------------|
-| BibTeX Database File                            | .bib         | Fichier original                  | Complet                  | 402                        |
+| BibTeX Database File                            | .bib         | Fichier original                  | Complet                  | 403                        |
 | Cascading Style Sheet                           | .css         | Fichier original                  | Complet                  | 1,015                      |
 | Clock RINEX File Format                         | .clk         | Fichier original                  | Complet                  | 188                        |
-| Comma Separated Values                          | .csv         | Fichier original                  | Complet                  | 849,702                    |
+| Comma Separated Values                          | .csv         | Fichier original                  | Complet                  | 849,993                    |
 | Data Interchange Format                         | .dif         | Fichier original                  | Surveillance             | 2                          |
-| JSON Data Interchange Format                    | .json        | Fichier original                  | Complet                  | 82,767                     |
+| JSON Data Interchange Format                    | .json        | Fichier original                  | Complet                  | 82,773                     |
 | Leaner Style Sheets                             | .less        | Fichier original                  | Complet                  | 14                         |
 | MD5 File                                        | .md5         | Fichier original                  | Complet                  | 147                        |
 | OPML File                                       | .opml        | Fichier original                  | Complet                  | 1                          |
@@ -30,4 +30,4 @@ Original désigne le fichier original déposé dans le dépôt.
 | Syntactically Awesome Style Sheets              | .sass, .scss | Fichier original                  | Complet                  | 14                         |
 | Tab-separated Values                            | .tsv, .tab   | Transformer en CSV                | Complet                  | 4,883                      |
 | Text Configuration file                         | .ini         | Fichier original                  | Complet                  | 2,308                      |
-| YAML                                            | .yml, .yaml  | Fichier original                  | Complet                  | 4,335                      |
+| YAML                                            | .yml, .yaml  | Fichier original                  | Complet                  | 4,336                      |
