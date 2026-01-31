@@ -57,7 +57,7 @@ The table below provides a brief overview of how many formats are associated wit
 |Preservation Level|Number of Formats|Average|
 |:----------------|:-----------------|:------|
 |Basic|72|30.9%|
-|Watch||52|22.32%|
+|Watch|52|22.32%|
 |Full|109|46.78%|
 
 ## About
