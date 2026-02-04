@@ -10,7 +10,7 @@ The table below provides a brief overview of how many formats are associated wit
 |Full|109|46.58%|
 
 ## General Format Stats
-|Total Identified|Total in Plan|Estimate Unknown|No Extension (Files)|Date|
+|Total Identified|Total in Plan|Estimate Unknown|No Extension (Files)|Date Updated|
 |:---------------|:------------|:---------------|:-----------|:------|
 |382|235|792|75483|2026-02-04|
 
@@ -27,6 +27,6 @@ Le tableau ci-dessous donne un aperçu du nombre de formats associés à chaque 
 |Niveau complet|109|46,58 %|
 
 ## Statistiques générales sur le format
-|Total identifié|Total dans le plan|Estimation inconnue|Pas d'extension (fichiers)|Date|
+|Total identifié|Total dans le plan|Estimation inconnue|Pas d'extension (fichiers)|Date de mise à jour|
 |:--------------|:------------|:---------------|:-----------|:------|
 |382|235|792|75483|2026-02-04|
