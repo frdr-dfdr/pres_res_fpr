@@ -62,7 +62,7 @@ File format characterization involves extracting metadata from the file. The met
 An activity that results in digital objects of a particular type converted to a single chosen file format that is non-proprietary and designated preservation friendly. Example jpg, png, gif are normalized to tiff.
 
 ### Original Files
-In all instances, digital preservation services keeps the original file as it holds information that the derivatives will not contain.
+In all instances, digital preservation services keeps the original files as it holds information that the derivatives will not contain.
 
 ## Storage
 Different storage options are employed to achieve digital preservation activities. These include:
