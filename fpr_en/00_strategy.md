@@ -1,12 +1,12 @@
 # Digital Preservation Services File Format Strategy
-Last updated: 2026-01-18
+Last updated: 2026-02-04
 
-Understanding file formats is integral to implementing strategies that aid in the continued access and reuse of research data. This page contains information about digital preservation services file format work. This page will be updated as we develop our strategy. 
+Understanding file formats is integral to implementing strategies that aid in the continued access and reuse of research data. This page contains information about Digital Preservation Services' file format work. This page will be updated as we develop our strategy. 
 
 For additional information about Digital Preservation Services at the Digital Research Alliance of Canada, please visit the [Digital Preservation Services](https://github.com/frdr-dfdr/pres_res_dpservices) page.
 
 ## Strategy
-While repositories may provide a list of recommended formats we recognize that not all research projects can use openor recommended file formats. Therefore, all file formats are accepted. Different preservation levels are implemented to determine digital preservation capabilities for the various file formats received. 
+While repositories may provide a list of recommended formats we recognize that not all research projects can use open or recommended file formats. Therefore, all file formats are accepted. Different preservation levels are implemented to determine digital preservation capabilities for the various file formats received. 
 
 ### Preservation Levels
 
@@ -59,10 +59,10 @@ File format validation involves checking if a file format conforms to its file f
 File format characterization involves extracting metadata from the file. The metadata may include information such as aspect ratio or compression level.
 
 ### Normalization
-An activity that results in digital objects of a particular type converted to a single chosen file format that are non-proprietary and designated preservation friendly. Example jpg, png, gif are normalized to tiff.
+An activity that results in digital objects of a particular type converted to a single chosen file format that is non-proprietary and designated preservation friendly. Example jpg, png, gif are normalized to tiff.
 
 ### Original Files
-In all instances, digital preservation services keeps the original files as it holds information that the derivatives will not contain.
+In all instances, digital preservation services keeps the original file as it holds information that the derivatives will not contain.
 
 ## Storage
 Different storage options are employed to achieve digital preservation activities. These include:
@@ -72,7 +72,7 @@ Different storage options are employed to achieve digital preservation activitie
 
 ---
 ## Acknowledgements
-The file format strategy and the format policy registry (fpr) draws on the excellent work being undertaking internationally by libraries, archives, galleries, museums, and repositories including but not limited to
+The Strategy and the Format Policy Registry (FPR) draws on the excellent work being undertaking internationally by libraries, archives, galleries, museums, and repositories including but not limited to
 
 - [Archives and Records Management, Simon Fraser University](https://www.sfu.ca/archives.html)
 - [DANS (Data Archiving and Records Service)](https://dans.knaw.nl/en/)
