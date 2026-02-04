@@ -1,4 +1,5 @@
 # Resources
+The table below contains resources related to file formats and file format identification.
 
 |Resource|Description|
 |:-------|:----------|
@@ -10,7 +11,10 @@
 |[Signature development utility 2.0](https://ffdev.info/)|A tool to help develop signature files for submission in PRONOM. Maintained by [Ross Spencer](https://github.com/ross-spencer).|
 |[Sustainability of Digital Formats: Planning for Library of Congress Collections](https://www.loc.gov/preservation/digital/formats/)|Includes information about formats by providing detailed format descriptions. Maintained by the [Library of Congress](https://www.loc.gov/preservation/digital/index.html).|
 
+---
 # Ressources
+Le tableau ci-dessous contient des ressources relatives aux formats de fichiers et à leur identification.
+
 |Ressource|Description|
 |:-------|:----------|
 |[Toutes les extensions connues](https://www.digipres.org/formats/extensions/)|Liste des extensions et de leurs formats connus.|
