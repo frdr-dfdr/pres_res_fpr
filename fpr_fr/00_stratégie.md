@@ -2,7 +2,7 @@
 
 La compréhension des formats de fichiers est essentielle à la mise en œuvre de stratégies favorisant l’accès continu aux données de recherche et leur réutilisation. Cette page présente de l’information sur les travaux des Services de préservation numérique relatifs aux formats de fichiers et sera mise à jour et enrichie au fur et à mesure de l’élaboration de la stratégie.
 
-Pour de plus amples renseignements concernant les Services de préservation numérique de l’Alliance de recherche numérique du Canada, veuillez consulter [la page](https://github.com/frdr-dfdr/pres_res_dpservices?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique) qui leur est consacrée.
+Pour de plus amples renseignements concernant les [Services de préservation numérique](https://github.com/frdr-dfdr/pres_res_dpservices?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique) de l’Alliance de recherche numérique du Canada, veuillez consulter la page qui leur est consacrée.
 
 ## Stratégie
 Bien que des formats recommandés soient souvent précisés pour le dépôt et la préservation numérique, il est reconnu que tous les projets de recherche ne peuvent pas utiliser des formats de fichiers ouverts. Les Services de préservation numérique ont élaboré différents niveaux de préservation afin de déterminer les capacités de préservation applicables aux divers formats de fichiers utilisés par les chercheuses et chercheurs.
