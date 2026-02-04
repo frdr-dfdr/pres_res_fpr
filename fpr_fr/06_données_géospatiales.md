@@ -1,9 +1,9 @@
 # 06. Données géospatiales 
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-02-04
 
 Les formats de fichiers géospatiaux comprennent les formats utilisés pour stocker, analyser et gérer des données spatiales. Ils sont souvent produits à partir de systèmes d’information géographique (SIG). 
 ## Formats 
-[06_données_géospatiales.csv](./csv_downloads/06_données_géospatiales.csv) (CSV 5.92 Ko) 
+[06_données_géospatiales.csv](./2026-02-04_télécharger_csv/06_données_géospatiales.csv) (CSV 5.92 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 

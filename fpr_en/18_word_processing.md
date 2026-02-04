@@ -1,9 +1,9 @@
 # 18. Word Processing 
-Last updated: 2026-01-30 
+Last updated: 2026-02-04 
 
 Word processing formats are the output of word processors like Microsoft Word. These formats store text with varying levels of formatting and structure. Word processing formats define how the content, (text, fonts, images, layout), are saved and shared. 
 ## Formats 
-[18_word_processing.csv](./csv_downloads/18_word_processing.csv) (CSV 3.23 KB) 
+[18_word_processing.csv](./2026-02-04_csv_downloads/18_word_processing.csv) (CSV 3.23 KB) 
 
 Original refers to the original file deposited in the repository. 
 

@@ -1,9 +1,9 @@
 # 13. Feuille de calcul 
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-02-04
 
 Les formats de fichiers de feuilles de calcul organisent les données dans une grille de colonnes et de lignes et sont utilisés pour stocker, manipuler et analyser des chiffres et du texte. 
 ## Formats 
-[13_feuille_de_calcul.csv](./csv_downloads/13_feuille_de_calcul.csv) (CSV 3.04 Ko) 
+[13_feuille_de_calcul.csv](./2026-02-04_télécharger_csv/13_feuille_de_calcul.csv) (CSV 3.04 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 

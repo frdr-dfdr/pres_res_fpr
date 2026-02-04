@@ -1,9 +1,9 @@
 # 18. Traitement de texte 
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-02-04
 
 Les formats de traitement de texte sont le résultat de l'utilisation de logiciels tels que Microsoft Word. Ces formats stockent du texte avec différents niveaux de mise en forme et de structure. Les formats de traitement de texte définissent la manière dont le contenu (texte, polices, images, mise en page) est enregistré et partagé. 
 ## Formats 
-[18_traitement_de_texte.csv](./csv_downloads/18_traitement_de_texte.csv) (CSV 3.34 Ko) 
+[18_traitement_de_texte.csv](./2026-02-04_télécharger_csv/18_traitement_de_texte.csv) (CSV 3.34 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 

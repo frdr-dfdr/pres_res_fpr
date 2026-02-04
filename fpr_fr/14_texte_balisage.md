@@ -1,11 +1,11 @@
 # 14. Texte - balisage 
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-02-04
 
 Les fichiers de langages de balisage contiennent des balises servant à annoter le texte et à en définir la structure et la mise en forme. 
  
 Un langage de balisage définit les informations de balisage pouvant être incluses dans un fichier, ce qui en facilite l’utilisation et par les personnes et par les systèmes informatiques. 
 ## Formats 
-[14_texte_balisage.csv](./csv_downloads/14_texte_balisage.csv) (CSV 8.76 Ko) 
+[14_texte_balisage.csv](./2026-02-04_télécharger_csv/14_texte_balisage.csv) (CSV 8.77 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 
@@ -23,8 +23,8 @@ Original désigne le fichier original déposé dans le dépôt.
 | Hypertext Markup Language                      | .html            | Fichier original                  | Complet                  | 6,472                      |
 | Keyhole Markup Language (Container)            | .kmz             | Fichier original                  | Complet                  | 48                         |
 | Keyhole Markup Language (XML)                  | .kml             | Fichier original                  | Complet                  | 94                         |
-| LaTeX (Master document)                        | .tex             | Transformer                       | Complet                  | 351                        |
-| LaTeX (Subdocument)                            | .tex             | Transformer                       | Complet                  | 492                        |
+| LaTeX (Master document)                        | .tex             | Fichier original                  | Complet                  | 351                        |
+| LaTeX (Subdocument)                            | .tex             | Fichier original                  | Complet                  | 492                        |
 | Markdown                                       | .md              | Fichier original                  | Complet                  | 562                        |
 | OGR GFS File                                   | .gfs             | Fichier original                  | Surveillance             | 8                          |
 | QGIS Metadata File                             | .qmd             | Fichier original                  | Complet                  | 50                         |

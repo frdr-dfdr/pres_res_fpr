@@ -1,12 +1,12 @@
 # 02. Audio 
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-02-04
 
 Le son numérique est défini comme une onde sonore créée sous forme numérique, ou convertie en format numérique, puis encodée sous forme d’une séquence d’échantillons numériques dans le but d’être reconvertie en un signal analogique continu reproduisant le son. 
 
 Les formats audio peuvent inclure différents niveaux de compression, notamment avec perte, sans perte ou non compressés.
  
 ## Formats 
-[02_audio.csv](./csv_downloads/02_audio.csv) (CSV 1.21 Ko) 
+[02_audio.csv](./2026-02-04_télécharger_csv/02_audio.csv) (CSV 1.21 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 

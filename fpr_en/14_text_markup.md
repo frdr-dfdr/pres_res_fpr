@@ -1,11 +1,11 @@
 # 14. Text - Markup 
-Last updated: 2026-01-30 
+Last updated: 2026-02-04 
 
 Markup language files are files that include tags to annotate and provide structure and formatting to the text. 
 
 A markup language defines what markup information can be included in the file, which facilitates use by humans and computers. 
 ## Formats 
-[14_text_markup.csv](./csv_downloads/14_text_markup.csv) (CSV 8.44 KB) 
+[14_text_markup.csv](./2026-02-04_csv_downloads/14_text_markup.csv) (CSV 8.44 KB) 
 
 Original refers to the original file deposited in the repository. 
 
@@ -23,8 +23,8 @@ Original refers to the original file deposited in the repository.
 | Hypertext Markup Language                      | .html            | Original                       | Full                 | 6,472         |
 | Keyhole Markup Language (Container)            | .kmz             | Original                       | Full                 | 48            |
 | Keyhole Markup Language (XML)                  | .kml             | Original                       | Full                 | 94            |
-| LaTeX (Master document)                        | .tex             | Transform                      | Full                 | 351           |
-| LaTeX (Subdocument)                            | .tex             | Transform                      | Full                 | 492           |
+| LaTeX (Master document)                        | .tex             | Original                       | Full                 | 351           |
+| LaTeX (Subdocument)                            | .tex             | Original                       | Full                 | 492           |
 | Markdown                                       | .md              | Original                       | Full                 | 562           |
 | OGR GFS File                                   | .gfs             | Original                       | Watch                | 8             |
 | QGIS Metadata File                             | .qmd             | Original                       | Full                 | 50            |

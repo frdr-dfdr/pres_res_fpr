@@ -11,8 +11,8 @@ GPS Exchange Format,.gpx,14. Texte (balisage),Fichier original,Complet,2
 Hypertext Markup Language,.html,14. Texte (balisage),Fichier original,Complet,"6,472"
 Keyhole Markup Language (Container),.kmz,14. Texte (balisage),Fichier original,Complet,48
 Keyhole Markup Language (XML),.kml,14. Texte (balisage),Fichier original,Complet,94
-LaTeX (Master document),.tex,14. Texte (balisage),Transformer,Complet,351
-LaTeX (Subdocument),.tex,14. Texte (balisage),Transformer,Complet,492
+LaTeX (Master document),.tex,14. Texte (balisage),Fichier original,Complet,351
+LaTeX (Subdocument),.tex,14. Texte (balisage),Fichier original,Complet,492
 Markdown,.md,14. Texte (balisage),Fichier original,Complet,562
 OGR GFS File,.gfs,14. Texte (balisage),Fichier original,Surveillance,8
 QGIS Metadata File,.qmd,14. Texte (balisage),Fichier original,Complet,50

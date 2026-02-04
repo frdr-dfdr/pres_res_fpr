@@ -1,9 +1,9 @@
 # 15. Text - Structured 
-Last updated: 2026-01-30 
+Last updated: 2026-02-04 
 
 Structured text refers to files that present data in a defined and organized way that is easy for machines as well as humans to read and process.  
 ## Formats 
-[15_text_structured.csv](./csv_downloads/15_text_structured.csv) (CSV 7.85 KB) 
+[15_text_structured.csv](./2026-02-04_csv_downloads/15_text_structured.csv) (CSV 7.82 KB) 
 
 Original refers to the original file deposited in the repository. 
 
@@ -12,16 +12,16 @@ Original refers to the original file deposited in the repository.
 | BibTeX Database File                            | .bib         | Original                       | Full                 | 403           |
 | Cascading Style Sheet                           | .css         | Original                       | Full                 | 1,015         |
 | Clock RINEX File Format                         | .clk         | Original                       | Full                 | 188           |
-| Comma Separated Values                          | .csv         | Original                       | Full                 | 849,993       |
+| Comma Separated Values                          | .csv         | Original                       | Full                 | 849,997       |
 | Data Interchange Format                         | .dif         | Original                       | Watch                | 2             |
-| JSON Data Interchange Format                    | .json        | Original                       | Full                 | 82,773        |
+| JSON Data Interchange Format                    | .json        | Original                       | Full                 | 139,497       |
 | Leaner Style Sheets                             | .less        | Original                       | Full                 | 14            |
 | MD5 File                                        | .md5         | Original                       | Full                 | 147           |
 | OPML File                                       | .opml        | Original                       | Full                 | 1             |
-| Prime OCR                                       | .pro         | To be reviewed                 | Basic                | 173           |
-| PrimeOCR                                        | .pro         | To be reviewed                 | Basic                | 961           |
-| Protein Data Bank File                          | .pdb         | To be reviewed                 | Watch                | 51            |
-| QGIS Spatial Index File                         | .qix         | To be reviewed                 | Watch                | 3             |
+| Prime OCR                                       | .pro         | Original                       | Basic                | 173           |
+| PrimeOCR                                        | .pro         | Original                       | Basic                | 961           |
+| Protein Data Bank File                          | .pdb         | Original                       | Watch                | 51            |
+| QGIS Spatial Index File                         | .qix         | Original                       | Watch                | 3             |
 | RINEX Observation File                          | .obs         | Original                       | Full                 | 24            |
 | Standard for the Exchange of Product model data | .step, .stp  | Original                       | Basic                | 4             |
 | Structured Query Language Data                  | .sql         | Original                       | Full                 | 5             |

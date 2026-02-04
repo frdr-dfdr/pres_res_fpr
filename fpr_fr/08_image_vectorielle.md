@@ -1,9 +1,9 @@
 # 08. Image - vectorielle 
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-02-04
 
 Les images vectorielles comprennent les représentations visuelles bidimensionnelles d'objets, de dessins, etc. Cela peut inclure les photographies, affiches, graphiques,  diagrammes et illustrations. LLes images vectorielles sont créées à partir de formes géométriques, de lignes, de courbes et de points définis mathématiquement. 
 ## Formats 
-[08_image_vectorielle.csv](./csv_downloads/08_image_vectorielle.csv) (CSV 2.47 Ko) 
+[08_image_vectorielle.csv](./2026-02-04_télécharger_csv/08_image_vectorielle.csv) (CSV 2.47 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 

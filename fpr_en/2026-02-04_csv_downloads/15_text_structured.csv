@@ -2,16 +2,16 @@ Format,Extension,Category,Proposed Preservation Action,Preservation Level,Total 
 BibTeX Database File,.bib,15. Text (Structured),Original,Full,403
 Cascading Style Sheet,.css,15. Text (Structured),Original,Full,"1,015"
 Clock RINEX File Format,.clk,15. Text (Structured),Original,Full,188
-Comma Separated Values,.csv,15. Text (Structured),Original,Full,"849,993"
+Comma Separated Values,.csv,15. Text (Structured),Original,Full,"849,997"
 Data Interchange Format,.dif,15. Text (Structured),Original,Watch,2
-JSON Data Interchange Format,.json,15. Text (Structured),Original,Full,"82,773"
+JSON Data Interchange Format,.json,15. Text (Structured),Original,Full,"139,497"
 Leaner Style Sheets,.less,15. Text (Structured),Original,Full,14
 MD5 File,.md5,15. Text (Structured),Original,Full,147
 OPML File,.opml,15. Text (Structured),Original,Full,1
-Prime OCR,.pro,15. Text (Structured),To be reviewed,Basic,173
-PrimeOCR,.pro,15. Text (Structured),To be reviewed,Basic,961
-Protein Data Bank File,.pdb,15. Text (Structured),To be reviewed,Watch,51
-QGIS Spatial Index File,.qix,15. Text (Structured),To be reviewed,Watch,3
+Prime OCR,.pro,15. Text (Structured),Original,Basic,173
+PrimeOCR,.pro,15. Text (Structured),Original,Basic,961
+Protein Data Bank File,.pdb,15. Text (Structured),Original,Watch,51
+QGIS Spatial Index File,.qix,15. Text (Structured),Original,Watch,3
 RINEX Observation File,.obs,15. Text (Structured),Original,Full,24
 Standard for the Exchange of Product model data,".step, .stp",15. Text (Structured),Original,Basic,4
 Structured Query Language Data,.sql,15. Text (Structured),Original,Full,5

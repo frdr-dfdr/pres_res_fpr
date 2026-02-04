@@ -1,9 +1,9 @@
 # 07. Image - Raster 
-Last updated: 2026-01-30 
+Last updated: 2026-02-04 
 
 Raster images include 2-dimensional visual representations of objects, designs, etc. This can include but is not limited to photographs, posters, graphs, diagrams and graphics. Raster images are represented by pixels. 
 ## Formats 
-[07_image_raster.csv](./csv_downloads/07_image_raster.csv) (CSV 8.79 KB) 
+[07_image_raster.csv](./2026-02-04_csv_downloads/07_image_raster.csv) (CSV 8.79 KB) 
 
 Original refers to the original file deposited in the repository. 
 
@@ -26,7 +26,7 @@ Original refers to the original file deposited in the repository.
 | JPEG File Interchange Format                  | .jpeg, .jpg, .jif, .jpe, .jfif, .jfi | Transform to TIFF              | Full                 | 3,639,396     |
 | JPX (JPEG 2000 part 2)                        | .jpx, .jpf                           | Transform to TIFF              | Full                 | 2             |
 | Nikon Digital SLR Camera Raw Image File       | .nef                                 | Transform to TIFF              | Full                 | 2,218         |
-| Portable Network Graphics                     | .png                                 | Transform to TIFF              | Full                 | 1,103,444     |
+| Portable Network Graphics                     | .png                                 | Transform to TIFF              | Full                 | 1,160,167     |
 | Raw Bitmap                                    | .raw                                 | Transform to TIFF              | Full                 | 463           |
 | Raw JPEG Stream                               | .jpeg, .jpg, .jif, .jpe, .jfif, .jfi | Transform to TIFF              | Full                 | 763           |
 | Tagged Image File Format                      | .tiff, .tif                          | Original                       | Full                 | 176,712       |

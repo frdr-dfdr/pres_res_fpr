@@ -16,7 +16,7 @@ Icon file format,.ico,07. Image (matricielle),,Surveillance,17
 JPEG File Interchange Format,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (matricielle),Transformer en TIFF,Complet,"3,639,396"
 JPX (JPEG 2000 part 2),".jpx, .jpf",07. Image (matricielle),Transformer en TIFF,Complet,2
 Nikon Digital SLR Camera Raw Image File,.nef,07. Image (matricielle),Transformer en TIFF,Complet,"2,218"
-Portable Network Graphics,.png,07. Image (matricielle),Transformer en TIFF,Complet,"1,103,444"
+Portable Network Graphics,.png,07. Image (matricielle),Transformer en TIFF,Complet,"1,160,167"
 Raw Bitmap,.raw,07. Image (matricielle),Transformer en TIFF,Complet,463
 Raw JPEG Stream,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (matricielle),Transformer en TIFF,Complet,763
 Tagged Image File Format,".tiff, .tif",07. Image (matricielle),Fichier original,Complet,"176,712"

@@ -1,9 +1,9 @@
 # 10. Description de la page 
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-02-04
 
 Les fichiers de description de page décrivent l'apparence visuelle d'une page imprimée ou affichée, indépendamment du matériel ou des logiciels spécifiques. 
 ## Formats 
-[10_description_de_la_page.csv](./csv_downloads/10_description_de_la_page.csv) (CSV 4.75 Ko) 
+[10_description_de_la_page.csv](./2026-02-04_télécharger_csv/10_description_de_la_page.csv) (CSV 4.75 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 
@@ -12,7 +12,7 @@ Original désigne le fichier original déposé dans le dépôt.
 | Acrobat PDF 1.1 - Portable Document Format                  | .pdf        | Transformer en PDF/A              | Complet                  | 6                          |
 | Acrobat PDF 1.2 - Portable Document Format                  | .pdf        | Transformer en PDF/A              | Complet                  | 6                          |
 | Acrobat PDF 1.3 - Portable Document Format                  | .pdf        | Transformer en PDF/A              | Complet                  | 494                        |
-| Acrobat PDF 1.4 - Portable Document Format                  | .pdf        | Transformer en PDF/A              | Complet                  | 2,178                      |
+| Acrobat PDF 1.4 - Portable Document Format                  | .pdf        | Transformer en PDF/A              | Complet                  | 2,176                      |
 | Acrobat PDF 1.5 - Portable Document Format                  | .pdf        | Transformer en PDF/A              | Complet                  | 338                        |
 | Acrobat PDF 1.6 - Portable Document Format                  | .pdf        | Transformer en PDF/A              | Complet                  | 1,886                      |
 | Acrobat PDF 1.7 - Portable Document Format                  | .pdf        | Transformer en PDF/A              | Complet                  | 71                         |

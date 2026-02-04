@@ -11,8 +11,8 @@ GPS Exchange Format,.gpx,14. Text (Markup),Original,Full,2
 Hypertext Markup Language,.html,14. Text (Markup),Original,Full,"6,472"
 Keyhole Markup Language (Container),.kmz,14. Text (Markup),Original,Full,48
 Keyhole Markup Language (XML),.kml,14. Text (Markup),Original,Full,94
-LaTeX (Master document),.tex,14. Text (Markup),Transform,Full,351
-LaTeX (Subdocument),.tex,14. Text (Markup),Transform,Full,492
+LaTeX (Master document),.tex,14. Text (Markup),Original,Full,351
+LaTeX (Subdocument),.tex,14. Text (Markup),Original,Full,492
 Markdown,.md,14. Text (Markup),Original,Full,562
 OGR GFS File,.gfs,14. Text (Markup),Original,Watch,8
 QGIS Metadata File,.qmd,14. Text (Markup),Original,Full,50

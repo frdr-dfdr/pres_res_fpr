@@ -1,9 +1,9 @@
 # 03. Database 
-Last updated: 2026-01-30 
+Last updated: 2026-02-04 
 
 Database file formats are organized collections of structured information. 
 ## Formats 
-[03_database.csv](./csv_downloads/03_database.csv) (CSV 1.53 KB) 
+[03_database.csv](./2026-02-04_csv_downloads/03_database.csv) (CSV 1.53 KB) 
 
 Original refers to the original file deposited in the repository. 
 

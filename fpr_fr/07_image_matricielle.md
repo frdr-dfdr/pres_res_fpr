@@ -1,9 +1,9 @@
 # 07. Image - matricielle 
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-02-04
 
 Les images matricielles comprennent les représentations visuelles bidimensionnelles d'objets, de dessins, etc. Cela peut inclure les photographies, affiches, graphiques,  diagrammes et illustrations. Les images matricielles sont composées de pixels. 
 ## Formats 
-[07_image_matricielle.csv](./csv_downloads/07_image_matricielle.csv) (CSV 9.06 Ko) 
+[07_image_matricielle.csv](./2026-02-04_télécharger_csv/07_image_matricielle.csv) (CSV 9.06 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 
@@ -26,7 +26,7 @@ Original désigne le fichier original déposé dans le dépôt.
 | JPEG File Interchange Format                  | .jpeg, .jpg, .jif, .jpe, .jfif, .jfi | Transformer en TIFF               | Complet                  | 3,639,396                  |
 | JPX (JPEG 2000 part 2)                        | .jpx, .jpf                           | Transformer en TIFF               | Complet                  | 2                          |
 | Nikon Digital SLR Camera Raw Image File       | .nef                                 | Transformer en TIFF               | Complet                  | 2,218                      |
-| Portable Network Graphics                     | .png                                 | Transformer en TIFF               | Complet                  | 1,103,444                  |
+| Portable Network Graphics                     | .png                                 | Transformer en TIFF               | Complet                  | 1,160,167                  |
 | Raw Bitmap                                    | .raw                                 | Transformer en TIFF               | Complet                  | 463                        |
 | Raw JPEG Stream                               | .jpeg, .jpg, .jif, .jpe, .jfif, .jfi | Transformer en TIFF               | Complet                  | 763                        |
 | Tagged Image File Format                      | .tiff, .tif                          | Fichier original                  | Complet                  | 176,712                    |

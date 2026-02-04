@@ -1,10 +1,10 @@
 # 17. Vidéo 
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-02-04
 
 Les formats de fichiers vidéo comprennent des œuvres visuelles numériques constituées d’images ou de « trames » numériques affichées à une cadence constante, donnant l’illusion du mouvement. Les fichiers vidéo présentent plusieurs propriétés importantes, notamment la profondeur en bits ou en couleur, l’espace colorimétrique, l’audio et la résolution
   
 ## Formats 
-[17_vidéo.csv](./csv_downloads/17_vidéo.csv) (CSV 3.32 Ko) 
+[17_vidéo.csv](./2026-02-04_télécharger_csv/17_vidéo.csv) (CSV 3.32 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 
