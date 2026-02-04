@@ -1,5 +1,5 @@
 # The Team
-The Format Policy Registry is the result of many years of work from various members on the FRDR Team, the Curation Services Team and the Digital Preservation Services Team. 
+The Format Policy Registry is the result of many years of work from various members of the FRDR Team, the Curation Services Team and the Digital Preservation Services Team. 
 
 Digital Preservation Services would like to thank these members, past and present, for all their help in making the FPR a reality.
 
@@ -24,6 +24,9 @@ Digital Preservation Services would like to thank these members, past and presen
 - Erin Clary, Curation Coordinator, Digital Research Alliance of Canada
 - Todd Trann, Technical Lead, University of Saskatchewan
 
+## Thanks
+* Julie Shi, Digital Preservation Librarian, Scholars Portal
+
 ---
 # L'équipe
 Le registre des politiques de format est le résultat de nombreuses années de travail de divers membres de l'équipe DFDR, de l'équipe des services de curation et de l'équipe des services de préservation numérique. 
@@ -36,9 +39,9 @@ Les services de préservation numérique tiennent à remercier ces membres, pass
 - Richard Gladwin, développeur, Université McMaster
 - Elizabeth Lartey, coordinatrice de la recherche et de l'évaluation, Alliance de recherche numérique du Canada
 - Daniel Manrique-Castaño, agente de curation, Alliance de recherche numérique du Canada
-- Adam McKenzie, responsable technique, Université de Saskatchewan
-- Neha Milan, responsable produits, Université de Saskatchewan
-- Tamanna Moharana, agente de la conservation, Alliance de recherche numérique du Canada
+- Adam McKenzie, responsable technique, Université de la Saskatchewan
+- Neha Milan, responsable produits, Université de la Saskatchewan
+- Tamanna Moharana, agente de la curation, Alliance de recherche numérique du Canada
 - Amanda Tomé, coordonnatrice de la préservation numérique, Alliance de recherche numérique du Canada
 - Natalie Williams, responsable des services de curation, Alliance de recherche numérique du Canada
 - Mike Winter, développeur principal, Université de la Saskatchewan
@@ -49,4 +52,7 @@ Les services de préservation numérique tiennent à remercier ces membres, pass
 
 ## Anciens membres
 - Erin Clary, coordonnatrice de la curation, Alliance de recherche numérique du Canada
-- Todd Trann, responsable technique, Université de Saskatchewan
+- Todd Trann, responsable technique, Université de la Saskatchewan
+
+## Remerciements
+* Julie Shi, Bibliothécaire en préservation numérique, Scholars Portal
