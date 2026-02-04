@@ -5,14 +5,14 @@ The table below provides a brief overview of how many formats are associated wit
 
 |Preservation Level|Number of Formats|Average|
 |:----------------|:-----------------|:------|
-|Basic|72|30.9%|
-|Watch|52|22.32%|
-|Full|109|46.78%|
+|Basic|73|31.2%|
+|Watch|52|22.22%|
+|Full|109|46.58%|
 
 ## General Format Stats
 |Total Identified|Total in Plan|Estimate Unknown|No Extension (Files)|Date|
 |:---------------|:------------|:---------------|:-----------|:------|
-|378|235|767|66947|2026-02-04|
+|382|235|792|75483|2026-02-04|
 
 ---
 # Statistiques
@@ -22,11 +22,11 @@ Le tableau ci-dessous donne un aperçu du nombre de formats associés à chaque 
 
 |Niveau de préservation|Nombre de formats|Moyenne|
 |:----------------|:-----------------|:------|
-|Niveau de base |72|30,9 %|
-|Niveau de surveillance|52|22,32 %|
-|Niveau complet|109|46,78 %|
+|Niveau de base |73|31,2 %|
+|Niveau de surveillance|52|22,22 %|
+|Niveau complet|109|46,58 %|
 
 ## Statistiques générales sur le format
 |Total identifié|Total dans le plan|Estimation inconnue|Pas d'extension (fichiers)|Date|
 |:--------------|:------------|:---------------|:-----------|:------|
-|378|235|767|66947|2026-02-04|
+|382|235|792|75483|2026-02-04|
