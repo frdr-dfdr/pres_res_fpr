@@ -99,7 +99,7 @@ Chaque type de fichier est regroupé dans une catégorie de fichiers plus large.
 - [10-Description de page](/fpr_fr/10_description_de_la_page.md)
 - [11-Présentation](/fpr_fr/11_présentation.md)
 - [12-Code source et logiciel](/fpr_fr/12_code_source_et_logiciel.md)
-- [13-Feuilles de calcul](/fpr_fr/13_feuille_de_calcul.md)
+- [13-Feuille de calcul](/fpr_fr/13_feuille_de_calcul.md)
 - [14-Texte - balisage](/fpr_fr/14_texte_balisage.md)
 - [15-Texte - structuré](/fpr_fr/15_texte_structuré.md)
 - [16-Texte - non structuré](/fpr_fr/16_texte_non_structuré.md)
