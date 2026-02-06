@@ -24,7 +24,7 @@ Each file type is grouped into a larger file category. A table for each category
 |:----|:-----|
 |Format|Includes the name of the format. The official name is used if it exists.|
 |Extension|Includes the extension(s) most commonly associated with the format.|
-|Proposed Preservation Action|Includes actions undertaken to preserve the format. The original file is alway maintained if a preservation action is listed. If there is no preservation action associated with the format then Original is listed.|
+|Proposed Preservation Action|Includes actions undertaken to preserve the format. The original file is always maintained if a preservation action is listed. If there is no preservation action associated with the format then Original is listed.|
 |Preservation Level|Indicates the level of preservation given to the format. A listing of what is included in each preservation level can be found in the strategy.|
 |Total Files|Includes the number of files in FRDR associated with the format.| 
 
