@@ -137,7 +137,7 @@ Digital Preservation Services / Services de préservation numérique <br>
 Email/courriel : preservation@frdr-dfdr.ca
 
 ---
-Last Updated: / Dernière mise à jour : 2026-02-04
+Last Updated: / Dernière mise à jour : 2026-02-07
 
 ---
 <p align="center">
