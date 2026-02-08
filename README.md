@@ -55,6 +55,7 @@ Formats may belong to multiple categories. Mapping to multiple categories is und
 - [Background](/docs/01_background_contexte.md)
 - [Team](/docs/02_team_équipe.md)
 - [Development](/docs/03_developments_développements.md)
+- [Stats](/docs/05_stats_statistiques.md)
 
 ## Acknowledgments
 Digital Preservation Services wishes to acknowledge and thank the Digital Research Alliance of Canada translation team for their help in translating this content. 
@@ -112,6 +113,7 @@ Certains formats peuvent appartenir à plusieurs catégories. Le classement dans
 - [Contexte](/docs/01_background_contexte.md#contexte)
 - [Équipe](/docs/02_team_équipe.md#léquipe)
 - [Développement](/docs/03_developments_développements.md#développements-et-mises-à-jour)
+- [Statistiques](/docs/05_stats_statistiques.md#statistiques)
 
 ## Remerciements
 Les Services de préservation numérique remercient l’équipe de traduction de l’Alliance de recherche numérique du Canada pour sa précieuse contribution à la traduction de ce contenu.
