@@ -89,7 +89,7 @@ Chaque type de fichier est regroupé dans une catégorie de fichiers plus large.
 - [00-Stratégie](/fpr_fr/00_stratégie.md)
 - [01-Agrégat](/fpr_fr/01_agrégat.md)
 - [02-Audio](/fpr_fr/02_audio.md)
-- [03-Base de données](/fpr_fr/03_base_de_données.md)
+- [03-Bases de données](/fpr_fr/03_bases_de_données.md)
 - [04-Jeu de données](/fpr_fr/04_jeu_de_données.md)
 - [05-Police](/fpr_fr/05_police.md)
 - [06-Données géospatiales](/fpr_fr/06_données_géospatiales.md)
