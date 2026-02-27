@@ -12,8 +12,32 @@ Digital Preservation Services would like to thank these members, past and presen
 - Adam McKenzie, Technical Lead, University of Saskatchewan
 - Neha Milan, FRDR Product Lead, University of Saskatchewan
 - Tamanna Moharana, Curation Officer, Digital Research Alliance of Canada
-- Amanda Tomé, Digital Preservation Coordinator, Digital Research Alliance of Canada
-- Natalie Williams, Curation Services Lead, Digital Research Alliance of Canada
+- Amanda Tomé, Digital Preservation Coordinator, Digital Research Alliance of Canada <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0007-9542-3143"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0007-9542-3143
+    </a>
+- Natalie Williams, Curation Services Lead, Digital Research Alliance of Canada <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0004-2983-1542"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0004-2983-1542
+    </a>
 - Mike Winter, Senior Developer, University of Saskatchewan
 - Jin Zhang, Developer, Simon Fraser University
 
@@ -42,8 +66,32 @@ Les services de préservation numérique tiennent à remercier ces membres, pass
 - Adam McKenzie, responsable technique, Université de la Saskatchewan
 - Neha Milan, responsable produits, Université de la Saskatchewan
 - Tamanna Moharana, agente de la curation, Alliance de recherche numérique du Canada
-- Amanda Tomé, coordonnatrice de la préservation numérique, Alliance de recherche numérique du Canada
-- Natalie Williams, responsable des services de curation, Alliance de recherche numérique du Canada
+- Amanda Tomé, coordonnatrice de la préservation numérique, Alliance de recherche numérique du Canada <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0007-9542-3143"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0007-9542-3143
+    </a>
+- Natalie Williams, responsable des services de curation, Alliance de recherche numérique du Canada <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0004-2983-1542"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0004-2983-1542
+    </a>
 - Mike Winter, développeur principal, Université de la Saskatchewan
 - Jin Zhang, développeur, Université Simon Fraser
 
