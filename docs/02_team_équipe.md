@@ -8,10 +8,34 @@ Digital Preservation Services would like to thank these members, past and presen
 - Laura Gerlitz, Curation Officer, Digital Research Alliance of Canada
 - Richard Gladwin, Developer, McMaster University
 - Elizabeth Lartey, Research Intelligence and Assessment Coordinator, Digital Research Alliance of Canada
-- Daniel Manrique-Castaño, Curation Officer, Digital Research Alliance of Canada
+- Daniel Manrique-Castaño, Curation Officer, Digital Research Alliance of Canada <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org//0000-0002-1912-1764"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org//0000-0002-1912-1764
+    </a>
 - Adam McKenzie, Technical Lead, University of Saskatchewan
 - Neha Milan, FRDR Product Lead, University of Saskatchewan
-- Tamanna Moharana, Curation Officer, Digital Research Alliance of Canada
+- Tamanna Moharana, Curation Officer, Digital Research Alliance of Canada <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-0163-9634"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-0163-9634
+    </a>
 - Amanda Tomé, Digital Preservation Coordinator, Digital Research Alliance of Canada <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -49,7 +73,19 @@ Digital Preservation Services would like to thank these members, past and presen
 - Todd Trann, Technical Lead, University of Saskatchewan
 
 ## Thanks
-* Julie Shi, Digital Preservation Librarian, Scholars Portal
+* Julie Shi, Digital Preservation Librarian, Scholars Portal <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-1242-1112"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-1242-1112
+    </a>
 
 ---
 # L'équipe
@@ -58,14 +94,38 @@ Le registre des politiques de format est le résultat de nombreuses années de t
 Les services de préservation numérique tiennent à remercier ces membres, passés et présents, pour toute leur aide dans la réalisation du FPR.
 
 ## Membres de l'équipe de développement et de service DFDR
-- Maaike Bos, analyste en préservation numérique, Alliance de recherche numérique du Canada
+- Maaike Bos, analyste en préservation numérique, Alliance de recherche numérique du Canada 
 - Laura Gerlitz, agente de curation, Alliance de recherche numérique du Canada
 - Richard Gladwin, développeur, Université McMaster
 - Elizabeth Lartey, coordinatrice de la recherche et de l'évaluation, Alliance de recherche numérique du Canada
-- Daniel Manrique-Castaño, agente de curation, Alliance de recherche numérique du Canada
+- Daniel Manrique-Castaño, agente de curation, Alliance de recherche numérique du Canada <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org//0000-0002-1912-1764"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org//0000-0002-1912-1764
+    </a>
 - Adam McKenzie, responsable technique, Université de la Saskatchewan
 - Neha Milan, responsable produits, Université de la Saskatchewan
-- Tamanna Moharana, agente de la curation, Alliance de recherche numérique du Canada
+- Tamanna Moharana, agente de la curation, Alliance de recherche numérique du Canada <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-0163-9634"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-0163-9634
+    </a>
 - Amanda Tomé, coordonnatrice de la préservation numérique, Alliance de recherche numérique du Canada <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -103,4 +163,16 @@ Les services de préservation numérique tiennent à remercier ces membres, pass
 - Todd Trann, responsable technique, Université de la Saskatchewan
 
 ## Remerciements
-* Julie Shi, Bibliothécaire en préservation numérique, Scholars Portal
+* Julie Shi, Bibliothécaire en préservation numérique, Scholars Portal <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-1242-1112"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-1242-1112
+    </a>
