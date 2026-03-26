@@ -28,7 +28,9 @@ Each file type is grouped into a larger file category. A table for each category
 |Preservation Level|Indicates the level of preservation given to the format. A listing of what is included in each preservation level can be found in the strategy.|
 |Total Files|Includes the number of files in FRDR associated with the format.| 
 
-## Categories
+[Full Format Listing](./fpr_en/2026-02-04_csv_downloads/00_full_listing.csv) (CSV 16 KB)
+
+## Catégories
 - [00-Strategy](/fpr_en/00_strategy.md)
 - [01-Aggregate](/fpr_en/01_aggregate.md)
 - [02-Audio](/fpr_en/02_audio.md)
@@ -86,6 +88,7 @@ Chaque type de fichier est regroupé dans une catégorie de fichiers plus large.
 |Niveau de préservation| Indique le niveau de préservation attribué au format. La stratégie détaille ce qui est inclus dans chaque niveau de préservation|
 |Nombre total de fichiers| Comprend le nombre de fichiers dans le DFDR associés au format.|
 
+[Liste complète des formats](../pres_res_fpr/fpr_fr/2026-02-04_télécharger_csv/00_liste_complète.csv) (CSV 20 KB)
 ## Catégories
 - [00-Stratégie](/fpr_fr/00_stratégie.md)
 - [01-Agrégat](/fpr_fr/01_agrégat.md)

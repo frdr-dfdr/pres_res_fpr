@@ -1,0 +1,236 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level
+7Zip format,.7z,01. Aggregate,Retain but extract content,Full
+Apple Safari Webarchive,.webarchive,01. Aggregate,To be reviewed,Basic
+Archiver Format,.ar,01. Aggregate,To be reviewed,Basic
+ARJ File Format,.arj,01. Aggregate,To be reviewed,Basic
+BZIP2 Compressed Archive,.bz2,01. Aggregate,Retain but extract content,Full
+CPIO,.cpio,01. Aggregate,To be reviewed,Basic
+OLE2 Compound Document Format,".ole, .ole2",01. Aggregate,Original,Basic
+PDF Portfolio,.pdf,01. Aggregate,Retain but extract content if possible,Watch
+RAR Archive,.rar,01. Aggregate,Retain but extract content,Watch
+Tape Archive Format,.tar,01. Aggregate,Retain but extract content,Full
+XZ File Format,.xz,01. Aggregate,Retain but extract content,Full
+ZIP Format,.zip,01. Aggregate,Retain but extract content,Full
+MPEG 1/2 Audio Layer 3,.mp3,02. Audio,Transform to Waveform Audio (PCMWAVEFORMAT),Full
+MuBu (MUlti-BUffer) Object,.mubu,02. Audio,Original,Basic
+Waveform Audio (PCMWAVEFORMAT),.wav,02. Audio,Original,Full
+dBASE Database,.dbf,03. Database,Transform to CSV,Full
+Lotus Approach View File,".apt, .apr",03. Database,Transform to CSV,Full
+Microsoft FoxPro Memo,".fpt, .dct",03. Database,To be reviewed,Basic
+SQLite Database File Format,".sqlite, .db",03. Database,Original,Watch
+Axon Binary Format,.abf,04. Dataset,Original,Basic
+BioSemi Data Format,.bsd,04. Dataset,Original,Basic
+Digital Imaging and Communications in Medicine File Format,.dicom,04. Dataset,Original,Basic
+FASTA,".fasta, .fas, .fa",04. Dataset,Original,Full
+FASTQ,".fastq, .fq",04. Dataset,Original,Full
+Flow Cytometry Standard File,.fcs,04. Dataset,Original,Watch
+HDF5,".hdf, .h5",04. Dataset,Original,Watch
+MATLAB Mat File,".m, .mat",04. Dataset,Original,Basic
+MRtrix Image Format,.mif,04. Dataset,Original,Watch
+MRtrix Tracks File Format,.tck,04. Dataset,Original,Watch
+netCDF-3 64-bit,.nc,04. Dataset,Original,Watch
+netCDF-3 Classic,.nc,04. Dataset,Original,Watch
+netCDF-4,".nc, .nc4",04. Dataset,Original,Watch
+The Neuroimaging Informatics Technology Initiative File Format,.nii,04. Dataset,Original,Watch
+Norbit Wideband Multibeam Sonar Format,.wbm,04. Dataset,Original,Basic
+Origin Project Format,".opj, .opju",04. Dataset,Original,Basic
+QIIME Zipped Artifact,.qza,04. Dataset,Original,Watch
+QIIME Zipped Visualization,.qzv,04. Dataset,Original,Watch
+RData,.rdata,04. Dataset,Original,Watch
+ROS bag file format,.bag,04. Dataset,Original,Basic
+SPSS Data File,.dat,04. Dataset,Original,Basic
+SPSS Output File (spv),.spv,04. Dataset,Original,Basic
+Stata Data (DTA) Format,.dta,04. Dataset,Original,Basic
+SuperDARN Raw Auto-Correlation Function File,.rawacf,04. Dataset,Original,Basic
+SuperDARN Raw Data File,.dat,04. Dataset,Original,Basic
+Variant Call Format,.vcf,04. Dataset,Original,Watch
+WinRiver Workspace File,.wrw,04. Dataset,Original,Basic
+ZISRAW (CZI) File Format,.czi,04. Dataset,Original,Watch
+Adobe PostScript Font Metrics file,.pfm,05. Font,Original,Watch
+Adobe Printer Font Binary,.pfb,05. Font,Original,Watch
+Daisy-Dot Font File,.nlq,05. Font,Original,Watch
+Embedded OpenType (EOT) File Format,.eot,05. Font,Original,Watch
+OpenType Font File,.otf,05. Font,Original,Watch
+TrueType Font,.tff,05. Font,Original,Watch
+Web Open Font Format,.woff,05. Font,Original,Watch
+ASPRS Lidar Data Exchange Format,".las, .laz",06. Geospatial,To be reviewed,Basic
+ESRI Arc/Info Binary Grid,.adf,06. Geospatial,Original,Basic
+ESRI ArcInfo DAT File (External),.dat,06. Geospatial,Original,Basic
+ESRI Arc/Info Export File,.e00,06. Geospatial,"Transform to KML, ESRI Shapefile, and/or GML as appropriate",Basic
+ESRI Arc/View ShapeFile,.shp,06. Geospatial,Original,Watch
+ESRI Arc/View Shapefile Index,.shx,06. Geospatial,Original,Basic
+ESRI ArcInfo Grid .nit File,.nit,06. Geospatial,Original,Basic
+ESRI ArcMap Document,".mxd, .mxt",06. Geospatial,Original,Basic
+ESRI Code Page File,.cpg,06. Geospatial,Original,Basic
+ESRI Persistent Auxiliary Metadata File,.aux.xml,06. Geospatial,Original,Basic
+Esri Shapefile Geospatial Metadata File,.xml,06. Geospatial,Original,Basic
+ESRI Shapefile Projection (Well-Known Text) Format,.prj,06. Geospatial,Original,Basic
+ESRI Spatial Index File,".sbn, .sbx",06. Geospatial,Original,Basic
+ESRI World File Format,.tfw,06. Geospatial,Original,Basic
+OGC GeoPackage,.gpkg,06. Geospatial,Original,Watch
+Adobe Photoshop,.psd,07. Image (Raster),Transform to TIFF,Full
+Alias Pix Image File,".pix, .ico",07. Image (Raster),To be reviewed,Basic
+Animated Portable Network Graphics,.apng,07. Image (Raster),To be reviewed,Basic
+Apple Icon Image Format,.icns,07. Image (Raster),Original,Basic
+BigTIFF,".tiff, .tif",07. Image (Raster),Original,Full
+DjVu File Format,".djv, .djvu",07. Image (Raster),To be reviewed,Watch
+Exchangeable Image File Format (Compressed),".jpeg, .jpg",07. Image (Raster),Transform to TIFF,Full
+Exchangeable Image File Format (Uncompressed),".tif, .tiff",07. Image (Raster),Transform to TIFF,Full
+Flexible Image Transport System,.fits,07. Image (Raster),Transform to TIFF,Watch
+Fujifilm RAW Image Format,.raf,07. Image (Raster),Transform to TIFF,Watch
+Geographic Tagged Image File Format (GeoTIFF),".tif, .tiff, .cog",07. Image (Raster),Original,Full
+Graphics Interchange Format,.gif,07. Image (Raster),Transform to TIFF,Full
+Hasselblad 3FR Raw Image,.3fr,07. Image (Raster),Transform to TIFF,Full
+Icon file format,.ico,07. Image (Raster),Transform to SVG or PNG,Watch
+JPEG File Interchange Format,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (Raster),Transform to TIFF,Full
+JPX (JPEG 2000 part 2),".jpx, .jpf",07. Image (Raster),Transform to TIFF,Full
+Nikon Digital SLR Camera Raw Image File,.nef,07. Image (Raster),Transform to TIFF,Full
+Nikon N-Dimensional Image,..nd2,07. Image (Raster),Original,Watch
+Portable Network Graphics,.png,07. Image (Raster),Transform to TIFF,Full
+Raw Bitmap,.raw,07. Image (Raster),Transform to TIFF,Full
+Raw JPEG Stream,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (Raster),Transform to TIFF,Full
+Tagged Image File Format,".tiff, .tif",07. Image (Raster),Original,Full
+Windows Bitmap,.bmp,07. Image (Raster),Transform to TIFF,Full
+X-Windows Bitmap Image,.xbm,07. Image (Raster),To be reviewed,Watch
+X-Windows Pixmap Image,.xpm,07. Image (Raster),To be reviewed,Watch
+Adobe Illustrator,.ai,08. Image (Vector),Transform to PDF/A,Watch
+Autodesk Animator CEL File Format,".pic, .cel",08. Image (Vector),To be reviewed,Basic
+Drawing Interchange File Format (ASCII),.dxf,08. Image (Vector),Original,Watch
+Drawing Interchange Format (ASCII),.dxf,08. Image (Vector),Original,Watch
+Encapsulated PostScript File Format,.eps,08. Image (Vector),Transform to PDF/A,Watch
+Hewlett Packard Vector Graphic Plotter File,.plt,08. Image (Vector),Transform,Watch
+Scalable Vector Graphics,.svg,08. Image (Vector),Transform to Plain SVG,Full
+AutoCAD Last Saved Layer State,.las,09. Model,To be reviewed,Basic
+Bentley Microstation Hidden Line File,".hln, .dgn",09. Model,Original,Basic
+Binvox,.binvox,09. Model,Original,Basic
+CloudCompare Entity File,.bin,09. Model,Original,Basic
+GL Transmission Format (Binary),.glb,09. Model,Original,Watch
+Lightning Artist Toolkit Format,.latk,09. Model,To be reviewed,Basic
+Microstation CAD Drawing,.dgn,09. Model,Transform to PDF/A,Basic
+Polygon File Format,.ply,09. Model,Original,Watch
+Tilt Brush,.tilt,09. Model,Original,Basic
+Visualization Toolkit,.vtk,09. Model,Original,Watch
+Acrobat PDF 1.1 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full
+Acrobat PDF 1.2 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full
+Acrobat PDF 1.3 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full
+Acrobat PDF 1.4 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full
+Acrobat PDF 1.5 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full
+Acrobat PDF 1.6 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full
+Acrobat PDF 1.7 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full
+Acrobat PDF/A - Portable Document Format,.pdf,10. Page Description,Original,Full
+Acrobat PDF/X - Portable Document Format - Exchange 1a:2001,.pdf,10. Page Description,Transform to PDF/A,Full
+Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4,.pdf,10. Page Description,Transform to PDF/A,Full
+PostScript,.ps,10. Page Description,To be reviewed,Basic
+TeX/LaTeX Device Independent Document,.dvi,10. Page Description,To be reviewed,Basic
+Microsoft Powerpoint Design Template,.potx,11. Presentation,Original,Watch
+Microsoft Powerpoint for Windows,".pptx, .ppt",11. Presentation,Original,Watch
+Adobe Flash,.swf,12. Source Code and Software,To be reviewed,Basic
+B Source Code File,.b,12. Source Code and Software,Original,Full
+Back Up File,.bak,12. Source Code and Software,Original,Watch
+Batch file (executable),.bat,12. Source Code and Software,Original,Full
+Binary File,.bin,12. Source Code and Software,Original,Basic
+C Source Code File,.c,12. Source Code and Software,Original,Full
+C/C++ Header File,".h, .hpp, .hxx",12. Source Code and Software,Original,Full
+C++ Source Code File,".cpp, .cxx, .cc",12. Source Code and Software,Original,Full
+Data File,.dat,12. Source Code and Software,Original,Basic
+DataFlex Query Tag Name,.tag,12. Source Code and Software,Original,Basic
+Executable and Linkable Format,.elf,12. Source Code and Software,Original,Basic
+Fortran,".f90, .f",12. Source Code and Software,Original,Full
+Generic Library File,.lib,12. Source Code and Software,To be reviewed,Basic
+GROK input file,.grok,12. Source Code and Software,To be reviewed,Basic
+Java Class File,.class,12. Source Code and Software,Original,Full
+Java Language Source Code File,.java,12. Source Code and Software,Original,Full
+JavaScript file,.js,12. Source Code and Software,Original,Full
+Jupyter Python Notebook,.ipynb,12. Source Code and Software,Original,Watch
+Log File,.log,12. Source Code and Software,Original,Full
+Mach-O,no extension,12. Source Code and Software,Original,Basic
+MATLAB Script File,.m,12. Source Code and Software,Original,Basic
+Microsoft Windows Shortcut,.lnk,12. Source Code and Software,Original,Basic
+MS-DOS Executable,.exe,12. Source Code and Software,Original,Basic
+Perl Script,.pl,12. Source Code and Software,Original,Full
+PEST Template File,.tpl,12. Source Code and Software,Original,Basic
+PEST Instruction File,.ins,12. Source Code and Software,Original,Basic
+PEST Control File,.pst,12. Source Code and Software,Original,Basic
+PHP Script Page,.php,12. Source Code and Software,Original,Full
+Portable Grey Map - Binary,".pgmb, .pgm",12. Source Code and Software,Original,Basic
+Portable Pixel Map - Binary,".ppm, .ppmb",12. Source Code and Software,Original,Basic
+Python Compiled File,.pyc,12. Source Code and Software,Original,Full
+Python Source Code File,.py,12. Source Code and Software,Original,Full
+R Program File,.r,12. Source Code and Software,Original,Full
+Typescript,.ts,12. Source Code and Software,Original,Full
+Unisys (Sperry) System Data File,.sdf,12. Source Code and Software,To be reviewed,Basic
+VBScript (VBS) File,.vbs,12. Source Code and Software,To be reviewed,Basic
+Windows Portable Executable,".exe, .dll, .sys",12. Source Code and Software,Original,Basic
+Apple iWork Numbers,.numbers,13. Spreadsheet,Transform to CSV,Watch
+Gnumeric,.gnumeric,13. Spreadsheet,To be reviewed,Basic
+Microsoft Excel 5.0/95 Workbook (xls),.xls,13. Spreadsheet,Transform to ODS,Full
+Microsoft Excel 97 Workbook (xls),.xls,13. Spreadsheet,Transform to ODS,Full
+Microsoft Excel for Windows,.xlsx,13. Spreadsheet,Original,Full
+Microsoft Excel Macro-Enabled,.xlsm,13. Spreadsheet,Original,Watch
+Microsoft Multiplan,.mod,13. Spreadsheet,To be reviewed,Basic
+OpenDocument Spreadsheet,.ods,13. Spreadsheet,Original,Full
+Agisoft Project File,.psx,14. Text (Markup),To be reviewed,Basic
+Canadian Avalanche Association Markup Language,.caaml,14. Text (Markup),Original,Full
+Document Type Definition,.dtd,14. Text (Markup),Original,Full
+eRuby HTML document,".rhtml, .rhtm",14. Text (Markup),Original,Full
+Extensible Markup Language,.xml,14. Text (Markup),Original,Full
+Extensible Metadata Platform Format,.xmp,14. Text (Markup),Original,Full
+Extensible Metadata Platform Packet,.xmp,14. Text (Markup),Original,Full
+Geography Markup Language,.gml,14. Text (Markup),Original,Full
+GPS Exchange Format,.gpx,14. Text (Markup),Original,Full
+Hypertext Markup Language,.html,14. Text (Markup),Original,Full
+Keyhole Markup Language (Container),.kmz,14. Text (Markup),Original,Full
+Keyhole Markup Language (XML),.kml,14. Text (Markup),Original,Full
+LaTeX (Master document),.tex,14. Text (Markup),Original,Full
+LaTeX (Subdocument),.tex,14. Text (Markup),Original,Full
+Markdown,.md,14. Text (Markup),Original,Full
+OGR GFS File,.gfs,14. Text (Markup),Original,Watch
+QGIS Metadata File,.qmd,14. Text (Markup),Original,Full
+QGIS Style Language,.qml,14. Text (Markup),Original,Full
+reStructuredText,.rst,14. Text (Markup),Original,Full
+SGML/XML Entity File,.sgml,14. Text (Markup),Original,Full
+Standard Generalized Markup Language,.sgml,14. Text (Markup),Original,Full
+TEI P5 - Single Text File,".tei, .odd, .xml",14. Text (Markup),Original,Full
+XML Property List,.plist,14. Text (Markup),Original,Full
+XML Schema Definition,.xsd,14. Text (Markup),Original,Full
+BibTeX Database File,.bib,15. Text (Structured),Original,Full
+Cascading Style Sheet,.css,15. Text (Structured),Original,Full
+Clock RINEX File Format,.clk,15. Text (Structured),Original,Full
+Comma Separated Values,.csv,15. Text (Structured),Original,Full
+Data Interchange Format,.dif,15. Text (Structured),Original,Watch
+JSON Data Interchange Format,.json,15. Text (Structured),Original,Full
+Leaner Style Sheets,.less,15. Text (Structured),Original,Full
+MD5 File,.md5,15. Text (Structured),Original,Full
+OPML File,.opml,15. Text (Structured),Original,Full
+Prime OCR,.pro,15. Text (Structured),Original,Basic
+PrimeOCR,.pro,15. Text (Structured),Original,Basic
+Protein Data Bank File,.pdb,15. Text (Structured),Original,Watch
+QGIS Spatial Index File,.qix,15. Text (Structured),Original,Watch
+RINEX Observation File,.obs,15. Text (Structured),Original,Full
+Standard for the Exchange of Product model data,".step, .stp",15. Text (Structured),Original,Basic
+Structured Query Language Data,.sql,15. Text (Structured),Original,Full
+Subsurface Material Properties File,.mprops,15. Text (Structured),Original,Full
+Surface Domain Properties File,.oprops,15. Text (Structured),Original,Full
+Syntactically Awesome Style Sheets,".sass, .scss",15. Text (Structured),Original,Full
+Tab-separated Values,".tsv, .tab",15. Text (Structured),Transform to CSV,Full
+Text Configuration file,.ini,15. Text (Structured),Original,Full
+YAML,".yml, .yaml",15. Text (Structured),Original,Full
+7-bit ASCII Text,.asc,16. Text (Unstructured),Original,Full
+Plain Text File,.txt,16. Text (Unstructured),Original,Full
+Audio/Video Interleaved Format,.avi,17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full
+MPEG-1 Program Stream,".mpeg, .mpg",17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full
+MPEG-2 Program Stream,".mpeg, .mpg",17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full
+MPEG-4 Media File,".mp4, .mpa",17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full
+M2TS,".mts, .m2ts",17. Video,Original,Watch
+Quicktime,.mov,17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full
+Windows Media Video,.wmv,17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full
+Microsoft Word (Generic),.doc,18. Word Processing,Transform to ODT,Full
+Microsoft Word Document,".docx, .doc",18. Word Processing,Transform to ODT,Full
+Microsoft Word for Windows,".docx, .doc",18. Word Processing,Transform to ODT,Full
+OpenDocument Text,".odt, .ott",18. Word Processing,Original,Full
+Rich Text Format,.rtf,18. Word Processing,Transform to PDF/A,Full
+Statistica Report File,.str,18. Word Processing,Transform to PDF/A,Watch
+Ventura Publisher,.gen,18. Word Processing,Transform to PDF/A,Watch
+Wordcraft Chapter Files,.001,18. Word Processing,Original,Basic
+WordStar for Windows Document,.ws,18. Word Processing,Transform to PDF/A,Full
+XYWrite Document,.xz,18. Word Processing,Original,Basic

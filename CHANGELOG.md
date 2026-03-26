@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1] - 2026-03-25
+Minor updates
+
+### Added
+Full CSV of formats
+
 ## [1.0.0] - 2026-02-04
 First release. <br>
 Première version.

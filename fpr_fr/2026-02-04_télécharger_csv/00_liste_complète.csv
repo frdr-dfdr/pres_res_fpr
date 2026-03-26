@@ -1,0 +1,235 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Nombre total de fichiers
+7Zip format,.7z,01. Agrégat,Conserver mais extraire le contenu,Complet,1
+Apple Safari Webarchive,.webarchive,01. Agrégat,À réviser,Base,9
+Archiver Format,.ar,01. Agrégat,À réviser,Base,228
+ARJ File Format,.arj,01. Agrégat,À réviser,Base,2
+BZIP2 Compressed Archive,.bz2,01. Agrégat,Conserver mais extraire le contenu,Complet,"2,605,011"
+CPIO,.cpio,01. Agrégat,À réviser,Base,1
+OLE2 Compound Document Format,".ole, .ole2",01. Agrégat,Fichier original,Base,293
+PDF Portfolio,.pdf,01. Agrégat,Conserver mais extraire le contenu si possible,Surveillance,1
+RAR Archive,.rar,01. Agrégat,Conserver mais extraire le contenu,Surveillance,1
+Tape Archive Format,.tar,01. Agrégat,Conserver mais extraire le contenu,Complet,"2,454"
+XZ File Format,.xz,01. Agrégat,Conserver mais extraire le contenu,Complet,5
+ZIP Format,.zip,01. Agrégat,Conserver mais extraire le contenu,Complet,"2,038"
+MPEG 1/2 Audio Layer 3,.mp3,02. Audio,Transformer en format audio Waveform (PCMWAVEFORMAT),Complet,3
+MuBu (MUlti-BUffer) Object,.mubu,02. Audio,Fichier original,Base,63
+Waveform Audio (PCMWAVEFORMAT),.wav,02. Audio,Fichier original,Complet,"65,989"
+dBASE Database,.dbf,03. Base de données,Transformer en CSV,Complet,"29,060"
+Lotus Approach View File,".apt, .apr",03. Base de données,Transformer en CSV,Complet,1
+Microsoft FoxPro Memo,".fpt, .dct",03. Base de données,À réviser,Base,102
+SQLite Database File Format,".sqlite, .db",03. Base de données,Fichier original,Surveillance,105
+Axon Binary Format,.abf,04. Jeu de données,Fichier original,Base,36
+BioSemi Data Format,.bsd,04. Jeu de données,Fichier original,Base,81
+Digital Imaging and Communications in Medicine File Format,.dicom,04. Jeu de données,Fichier original,Base,"2,127"
+FASTA,".fasta, .fas, .fa",04. Jeu de données,Fichier original,Complet,344
+FASTQ,".fastq, .fq",04. Jeu de données,Fichier original,Complet,"5,562"
+Flow Cytometry Standard File,.fcs,04. Jeu de données,Fichier original,Surveillance,59
+HDF5,".hdf, .h5",04. Jeu de données,Fichier original,Surveillance,"31,934"
+MATLAB Mat File,".m, .mat",04. Jeu de données,Fichier original,Base,"37,973"
+MRtrix Image Format,.mif,04. Jeu de données,Fichier original,Surveillance,128
+MRtrix Tracks File Format,.tck,04. Jeu de données,Fichier original,Surveillance,468
+netCDF-3 64-bit,.nc,04. Jeu de données,Fichier original,Surveillance,"5,795"
+netCDF-3 Classic,.nc,04. Jeu de données,Fichier original,Surveillance,"18,508"
+netCDF-4,".nc, .nc4",04. Jeu de données,Fichier original,Surveillance,"678,172"
+The Neuroimaging Informatics Technology Initiative File Format,.nii,04. Jeu de données,Fichier original,Surveillance,"109,239"
+Norbit Wideband Multibeam Sonar Format,.wbm,04. Jeu de données,Fichier original,Base,822
+Origin Project Format,".opj, .opju",04. Jeu de données,Fichier original,Base,3
+QIIME Zipped Artifact,.qza,04. Jeu de données,Fichier original,Surveillance,23
+QIIME Zipped Visualization,.qzv,04. Jeu de données,Fichier original,Surveillance,14
+RData,.rdata,04. Jeu de données,Fichier original,Surveillance,"1,256"
+ROS bag file format,.bag,04. Jeu de données,Fichier original,Base,86
+SPSS Data File,.dat,04. Jeu de données,Fichier original,Base,138
+SPSS Output File (spv),.spv,04. Jeu de données,Fichier original,Base,1
+Stata Data (DTA) Format,.dta,04. Jeu de données,Fichier original,Base,1
+SuperDARN Raw Auto-Correlation Function File,.rawacf,04. Jeu de données,Fichier original,Base,"2,000,903"
+SuperDARN Raw Data File,.dat,04. Jeu de données,Fichier original,Base,"603,976"
+Variant Call Format,.vcf,04. Jeu de données,Fichier original,Surveillance,11
+WinRiver Workspace File,.wrw,04. Jeu de données,Fichier original,Base,3
+ZISRAW (CZI) File Format,.czi,04. Jeu de données,Fichier original,Surveillance,16
+Adobe PostScript Font Metrics file,.pfm,05. Police,Fichier original,Surveillance,505
+Adobe Printer Font Binary,.pfb,05. Police,Fichier original,Surveillance,681
+Daisy-Dot Font File,.nlq,05. Police,Fichier original,Surveillance,4
+Embedded OpenType (EOT) File Format,.eot,05. Police,Fichier original,Surveillance,19
+OpenType Font File,.otf,05. Police,Fichier original,Surveillance,213
+TrueType Font,.tff,05. Police,Fichier original,Surveillance,108
+Web Open Font Format,.woff,05. Police,Fichier original,Surveillance,87
+ASPRS Lidar Data Exchange Format,".las, .laz",06. Données géospatiales,À réviser,Base,"2,536"
+ESRI Arc/Info Binary Grid,.adf,06. Données géospatiales,Fichier original,Base,6
+ESRI ArcInfo DAT File (External),.dat,06. Données géospatiales,Fichier original,Base,5
+ESRI Arc/Info Export File,.e00,06. Données géospatiales,"Transformer en KML, ESRI Shapefile, et/ou GML, selon le cas",Base,1
+ESRI Arc/View ShapeFile,.shp,06. Données géospatiales,Fichier original,Surveillance,"29,057"
+ESRI Arc/View Shapefile Index,.shx,06. Données géospatiales,Fichier original,Base,"29,057"
+ESRI ArcInfo Grid .nit File,.nit,06. Données géospatiales,Fichier original,Base,7
+ESRI ArcMap Document,".mxd, .mxt",06. Données géospatiales,Fichier original,Base,1
+ESRI Code Page File,.cpg,06. Données géospatiales,Fichier original,Base,"28,890"
+ESRI Persistent Auxiliary Metadata File,.aux.xml,06. Données géospatiales,Fichier original,Base,12
+Esri Shapefile Geospatial Metadata File,.xml,06. Données géospatiales,Fichier original,Base,345
+ESRI Shapefile Projection (Well-Known Text) Format,.prj,06. Données géospatiales,Fichier original,Base,"29,169"
+ESRI Spatial Index File,".sbn, .sbx",06. Données géospatiales,Fichier original,Base,710
+ESRI World File Format,.tfw,06. Données géospatiales,Fichier original,Base,88
+OGC GeoPackage,.gpkg,06. Données géospatiales,Fichier original,Surveillance,156
+Adobe Photoshop,.psd,07. Image (matricielle),Transformer en TIFF,Complet,955
+Alias Pix Image File,".pix, .ico",07. Image (matricielle),À réviser,Base,66
+Animated Portable Network Graphics,.apng,07. Image (matricielle),À réviser,Base,64
+Apple Icon Image Format,.icns,07. Image (matricielle),Fichier original,Base,1
+BigTIFF,".tiff, .tif",07. Image (matricielle),Fichier original,Complet,46
+DjVu File Format,".djv, .djvu",07. Image (matricielle),À réviser,Surveillance,3
+Exchangeable Image File Format (Compressed),".jpeg, .jpg",07. Image (matricielle),Transformer en TIFF,Complet,"314,755"
+Exchangeable Image File Format (Uncompressed),".tif, .tiff",07. Image (matricielle),Transformer en TIFF,Complet,"8,489"
+Flexible Image Transport System,.fits,07. Image (matricielle),Transformer en TIFF,Surveillance,7
+Fujifilm RAW Image Format,.raf,07. Image (matricielle),Transformer en TIFF,Surveillance,2
+Geographic Tagged Image File Format (GeoTIFF),".tif, .tiff, .cog",07. Image (matricielle),Fichier original,Complet,"3,671,818"
+Graphics Interchange Format,.gif,07. Image (matricielle),Transformer en TIFF,Complet,"39,149"
+Hasselblad 3FR Raw Image,.3fr,07. Image (matricielle),Transformer en TIFF,Complet,"2,895"
+Icon file format,.ico,07. Image (matricielle),,Surveillance,17
+JPEG File Interchange Format,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (matricielle),Transformer en TIFF,Complet,"3,639,396"
+JPX (JPEG 2000 part 2),".jpx, .jpf",07. Image (matricielle),Transformer en TIFF,Complet,2
+Nikon Digital SLR Camera Raw Image File,.nef,07. Image (matricielle),Transformer en TIFF,Complet,"2,218"
+Portable Network Graphics,.png,07. Image (matricielle),Transformer en TIFF,Complet,"1,160,167"
+Raw Bitmap,.raw,07. Image (matricielle),Transformer en TIFF,Complet,463
+Raw JPEG Stream,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (matricielle),Transformer en TIFF,Complet,763
+Tagged Image File Format,".tiff, .tif",07. Image (matricielle),Fichier original,Complet,"176,712"
+Windows Bitmap,.bmp,07. Image (matricielle),Transformer en TIFF,Complet,"831,198"
+X-Windows Bitmap Image,.xbm,07. Image (matricielle),À réviser,Surveillance,6
+X-Windows Pixmap Image,.xpm,07. Image (matricielle),À réviser,Surveillance,13
+Adobe Illustrator,.ai,08. Image (vectorielle),Transformer en PDF/A,Surveillance,4
+Autodesk Animator CEL File Format,".pic, .cel",08. Image (vectorielle),À réviser,Base,2
+Drawing Interchange File Format (ASCII),.dxf,08. Image (vectorielle),Fichier original,Surveillance,1
+Drawing Interchange Format (ASCII),.dxf,08. Image (vectorielle),Fichier original,Surveillance,5
+Encapsulated PostScript File Format,.eps,08. Image (vectorielle),Transformer en PDF/A,Surveillance,4
+Hewlett Packard Vector Graphic Plotter File,.plt,08. Image (vectorielle),Transformer,Surveillance,1
+Scalable Vector Graphics,.svg,08. Image (vectorielle),Transformer en Plain SVG,Complet,461
+AutoCAD Last Saved Layer State,.las,09. Modèle,À réviser,Base,2
+Bentley Microstation Hidden Line File,".hln, .dgn",09. Modèle,Fichier original,Base,1
+Binvox,.binvox,09. Modèle,Fichier original,Base,"340,338"
+CloudCompare Entity File,.bin,09. Modèle,Fichier original,Base,2
+GL Transmission Format (Binary),.glb,09. Modèle,Fichier original,Surveillance,"56,723"
+Lightning Artist Toolkit Format,.latk,09. Modèle,À réviser,Base,"56,723"
+Microstation CAD Drawing,.dgn,09. Modèle,Transformer en PDF/A,Base,1
+Polygon File Format,.ply,09. Modèle,Fichier original,Surveillance,102
+Tilt Brush,.tilt,09. Modèle,Fichier original,Base,"56,719"
+Visualization Toolkit,.vtk,09. Modèle,Fichier original,Surveillance,"145,761"
+Acrobat PDF 1.1 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,6
+Acrobat PDF 1.2 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,6
+Acrobat PDF 1.3 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,494
+Acrobat PDF 1.4 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,"2,176"
+Acrobat PDF 1.5 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,338
+Acrobat PDF 1.6 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,"1,886"
+Acrobat PDF 1.7 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,71
+Acrobat PDF/A - Portable Document Format,.pdf,10. Description de la page,Fichier original,Complet,2
+Acrobat PDF/X - Portable Document Format - Exchange 1a:2001,.pdf,10. Description de la page,Transformer en PDF/A,Complet,1
+Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4,.pdf,10. Description de la page,Transformer en PDF/A,Complet,1
+PostScript,.ps,10. Description de la page,À réviser,Base,15
+TeX/LaTeX Device Independent Document,.dvi,10. Description de la page,À réviser,Base,8
+Microsoft Powerpoint Design Template,.potx,11. Présentation,Fichier original,Surveillance,11
+Microsoft Powerpoint for Windows,".pptx, .ppt",11. Présentation,Fichier original,Surveillance,59
+Adobe Flash,.swf,12. Code source et logiciel,À réviser,Base,1
+B Source Code File,.b,12. Code source et logiciel,Fichier original,Complet,2
+Back Up File,.bak,12. Code source et logiciel,Fichier original,Surveillance,1
+Batch file (executable),.bat,12. Code source et logiciel,Fichier original,Complet,31
+Binary File,.bin,12. Code source et logiciel,Fichier original,Base,"1,077"
+C Source Code File,.c,12. Code source et logiciel,Fichier original,Complet,396
+C/C++ Header File,".h, .hpp, .hxx",12. Code source et logiciel,Fichier original,Complet,"45,130"
+C++ Source Code File,".cpp, .cxx, .cc",12. Code source et logiciel,Fichier original,Complet,438
+Data File,.dat,12. Code source et logiciel,Fichier original,Base,"10,392"
+DataFlex Query Tag Name,.tag,12. Code source et logiciel,Fichier original,Base,2
+Executable and Linkable Format,.elf,12. Code source et logiciel,Fichier original,Base,524
+Fortran,".f90, .f",12. Code source et logiciel,Fichier original,Complet,"7,965"
+Generic Library File,.lib,12. Code source et logiciel,À réviser,Base,3
+GROK input file,.grok,12. Code source et logiciel,À réviser,Base,20
+Java Class File,.class,12. Code source et logiciel,Fichier original,Complet,2
+Java Language Source Code File,.java,12. Code source et logiciel,Fichier original,Complet,3
+JavaScript file,.js,12. Code source et logiciel,Fichier original,Complet,"3,904"
+Jupyter Python Notebook,.ipynb,12. Code source et logiciel,Fichier original,Surveillance,115
+Log File,.log,12. Code source et logiciel,Fichier original,Complet,"10,541"
+Mach-O,no extension,12. Code source et logiciel,Fichier original,Base,7
+MATLAB Script File,.m,12. Code source et logiciel,Fichier original,Base,995
+Microsoft Windows Shortcut,.lnk,12. Code source et logiciel,Fichier original,Base,8
+MS-DOS Executable,.exe,12. Code source et logiciel,Fichier original,Base,1
+Perl Script,.pl,12. Code source et logiciel,Fichier original,Complet,"1,888"
+PEST Template File,.tpl,12. Code source et logiciel,Fichier original,Base,16
+PEST Instruction File,.ins,12. Code source et logiciel,Fichier original,Base,16
+PEST Control File,.pst,12. Code source et logiciel,Fichier original,Base,8
+PHP Script Page,.php,12. Code source et logiciel,Fichier original,Complet,5
+Portable Grey Map - Binary,".pgmb, .pgm",12. Code source et logiciel,Fichier original,Base,2
+Portable Pixel Map - Binary,".ppm, .ppmb",12. Code source et logiciel,Fichier original,Base,7
+Python Compiled File,.pyc,12. Code source et logiciel,Fichier original,Complet,735
+Python Source Code File,.py,12. Code source et logiciel,Fichier original,Complet,"1,690"
+R Program File,.r,12. Code source et logiciel,Fichier original,Complet,"4,105"
+Typescript,.ts,12. Code source et logiciel,Fichier original,Complet,2
+Unisys (Sperry) System Data File,.sdf,12. Code source et logiciel,À réviser,Base,4
+VBScript (VBS) File,.vbs,12. Code source et logiciel,À réviser,Base,2
+Windows Portable Executable,".exe, .dll, .sys",12. Code source et logiciel,Fichier original,Base,44
+Apple iWork Numbers,.numbers,13. Feuille de calcul,Transformer en CSV,Surveillance,1
+Gnumeric,.gnumeric,13. Feuille de calcul,À réviser,Base,1
+Microsoft Excel 5.0/95 Workbook (xls),.xls,13. Feuille de calcul,Transformer en ODS,Complet,1
+Microsoft Excel 97 Workbook (xls),.xls,13. Feuille de calcul,Transformer en ODS,Complet,157
+Microsoft Excel for Windows,.xlsx,13. Feuille de calcul,Fichier original,Complet,"1,767"
+Microsoft Excel Macro-Enabled,.xlsm,13. Feuille de calcul,Fichier original,Surveillance,3
+Microsoft Multiplan,.mod,13. Feuille de calcul,À réviser,Base,33
+OpenDocument Spreadsheet,.ods,13. Feuille de calcul,Fichier original,Complet,1
+Agisoft Project File,.psx,14. Texte (balisage),À réviser,Base,2
+Canadian Avalanche Association Markup Language,.caaml,14. Texte (balisage),Fichier original,Complet,825
+Document Type Definition,.dtd,14. Texte (balisage),Fichier original,Complet,14
+eRuby HTML document,".rhtml, .rhtm",14. Texte (balisage),Fichier original,Complet,4
+Extensible Markup Language,.xml,14. Texte (balisage),Fichier original,Complet,"7,042"
+Extensible Metadata Platform Format,.xmp,14. Texte (balisage),Fichier original,Complet,"22,785"
+Extensible Metadata Platform Packet,.xmp,14. Texte (balisage),Fichier original,Complet,"30,626"
+Geography Markup Language,.gml,14. Texte (balisage),Fichier original,Complet,5
+GPS Exchange Format,.gpx,14. Texte (balisage),Fichier original,Complet,2
+Hypertext Markup Language,.html,14. Texte (balisage),Fichier original,Complet,"6,472"
+Keyhole Markup Language (Container),.kmz,14. Texte (balisage),Fichier original,Complet,48
+Keyhole Markup Language (XML),.kml,14. Texte (balisage),Fichier original,Complet,94
+LaTeX (Master document),.tex,14. Texte (balisage),Fichier original,Complet,351
+LaTeX (Subdocument),.tex,14. Texte (balisage),Fichier original,Complet,492
+Markdown,.md,14. Texte (balisage),Fichier original,Complet,562
+OGR GFS File,.gfs,14. Texte (balisage),Fichier original,Surveillance,8
+QGIS Metadata File,.qmd,14. Texte (balisage),Fichier original,Complet,50
+QGIS Style Language,.qml,14. Texte (balisage),Fichier original,Complet,4
+reStructuredText,.rst,14. Texte (balisage),Fichier original,Complet,4
+SGML/XML Entity File,.sgml,14. Texte (balisage),Fichier original,Complet,22
+Standard Generalized Markup Language,.sgml,14. Texte (balisage),Fichier original,Complet,1
+TEI P5 - Single Text File,".tei, .odd, .xml",14. Texte (balisage),Fichier original,Complet,1
+XML Property List,.plist,14. Texte (balisage),Fichier original,Complet,6
+XML Schema Definition,.xsd,14. Texte (balisage),Fichier original,Complet,9
+BibTeX Database File,.bib,15. Texte (structuré),Fichier original,Complet,403
+Cascading Style Sheet,.css,15. Texte (structuré),Fichier original,Complet,"1,015"
+Clock RINEX File Format,.clk,15. Texte (structuré),Fichier original,Complet,188
+Comma Separated Values,.csv,15. Texte (structuré),Fichier original,Complet,"849,997"
+Data Interchange Format,.dif,15. Texte (structuré),Fichier original,Surveillance,2
+JSON Data Interchange Format,.json,15. Texte (structuré),Fichier original,Complet,"139,497"
+Leaner Style Sheets,.less,15. Texte (structuré),Fichier original,Complet,14
+MD5 File,.md5,15. Texte (structuré),Fichier original,Complet,147
+OPML File,.opml,15. Texte (structuré),Fichier original,Complet,1
+Prime OCR,.pro,15. Texte (structuré),Fichier original,Base,173
+PrimeOCR,.pro,15. Texte (structuré),Fichier original,Base,961
+Protein Data Bank File,.pdb,15. Texte (structuré),Fichier original,Surveillance,51
+QGIS Spatial Index File,.qix,15. Texte (structuré),Fichier original,Surveillance,3
+RINEX Observation File,.obs,15. Texte (structuré),Fichier original,Complet,24
+Standard for the Exchange of Product model data,".step, .stp",15. Texte (structuré),Fichier original,Base,4
+Structured Query Language Data,.sql,15. Texte (structuré),Fichier original,Complet,5
+Subsurface Material Properties File,.mprops,15. Texte (structuré),Fichier original,Complet,28
+Surface Domain Properties File,.oprops,15. Texte (structuré),Fichier original,Complet,28
+Syntactically Awesome Style Sheets,".sass, .scss",15. Texte (structuré),Fichier original,Complet,14
+Tab-separated Values,".tsv, .tab",15. Texte (structuré),Transformer en CSV,Complet,"4,883"
+Text Configuration file,.ini,15. Texte (structuré),Fichier original,Complet,"2,308"
+YAML,".yml, .yaml",15. Texte (structuré),Fichier original,Complet,"4,336"
+7-bit ASCII Text,.asc,16. Texte (non structuré),Fichier original,Complet,"1,891,856"
+Plain Text File,.txt,16. Texte (non structuré),Fichier original,Complet,"1,214,067"
+Audio/Video Interleaved Format,.avi,17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,"2,588"
+MPEG-1 Program Stream,".mpeg, .mpg",17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,"12,506"
+MPEG-2 Program Stream,".mpeg, .mpg",17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,"1,272"
+MPEG-4 Media File,".mp4, .mpa",17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,"40,293"
+M2TS,".mts, .m2ts",17. Vidéo,Fichier original,Surveillance,47
+Quicktime,.mov,17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,134
+Windows Media Video,.wmv,17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,2
+Microsoft Word (Generic),.doc,18. Traitement de texte,Transformer en ODT,Complet,1
+Microsoft Word Document,".docx, .doc",18. Traitement de texte,Transformer en ODT,Complet,26
+Microsoft Word for Windows,".docx, .doc",18. Traitement de texte,Transformer en ODT,Complet,102
+OpenDocument Text,".odt, .ott",18. Traitement de texte,Fichier original,Complet,2
+Rich Text Format,.rtf,18. Traitement de texte,Transformer en PDF/A,Complet,57
+Statistica Report File,.str,18. Traitement de texte,Transformer en PDF/A,Surveillance,1
+Ventura Publisher,.gen,18. Traitement de texte,Transformer en PDF/A,Surveillance,1
+Wordcraft Chapter Files,.001,18. Traitement de texte,Fichier original,Base,1
+WordStar for Windows Document,.ws,18. Traitement de texte,Transformer en PDF/A,Complet,1
+XYWrite Document,.xz,18. Traitement de texte,Fichier original,Base,3
