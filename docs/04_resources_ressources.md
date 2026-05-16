@@ -1,4 +1,15 @@
 # Resources
+## Acronyms
+To help differentiate between formats that have extensions in common with other formats, the name of the software or the model used to create the format is added in parenthesis.
+
+|Acronym|Full Name|
+|:-------|:----------|
+|[CSRS-PPP](https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp-info.php?locale=en)|Canadian Spatial Reference System Precise Point Positioning|
+|[GROMACS](https://www.gromacs.org/)|GROningen MAchine for Chemical Simulations|
+|[RINEX](https://igs.org/wg/rinex/)|Receiver Independent Exchange Format|
+
+
+## Format Identification
 The table below contains resources related to file formats and file format identification.
 
 |Resource|Description|
@@ -13,6 +24,17 @@ The table below contains resources related to file formats and file format ident
 
 ---
 # Ressources
+## Acronyme
+Afin de permettre de distinguer les formats dont l'extension est identique à celle d'autres formats, le nom du logiciel ou du modèle utilisé pour créer le format est ajouté entre parenthèses.
+
+|Acronyme|Nom complet|
+|:-------|:----------|
+|[CSRS-PPP](https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp-info.php?locale=fr)|Canadian Spatial Reference System Precise Point Positioning|
+|[GROMACS](https://www.gromacs.org/)|GROningen MAchine for Chemical Simulations|
+|[RINEX](https://igs.org/wg/rinex/)|Receiver Independent Exchange Format|
+
+
+## Identification du format
 Le tableau ci-dessous contient des ressources relatives aux formats de fichiers et à leur identification.
 
 |Ressource|Description|

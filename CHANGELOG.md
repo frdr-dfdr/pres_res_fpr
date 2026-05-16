@@ -1,11 +1,56 @@
 # Changelog
+## [1.1.0] - 2026-06-01
+Minor updates
 
+### Added 
+#### Formats
+- Acoustic Doppler Velocity Data File
+- Browser Extensible Data format
+- HPL (Halo Photonics) Doppler LiDAR File Format
+- NumPy Format
+- Position File (CSRS-PPP)
+- Tropospheric Zenith Delay File (CRSR-PPP)
+- Summary File (CSRS-PPP)
+- Atom Renaming Database (GROMACS)
+- Atom Type Parameter File (GROMACS)
+- Gromos87 Format (GROMACS)
+- Hydrogen Database (GROMACS)
+- Include Typology (GROMACS)
+- Molecular Dynamics Parameters File (GROMACS)
+- Residue to Building Block File (GROMACS)
+- Residue Topology Parameter File (GROMACS)
+- Termini Database (ASCII) File (GROMACS)
+- Topology File (GROMACS)
+- Trajectory Trace Record File (GROMACS)
+- Virtual Site Definition File (GROMACS)
+- AlgoMesh-HydroGeoSphere 2D Mesh Interchange Format
+- Fortran Namelist Format
+- B-matrices file
+- B-values file
+- B-vectors file
+- FASTA Nucleic Acid
+- Spectrometer Configuration Info File
+- Spectrometer Parameter File
+
+#### Resources
+- Links to format signatures developed by Digital Preservation Services
+- Risk Levels - Beta
+
+### Changed
+- Updated netCDF-4 to netCDF-4/HDF5
+- Update Variant Call Format (.vcf) to `Full` preservation level
+
+### Removed
+- WordStar for Windows Document(.wsd). Format misidentified
+
+---
 ## [1.0.1] - 2026-03-25
 Minor updates
 
 ### Added
 Full CSV of formats
 
+---
 ## [1.0.0] - 2026-02-04
 First release. <br>
 Première version.
