@@ -29,7 +29,8 @@ Each file type is grouped into a larger file category. A table for each category
 |Risk Level|Includes the risk to long-term access and reuse associated with a format.| 
 |Total Files|Includes the number of files in FRDR associated with the format.| 
 
-[Full Format Listing](./fpr_en/2026-05-25_csv_downloads/00_full_listing.csv) (CSV 16 KB)
+- [Full Format Listing](./fpr_en/2026-05-25_csv_downloads/00_full_listing.csv) (CSV 16 KB)
+- [Signature Files](https://drive.google.com/drive/folders/1j6AcG88DUs2rIZ3GmOsq8nj4uo7wPVmx?usp=drive_link)
 
 ## Catégories
 - [00-Strategy](/fpr_en/00_strategy.md)
@@ -90,7 +91,9 @@ Chaque type de fichier est regroupé dans une catégorie de fichiers plus large.
 |Niveau de risque|Comprend le risque lié à l'accès et à la réutilisation à long terme associés à un format.| 
 |Nombre total de fichiers| Comprend le nombre de fichiers dans le DFDR associés au format.|
 
-[Liste complète des formats](../pres_res_fpr/fpr_fr/2026-05-25_télécharger_csv/00_liste_complète.csv) (CSV 20 KB)
+- [Liste complète des formats](../pres_res_fpr/fpr_fr/2026-05-25_télécharger_csv/00_liste_complète.csv) (CSV 20 KB)
+- [Fichiers de signature](https://drive.google.com/drive/folders/1j6AcG88DUs2rIZ3GmOsq8nj4uo7wPVmx?usp=drive_link)
+  
 ## Catégories
 - [00-Stratégie](/fpr_fr/00_stratégie.md)
 - [01-Agrégat](/fpr_fr/01_agrégat.md)

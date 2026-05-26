@@ -1,4 +1,5 @@
 # Format Risk Matrix
+Last updated: 2026-05-25
 
 ## Purpose
 
@@ -87,7 +88,7 @@ Compression inhibits transparency. If a repository must take in material that is
 | Question | Description |
 | :---- | :---- |
 | Is the format character-based? | Character-based file formats are human readable, platform-independent and based in a character encoding (ASCII, UTF-8, etc.) |
-| Can the file be identified by elements other than the extension?  | File formats that have an internal signature increase the ability of the file to be identified. |
+| Can the file be identified by elements other than the extension?  | File formats that have an internal signature increases the ability of the file being identified. |
 | Is the format uncompressed? | Compressed file formats are used to optimize space and transmission but some compression methods result in permanently removing data from the file. The most common compression methods are known as lossy and lossless. |
 | **If yes,** does the format use a compression other than lossy?  | Lossy compression permanently removes data from files. This causes degradation of the data in comparison from its original.|
 | **Multiplier x 1** | 

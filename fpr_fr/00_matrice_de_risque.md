@@ -1,4 +1,5 @@
 # Matrice des risques
+Dernière mise à jour : 2026-05-25
 
 ## Objectif
 
@@ -67,73 +68,73 @@ La notion de « divulgation » désigne le degré auquel une spécification comp
 
 ### Adoption
 
-Adoption refers to the level in which a format is in use by the community, primary creators and disseminators. The more widely used the format the less likely it will disappear. Tools to mitigate obsolescence such as emulation and migration are more likely to be in place. If the format has been assessed as preferred or acceptable for long-term preservation at other repositories or institutions engaged with long-term preservation work, this also provides evidence of adoption. 
+L'adoption désigne le degré d'utilisation d'un format par la communauté, les principaux créateurs et les diffuseurs. Plus un format est largement utilisé, moins il risque de disparaître. Des outils visant à limiter son obsolescence, tels que l'émulation et la migration, sont alors plus susceptibles d'être mis en place. Si le format a été jugé préférable ou acceptable pour la préservation à long terme par d'autres dépôts ou institutions engagés dans des travaux de préservation à long terme, cela constitue également une preuve de son adoption. 
 
 | Question | Description |
 | :---- | :---- |
 | Le format est-il utilisé à des fins de préservation par la communauté ? | Les formats largement utilisés par les dépôts et reconnus comme formats de préservation privilégiés sont généralement plus stables à long terme.|
-| Is the format prevalent within the community/research field? | The more widely used a file format is used in the research field or for research data in general the more likely the file will remain in existence in the long-term. |
-| Is the file format actively maintained by the community? | File formats that are maintained by a community rather than one or two individuals are more likely to remain available in the long-term. |
-| **Multiplier x 2**|  |
+| Le format est-il répandu au sein de la communauté ou du domaine de recherche ? | Plus un format est largement utilisé dans un domaine de recherche ou pour les données de recherche en général, plus il est susceptible d’être maintenu à long terme. |
+| Le format est-il activement maintenu par une communauté ?| Les formats maintenus par une communauté, plutôt que par une ou deux personnes, sont plus susceptibles de rester disponibles à long terme. |
+| **Multiplicateur x 2**|  |
 
-### Transparency
+### Transparence
 
-Transparency refers to a format that can be analyzed using basic tools including text-only editors. Transparency is enhanced if metadata is embedded for non-text content in a UNICODE using UTF-8 encoding. Source code is more transparent than compiled code. 
+La transparence désigne un format pouvant être analysé à l'aide d'outils de base, notamment des éditeurs de texte brut. La transparence est renforcée si les métadonnées sont intégrées pour le contenu non textuel dans un fichier Unicode utilisant l'encodage UTF-8. Le code source est plus transparent que le code compilé. 
 
-Encryption is incompatible with transparency.
+Le chiffrement est incompatible avec la transparence.
 
-Compression inhibits transparency. If a repository must take in material that is compressed, compression algorithms that are common and widely used are preferred. Lossless would be preferred to lossy compression
-
-| Question | Description |
-| :---- | :---- |
-| Is the format character-based? | Character-based file formats are human readable, platform-independent and based in a character encoding (ASCII, UTF-8, etc.) |
-| Can the file be identified by elements other than the extension?  | File formats that have an internal signature increase the ability of the file to be identified. |
-| Is the format uncompressed? | Compressed file formats are used to optimize space and transmission but some compression methods result in permanently removing data from the file. The most common compression methods are known as lossy and lossless. |
-| **If yes,** does the format use a compression other than lossy?  | Lossy compression permanently removes data from files. This causes degradation of the data in comparison from its original.|
-| **Multiplier x 1** | 
-
-### Self-Documentation
-
-Self-Documentation refers to formats with metadata stored with the digital object that is used to render the digital object. These formats are easier to sustain over time. The ability of the format to hold administrative and technical metadata is an advantage for preservation.
+La compression nuit à la transparence. Si un référentiel doit accepter des données compressées, il est préférable d'utiliser des algorithmes de compression courants et largement utilisés. Une compression sans perte est préférable à une compression avec perte.
 
 | Question | Description |
 | :---- | :---- |
-| Does the format natively include metadata that documents the file and the technical environment used to create (and/or modify) it? | Formats that natively include technical metadata about their creation will likely be easier to sustain and provide access to over time. |
-| Does the format support adding embedded metadata through manual or automated processes? | Formats that natively support adding embedded descriptive and administrative metadata are more likely to contain information about the context of their creation and the chain of custody, both of which are important for providing meaningful access to records over time. |
-| **Multiplier x 1 - override on binary formats add 3** |  |
+| Le format est-il en mode caractère ? | Les formats basés sur des caractères sont lisibles par l’humain, indépendants des plateformes et fondés sur un encodage de caractères (ASCII, UTF-8, etc.). |
+| Le fichier peut-il être identifié par des éléments autres que son extension ? | Les formats disposant d’une signature interne facilitent l’identification des fichiers. Ces signatures devraient figurer dans un registre de formats. |
+| Le format est-il non compressé ? | Les formats compressés sont utilisés pour optimiser l’espace et la transmission, mais certaines méthodes de compression entraînent une suppression permanente de données. Les deux méthodes de compression les plus courantes sont la compression avec perte (Losey) et la compression. |
+| Le cas échéant, le format utilise-t-il une compression avec perte ? |La compression avec perte supprime définitivement des données des fichiers, entraînant une dégradation par rapport à l’original.|
+| **Multiplicateur x 1** | 
 
-### External Dependencies
+### Auto-documentation
 
-External Dependencies refers to the degree to which the format depends on a particular hardware, software and operating system to be rendered.
-
-The ability to sustain static content is easier than sustaining dynamic content.
-
-| Question | Description |
-| :---- | :---- |
-| Can the format be used in various hardware environments to be rendered? | If a specific hardware environment needed to render and migrate the file format, if yes, the likelihood of continued access is diminished. |
-| Are there many renderers available for the format? | If renderers are not available for the format then there is less likelihood of providing continued access. |
-| Is at least one renderer open source? | If renderers are only proprietary then the risk of being able to render the object is put at risk. Older renderers may discontinue support for older versions of the formats as they are updated. |
-| Can the format be rendered or executed in multiple computing operating systems? | Formats that cannot be rendered in more than one computing operating system are typically representative of data that is difficult to transfer between computing systems. |
-| Is the software that was used to create the format currently supported? | Can the software be deployed using current hardware environments? If not, then a risk to the digital object is present. |
-| **Multiplier x 1** |  |
-
-### Impact of Patents {#impact-of-patents}
-
-Impact of Patents refers to the limitations from licenses or patents to decode formats for future use. This will impact the development of open source encoders or decoders that can aid in rendering the digital object.
+L'auto-documentation désigne les formats dans lesquels les métadonnées sont stockées avec l'objet numérique et servent à afficher ce dernier. Ces formats sont plus faciles à conserver à long terme. La capacité du format à contenir des métadonnées administratives et techniques constitue un avantage pour la préservation.
 
 | Question | Description |
 | :---- | :---- |
-| Is the format free of patent claims? | Formats subject to patent claims have higher preservation risk associated with them as the ability to manage the formats is tied to a specific software. |
-| Does the format have open source license terms? | File formats that have open licenses associated with their usages have a low risk related to usage of the format and the creation of tools to process the format for access and long-term preservation. |
-| **Multiplier x 1** |  |
+| Le format inclut-il nativement des métadonnées documentant le fichier et l’environnement technique utilisé pour sa création (et/ou sa modification) ? | Les formats intégrant nativement des métadonnées techniques relatives à leur création sont généralement plus faciles à maintenir et à rendre accessibles dans le temps.|
+| Le format permet-il l’intégration de métadonnées intégrées, manuellement ou automatiquement ? | Les formats qui prennent en charge l’intégration de métadonnées descriptives et administratives intégrées sont plus susceptibles de contenir des informations sur le contexte de création et la chaîne de conservation, deux éléments essentiels pour assurer un accès significatif à long terme.|
+| **Multiplicateur x 1 - pour les formats binaires, ajouter 3** |  | 
 
-### Technical Protection Mechanisms {#technical-protection-mechanisms}
+### Dépendances externes
 
-Technical Protection Mechanisms (TPMs) refers to the ability to replicate digital content on new media, through migration or normalization activities.
+Les « dépendances externes » désignent le degré de dépendance du format vis-à-vis d'un matériel, d'un logiciel et d'un système d'exploitation spécifiques pour son affichage.
+
+Il est plus facile de prendre en charge un contenu statique qu'un contenu dynamique.
 
 | Question | Description |
 | :---- | :---- |
-| Is the format free of encryption? | Encryption restricts access and creates risks to managing and migrating files in the long-term. |
-| Is the format free of technical protection measures? | Similar to encryption, technical protection measures may prevent organizations from rendering the file for validation and processing, and they also inhibit long-term access to the content. |
-| **Multiplier x 2** |  |
+| Ce format peut-il être utilisé dans différents environnements matériels pour être affiché ? | Si un environnement matériel particulier est requis pour le rendu et la migration du format, la probabilité d’un accès continu diminue.|
+| Existe-t-il plusieurs logiciels permettant le rendu du format ? | Si aucun logiciel permettant de rendre le format n’est disponible, il devient plus difficile d’assurer un accès continu. |
+| Au moins un logiciel permettant le rendu du format est-il à code source ouvert ?| Lorsque les logiciels de rendu sont exclusivement propriétaires, le risque d’impossibilité de rendre les fichiers à l’avenir augmente. À mesure que les logiciels sont mis à jour, la prise en charge des versions plus anciennes des formats peut être abandonnée. |
+| Le format peut-il être rendu ou exécuté sur plusieurs systèmes d’exploitation ?| Les formats qui ne peuvent être rendus sur plus d’un système d’exploitation sont généralement plus difficiles à transférer entre environnements informatiques.|
+| Existe-t-il actuellement un logiciel pris en charge dans les environnements informatiques actuels permettant de créer ce format ? | Le logiciel peut-il être déployé sur les environnements matériels actuels ? Si ce n'est pas le cas, cela représente un risque pour l'objet numérique. |
+| **Multiplicateur x 1** |  |
+
+### Incidence des brevets
+
+L'impact des brevets fait référence aux restrictions imposées par les licences ou les brevets concernant le décodage des formats en vue d'une utilisation future. Cela aura des répercussions sur le développement d'encodeurs ou de décodeurs open source susceptibles de faciliter le rendu de l'objet numérique.
+
+| Question | Description |
+| :---- | :---- |
+| Le format est-il assujetti à des revendications de brevet ? | Les formats assujettis à des revendications de brevet présentent un risque accru en matière de préservation, car leur gestion dépend d’un logiciel spécifique.|
+| Le format est-il assorti de modalités de licence libre ou à code source ouvert ? | Les formats de fichiers dont l'utilisation est régie par des licences ouvertes présentent un risque moindre en matière de pérennité de l'accès. |
+| **Multiplicateur x 1** |  |
+
+### Mécanismes de protection technique
+
+Les mécanismes techniques de protection  désignent la capacité à reproduire des contenus numériques sur de nouveaux supports, par le biais d'opérations de migration ou de normalisation.
+
+| Question | Description |
+| :---- | :---- |
+| Le format nécessite-t-il un chiffrement ? | Le chiffrement restreint l’accès et crée des risques pour la gestion et la migration des fichiers à long terme. |
+| Le format utilise-t-il des mesures de protection techniques ? | À l’instar d’autres formes de chiffrement, les mesures techniques de protection peuvent empêcher les organisations de rendre les fichiers à des fins de validation et de traitement, et entravent également l’accès à long terme au contenu. |
+| **Multiplicateur x 2** |  |
 
