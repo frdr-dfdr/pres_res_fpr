@@ -118,7 +118,7 @@ The ability to sustain static content is easier than sustaining dynamic content.
 | Is the software that was used to create the format currently supported? | Can the software be deployed using current hardware environments? If not, then a risk to the digital object is present. |
 | **Multiplier x 1** |  |
 
-### Impact of Patents {#impact-of-patents}
+### Impact of Patents
 
 Impact of Patents refers to the limitations from licenses or patents to decode formats for future use. This will impact the development of open source encoders or decoders that can aid in rendering the digital object.
 
@@ -128,7 +128,7 @@ Impact of Patents refers to the limitations from licenses or patents to decode f
 | Does the format have open source license terms? | File formats that have open licenses associated with their usages have a low risk related to usage of the format and the creation of tools to process the format for access and long-term preservation. |
 | **Multiplier x 1** |  |
 
-### Technical Protection Mechanisms {#technical-protection-mechanisms}
+### Technical Protection Mechanisms
 
 Technical Protection Mechanisms (TPMs) refers to the ability to replicate digital content on new media, through migration or normalization activities.
 
