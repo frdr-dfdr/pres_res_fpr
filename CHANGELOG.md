@@ -2,10 +2,6 @@
 ## [1.1.0] - 2026-05-25
 Minor updates
 
-Formats that were similar, such as header files, were grouped together as one format as they were similar in structure and functionality.
-
-Dataset [`Crowdsourced Flow Cytometry Dataset from EVE Online’s Project Discovery for Machine Learning Applications`](https://doi.org/10.20383/103.01043) has a `flowmagic_final.tar` file that is meant to be used with Docker. The original file listing had extracted the content in the `tar`. For the time being, the files will remain as part of the `tar`, not counted individually. This is the reason that some formats in the FPR have a total of 0 files associated with them. It also accounts for the lower, total identified formats in the stats.
-
 ### Added 
 #### Formats
 - Acoustic Doppler Velocity Data File
@@ -45,7 +41,6 @@ Dataset [`Crowdsourced Flow Cytometry Dataset from EVE Online’s Project Discov
 - Update Variant Call Format (.vcf) to `Full` preservation level
 
 ### Removed
-- WordStar for Windows Document(.wsd). Format misidentified
 
 ---
 ## [1.0.1] - 2026-03-25
