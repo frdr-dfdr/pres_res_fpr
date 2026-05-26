@@ -1,0 +1,26 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Nombre total de fichiers
+Agisoft Project File,.psx,14. Texte (balisage),À réviser,Base,Risque élevé,2
+Canadian Avalanche Association Markup Language,.caaml,14. Texte (balisage),Fichier original,Complet,Risque faible,825
+Document Type Definition,.dtd,14. Texte (balisage),Fichier original,Complet,Risque faible,0
+eRuby HTML document,".rhtml, .rhtm",14. Texte (balisage),Fichier original,Complet,Risque faible,0
+Extensible Markup Language,.xml,14. Texte (balisage),Fichier original,Complet,Risque faible,"6,683"
+Extensible Metadata Platform Format,.xmp,14. Texte (balisage),Fichier original,Complet,Risque faible,"37,261"
+Extensible Metadata Platform Packet,.xmp,14. Texte (balisage),Fichier original,Complet,Risque faible,"16,148"
+Geography Markup Language,.gml,14. Texte (balisage),Fichier original,Complet,Risque faible,0
+GPS Exchange Format,.gpx,14. Texte (balisage),Fichier original,Complet,Risque faible,2
+Hypertext Markup Language,.html,14. Texte (balisage),Fichier original,Complet,Risque faible,"13,433"
+Keyhole Markup Language (Container),.kmz,14. Texte (balisage),Fichier original,Complet,Risque faible,51
+Keyhole Markup Language (XML),.kml,14. Texte (balisage),Fichier original,Complet,Risque faible,46
+LaTeX (Master document),.tex,14. Texte (balisage),Fichier original,Complet,Risque faible,3
+LaTeX (Subdocument),.tex,14. Texte (balisage),Fichier original,Complet,Risque faible,492
+Markdown,.md,14. Texte (balisage),Fichier original,Complet,Risque faible,307
+OGR GFS File,.gfs,14. Texte (balisage),Fichier original,Surveillance,Moderate,0
+QGIS Metadata File,.qmd,14. Texte (balisage),Fichier original,Complet,Risque faible,32
+QGIS Style Language,.qml,14. Texte (balisage),Fichier original,Complet,Risque faible,4
+reStructuredText,.rst,14. Texte (balisage),Fichier original,Complet,Risque faible,0
+SGML/XML Entity File,.sgml,14. Texte (balisage),Fichier original,Complet,Moderate,0
+Standard Generalized Markup Language,.sgml,14. Texte (balisage),Fichier original,Complet,Moderate,0
+TEI P5 - Single Text File,".tei, .odd, .xml",14. Texte (balisage),Fichier original,Complet,Risque faible,0
+Vicon Skeleton File/Vicon Labeling Setup file,.vsk,14. Texte (balisage),Fichier original,Complet,HIgh,0
+XML Property List,.plist,14. Texte (balisage),Fichier original,Complet,Risque faible,0
+XML Schema Definition,.xsd,14. Texte (balisage),Fichier original,Complet,Risque faible,0

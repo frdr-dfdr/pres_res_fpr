@@ -1,0 +1,8 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Total Files
+Adobe PostScript Font Metrics file,.pfm,05. Font,Original,Watch,Moderate,505
+Adobe Printer Font Binary,.pfb,05. Font,Original,Basic,High,681
+Daisy-Dot Font File,.nlq,05. Font,Original,Basic,High,0
+Embedded OpenType (EOT) File Format,.eot,05. Font,Original,Watch,High,0
+OpenType Font File,.otf,05. Font,Original,Watch,Low,0
+TrueType Font,.tff,05. Font,Original,Watch,Low,0
+Web Open Font Format,.woff,05. Font,Original,Watch,Low,0

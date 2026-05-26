@@ -1,0 +1,13 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Nombre total de fichiers
+Acrobat PDF 1.1 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,6
+Acrobat PDF 1.2 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,6
+Acrobat PDF 1.3 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,498
+Acrobat PDF 1.4 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,"6,233"
+Acrobat PDF 1.5 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,738
+Acrobat PDF 1.6 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,"1,884"
+Acrobat PDF 1.7 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Risque faible,90
+Acrobat PDF/A - Portable Document Format,.pdf,10. Description de la page,Fichier original,Complet,Risque faible,2
+Acrobat PDF/X - Portable Document Format - Exchange 1a:2001,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,1
+Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Risque faible,1
+PostScript,.ps,10. Description de la page,À réviser,Base,Risque faible,0
+TeX/LaTeX Device Independent Document,.dvi,10. Description de la page,À réviser,Base,Risque élevé,0

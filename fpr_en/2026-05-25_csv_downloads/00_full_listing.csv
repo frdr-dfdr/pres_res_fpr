@@ -1,0 +1,262 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level
+7Zip format,.7z,01. Aggregate,Retain but extract content,Full,Moderate
+Apple Safari Webarchive,.webarchive,01. Aggregate,To be reviewed,Basic,High
+Archiver Format,.ar,01. Aggregate,To be reviewed,Basic,Moderate
+ARJ File Format,.arj,01. Aggregate,To be reviewed,Basic,High
+BZIP2 Compressed Archive,.bz2,01. Aggregate,Retain but extract content,Full,Moderate
+CPIO,.cpio,01. Aggregate,To be reviewed,Basic,Moderate
+OLE2 Compound Document Format,".ole, .ole2",01. Aggregate,Original,Basic,Moderate
+PDF Portfolio,.pdf,01. Aggregate,Retain but extract content if possible,Watch,Low
+RAR Archive,.rar,01. Aggregate,Retain but extract content,Watch,High
+Tape Archive Format,.tar,01. Aggregate,Retain but extract content,Full,Moderate
+XZ File Format,.xz,01. Aggregate,Retain but extract content,Full,Low
+ZIP Format,.zip,01. Aggregate,Retain but extract content,Full,Low
+MPEG 1/2 Audio Layer 3,.mp3,02. Audio,Transform to Waveform Audio (PCMWAVEFORMAT),Full,Moderate
+MuBu (MUlti-BUffer) Object,.mubu,02. Audio,Original,Basic,Moderate
+Waveform Audio (PCMWAVEFORMAT),.wav,02. Audio,Original,Full,Moderate
+dBASE Database,.dbf,03. Database,Transform to CSV,Full,Moderate
+Lotus Approach View File,".apt, .apr",03. Database,Transform to CSV,Full,High
+Microsoft FoxPro Memo,".fpt, .dct",03. Database,To be reviewed,Basic,High
+SQLite Database File Format,".sqlite, .db",03. Database,Original,Watch,Low
+Axon Binary Format,.abf,04. Dataset,Migrate to Axon Text Format - to be reviewed.,Basic,Moderate
+Browser Extensible Data format,.bed,04. Dataset,Original,Full,Low
+BioSemi Data Format,.bdf,04. Dataset,Original,Basic,Moderate
+CMZ Format,.cmz,04. Dataset,Original,Basic,High
+CMX Index Format,.cmx,04. Dataset,Original,Basic,High
+Digital Imaging and Communications in Medicine File Format,.dicom,04. Dataset,Original,Basic,Low
+FASTA,".fasta, .fas, .fa",04. Dataset,Original,Full,Low
+FASTA Nucleic Acid,.fna,04. Dataset,Original,Full,Low
+FASTQ,".fastq, .fq",04. Dataset,Original,Full,Low
+Flow Cytometry Standard File,.fcs,04. Dataset,Original,Watch,Low
+Gromos87 Format (GROMACS),.gro,04. Dataset,Original,Full,Low
+HDF5,".hdf, .h5",04. Dataset,Original,Watch,Low
+Hydrogen Database (GROMACS),.hdb,04. Dataset,Original,Full,Low
+Include Typology (GROMACS),.itp,04. Dataset,Original,Full,Low
+MATLAB Mat File,.mat,04. Dataset,Original,Basic,Moderate
+MATLAB Script File,.m,04. Dataset,,Basic,Low
+Molecular Dynamics Parameters File (GROMACS),.mdp,04. Dataset,Original,Full,Low
+MRtrix Image Format,.mif,04. Dataset,Original,Watch,Moderate
+MRtrix Tracks File Format,.tck,04. Dataset,Original,Watch,Moderate
+netCDF-3 64-bit,.nc,04. Dataset,Original,Watch,Low
+netCDF-3 Classic,.nc,04. Dataset,Original,Watch,Low
+netCDF-4/HDF5,".nc, .nc4",04. Dataset,Original,Watch,Low
+The Neuroimaging Informatics Technology Initiative File Format,.nii,04. Dataset,Original,Watch,High
+Norbit Wideband Multibeam Sonar Format,.wbm,04. Dataset,Original,Basic,Moderate
+Origin Project Format,".opj, .opju",04. Dataset,Original,Basic,Moderate
+QIIME Zipped Artifact,.qza,04. Dataset,Original,Watch,Low
+QIIME Zipped Visualization,.qzv,04. Dataset,Original,Watch,Low
+RData,.rdata,04. Dataset,Original,Watch,Low
+Residue to Building Block File (GROMACS),.r2b,04. Dataset,Original,Watch,Low
+Residue Topology Parameter File (GROMACS),.rtp,04. Dataset,Original,Full,Low
+ROS bag file format,.bag,04. Dataset,Original,Basic,Low
+SPSS Data File,.dat,04. Dataset,Original,Basic,Moderate
+SPSS Output File (spv),.spv,04. Dataset,Original,Basic,High
+Stata Data (DTA) Format,.dta,04. Dataset,Original,Basic,Moderate
+SuperDARN Raw Auto-Correlation Function File,.rawacf,04. Dataset,Original,Basic,Moderate
+SuperDARN Raw Data File,.dat,04. Dataset,Original,Basic,Moderate
+Termini Database (ASCII) File (GROMACS),.tdb,04. Dataset,Original,Full,Low
+Topology File (GROMACS),.top,04. Dataset,Original,Full,Low
+Trajectory Trace Record File (GROMACS),.trr,04. Dataset,Original,Watch,Low
+Variant Call Format,.vcf,04. Dataset,Original,Full,Low
+Virtual Site Definition File (GROMACS),.vsd,04. Dataset,Original,Full,Low
+WinRiver Workspace File,.wrw,04. Dataset,Original,Basic,High
+ZISRAW (CZI) File Format,.czi,04. Dataset,Original,Watch,Moderate
+Adobe PostScript Font Metrics file,.pfm,05. Font,Original,Watch,Moderate
+Adobe Printer Font Binary,.pfb,05. Font,Original,Basic,High
+Daisy-Dot Font File,.nlq,05. Font,Original,Basic,High
+Embedded OpenType (EOT) File Format,.eot,05. Font,Original,Watch,High
+OpenType Font File,.otf,05. Font,Original,Watch,Low
+TrueType Font,.tff,05. Font,Original,Watch,Low
+Web Open Font Format,.woff,05. Font,Original,Watch,Low
+ASPRS Lidar Data Exchange Format,".las, .laz",06. Geospatial,Original,Basic,Moderate
+ESRI Arc/Info Binary Grid,.adf,06. Geospatial,Original,Basic,High
+ESRI ArcInfo DAT File (External),.dat,06. Geospatial,Original,Basic,High
+ESRI Arc/Info Export File,.e00,06. Geospatial,"Transform to KML, ESRI Shapefile, and/or GML as appropriate",Basic,High
+ESRI Arc/View ShapeFile,.shp,06. Geospatial,Original,Watch,Moderate
+ESRI Arc/View Shapefile Index,.shx,06. Geospatial,Original,Basic,High
+ESRI ArcInfo Grid .nit File,.nit,06. Geospatial,Original,Basic,High
+ESRI ArcMap Document,".mxd, .mxt",06. Geospatial,Original,Basic,High
+ESRI Code Page File,.cpg,06. Geospatial,Original,Basic,Moderate
+ESRI Persistent Auxiliary Metadata File,.aux.xml,06. Geospatial,Original,Basic,Low
+Esri Shapefile Geospatial Metadata File,.xml,06. Geospatial,Original,Basic,Low
+ESRI Shapefile Projection (Well-Known Text) Format,.prj,06. Geospatial,Original,Basic,Low
+ESRI Spatial Index File,".sbn, .sbx",06. Geospatial,Original,Basic,High
+ESRI World File Format,.tfw,06. Geospatial,Original,Basic,Moderate
+OGC GeoPackage,.gpkg,06. Geospatial,Original,Watch,Low
+Adobe Photoshop,.psd,07. Image (Raster),Transform to TIFF,Full,Moderate
+Alias Pix Image File,".pix, .ico",07. Image (Raster),To be reviewed,Basic,High
+Animated Portable Network Graphics,.apng,07. Image (Raster),To be reviewed,Basic,Moderate
+Apple Icon Image Format,.icns,07. Image (Raster),Original,Basic,High
+BigTIFF,".tiff, .tif",07. Image (Raster),Original,Full,Low
+DjVu File Format,".djv, .djvu",07. Image (Raster),To be reviewed,Watch,High
+Exchangeable Image File Format (Compressed),".jpeg, .jpg",07. Image (Raster),Transform to TIFF,Full,Low
+Exchangeable Image File Format (Uncompressed),".tif, .tiff",07. Image (Raster),Transform to TIFF,Full,Low
+Flexible Image Transport System,.fits,07. Image (Raster),Transform to TIFF,Watch,Low
+Fujifilm RAW Image Format,.raf,07. Image (Raster),Transform to TIFF,Watch,High
+Geographic Tagged Image File Format (GeoTIFF),".tif, .tiff, .cog",07. Image (Raster),Original,Full,Low
+Graphics Interchange Format,.gif,07. Image (Raster),Transform to TIFF,Full,Moderate
+Hasselblad 3FR Raw Image,.3fr,07. Image (Raster),Transform to TIFF,Full,High
+Icon file format,.ico,07. Image (Raster),Transform to SVG or PNG,Watch,Moderate
+JPEG File Interchange Format,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (Raster),Transform to TIFF,Full,Low
+JPX (JPEG 2000 part 2),".jpx, .jpf",07. Image (Raster),Transform to TIFF,Full,Moderate
+Nikon Digital SLR Camera Raw Image File,.nef,07. Image (Raster),Transform to TIFF,Full,High
+Nikon N-Dimensional Image,.nd2,07. Image (Raster),Original,Watch,High
+Portable Network Graphics,.png,07. Image (Raster),Transform to TIFF,Full,Low
+Raw Bitmap,.raw,07. Image (Raster),Transform to TIFF,Full,High
+Raw JPEG Stream,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (Raster),Transform to TIFF,Full,Moderate
+Tagged Image File Format,".tiff, .tif",07. Image (Raster),Original,Full,Low
+Windows Bitmap,.bmp,07. Image (Raster),Transform to TIFF,Full,Moderate
+X-Windows Bitmap Image,.xbm,07. Image (Raster),To be reviewed,Watch,Moderate
+X-Windows Pixmap Image,.xpm,07. Image (Raster),To be reviewed,Watch,Moderate
+Adobe Illustrator,.ai,08. Image (Vector),Transform to PDF/A,Watch,High
+Autodesk Animator CEL File Format,".pic, .cel",08. Image (Vector),To be reviewed,Basic,High
+Drawing Interchange File Format (ASCII),.dxf,08. Image (Vector),Original,Watch,Low
+Drawing Interchange Format (ASCII),.dxf,08. Image (Vector),Original,Watch,Low
+Encapsulated PostScript File Format,.eps,08. Image (Vector),Transform to PDF/A,Watch,Low
+Hewlett Packard Vector Graphic Plotter File,.plt,08. Image (Vector),Transform,Watch,High
+Scalable Vector Graphics,.svg,08. Image (Vector),Transform to Plain SVG,Full,Low
+AutoCAD Last Saved Layer State,.las,09. Model,To be reviewed,Basic,High
+Bentley Microstation Hidden Line File,".hln, .dgn",09. Model,Original,Basic,High
+Binvox,.binvox,09. Model,Original,Basic,Moderate
+CloudCompare Entity File,.bin,09. Model,Original,Basic,High
+GL Transmission Format (Binary),.glb,09. Model,Original,Watch,Low
+Lightning Artist Toolkit Format,.latk,09. Model,To be reviewed,Basic,Low
+Microstation CAD Drawing,.dgn,09. Model,Transform to PDF/A,Basic,Moderate
+Polygon File Format,.ply,09. Model,Original,Watch,Low
+Tilt Brush,.tilt,09. Model,Original,Basic,High
+Visualization Toolkit,.vtk,09. Model,Original,Watch,Low
+Acrobat PDF 1.1 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full,Moderate
+Acrobat PDF 1.2 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full,Moderate
+Acrobat PDF 1.3 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full,Moderate
+Acrobat PDF 1.4 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full,Moderate
+Acrobat PDF 1.5 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full,Moderate
+Acrobat PDF 1.6 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full,Moderate
+Acrobat PDF 1.7 - Portable Document Format,.pdf,10. Page Description,Transform to PDF/A,Full,Low
+Acrobat PDF/A - Portable Document Format,.pdf,10. Page Description,Original,Full,Low
+Acrobat PDF/X - Portable Document Format - Exchange 1a:2001,.pdf,10. Page Description,Transform to PDF/A,Full,Moderate
+Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4,.pdf,10. Page Description,Transform to PDF/A,Full,Low
+PostScript,.ps,10. Page Description,To be reviewed,Basic,Low
+TeX/LaTeX Device Independent Document,.dvi,10. Page Description,To be reviewed,Basic,High
+Microsoft Powerpoint Design Template,.potx,11. Presentation,Original,Watch,Low
+Microsoft Powerpoint for Windows,.pptx,11. Presentation,Original,Watch,Low
+Microsoft Powerpoint for Windows,.ppt,11. Presentation,Original,Watch,Moderate
+Adobe Flash,.swf,12. Source Code and Software,To be reviewed,Basic,High
+B Source Code File,.b,12. Source Code and Software,Original,Full,Moderate
+Back Up File,.bak,12. Source Code and Software,Original,Watch,High
+Batch file (executable),.bat,12. Source Code and Software,Original,Full,Moderate
+Binary File,.bin,12. Source Code and Software,Original,Basic,High
+C Source Code File,.c,12. Source Code and Software,Original,Full,Low
+C/C++ Header File,".h, .hpp, .hxx",12. Source Code and Software,Original,Full,Low
+C++ Source Code File,".cpp, .cxx, .cc",12. Source Code and Software,Original,Full,Low
+Data File,.dat,12. Source Code and Software,Original,Basic,High
+DataFlex Query Tag Name,.tag,12. Source Code and Software,Original,Basic,High
+Executable and Linkable Format,.elf,12. Source Code and Software,Original,Basic,Moderate
+Fortran,".f90, .f",12. Source Code and Software,Original,Full,Low
+Fortran Namelist Format,.nml,12. Source Code and Software,Original,Full,Low
+Generic Library File,.lib,12. Source Code and Software,To be reviewed,Basic,High
+GROK input file,.grok,12. Source Code and Software,To be reviewed,Basic,Moderate
+Java Class File,.class,12. Source Code and Software,Original,Full,Moderate
+Java Language Source Code File,.java,12. Source Code and Software,Original,Full,Low
+JavaScript file,.js,12. Source Code and Software,Original,Full,Low
+Jupyter Python Notebook,.ipynb,12. Source Code and Software,Original,Watch,Low
+Log File,.log,12. Source Code and Software,Original,Full,Moderate
+Mach-O,no extension,12. Source Code and Software,Original,Basic,Moderate
+MATLAB FIG-file,.fig,12. Source Code and Software,Original,Basic,High
+MATLAB Script File,.m,12. Source Code and Software,Original,Basic,Low
+Microsoft Windows Shortcut,.lnk,12. Source Code and Software,Original,Basic,Moderate
+MS-DOS Executable,.exe,12. Source Code and Software,Original,Basic,High
+NumPy Format,.npy,12. Source Code and Software,Original,Basic,Low
+Perl Script,.pl,12. Source Code and Software,Original,Full,Low
+PEST Control File,.pst,12. Source Code and Software,Original,Basic,Low
+PEST Instruction File,.ins,12. Source Code and Software,Original,Basic,Low
+PEST Template File,.tpl,12. Source Code and Software,Original,Basic,Low
+PHP Script Page,.php,12. Source Code and Software,Original,Full,Low
+Portable Grey Map - Binary,".pgmb, .pgm",12. Source Code and Software,Original,Basic,Moderate
+Portable Pixel Map - Binary,".ppm, .ppmb",12. Source Code and Software,Original,Basic,Moderate
+Python Compiled File,.pyc,12. Source Code and Software,Original,Full,Moderate
+Python Source Code File,.py,12. Source Code and Software,Original,Full,Low
+R Program File,.r,12. Source Code and Software,Original,Full,Low
+Typescript,.ts,12. Source Code and Software,Original,Full,Low
+Unisys (Sperry) System Data File,.sdf,12. Source Code and Software,To be reviewed,Basic,High
+VBScript (VBS) File,.vbs,12. Source Code and Software,To be reviewed,Basic,High
+Windows Portable Executable,".exe, .dll, .sys",12. Source Code and Software,Original,Basic,Moderate
+Apple iWork Numbers,.numbers,13. Spreadsheet,Transform to CSV,Watch,High
+Gnumeric,.gnumeric,13. Spreadsheet,To be reviewed,Basic,Moderate
+Microsoft Excel 5.0/95 Workbook (xls),.xls,13. Spreadsheet,Transform to ODS,Full,Moderate
+Microsoft Excel 97 Workbook (xls),.xls,13. Spreadsheet,Transform to ODS,Full,Moderate
+Microsoft Excel for Windows,.xlsx,13. Spreadsheet,Original,Full,Low
+Microsoft Excel Macro-Enabled,.xlsm,13. Spreadsheet,Original,Watch,Low
+Microsoft Multiplan,.mod,13. Spreadsheet,To be reviewed,Basic,High
+OpenDocument Spreadsheet,.ods,13. Spreadsheet,Original,Full,Low
+Agisoft Project File,.psx,14. Text (Markup),To be reviewed,Basic,High
+Canadian Avalanche Association Markup Language,.caaml,14. Text (Markup),Original,Full,Low
+Document Type Definition,.dtd,14. Text (Markup),Original,Full,Low
+eRuby HTML document,".rhtml, .rhtm",14. Text (Markup),Original,Full,Low
+Extensible Markup Language,.xml,14. Text (Markup),Original,Full,Low
+Extensible Metadata Platform Format,.xmp,14. Text (Markup),Original,Full,Low
+Extensible Metadata Platform Packet,.xmp,14. Text (Markup),Original,Full,Low
+Geography Markup Language,.gml,14. Text (Markup),Original,Full,Low
+GPS Exchange Format,.gpx,14. Text (Markup),Original,Full,Low
+Hypertext Markup Language,.html,14. Text (Markup),Original,Full,Low
+Keyhole Markup Language (Container),.kmz,14. Text (Markup),Original,Full,Low
+Keyhole Markup Language (XML),.kml,14. Text (Markup),Original,Full,Low
+LaTeX (Master document),.tex,14. Text (Markup),Original,Full,Low
+LaTeX (Subdocument),.tex,14. Text (Markup),Original,Full,Low
+Markdown,.md,14. Text (Markup),Original,Full,Low
+OGR GFS File,.gfs,14. Text (Markup),Original,Watch,Moderate
+QGIS Metadata File,.qmd,14. Text (Markup),Original,Full,Low
+QGIS Style Language,.qml,14. Text (Markup),Original,Full,Low
+reStructuredText,.rst,14. Text (Markup),Original,Full,Low
+SGML/XML Entity File,.sgml,14. Text (Markup),Original,Full,Moderate
+Standard Generalized Markup Language,.sgml,14. Text (Markup),Original,Full,Moderate
+TEI P5 - Single Text File,".tei, .odd, .xml",14. Text (Markup),Original,Full,Low
+Vicon Skeleton File/Vicon Labeling Setup file,.vsk,14. Text (Markup),Original,Full,HIgh
+XML Property List,.plist,14. Text (Markup),Original,Full,Low
+XML Schema Definition,.xsd,14. Text (Markup),Original,Full,Low
+BibTeX Database File,.bib,15. Text (Structured),Original,Full,Low
+Cascading Style Sheet,.css,15. Text (Structured),Original,Full,Low
+Clock RINEX File Format,.clk,15. Text (Structured),Original,Full,Low
+Comma Separated Values,.csv,15. Text (Structured),Original,Full,Low
+Data Interchange Format,.dif,15. Text (Structured),Original,Watch,Moderate
+HPL (Halo Photonics) Doppler LiDAR File Format,.hpl,15. Text (Structured),Original,Full,High
+JSON Data Interchange Format,.json,15. Text (Structured),Original,Full,Low
+Leaner Style Sheets,.less,15. Text (Structured),Original,Full,Low
+MD5 File,.md5,15. Text (Structured),Original,Full,Low
+OPML File,.opml,15. Text (Structured),Original,Full,Moderate
+Prime OCR,.pro,15. Text (Structured),Original,Basic,High
+PrimeOCR,.pro,15. Text (Structured),Original,Basic,High
+Position File (CSRS-PPP),.pos,15. Text (Structured),Original,Full,Low
+Protein Data Bank File,.pdb,15. Text (Structured),Original,Watch,Low
+QGIS Spatial Index File,.qix,15. Text (Structured),Original,Watch,Low
+RINEX Observation File,.obs,15. Text (Structured),Original,Full,Low
+Spectrometer Configuration Info File,.info,15. Text (Structured),Original,Full,High
+Spectrometer Parameter File,.par,15. Text (Structured),Original,Full,High
+Standard for the Exchange of Product model data,".step, .stp",15. Text (Structured),Original,Basic,Low
+Structured Query Language Data,.sql,15. Text (Structured),Original,Full,Low
+Subsurface Material Properties File,.mprops,15. Text (Structured),Original,Full,High
+Summary File (CSRS-PPP),.sum,15. Text (Structured),Original,Full,Low
+Surface Domain Properties File,.oprops,15. Text (Structured),Original,Full,High
+Syntactically Awesome Style Sheets,".sass, .scss",15. Text (Structured),Original,Full,Low
+Tab-separated Values,".tsv, .tab",15. Text (Structured),Transform to CSV,Full,Low
+Text Configuration file,.ini,15. Text (Structured),Original,Full,Moderate
+Tropospheric Zenith Delay File (CSRS-PPP),.tro,15. Text (Structured),Original,Full,Low
+YAML,".yml, .yaml",15. Text (Structured),Original,Full,Low
+7-bit ASCII Text,.asc,16. Text (Unstructured),Original,Full,Low
+Plain Text File,.txt,16. Text (Unstructured),Original,Full,Low
+Audio/Video Interleaved Format,.avi,17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full,Moderate
+MPEG-1 Program Stream,".mpeg, .mpg",17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full,Moderate
+MPEG-2 Program Stream,".mpeg, .mpg",17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full,Moderate
+MPEG-4 Media File,".mp4, .mpa",17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full,Low
+MPEG-2 Transport Stream,".mts, .m2ts",17. Video,Original,Full,Low
+Quicktime,.mov,17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full,Moderate
+Windows Media Video,.wmv,17. Video,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full,High
+Microsoft Word (Generic),.doc,18. Word Processing,Transform to ODT,Full,High
+Microsoft Word Document,".docx, .doc",18. Word Processing,Transform to ODT,Full,Low
+Microsoft Word for Windows,".docx, .doc",18. Word Processing,Transform to ODT,Full,Low
+OpenDocument Text,".odt, .ott",18. Word Processing,Original,Full,Low
+Rich Text Format,.rtf,18. Word Processing,Transform to PDF/A,Full,Moderate
+Statistica Report File,.str,18. Word Processing,Transform to PDF/A,Watch,High
+Ventura Publisher,.gen,18. Word Processing,Transform to PDF/A,Watch,High
+Wordcraft Chapter Files,.001,18. Word Processing,Original,Basic,High
+WordStar for Windows Document,.ws,18. Word Processing,Transform to PDF/A,Full,High
+XYWrite Document,.xy,18. Word Processing,Original,Basic,High

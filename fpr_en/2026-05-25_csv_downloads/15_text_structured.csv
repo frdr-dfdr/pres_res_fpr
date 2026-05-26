@@ -1,0 +1,29 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Total Files
+BibTeX Database File,.bib,15. Text (Structured),Original,Full,Low,66
+Cascading Style Sheet,.css,15. Text (Structured),Original,Full,Low,0
+Clock RINEX File Format,.clk,15. Text (Structured),Original,Full,Low,188
+Comma Separated Values,.csv,15. Text (Structured),Original,Full,Low,"4,488,709"
+Data Interchange Format,.dif,15. Text (Structured),Original,Watch,Moderate,0
+HPL (Halo Photonics) Doppler LiDAR File Format,.hpl,15. Text (Structured),Original,Full,High,0
+JSON Data Interchange Format,.json,15. Text (Structured),Original,Full,Low,"138,697"
+Leaner Style Sheets,.less,15. Text (Structured),Original,Full,Low,0
+MD5 File,.md5,15. Text (Structured),Original,Full,Low,0
+OPML File,.opml,15. Text (Structured),Original,Full,Moderate,0
+Prime OCR,.pro,15. Text (Structured),Original,Basic,High,173
+PrimeOCR,.pro,15. Text (Structured),Original,Basic,High,961
+Position File (CSRS-PPP),.pos,15. Text (Structured),Original,Full,Low,188
+Protein Data Bank File,.pdb,15. Text (Structured),Original,Watch,Low,51
+QGIS Spatial Index File,.qix,15. Text (Structured),Original,Watch,Low,3
+RINEX Observation File,.obs,15. Text (Structured),Original,Full,Low,0
+Spectrometer Configuration Info File,.info,15. Text (Structured),Original,Full,High,14
+Spectrometer Parameter File,.par,15. Text (Structured),Original,Full,High,14
+Standard for the Exchange of Product model data,".step, .stp",15. Text (Structured),Original,Basic,Low,4
+Structured Query Language Data,.sql,15. Text (Structured),Original,Full,Low,4
+Subsurface Material Properties File,.mprops,15. Text (Structured),Original,Full,High,0
+Summary File (CSRS-PPP),.sum,15. Text (Structured),Original,Full,Low,253
+Surface Domain Properties File,.oprops,15. Text (Structured),Original,Full,High,0
+Syntactically Awesome Style Sheets,".sass, .scss",15. Text (Structured),Original,Full,Low,0
+Tab-separated Values,".tsv, .tab",15. Text (Structured),Transform to CSV,Full,Low,302
+Text Configuration file,.ini,15. Text (Structured),Original,Full,Moderate,947
+Tropospheric Zenith Delay File (CSRS-PPP),.tro,15. Text (Structured),Original,Full,Low,0
+YAML,".yml, .yaml",15. Text (Structured),Original,Full,Low,"141,008"

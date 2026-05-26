@@ -1,0 +1,8 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Total Files
+Adobe Illustrator,.ai,08. Image (Vector),Transform to PDF/A,Watch,High,4
+Autodesk Animator CEL File Format,".pic, .cel",08. Image (Vector),To be reviewed,Basic,High,0
+Drawing Interchange File Format (ASCII),.dxf,08. Image (Vector),Original,Watch,Low,0
+Drawing Interchange Format (ASCII),.dxf,08. Image (Vector),Original,Watch,Low,5
+Encapsulated PostScript File Format,.eps,08. Image (Vector),Transform to PDF/A,Watch,Low,4
+Hewlett Packard Vector Graphic Plotter File,.plt,08. Image (Vector),Transform,Watch,High,1
+Scalable Vector Graphics,.svg,08. Image (Vector),Transform to Plain SVG,Full,Low,293

@@ -1,0 +1,44 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Total Files
+Axon Binary Format,.abf,04. Dataset,Migrate to Axon Text Format - to be reviewed.,Basic,Moderate,36
+Browser Extensible Data format,.bed,04. Dataset,Original,Full,Low,75
+BioSemi Data Format,.bdf,04. Dataset,Original,Basic,Moderate,81
+CMZ Format,.cmz,04. Dataset,Original,Basic,High,2
+CMX Index Format,.cmx,04. Dataset,Original,Basic,High,2
+Digital Imaging and Communications in Medicine File Format,.dicom,04. Dataset,Original,Basic,Low,"14,985"
+FASTA,".fasta, .fas, .fa",04. Dataset,Original,Full,Low,440
+FASTA Nucleic Acid,.fna,04. Dataset,Original,Full,Low,96
+FASTQ,".fastq, .fq",04. Dataset,Original,Full,Low,"6,641"
+Flow Cytometry Standard File,.fcs,04. Dataset,Original,Watch,Low,529
+Gromos87 Format (GROMACS),.gro,04. Dataset,Original,Full,Low,82
+HDF5,".hdf, .h5",04. Dataset,Original,Watch,Low,"2,531,251"
+Hydrogen Database (GROMACS),.hdb,04. Dataset,Original,Full,Low,3
+Include Typology (GROMACS),.itp,04. Dataset,Original,Full,Low,84
+MATLAB Mat File,.mat,04. Dataset,Original,Basic,Moderate,"84,284"
+MATLAB Script File,.m,04. Dataset,,Basic,Low,"1,496"
+Molecular Dynamics Parameters File (GROMACS),.mdp,04. Dataset,Original,Full,Low,7
+MRtrix Image Format,.mif,04. Dataset,Original,Watch,Moderate,128
+MRtrix Tracks File Format,.tck,04. Dataset,Original,Watch,Moderate,468
+netCDF-3 64-bit,.nc,04. Dataset,Original,Watch,Low,"2,844"
+netCDF-3 Classic,.nc,04. Dataset,Original,Watch,Low,"70,136"
+netCDF-4/HDF5,".nc, .nc4",04. Dataset,Original,Watch,Low,"843,941"
+The Neuroimaging Informatics Technology Initiative File Format,.nii,04. Dataset,Original,Watch,High,"109,239"
+Norbit Wideband Multibeam Sonar Format,.wbm,04. Dataset,Original,Basic,Moderate,822
+Origin Project Format,".opj, .opju",04. Dataset,Original,Basic,Moderate,3
+QIIME Zipped Artifact,.qza,04. Dataset,Original,Watch,Low,23
+QIIME Zipped Visualization,.qzv,04. Dataset,Original,Watch,Low,14
+RData,.rdata,04. Dataset,Original,Watch,Low,"6,999"
+Residue to Building Block File (GROMACS),.r2b,04. Dataset,Original,Watch,Low,3
+Residue Topology Parameter File (GROMACS),.rtp,04. Dataset,Original,Full,Low,3
+ROS bag file format,.bag,04. Dataset,Original,Basic,Low,0
+SPSS Data File,.dat,04. Dataset,Original,Basic,Moderate,131
+SPSS Output File (spv),.spv,04. Dataset,Original,Basic,High,1
+Stata Data (DTA) Format,.dta,04. Dataset,Original,Basic,Moderate,0
+SuperDARN Raw Auto-Correlation Function File,.rawacf,04. Dataset,Original,Basic,Moderate,"2,136,990"
+SuperDARN Raw Data File,.dat,04. Dataset,Original,Basic,Moderate,0
+Termini Database (ASCII) File (GROMACS),.tdb,04. Dataset,Original,Full,Low,2
+Topology File (GROMACS),.top,04. Dataset,Original,Full,Low,0
+Trajectory Trace Record File (GROMACS),.trr,04. Dataset,Original,Watch,Low,50
+Variant Call Format,.vcf,04. Dataset,Original,Full,Low,15
+Virtual Site Definition File (GROMACS),.vsd,04. Dataset,Original,Full,Low,1
+WinRiver Workspace File,.wrw,04. Dataset,Original,Basic,High,3
+ZISRAW (CZI) File Format,.czi,04. Dataset,Original,Watch,Moderate,262

@@ -1,0 +1,26 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Total Files
+Adobe Photoshop,.psd,07. Image (Raster),Transform to TIFF,Full,Moderate,955
+Alias Pix Image File,".pix, .ico",07. Image (Raster),To be reviewed,Basic,High,0
+Animated Portable Network Graphics,.apng,07. Image (Raster),To be reviewed,Basic,Moderate,63
+Apple Icon Image Format,.icns,07. Image (Raster),Original,Basic,High,1
+BigTIFF,".tiff, .tif",07. Image (Raster),Original,Full,Low,38
+DjVu File Format,".djv, .djvu",07. Image (Raster),To be reviewed,Watch,High,3
+Exchangeable Image File Format (Compressed),".jpeg, .jpg",07. Image (Raster),Transform to TIFF,Full,Low,"435,498"
+Exchangeable Image File Format (Uncompressed),".tif, .tiff",07. Image (Raster),Transform to TIFF,Full,Low,"8,551"
+Flexible Image Transport System,.fits,07. Image (Raster),Transform to TIFF,Watch,Low,7
+Fujifilm RAW Image Format,.raf,07. Image (Raster),Transform to TIFF,Watch,High,2
+Geographic Tagged Image File Format (GeoTIFF),".tif, .tiff, .cog",07. Image (Raster),Original,Full,Low,"3,712,794"
+Graphics Interchange Format,.gif,07. Image (Raster),Transform to TIFF,Full,Moderate,"38,966"
+Hasselblad 3FR Raw Image,.3fr,07. Image (Raster),Transform to TIFF,Full,High,"2,895"
+Icon file format,.ico,07. Image (Raster),Transform to SVG or PNG,Watch,Moderate,0
+JPEG File Interchange Format,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (Raster),Transform to TIFF,Full,Low,"7,036,244"
+JPX (JPEG 2000 part 2),".jpx, .jpf",07. Image (Raster),Transform to TIFF,Full,Moderate,2
+Nikon Digital SLR Camera Raw Image File,.nef,07. Image (Raster),Transform to TIFF,Full,High,"2,218"
+Nikon N-Dimensional Image,.nd2,07. Image (Raster),Original,Watch,High,680
+Portable Network Graphics,.png,07. Image (Raster),Transform to TIFF,Full,Low,"4,503,842"
+Raw Bitmap,.raw,07. Image (Raster),Transform to TIFF,Full,High,0
+Raw JPEG Stream,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (Raster),Transform to TIFF,Full,Moderate,"15,374"
+Tagged Image File Format,".tiff, .tif",07. Image (Raster),Original,Full,Low,"375,975"
+Windows Bitmap,.bmp,07. Image (Raster),Transform to TIFF,Full,Moderate,"408,159"
+X-Windows Bitmap Image,.xbm,07. Image (Raster),To be reviewed,Watch,Moderate,0
+X-Windows Pixmap Image,.xpm,07. Image (Raster),To be reviewed,Watch,Moderate,0

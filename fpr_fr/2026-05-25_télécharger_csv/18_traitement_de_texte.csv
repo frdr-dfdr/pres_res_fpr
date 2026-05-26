@@ -1,0 +1,11 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Nombre total de fichiers
+Microsoft Word (Generic),.doc,18. Traitement de texte,Transformer en ODT,Complet,Risque élevé,1
+Microsoft Word Document,".docx, .doc",18. Traitement de texte,Transformer en ODT,Complet,Risque faible,25
+Microsoft Word for Windows,".docx, .doc",18. Traitement de texte,Transformer en ODT,Complet,Risque faible,95
+OpenDocument Text,".odt, .ott",18. Traitement de texte,Fichier original,Complet,Risque faible,0
+Rich Text Format,.rtf,18. Traitement de texte,Transformer en PDF/A,Complet,Moderate,58
+Statistica Report File,.str,18. Traitement de texte,Transformer en PDF/A,Surveillance,Risque élevé,0
+Ventura Publisher,.gen,18. Traitement de texte,Transformer en PDF/A,Surveillance,Risque élevé,0
+Wordcraft Chapter Files,.001,18. Traitement de texte,Fichier original,Base,Risque élevé,0
+WordStar for Windows Document,.ws,18. Traitement de texte,Transformer en PDF/A,Complet,Risque élevé,0
+XYWrite Document,.xy,18. Traitement de texte,Fichier original,Base,Risque élevé,1

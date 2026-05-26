@@ -1,0 +1,8 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Nombre total de fichiers
+Adobe PostScript Font Metrics file,.pfm,05. Police,Fichier original,Surveillance,Moderate,505
+Adobe Printer Font Binary,.pfb,05. Police,Fichier original,Base,Risque élevé,681
+Daisy-Dot Font File,.nlq,05. Police,Fichier original,Base,Risque élevé,0
+Embedded OpenType (EOT) File Format,.eot,05. Police,Fichier original,Surveillance,Risque élevé,0
+OpenType Font File,.otf,05. Police,Fichier original,Surveillance,Risque faible,0
+TrueType Font,.tff,05. Police,Fichier original,Surveillance,Risque faible,0
+Web Open Font Format,.woff,05. Police,Fichier original,Surveillance,Risque faible,0

@@ -1,4 +1,5 @@
 # Stratégie relative aux formats de fichiers des Services de préservation numérique
+Dernière mise à jour : 2026-02-04
 
 La compréhension des formats de fichiers est essentielle à la mise en œuvre de stratégies favorisant l’accès continu aux données de recherche et leur réutilisation. Cette page présente de l’information sur les travaux des Services de préservation numérique relatifs aux formats de fichiers et sera mise à jour et enrichie au fur et à mesure de l’élaboration de la stratégie.
 
@@ -77,5 +78,3 @@ La stratégie relative aux formats de fichiers et la politique sur les formats d
 - [National Archives and Records Administration (NARA), Digital Preservation](https://github.com/usnationalarchives/digital-preservation)
 
 Merci pour tout votre travail !
-
-
