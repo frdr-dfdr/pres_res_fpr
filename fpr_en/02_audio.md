@@ -1,16 +1,16 @@
 # 02. Audio 
-Last updated: 2026-02-04 
+Last updated: 2026-05-25 
 
 Digital audio is defined as an audio waveform that has been created as, or converted into, digital form and encoded as a sequence of numerical samples with the purpose of converting to a continuous analogue signal reproducing sound. 
 
 Audio formats may include various levels of compression including lossy, lossless and uncompressed. 
 ## Formats 
-[02_audio.csv](./2026-02-04_csv_downloads/02_audio.csv) (CSV 1.18 KB) 
+[02_audio.csv](./2026-05-25_csv_downloads/02_audio.csv) (CSV 1.35 KB) 
 
 Original refers to the original file deposited in the repository. 
 
-| Format                         | Extension   | Proposed Preservation Action                | Preservation Level   | Total Files   |
-|:-------------------------------|:------------|:--------------------------------------------|:---------------------|:--------------|
-| MPEG 1/2 Audio Layer 3         | .mp3        | Transform to Waveform Audio (PCMWAVEFORMAT) | Full                 | 3             |
-| MuBu (MUlti-BUffer) Object     | .mubu       | Original                                    | Basic                | 63            |
-| Waveform Audio (PCMWAVEFORMAT) | .wav        | Original                                    | Full                 | 65,989        |
+| Format                         | Extension   | Proposed Preservation Action                | Preservation Level   | Risk Level   | Total Files   |
+|:-------------------------------|:------------|:--------------------------------------------|:---------------------|:-------------|:--------------|
+| MPEG 1/2 Audio Layer 3         | .mp3        | Transform to Waveform Audio (PCMWAVEFORMAT) | Full                 | Moderate     | 0             |
+| MuBu (MUlti-BUffer) Object     | .mubu       | Original                                    | Basic                | Moderate     | 63            |
+| Waveform Audio (PCMWAVEFORMAT) | .wav        | Original                                    | Full                 | Moderate     | 65,988        |

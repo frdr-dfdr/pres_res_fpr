@@ -1,0 +1,13 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Nombre total de fichiers
+7Zip format,.7z,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,254
+Apple Safari Webarchive,.webarchive,01. Agrégat,À réviser,Base,Risque élevé,9
+Archiver Format,.ar,01. Agrégat,À réviser,Base,Moderate,228
+ARJ File Format,.arj,01. Agrégat,À réviser,Base,Risque élevé,0
+BZIP2 Compressed Archive,.bz2,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,"2,739,467"
+CPIO,.cpio,01. Agrégat,À réviser,Base,Moderate,0
+OLE2 Compound Document Format,".ole, .ole2",01. Agrégat,Fichier original,Base,Moderate,3
+PDF Portfolio,.pdf,01. Agrégat,Conserver mais extraire le contenu si possible,Surveillance,Risque faible,1
+RAR Archive,.rar,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Risque élevé,1
+Tape Archive Format,.tar,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,"5,240"
+XZ File Format,.xz,01. Agrégat,Conserver mais extraire le contenu,Complet,Risque faible,69
+ZIP Format,.zip,01. Agrégat,Conserver mais extraire le contenu,Complet,Risque faible,"3,518"

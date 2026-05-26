@@ -1,0 +1,29 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Nombre total de fichiers
+BibTeX Database File,.bib,15. Texte (structuré),Fichier original,Complet,Risque faible,66
+Cascading Style Sheet,.css,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+Clock RINEX File Format,.clk,15. Texte (structuré),Fichier original,Complet,Risque faible,188
+Comma Separated Values,.csv,15. Texte (structuré),Fichier original,Complet,Risque faible,"4,488,709"
+Data Interchange Format,.dif,15. Texte (structuré),Fichier original,Surveillance,Moderate,0
+HPL (Halo Photonics) Doppler LiDAR File Format,.hpl,15. Texte (structuré),Fichier original,Complet,Risque élevé,0
+JSON Data Interchange Format,.json,15. Texte (structuré),Fichier original,Complet,Risque faible,"138,697"
+Leaner Style Sheets,.less,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+MD5 File,.md5,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+OPML File,.opml,15. Texte (structuré),Fichier original,Complet,Moderate,0
+Prime OCR,.pro,15. Texte (structuré),Fichier original,Base,Risque élevé,173
+PrimeOCR,.pro,15. Texte (structuré),Fichier original,Base,Risque élevé,961
+Position File (CSRS-PPP),.pos,15. Texte (structuré),Fichier original,Complet,Risque faible,188
+Protein Data Bank File,.pdb,15. Texte (structuré),Fichier original,Surveillance,Risque faible,51
+QGIS Spatial Index File,.qix,15. Texte (structuré),Fichier original,Surveillance,Risque faible,3
+RINEX Observation File,.obs,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+Spectrometer Configuration Info File,.info,15. Texte (structuré),Fichier original,Complet,Risque élevé,14
+Spectrometer Parameter File,.par,15. Texte (structuré),Fichier original,Complet,Risque élevé,14
+Standard for the Exchange of Product model data,".step, .stp",15. Texte (structuré),Fichier original,Base,Risque faible,4
+Structured Query Language Data,.sql,15. Texte (structuré),Fichier original,Complet,Risque faible,4
+Subsurface Material Properties File,.mprops,15. Texte (structuré),Fichier original,Complet,Risque élevé,0
+Summary File (CSRS-PPP),.sum,15. Texte (structuré),Fichier original,Complet,Risque faible,253
+Surface Domain Properties File,.oprops,15. Texte (structuré),Fichier original,Complet,Risque élevé,0
+Syntactically Awesome Style Sheets,".sass, .scss",15. Texte (structuré),Fichier original,Complet,Risque faible,0
+Tab-separated Values,".tsv, .tab",15. Texte (structuré),Transformer en CSV,Complet,Risque faible,302
+Text Configuration file,.ini,15. Texte (structuré),Fichier original,Complet,Moderate,947
+Tropospheric Zenith Delay File (CSRS-PPP),.tro,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+YAML,".yml, .yaml",15. Texte (structuré),Fichier original,Complet,Risque faible,"141,008"

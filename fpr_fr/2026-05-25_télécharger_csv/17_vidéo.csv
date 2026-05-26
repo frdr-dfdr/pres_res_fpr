@@ -1,0 +1,8 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Nombre total de fichiers
+Audio/Video Interleaved Format,.avi,17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,"3,109"
+MPEG-1 Program Stream,".mpeg, .mpg",17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,"13,372"
+MPEG-2 Program Stream,".mpeg, .mpg",17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,404
+MPEG-4 Media File,".mp4, .mpa",17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Risque faible,"40,788"
+MPEG-2 Transport Stream,".mts, .m2ts",17. Vidéo,Fichier original,Complet,Risque faible,0
+Quicktime,.mov,17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,610
+Windows Media Video,.wmv,17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Risque élevé,2

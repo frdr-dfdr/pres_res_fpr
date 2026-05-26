@@ -1,0 +1,41 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Nombre total de fichiers
+Adobe Flash,.swf,12. Code source et logiciel,À réviser,Base,Risque élevé,1
+B Source Code File,.b,12. Code source et logiciel,Fichier original,Complet,Moderate,2
+Back Up File,.bak,12. Code source et logiciel,Fichier original,Surveillance,Risque élevé,1
+Batch file (executable),.bat,12. Code source et logiciel,Fichier original,Complet,Moderate,28
+Binary File,.bin,12. Code source et logiciel,Fichier original,Base,Risque élevé,"46,111"
+C Source Code File,.c,12. Code source et logiciel,Fichier original,Complet,Risque faible,400
+C/C++ Header File,".h, .hpp, .hxx",12. Code source et logiciel,Fichier original,Complet,Risque faible,"45,067"
+C++ Source Code File,".cpp, .cxx, .cc",12. Code source et logiciel,Fichier original,Complet,Risque faible,439
+Data File,.dat,12. Code source et logiciel,Fichier original,Base,Risque élevé,"717,136"
+DataFlex Query Tag Name,.tag,12. Code source et logiciel,Fichier original,Base,Risque élevé,0
+Executable and Linkable Format,.elf,12. Code source et logiciel,Fichier original,Base,Moderate,0
+Fortran,".f90, .f",12. Code source et logiciel,Fichier original,Complet,Risque faible,"7,978"
+Fortran Namelist Format,.nml,12. Code source et logiciel,Fichier original,Complet,Risque faible,"3,352"
+Generic Library File,.lib,12. Code source et logiciel,À réviser,Base,Risque élevé,0
+GROK input file,.grok,12. Code source et logiciel,À réviser,Base,Moderate,0
+Java Class File,.class,12. Code source et logiciel,Fichier original,Complet,Moderate,0
+Java Language Source Code File,.java,12. Code source et logiciel,Fichier original,Complet,Risque faible,0
+JavaScript file,.js,12. Code source et logiciel,Fichier original,Complet,Risque faible,"5,199"
+Jupyter Python Notebook,.ipynb,12. Code source et logiciel,Fichier original,Surveillance,Risque faible,132
+Log File,.log,12. Code source et logiciel,Fichier original,Complet,Moderate,"36,500"
+Mach-O,no extension,12. Code source et logiciel,Fichier original,Base,Moderate,0
+MATLAB FIG-file,.fig,12. Code source et logiciel,Fichier original,Base,Risque élevé,0
+MATLAB Script File,.m,12. Code source et logiciel,Fichier original,Base,Risque faible,"1,496"
+Microsoft Windows Shortcut,.lnk,12. Code source et logiciel,Fichier original,Base,Moderate,5
+MS-DOS Executable,.exe,12. Code source et logiciel,Fichier original,Base,Risque élevé,2
+NumPy Format,.npy,12. Code source et logiciel,Fichier original,Base,Risque faible,"360,730"
+Perl Script,.pl,12. Code source et logiciel,Fichier original,Complet,Risque faible,772
+PEST Control File,.pst,12. Code source et logiciel,Fichier original,Base,Risque faible,8
+PEST Instruction File,.ins,12. Code source et logiciel,Fichier original,Base,Risque faible,16
+PEST Template File,.tpl,12. Code source et logiciel,Fichier original,Base,Risque faible,16
+PHP Script Page,.php,12. Code source et logiciel,Fichier original,Complet,Risque faible,0
+Portable Grey Map - Binary,".pgmb, .pgm",12. Code source et logiciel,Fichier original,Base,Moderate,0
+Portable Pixel Map - Binary,".ppm, .ppmb",12. Code source et logiciel,Fichier original,Base,Moderate,0
+Python Compiled File,.pyc,12. Code source et logiciel,Fichier original,Complet,Moderate,281
+Python Source Code File,.py,12. Code source et logiciel,Fichier original,Complet,Risque faible,"2,911"
+R Program File,.r,12. Code source et logiciel,Fichier original,Complet,Risque faible,104
+Typescript,.ts,12. Code source et logiciel,Fichier original,Complet,Risque faible,0
+Unisys (Sperry) System Data File,.sdf,12. Code source et logiciel,À réviser,Base,Risque élevé,4
+VBScript (VBS) File,.vbs,12. Code source et logiciel,À réviser,Base,Risque élevé,0
+Windows Portable Executable,".exe, .dll, .sys",12. Code source et logiciel,Fichier original,Base,Moderate,29

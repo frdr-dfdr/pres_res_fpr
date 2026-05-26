@@ -8,7 +8,6 @@ To help differentiate between formats that have extensions in common with other 
 |[GROMACS](https://www.gromacs.org/)|GROningen MAchine for Chemical Simulations|
 |[RINEX](https://igs.org/wg/rinex/)|Receiver Independent Exchange Format|
 
-
 ## Format Identification
 The table below contains resources related to file formats and file format identification.
 

@@ -1,0 +1,41 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Total Files
+Adobe Flash,.swf,12. Source Code and Software,To be reviewed,Basic,High,1
+B Source Code File,.b,12. Source Code and Software,Original,Full,Moderate,2
+Back Up File,.bak,12. Source Code and Software,Original,Watch,High,1
+Batch file (executable),.bat,12. Source Code and Software,Original,Full,Moderate,28
+Binary File,.bin,12. Source Code and Software,Original,Basic,High,"46,111"
+C Source Code File,.c,12. Source Code and Software,Original,Full,Low,400
+C/C++ Header File,".h, .hpp, .hxx",12. Source Code and Software,Original,Full,Low,"45,067"
+C++ Source Code File,".cpp, .cxx, .cc",12. Source Code and Software,Original,Full,Low,439
+Data File,.dat,12. Source Code and Software,Original,Basic,High,"717,136"
+DataFlex Query Tag Name,.tag,12. Source Code and Software,Original,Basic,High,0
+Executable and Linkable Format,.elf,12. Source Code and Software,Original,Basic,Moderate,0
+Fortran,".f90, .f",12. Source Code and Software,Original,Full,Low,"7,978"
+Fortran Namelist Format,.nml,12. Source Code and Software,Original,Full,Low,"3,352"
+Generic Library File,.lib,12. Source Code and Software,To be reviewed,Basic,High,0
+GROK input file,.grok,12. Source Code and Software,To be reviewed,Basic,Moderate,0
+Java Class File,.class,12. Source Code and Software,Original,Full,Moderate,0
+Java Language Source Code File,.java,12. Source Code and Software,Original,Full,Low,0
+JavaScript file,.js,12. Source Code and Software,Original,Full,Low,"5,199"
+Jupyter Python Notebook,.ipynb,12. Source Code and Software,Original,Watch,Low,132
+Log File,.log,12. Source Code and Software,Original,Full,Moderate,"36,500"
+Mach-O,no extension,12. Source Code and Software,Original,Basic,Moderate,0
+MATLAB FIG-file,.fig,12. Source Code and Software,Original,Basic,High,0
+MATLAB Script File,.m,12. Source Code and Software,Original,Basic,Low,"1,496"
+Microsoft Windows Shortcut,.lnk,12. Source Code and Software,Original,Basic,Moderate,5
+MS-DOS Executable,.exe,12. Source Code and Software,Original,Basic,High,2
+NumPy Format,.npy,12. Source Code and Software,Original,Basic,Low,"360,730"
+Perl Script,.pl,12. Source Code and Software,Original,Full,Low,772
+PEST Control File,.pst,12. Source Code and Software,Original,Basic,Low,8
+PEST Instruction File,.ins,12. Source Code and Software,Original,Basic,Low,16
+PEST Template File,.tpl,12. Source Code and Software,Original,Basic,Low,16
+PHP Script Page,.php,12. Source Code and Software,Original,Full,Low,0
+Portable Grey Map - Binary,".pgmb, .pgm",12. Source Code and Software,Original,Basic,Moderate,0
+Portable Pixel Map - Binary,".ppm, .ppmb",12. Source Code and Software,Original,Basic,Moderate,0
+Python Compiled File,.pyc,12. Source Code and Software,Original,Full,Moderate,281
+Python Source Code File,.py,12. Source Code and Software,Original,Full,Low,"2,911"
+R Program File,.r,12. Source Code and Software,Original,Full,Low,104
+Typescript,.ts,12. Source Code and Software,Original,Full,Low,0
+Unisys (Sperry) System Data File,.sdf,12. Source Code and Software,To be reviewed,Basic,High,4
+VBScript (VBS) File,.vbs,12. Source Code and Software,To be reviewed,Basic,High,0
+Windows Portable Executable,".exe, .dll, .sys",12. Source Code and Software,Original,Basic,Moderate,29

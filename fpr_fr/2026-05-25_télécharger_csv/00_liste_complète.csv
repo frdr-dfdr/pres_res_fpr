@@ -1,0 +1,262 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Nombre total de fichiers
+7Zip format,.7z,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,254
+Apple Safari Webarchive,.webarchive,01. Agrégat,À réviser,Base,Risque élevé,9
+Archiver Format,.ar,01. Agrégat,À réviser,Base,Moderate,228
+ARJ File Format,.arj,01. Agrégat,À réviser,Base,Risque élevé,0
+BZIP2 Compressed Archive,.bz2,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,"2,739,467"
+CPIO,.cpio,01. Agrégat,À réviser,Base,Moderate,0
+OLE2 Compound Document Format,".ole, .ole2",01. Agrégat,Fichier original,Base,Moderate,3
+PDF Portfolio,.pdf,01. Agrégat,Conserver mais extraire le contenu si possible,Surveillance,Risque faible,1
+RAR Archive,.rar,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Risque élevé,1
+Tape Archive Format,.tar,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,"5,240"
+XZ File Format,.xz,01. Agrégat,Conserver mais extraire le contenu,Complet,Risque faible,69
+ZIP Format,.zip,01. Agrégat,Conserver mais extraire le contenu,Complet,Risque faible,"3,518"
+MPEG 1/2 Audio Layer 3,.mp3,02. Audio,Transformer en format audio Waveform (PCMWAVEFORMAT),Complet,Moderate,0
+MuBu (MUlti-BUffer) Object,.mubu,02. Audio,Fichier original,Base,Moderate,63
+Waveform Audio (PCMWAVEFORMAT),.wav,02. Audio,Fichier original,Complet,Moderate,"65,988"
+dBASE Database,.dbf,03. Base de données,Transformer en CSV,Complet,Moderate,"29,032"
+Lotus Approach View File,".apt, .apr",03. Base de données,Transformer en CSV,Complet,Risque élevé,0
+Microsoft FoxPro Memo,".fpt, .dct",03. Base de données,À réviser,Base,Risque élevé,0
+SQLite Database File Format,".sqlite, .db",03. Base de données,Fichier original,Surveillance,Risque faible,105
+Axon Binary Format,.abf,04. Jeu de données,,Base,Moderate,36
+Browser Extensible Data format,.bed,04. Jeu de données,Fichier original,Complet,Risque faible,75
+BioSemi Data Format,.bdf,04. Jeu de données,Fichier original,Base,Moderate,81
+CMZ Format,.cmz,04. Jeu de données,Fichier original,Base,Risque élevé,2
+CMX Index Format,.cmx,04. Jeu de données,Fichier original,Base,Risque élevé,2
+Digital Imaging and Communications in Medicine File Format,.dicom,04. Jeu de données,Fichier original,Base,Risque faible,"14,985"
+FASTA,".fasta, .fas, .fa",04. Jeu de données,Fichier original,Complet,Risque faible,440
+FASTA Nucleic Acid,.fna,04. Jeu de données,Fichier original,Complet,Risque faible,96
+FASTQ,".fastq, .fq",04. Jeu de données,Fichier original,Complet,Risque faible,"6,641"
+Flow Cytometry Standard File,.fcs,04. Jeu de données,Fichier original,Surveillance,Risque faible,529
+Gromos87 Format (GROMACS),.gro,04. Jeu de données,Fichier original,Complet,Risque faible,82
+HDF5,".hdf, .h5",04. Jeu de données,Fichier original,Surveillance,Risque faible,"2,531,251"
+Hydrogen Database (GROMACS),.hdb,04. Jeu de données,Fichier original,Complet,Risque faible,3
+Include Typology (GROMACS),.itp,04. Jeu de données,Fichier original,Complet,Risque faible,84
+MATLAB Mat File,.mat,04. Jeu de données,Fichier original,Base,Moderate,"84,284"
+MATLAB Script File,.m,04. Jeu de données,,Base,Risque faible,"1,496"
+Molecular Dynamics Parameters File (GROMACS),.mdp,04. Jeu de données,Fichier original,Complet,Risque faible,7
+MRtrix Image Format,.mif,04. Jeu de données,Fichier original,Surveillance,Moderate,128
+MRtrix Tracks File Format,.tck,04. Jeu de données,Fichier original,Surveillance,Moderate,468
+netCDF-3 64-bit,.nc,04. Jeu de données,Fichier original,Surveillance,Risque faible,"2,844"
+netCDF-3 Classic,.nc,04. Jeu de données,Fichier original,Surveillance,Risque faible,"70,136"
+netCDF-4/HDF5,".nc, .nc4",04. Jeu de données,Fichier original,Surveillance,Risque faible,"843,941"
+The Neuroimaging Informatics Technology Initiative File Format,.nii,04. Jeu de données,Fichier original,Surveillance,Risque élevé,"109,239"
+Norbit Wideband Multibeam Sonar Format,.wbm,04. Jeu de données,Fichier original,Base,Moderate,822
+Origin Project Format,".opj, .opju",04. Jeu de données,Fichier original,Base,Moderate,3
+QIIME Zipped Artifact,.qza,04. Jeu de données,Fichier original,Surveillance,Risque faible,23
+QIIME Zipped Visualization,.qzv,04. Jeu de données,Fichier original,Surveillance,Risque faible,14
+RData,.rdata,04. Jeu de données,Fichier original,Surveillance,Risque faible,"6,999"
+Residue to Building Block File (GROMACS),.r2b,04. Jeu de données,Fichier original,Surveillance,Risque faible,3
+Residue Topology Parameter File (GROMACS),.rtp,04. Jeu de données,Fichier original,Complet,Risque faible,3
+ROS bag file format,.bag,04. Jeu de données,Fichier original,Base,Risque faible,0
+SPSS Data File,.dat,04. Jeu de données,Fichier original,Base,Moderate,131
+SPSS Output File (spv),.spv,04. Jeu de données,Fichier original,Base,Risque élevé,1
+Stata Data (DTA) Format,.dta,04. Jeu de données,Fichier original,Base,Moderate,0
+SuperDARN Raw Auto-Correlation Function File,.rawacf,04. Jeu de données,Fichier original,Base,Moderate,"2,136,990"
+SuperDARN Raw Data File,.dat,04. Jeu de données,Fichier original,Base,Moderate,0
+Termini Database (ASCII) File (GROMACS),.tdb,04. Jeu de données,Fichier original,Complet,Risque faible,2
+Topology File (GROMACS),.top,04. Jeu de données,Fichier original,Complet,Risque faible,0
+Trajectory Trace Record File (GROMACS),.trr,04. Jeu de données,Fichier original,Surveillance,Risque faible,50
+Variant Call Format,.vcf,04. Jeu de données,Fichier original,Complet,Risque faible,15
+Virtual Site Definition File (GROMACS),.vsd,04. Jeu de données,Fichier original,Complet,Risque faible,1
+WinRiver Workspace File,.wrw,04. Jeu de données,Fichier original,Base,Risque élevé,3
+ZISRAW (CZI) File Format,.czi,04. Jeu de données,Fichier original,Surveillance,Moderate,262
+Adobe PostScript Font Metrics file,.pfm,05. Police,Fichier original,Surveillance,Moderate,505
+Adobe Printer Font Binary,.pfb,05. Police,Fichier original,Base,Risque élevé,681
+Daisy-Dot Font File,.nlq,05. Police,Fichier original,Base,Risque élevé,0
+Embedded OpenType (EOT) File Format,.eot,05. Police,Fichier original,Surveillance,Risque élevé,0
+OpenType Font File,.otf,05. Police,Fichier original,Surveillance,Risque faible,0
+TrueType Font,.tff,05. Police,Fichier original,Surveillance,Risque faible,0
+Web Open Font Format,.woff,05. Police,Fichier original,Surveillance,Risque faible,0
+ASPRS Lidar Data Exchange Format,".las, .laz",06. Données géospatiales,Fichier original,Base,Moderate,"2,671"
+ESRI Arc/Info Binary Grid,.adf,06. Données géospatiales,Fichier original,Base,Risque élevé,66
+ESRI ArcInfo DAT File (External),.dat,06. Données géospatiales,Fichier original,Base,Risque élevé,5
+ESRI Arc/Info Export File,.e00,06. Données géospatiales,"Transformer en KML, ESRI Shapefile, et/ou GML, selon le cas",Base,Risque élevé,0
+ESRI Arc/View ShapeFile,.shp,06. Données géospatiales,Fichier original,Surveillance,Moderate,"29,044"
+ESRI Arc/View Shapefile Index,.shx,06. Données géospatiales,Fichier original,Base,Risque élevé,"29,044"
+ESRI ArcInfo Grid .nit File,.nit,06. Données géospatiales,Fichier original,Base,Risque élevé,7
+ESRI ArcMap Document,".mxd, .mxt",06. Données géospatiales,Fichier original,Base,Risque élevé,0
+ESRI Code Page File,.cpg,06. Données géospatiales,Fichier original,Base,Moderate,"28,891"
+ESRI Persistent Auxiliary Metadata File,.aux.xml,06. Données géospatiales,Fichier original,Base,Risque faible,"23,124"
+Esri Shapefile Geospatial Metadata File,.xml,06. Données géospatiales,Fichier original,Base,Risque faible,408
+ESRI Shapefile Projection (Well-Known Text) Format,.prj,06. Données géospatiales,Fichier original,Base,Risque faible,"29,016"
+ESRI Spatial Index File,".sbn, .sbx",06. Données géospatiales,Fichier original,Base,Risque élevé,740
+ESRI World File Format,.tfw,06. Données géospatiales,Fichier original,Base,Moderate,179
+OGC GeoPackage,.gpkg,06. Données géospatiales,Fichier original,Surveillance,Risque faible,163
+Adobe Photoshop,.psd,07. Image (matricielle),Transformer en TIFF,Complet,Moderate,955
+Alias Pix Image File,".pix, .ico",07. Image (matricielle),À réviser,Base,Risque élevé,0
+Animated Portable Network Graphics,.apng,07. Image (matricielle),À réviser,Base,Moderate,63
+Apple Icon Image Format,.icns,07. Image (matricielle),Fichier original,Base,Risque élevé,1
+BigTIFF,".tiff, .tif",07. Image (matricielle),Fichier original,Complet,Risque faible,38
+DjVu File Format,".djv, .djvu",07. Image (matricielle),À réviser,Surveillance,Risque élevé,3
+Exchangeable Image File Format (Compressed),".jpeg, .jpg",07. Image (matricielle),Transformer en TIFF,Complet,Risque faible,"435,498"
+Exchangeable Image File Format (Uncompressed),".tif, .tiff",07. Image (matricielle),Transformer en TIFF,Complet,Risque faible,"8,551"
+Flexible Image Transport System,.fits,07. Image (matricielle),Transformer en TIFF,Surveillance,Risque faible,7
+Fujifilm RAW Image Format,.raf,07. Image (matricielle),Transformer en TIFF,Surveillance,Risque élevé,2
+Geographic Tagged Image File Format (GeoTIFF),".tif, .tiff, .cog",07. Image (matricielle),Fichier original,Complet,Risque faible,"3,712,794"
+Graphics Interchange Format,.gif,07. Image (matricielle),Transformer en TIFF,Complet,Moderate,"38,966"
+Hasselblad 3FR Raw Image,.3fr,07. Image (matricielle),Transformer en TIFF,Complet,Risque élevé,"2,895"
+Icon file format,.ico,07. Image (matricielle),,Surveillance,Moderate,0
+JPEG File Interchange Format,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (matricielle),Transformer en TIFF,Complet,Risque faible,"7,036,244"
+JPX (JPEG 2000 part 2),".jpx, .jpf",07. Image (matricielle),Transformer en TIFF,Complet,Moderate,2
+Nikon Digital SLR Camera Raw Image File,.nef,07. Image (matricielle),Transformer en TIFF,Complet,Risque élevé,"2,218"
+Nikon N-Dimensional Image,.nd2,07. Image (matricielle),Fichier original,Surveillance,Risque élevé,680
+Portable Network Graphics,.png,07. Image (matricielle),Transformer en TIFF,Complet,Risque faible,"4,503,842"
+Raw Bitmap,.raw,07. Image (matricielle),Transformer en TIFF,Complet,Risque élevé,0
+Raw JPEG Stream,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",07. Image (matricielle),Transformer en TIFF,Complet,Moderate,"15,374"
+Tagged Image File Format,".tiff, .tif",07. Image (matricielle),Fichier original,Complet,Risque faible,"375,975"
+Windows Bitmap,.bmp,07. Image (matricielle),Transformer en TIFF,Complet,Moderate,"408,159"
+X-Windows Bitmap Image,.xbm,07. Image (matricielle),À réviser,Surveillance,Moderate,0
+X-Windows Pixmap Image,.xpm,07. Image (matricielle),À réviser,Surveillance,Moderate,0
+Adobe Illustrator,.ai,08. Image (vectorielle),Transformer en PDF/A,Surveillance,Risque élevé,4
+Autodesk Animator CEL File Format,".pic, .cel",08. Image (vectorielle),À réviser,Base,Risque élevé,0
+Drawing Interchange File Format (ASCII),.dxf,08. Image (vectorielle),Fichier original,Surveillance,Risque faible,0
+Drawing Interchange Format (ASCII),.dxf,08. Image (vectorielle),Fichier original,Surveillance,Risque faible,5
+Encapsulated PostScript File Format,.eps,08. Image (vectorielle),Transformer en PDF/A,Surveillance,Risque faible,4
+Hewlett Packard Vector Graphic Plotter File,.plt,08. Image (vectorielle),Transformer,Surveillance,Risque élevé,1
+Scalable Vector Graphics,.svg,08. Image (vectorielle),Transformer en Plain SVG,Complet,Risque faible,293
+AutoCAD Last Saved Layer State,.las,09. Modèle,À réviser,Base,Risque élevé,0
+Bentley Microstation Hidden Line File,".hln, .dgn",09. Modèle,Fichier original,Base,Risque élevé,1
+Binvox,.binvox,09. Modèle,Fichier original,Base,Moderate,"340,338"
+CloudCompare Entity File,.bin,09. Modèle,Fichier original,Base,Risque élevé,2
+GL Transmission Format (Binary),.glb,09. Modèle,Fichier original,Surveillance,Risque faible,"56,723"
+Lightning Artist Toolkit Format,.latk,09. Modèle,À réviser,Base,Risque faible,"56,723"
+Microstation CAD Drawing,.dgn,09. Modèle,Transformer en PDF/A,Base,Moderate,0
+Polygon File Format,.ply,09. Modèle,Fichier original,Surveillance,Risque faible,"69,405"
+Tilt Brush,.tilt,09. Modèle,Fichier original,Base,Risque élevé,"56,719"
+Visualization Toolkit,.vtk,09. Modèle,Fichier original,Surveillance,Risque faible,"145,761"
+Acrobat PDF 1.1 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,6
+Acrobat PDF 1.2 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,6
+Acrobat PDF 1.3 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,498
+Acrobat PDF 1.4 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,"6,233"
+Acrobat PDF 1.5 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,738
+Acrobat PDF 1.6 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,"1,884"
+Acrobat PDF 1.7 - Portable Document Format,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Risque faible,90
+Acrobat PDF/A - Portable Document Format,.pdf,10. Description de la page,Fichier original,Complet,Risque faible,2
+Acrobat PDF/X - Portable Document Format - Exchange 1a:2001,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Moderate,1
+Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4,.pdf,10. Description de la page,Transformer en PDF/A,Complet,Risque faible,1
+PostScript,.ps,10. Description de la page,À réviser,Base,Risque faible,0
+TeX/LaTeX Device Independent Document,.dvi,10. Description de la page,À réviser,Base,Risque élevé,0
+Microsoft Powerpoint Design Template,.potx,11. Présentation,Fichier original,Surveillance,Risque faible,0
+Microsoft Powerpoint for Windows,.pptx,11. Présentation,Fichier original,Surveillance,Risque faible,59
+Microsoft Powerpoint for Windows,.ppt,11. Présentation,Fichier original,Surveillance,Moderate,59
+Adobe Flash,.swf,12. Code source et logiciel,À réviser,Base,Risque élevé,1
+B Source Code File,.b,12. Code source et logiciel,Fichier original,Complet,Moderate,2
+Back Up File,.bak,12. Code source et logiciel,Fichier original,Surveillance,Risque élevé,1
+Batch file (executable),.bat,12. Code source et logiciel,Fichier original,Complet,Moderate,28
+Binary File,.bin,12. Code source et logiciel,Fichier original,Base,Risque élevé,"46,111"
+C Source Code File,.c,12. Code source et logiciel,Fichier original,Complet,Risque faible,400
+C/C++ Header File,".h, .hpp, .hxx",12. Code source et logiciel,Fichier original,Complet,Risque faible,"45,067"
+C++ Source Code File,".cpp, .cxx, .cc",12. Code source et logiciel,Fichier original,Complet,Risque faible,439
+Data File,.dat,12. Code source et logiciel,Fichier original,Base,Risque élevé,"717,136"
+DataFlex Query Tag Name,.tag,12. Code source et logiciel,Fichier original,Base,Risque élevé,0
+Executable and Linkable Format,.elf,12. Code source et logiciel,Fichier original,Base,Moderate,0
+Fortran,".f90, .f",12. Code source et logiciel,Fichier original,Complet,Risque faible,"7,978"
+Fortran Namelist Format,.nml,12. Code source et logiciel,Fichier original,Complet,Risque faible,"3,352"
+Generic Library File,.lib,12. Code source et logiciel,À réviser,Base,Risque élevé,0
+GROK input file,.grok,12. Code source et logiciel,À réviser,Base,Moderate,0
+Java Class File,.class,12. Code source et logiciel,Fichier original,Complet,Moderate,0
+Java Language Source Code File,.java,12. Code source et logiciel,Fichier original,Complet,Risque faible,0
+JavaScript file,.js,12. Code source et logiciel,Fichier original,Complet,Risque faible,"5,199"
+Jupyter Python Notebook,.ipynb,12. Code source et logiciel,Fichier original,Surveillance,Risque faible,132
+Log File,.log,12. Code source et logiciel,Fichier original,Complet,Moderate,"36,500"
+Mach-O,no extension,12. Code source et logiciel,Fichier original,Base,Moderate,0
+MATLAB FIG-file,.fig,12. Code source et logiciel,Fichier original,Base,Risque élevé,0
+MATLAB Script File,.m,12. Code source et logiciel,Fichier original,Base,Risque faible,"1,496"
+Microsoft Windows Shortcut,.lnk,12. Code source et logiciel,Fichier original,Base,Moderate,5
+MS-DOS Executable,.exe,12. Code source et logiciel,Fichier original,Base,Risque élevé,2
+NumPy Format,.npy,12. Code source et logiciel,Fichier original,Base,Risque faible,"360,730"
+Perl Script,.pl,12. Code source et logiciel,Fichier original,Complet,Risque faible,772
+PEST Control File,.pst,12. Code source et logiciel,Fichier original,Base,Risque faible,8
+PEST Instruction File,.ins,12. Code source et logiciel,Fichier original,Base,Risque faible,16
+PEST Template File,.tpl,12. Code source et logiciel,Fichier original,Base,Risque faible,16
+PHP Script Page,.php,12. Code source et logiciel,Fichier original,Complet,Risque faible,0
+Portable Grey Map - Binary,".pgmb, .pgm",12. Code source et logiciel,Fichier original,Base,Moderate,0
+Portable Pixel Map - Binary,".ppm, .ppmb",12. Code source et logiciel,Fichier original,Base,Moderate,0
+Python Compiled File,.pyc,12. Code source et logiciel,Fichier original,Complet,Moderate,281
+Python Source Code File,.py,12. Code source et logiciel,Fichier original,Complet,Risque faible,"2,911"
+R Program File,.r,12. Code source et logiciel,Fichier original,Complet,Risque faible,104
+Typescript,.ts,12. Code source et logiciel,Fichier original,Complet,Risque faible,0
+Unisys (Sperry) System Data File,.sdf,12. Code source et logiciel,À réviser,Base,Risque élevé,4
+VBScript (VBS) File,.vbs,12. Code source et logiciel,À réviser,Base,Risque élevé,0
+Windows Portable Executable,".exe, .dll, .sys",12. Code source et logiciel,Fichier original,Base,Moderate,29
+Apple iWork Numbers,.numbers,13. Feuille de calcul,Transformer en CSV,Surveillance,Risque élevé,1
+Gnumeric,.gnumeric,13. Feuille de calcul,À réviser,Base,Moderate,0
+Microsoft Excel 5.0/95 Workbook (xls),.xls,13. Feuille de calcul,Transformer en ODS,Complet,Moderate,1
+Microsoft Excel 97 Workbook (xls),.xls,13. Feuille de calcul,Transformer en ODS,Complet,Moderate,146
+Microsoft Excel for Windows,.xlsx,13. Feuille de calcul,Fichier original,Complet,Risque faible,"1,802"
+Microsoft Excel Macro-Enabled,.xlsm,13. Feuille de calcul,Fichier original,Surveillance,Risque faible,3
+Microsoft Multiplan,.mod,13. Feuille de calcul,À réviser,Base,Risque élevé,0
+OpenDocument Spreadsheet,.ods,13. Feuille de calcul,Fichier original,Complet,Risque faible,0
+Agisoft Project File,.psx,14. Texte (balisage),À réviser,Base,Risque élevé,2
+Canadian Avalanche Association Markup Language,.caaml,14. Texte (balisage),Fichier original,Complet,Risque faible,825
+Document Type Definition,.dtd,14. Texte (balisage),Fichier original,Complet,Risque faible,0
+eRuby HTML document,".rhtml, .rhtm",14. Texte (balisage),Fichier original,Complet,Risque faible,0
+Extensible Markup Language,.xml,14. Texte (balisage),Fichier original,Complet,Risque faible,"6,683"
+Extensible Metadata Platform Format,.xmp,14. Texte (balisage),Fichier original,Complet,Risque faible,"37,261"
+Extensible Metadata Platform Packet,.xmp,14. Texte (balisage),Fichier original,Complet,Risque faible,"16,148"
+Geography Markup Language,.gml,14. Texte (balisage),Fichier original,Complet,Risque faible,0
+GPS Exchange Format,.gpx,14. Texte (balisage),Fichier original,Complet,Risque faible,2
+Hypertext Markup Language,.html,14. Texte (balisage),Fichier original,Complet,Risque faible,"13,433"
+Keyhole Markup Language (Container),.kmz,14. Texte (balisage),Fichier original,Complet,Risque faible,51
+Keyhole Markup Language (XML),.kml,14. Texte (balisage),Fichier original,Complet,Risque faible,46
+LaTeX (Master document),.tex,14. Texte (balisage),Fichier original,Complet,Risque faible,3
+LaTeX (Subdocument),.tex,14. Texte (balisage),Fichier original,Complet,Risque faible,492
+Markdown,.md,14. Texte (balisage),Fichier original,Complet,Risque faible,307
+OGR GFS File,.gfs,14. Texte (balisage),Fichier original,Surveillance,Moderate,0
+QGIS Metadata File,.qmd,14. Texte (balisage),Fichier original,Complet,Risque faible,32
+QGIS Style Language,.qml,14. Texte (balisage),Fichier original,Complet,Risque faible,4
+reStructuredText,.rst,14. Texte (balisage),Fichier original,Complet,Risque faible,0
+SGML/XML Entity File,.sgml,14. Texte (balisage),Fichier original,Complet,Moderate,0
+Standard Generalized Markup Language,.sgml,14. Texte (balisage),Fichier original,Complet,Moderate,0
+TEI P5 - Single Text File,".tei, .odd, .xml",14. Texte (balisage),Fichier original,Complet,Risque faible,0
+Vicon Skeleton File/Vicon Labeling Setup file,.vsk,14. Texte (balisage),Fichier original,Complet,HIgh,0
+XML Property List,.plist,14. Texte (balisage),Fichier original,Complet,Risque faible,0
+XML Schema Definition,.xsd,14. Texte (balisage),Fichier original,Complet,Risque faible,0
+BibTeX Database File,.bib,15. Texte (structuré),Fichier original,Complet,Risque faible,66
+Cascading Style Sheet,.css,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+Clock RINEX File Format,.clk,15. Texte (structuré),Fichier original,Complet,Risque faible,188
+Comma Separated Values,.csv,15. Texte (structuré),Fichier original,Complet,Risque faible,"4,488,709"
+Data Interchange Format,.dif,15. Texte (structuré),Fichier original,Surveillance,Moderate,0
+HPL (Halo Photonics) Doppler LiDAR File Format,.hpl,15. Texte (structuré),Fichier original,Complet,Risque élevé,0
+JSON Data Interchange Format,.json,15. Texte (structuré),Fichier original,Complet,Risque faible,"138,697"
+Leaner Style Sheets,.less,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+MD5 File,.md5,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+OPML File,.opml,15. Texte (structuré),Fichier original,Complet,Moderate,0
+Prime OCR,.pro,15. Texte (structuré),Fichier original,Base,Risque élevé,173
+PrimeOCR,.pro,15. Texte (structuré),Fichier original,Base,Risque élevé,961
+Position File (CSRS-PPP),.pos,15. Texte (structuré),Fichier original,Complet,Risque faible,188
+Protein Data Bank File,.pdb,15. Texte (structuré),Fichier original,Surveillance,Risque faible,51
+QGIS Spatial Index File,.qix,15. Texte (structuré),Fichier original,Surveillance,Risque faible,3
+RINEX Observation File,.obs,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+Spectrometer Configuration Info File,.info,15. Texte (structuré),Fichier original,Complet,Risque élevé,14
+Spectrometer Parameter File,.par,15. Texte (structuré),Fichier original,Complet,Risque élevé,14
+Standard for the Exchange of Product model data,".step, .stp",15. Texte (structuré),Fichier original,Base,Risque faible,4
+Structured Query Language Data,.sql,15. Texte (structuré),Fichier original,Complet,Risque faible,4
+Subsurface Material Properties File,.mprops,15. Texte (structuré),Fichier original,Complet,Risque élevé,0
+Summary File (CSRS-PPP),.sum,15. Texte (structuré),Fichier original,Complet,Risque faible,253
+Surface Domain Properties File,.oprops,15. Texte (structuré),Fichier original,Complet,Risque élevé,0
+Syntactically Awesome Style Sheets,".sass, .scss",15. Texte (structuré),Fichier original,Complet,Risque faible,0
+Tab-separated Values,".tsv, .tab",15. Texte (structuré),Transformer en CSV,Complet,Risque faible,302
+Text Configuration file,.ini,15. Texte (structuré),Fichier original,Complet,Moderate,947
+Tropospheric Zenith Delay File (CSRS-PPP),.tro,15. Texte (structuré),Fichier original,Complet,Risque faible,0
+YAML,".yml, .yaml",15. Texte (structuré),Fichier original,Complet,Risque faible,"141,008"
+7-bit ASCII Text,.asc,16. Texte (non structuré),Fichier original,Complet,Risque faible,"1,891,900"
+Plain Text File,.txt,16. Texte (non structuré),Fichier original,Complet,Risque faible,"2,905,303"
+Audio/Video Interleaved Format,.avi,17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,"3,109"
+MPEG-1 Program Stream,".mpeg, .mpg",17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,"13,372"
+MPEG-2 Program Stream,".mpeg, .mpg",17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,404
+MPEG-4 Media File,".mp4, .mpa",17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Risque faible,"40,788"
+MPEG-2 Transport Stream,".mts, .m2ts",17. Vidéo,Fichier original,Complet,Risque faible,0
+Quicktime,.mov,17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,610
+Windows Media Video,.wmv,17. Vidéo,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Risque élevé,2
+Microsoft Word (Generic),.doc,18. Traitement de texte,Transformer en ODT,Complet,Risque élevé,1
+Microsoft Word Document,".docx, .doc",18. Traitement de texte,Transformer en ODT,Complet,Risque faible,25
+Microsoft Word for Windows,".docx, .doc",18. Traitement de texte,Transformer en ODT,Complet,Risque faible,95
+OpenDocument Text,".odt, .ott",18. Traitement de texte,Fichier original,Complet,Risque faible,0
+Rich Text Format,.rtf,18. Traitement de texte,Transformer en PDF/A,Complet,Moderate,58
+Statistica Report File,.str,18. Traitement de texte,Transformer en PDF/A,Surveillance,Risque élevé,0
+Ventura Publisher,.gen,18. Traitement de texte,Transformer en PDF/A,Surveillance,Risque élevé,0
+Wordcraft Chapter Files,.001,18. Traitement de texte,Fichier original,Base,Risque élevé,0
+WordStar for Windows Document,.ws,18. Traitement de texte,Transformer en PDF/A,Complet,Risque élevé,0
+XYWrite Document,.xy,18. Traitement de texte,Fichier original,Base,Risque élevé,1
