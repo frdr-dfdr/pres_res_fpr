@@ -52,7 +52,6 @@ Dataset [`Crowdsourced Flow Cytometry Dataset from EVE Online’s Project Discov
 - Update Variant Call Format (.vcf) to `Full` preservation level
 
 ### Removed
-- WordStar for Windows Document(.wsd). Format misidentified
 
 ---
 ## [1.0.1] - 2026-03-25
