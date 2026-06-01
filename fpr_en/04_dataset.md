@@ -44,7 +44,6 @@ Original refers to the original file deposited in the repository.
 | SPSS Output File (spv)                                         | .spv              | Original                                      | Basic                | High         | 1             |
 | Stata Data (DTA) Format                                        | .dta              | Original                                      | Basic                | Moderate     | 0             |
 | SuperDARN Raw Auto-Correlation Function File                   | .rawacf           | Original                                      | Basic                | Moderate     | 2,136,990     |
-| SuperDARN Raw Data File                                        | .dat              | Original                                      | Basic                | Moderate     | 0             |
 | Termini Database (ASCII) File (GROMACS)                        | .tdb              | Original                                      | Full                 | Low          | 2             |
 | Topology File (GROMACS)                                        | .top              | Original                                      | Full                 | Low          | 0             |
 | Trajectory Trace Record File (GROMACS)                         | .trr              | Original                                      | Watch                | Low          | 50            |
