@@ -22,7 +22,7 @@ The table below provides a brief overview of how many formats are associated wit
 ## General Format Stats
 |Total Identified|Total in Plan|Estimate Unknown|No Extension (Files)|Date Updated|
 |:---------------|:------------|:---------------|:-----------|:------|
-|450|261|151|1,959,319|2026-25-25|
+|450|261|151|1,959,319|2026-05-25|
 |382|235|792|75483|2026-02-04|
 
 ---
@@ -50,5 +50,5 @@ Le tableau ci-dessous présente un bref aperçu du nombre de formats associés �
 ## Statistiques générales sur le format
 |Total identifié|Total dans le plan|Estimation inconnue|Pas d'extension (fichiers)|Date de mise à jour|
 |:--------------|:------------|:---------------|:-----------|:------|
-|450|261|151|1,959,319|2026-25-25|
+|450|261|151|1,959,319|2026-05-25|
 |382|235|792|75,483|2026-02-04|
