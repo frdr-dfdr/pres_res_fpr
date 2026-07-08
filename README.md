@@ -32,7 +32,7 @@ Each file type is grouped into a larger file category. A table for each category
 - [Full Format Listing](./fpr_en/2026-05-25_csv_downloads/00_full_listing.csv) (CSV 16 KB)
 - [Signature Files](https://drive.google.com/drive/folders/1j6AcG88DUs2rIZ3GmOsq8nj4uo7wPVmx?usp=drive_link)
 
-## Catégories
+## Categories
 - [00-Strategy](/fpr_en/00_strategy.md)
 - [01-Aggregate](/fpr_en/01_aggregate.md)
 - [02-Audio](/fpr_en/02_audio.md)
