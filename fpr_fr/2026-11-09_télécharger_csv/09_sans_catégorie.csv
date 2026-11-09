@@ -1,10 +1,15 @@
 Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
 Back Up File,.bak,09. Sans catégorie,Fichier original,Surveillance,Risque élevé,---,814,"Intelligence artificielle (IA)
 Hydrologie"
-Google Chrome Download File,.crdownload,09. Sans catégorie,,Base,Risque élevé,---,4,Physiologie animale
+Google Chrome Download File,.crdownload,09. Sans catégorie,Fichier original,Base,Risque élevé,---,4,Physiologie animale
+Microsoft Windows Shortcut,.lnk,09. Sans catégorie,Fichier original,Base,Risque élevé,---,5,Géosciences de l'environnement
 MS-DOS Executable,.exe,09. Sans catégorie,Fichier original,Base,Risque élevé,---,2,"Géochimie
 Sciences du milieu naturel"
-Timestamp Backup,xxxxxxx,09. Sans catégorie,,Base,Risque élevé,---,2,Intelligence artificielle (IA)
+Olympus Lookup Table,.lut,09. Sans catégorie,Fichier original,Complet,Moderate,---,24,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+Python Compiled File,.pyc,09. Sans catégorie,Fichier original,Complet,Risque faible,---,281,"Écologie (sauf les applications)
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Autres sciences de la Terre et sciences de l'environnement connexes"
+Timestamp Backup,xxxxxxx,09. Sans catégorie,Fichier original,Base,Risque élevé,---,2,Intelligence artificielle (IA)
 Windows Portable Executable,".exe, .dll, .sys",09. Sans catégorie,Fichier original,Base,Moderate,---,31,"Sciences de l'atmosphère
 Hydrologie
 Sciences du milieu naturel

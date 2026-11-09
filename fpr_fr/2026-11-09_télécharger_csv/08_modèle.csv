@@ -1,31 +1,31 @@
 Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
-Batched 3D Model,.b3dm,08. Modèle,,Surveillance,Risque faible,---,755,Conception technique en ingénierie
+Batched 3D Model,.b3dm,08. Modèle,Fichier original,Surveillance,Risque faible,---,755,Conception technique en ingénierie
 Binvox,.binvox,08. Modèle,Fichier original,Base,Moderate,---,"340,338",Arts visuels et arts médiatiques
 CloudCompare Entity File,.bin,08. Modèle,Fichier original,Base,Moderate,---,2,Géosciences de l'environnement
-Fledermaus Scene Description File,.fwd,08. Modèle,,Surveillance,Risque élevé,---,256,Géosciences de l'environnement
-FreeSurfer M3Z Morphometry/Morphing File,.m3z,08. Modèle,,Surveillance,Moderate,---,811,Intelligence artificielle (IA)
-FreeSurfer Original Cortical Surface Mesh Geometry File,.orig,08. Modèle,,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
-FreeSurfer Pre-Mesh Initial Cortical Surface File,.premesh,08. Modèle,,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
-FreeSurfer Pre-Parcellation White Matter Surface Mesh File,.preaparc,08. Modèle,,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
-FreeSurfer Quasi-Sphere Surface Mesh Geometry File,.qshpere,08. Modèle,,Surveillance,Moderate,---,1,Intelligence artificielle (IA)
-FreeSurfer Smoothed White Matter Surface Mesh File,.smoothwm,08. Modèle,,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
-FreeSurfer Spherical Morphological Registration Mesh File,.reg,08. Modèle,,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
-FreeSurfer Spherical Surface,.sphere,08. Modèle,,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
-FreeSurfer Surface Geometry,.pial; .white,08. Modèle,,Surveillance,Moderate,---,"4,866",Intelligence artificielle (IA)
-FreeSurfer Surface Geometry File,.inflated,08. Modèle,,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
-FreeSurfer T1-Weighted Cortical Pial Surface Mesh File,.T1,08. Modèle,,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
-FreeSurfer Uncorrected Surface Mesh Geometry File,.nofix,08. Modèle,,Surveillance,Moderate,---,"6,488",Intelligence artificielle (IA)
+Fledermaus Scene Description File,.fwd,08. Modèle,Fichier original,Surveillance,Risque élevé,---,256,Géosciences de l'environnement
+FreeSurfer M3Z Morphometry/Morphing File,.m3z,08. Modèle,Fichier original,Surveillance,Moderate,---,811,Intelligence artificielle (IA)
+FreeSurfer Original Cortical Surface Mesh Geometry File,.orig,08. Modèle,Fichier original,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
+FreeSurfer Pre-Mesh Initial Cortical Surface File,.premesh,08. Modèle,Fichier original,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
+FreeSurfer Pre-Parcellation White Matter Surface Mesh File,.preaparc,08. Modèle,Fichier original,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
+FreeSurfer Quasi-Sphere Surface Mesh Geometry File,.qshpere,08. Modèle,Fichier original,Surveillance,Moderate,---,1,Intelligence artificielle (IA)
+FreeSurfer Smoothed White Matter Surface Mesh File,.smoothwm,08. Modèle,Fichier original,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
+FreeSurfer Spherical Morphological Registration Mesh File,.reg,08. Modèle,Fichier original,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
+FreeSurfer Spherical Surface,.sphere,08. Modèle,Fichier original,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
+FreeSurfer Surface Geometry,.pial; .white,08. Modèle,Fichier original,Surveillance,Moderate,---,"4,866",Intelligence artificielle (IA)
+FreeSurfer Surface Geometry File,.inflated,08. Modèle,Fichier original,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
+FreeSurfer T1-Weighted Cortical Pial Surface Mesh File,.T1,08. Modèle,Fichier original,Surveillance,Moderate,---,"1,622",Intelligence artificielle (IA)
+FreeSurfer Uncorrected Surface Mesh Geometry File,.nofix,08. Modèle,Fichier original,Surveillance,Moderate,---,"6,488",Intelligence artificielle (IA)
 GL Transmission Format (Binary),.glb,08. Modèle,Fichier original,Surveillance,Risque faible,---,"56,723",Arts visuels et arts médiatiques
 Lightning Artist Toolkit Format,.latk,08. Modèle,À réviser,Base,Risque faible,---,"56,723",Arts visuels et arts médiatiques
-Maestro Structure File,.mae,08. Modèle,,Surveillance,Moderate,---,2,"Intelligence artificielle (IA)
+Maestro Structure File,.mae,08. Modèle,Fichier original,Surveillance,Moderate,---,2,"Intelligence artificielle (IA)
 Chimie biomoléculaire et thérapeutique (médicinale)"
-Open Scene Graph Binary,.osgb,08. Modèle,,Surveillance,Moderate,---,435,Conception technique en ingénierie
+Open Scene Graph Binary,.osgb,08. Modèle,Fichier original,Surveillance,Moderate,---,435,Conception technique en ingénierie
 Polygon File Format,.ply,08. Modèle,Fichier original,Surveillance,Risque faible,---,"75,618","Intelligence artificielle (IA)
 Conception technique en ingénierie
 Géosciences de l'environnement
 Sciences de la foresterie
 Autres informatique et sciences de l'information"
-SolidWorks 3D CAD Part File,.sldprt,08. Modèle,,Surveillance,Risque élevé,---,1,Génie de la fabrication
+SolidWorks 3D CAD Part File,.sldprt,08. Modèle,Fichier original,Surveillance,Risque élevé,---,1,Génie de la fabrication
 Tilt Brush,.tilt,08. Modèle,Fichier original,Base,Risque élevé,---,"56,724",Arts visuels et arts médiatiques
 Visualization Toolkit,.vtk,08. Modèle,Fichier original,Surveillance,Risque faible,---,"145,761",Autres sciences naturelles
-Wavefront OBJ File,.obj,08. Modèle,,Complet,Moderate,---,162,Conception technique en ingénierie
+Wavefront OBJ File,.obj,08. Modèle,Fichier original,Complet,Moderate,---,162,Conception technique en ingénierie

@@ -5,7 +5,7 @@ Hydrologie
 Neurosciences, aspects biologiques et chimiques
 Neurosciences, aspects médicaux et physiologiques et de la santé
 Océanographie"
-H.264 Raw Elementary Video Stream File,.h264,16. Vidéo/Image animée,,Complet,Moderate,---,63,"Neurosciences, aspects biologiques et chimiques"
+H.264 Raw Elementary Video Stream File,.h264,16. Vidéo/Image animée,Fichier original,Complet,Moderate,---,63,"Neurosciences, aspects biologiques et chimiques"
 MPEG-1 Program Stream,".mpeg, .mpg",16. Vidéo/Image animée,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,---,"13,776","Sciences cognitives
 Neurosciences, aspects biologiques et chimiques
 Neurosciences, aspects médicaux et physiologiques et de la santé
@@ -28,5 +28,5 @@ Quicktime,.mov,16. Vidéo/Image animée,Transform en Matroska (mkv – video: ff
 Bioinformatique
 Géosciences de l'environnement
 Océanographie"
-Uncompressed Raw Video Pixel Stream File,.raw,16. Vidéo/Image animée,,Surveillance,Risque élevé,---,320,"Neurosciences, aspects biologiques et chimiques"
+Uncompressed Raw Video Pixel Stream File,.raw,16. Vidéo/Image animée,Fichier original,Surveillance,Risque élevé,---,320,"Neurosciences, aspects biologiques et chimiques"
 Windows Media Video,.wmv,16. Vidéo/Image animée,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Risque élevé,---,2,Biologie cellulaire

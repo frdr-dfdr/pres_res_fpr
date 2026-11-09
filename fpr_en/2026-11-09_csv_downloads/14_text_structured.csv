@@ -1,7 +1,7 @@
 Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Cross Listed,Total Files,Field of Research
 AMICA Configuration Parameter File,.param,14. Text (Structured),Original,Full,Moderate,---,62,"Neurosciences, biological and chemical aspects (RDF10611)
 Neurosciences, medical and physiological and health aspects (RDF30104)"
-Bash Shell Script,.sh,14. Text (Structured),,Full,Low,---,8,"Cryosphere processes (RDF10508)
+Bash Shell Script,.sh,14. Text (Structured),Original,Full,Low,---,8,"Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
 Batch file (executable),.bat,14. Text (Structured),Original,Full,Moderate,---,15,"Cognitive sciences (RDF50102)
 Hydrology (RDF10507)
@@ -15,7 +15,7 @@ Brewer Colormap file,.bmaps,14. Text (Structured),Original,Full,High,---,1,Hydro
 Bruker NMR Parameter File,"--, .temp, .par",14. Text (Structured),Original,Full,High,---,200,Biochemistry (RDF10601)
 Bruker ParaVision Scan Protocol Configuration File,.PvProtocols,14. Text (Structured),Original,Full,High,---,8,"Neurosciences, medical and physiological and health aspects (RDF30104)"
 Bruker ParaVision Subject Metadata File,.subject,14. Text (Structured),Original,Full,High,---,3,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-Bruker Pulse Sequence & Waveform File,--,14. Text (Structured),Retain with associated software and documentation,Watch,High,---,14,Biochemistry (RDF10601)
+Bruker Pulse Sequence & Waveform File,--,14. Text (Structured),Original,Watch,High,---,14,Biochemistry (RDF10601)
 Bruker Topspin Acquisition-Specific Parameter Editor,.ased,14. Text (Structured),Original,Full,High,---,2,Biochemistry (RDF10601)
 C Shell Script,.csh,14. Text (Structured),Original,Full,Low,---,"4,608",Atmospheric sciences (RDF10501)
 C Source Code File,.c,14. Text (Structured),Original,Full,Low,---,7,"Bioinformatics (RDF10208)
@@ -30,7 +30,7 @@ Oceanography (RDF10505)"
 C# Source Code File,.cs,14. Text (Structured),Original,Full,Low,---,3,Agricultural biotechnology (RDF40401)
 C++ Source Code File,".cpp, .cxx, .cc",14. Text (Structured),Original,Full,Low,---,20,"Applied mathematics (RDF10102)
 Cell biology (RDF10602)"
-Camtasia Project File format (Windows),.tscproj,14. Text (Structured),Retain with linked media and project dependencies; create an access copy where possible,Watch,High,---,16,Hydrology (RDF10507)
+Camtasia Project File format (Windows),.tscproj,14. Text (Structured),Original,Watch,High,---,16,Hydrology (RDF10507)
 Cascading Style Sheet,.css,14. Text (Structured),Original,Full,Low,---,37,"Atmospheric sciences (RDF10501)
 Hydrology (RDF10507)"
 CCSM C Shell Script,.csh,14. Text (Structured),Original,Full,Low,---,13,Atmospheric sciences (RDF10501)
@@ -84,14 +84,14 @@ CESM Shared Precision Parameter Module,--,14. Text (Structured),Original,Full,Lo
 CESM Source Code Discovery Utility Script,--,14. Text (Structured),Original,Full,Low,---,192,Atmospheric sciences (RDF10501)
 CESM System-Generated Documentation Manifest,--; science_support,14. Text (Structured),Original,Full,Low,---,384,Atmospheric sciences (RDF10501)
 CESM Test Suite Generation Utility Script,--,14. Text (Structured),Original,Full,Low,---,192,Atmospheric sciences (RDF10501)
-CESM User Namelist,--,14. Text (Structured),Retain with associated model version and configuration,Full,Low,---,"1,536",Atmospheric sciences (RDF10501)
+CESM User Namelist,--,14. Text (Structured),Original,Full,Low,---,"1,536",Atmospheric sciences (RDF10501)
 CESM Workflow Script,--,14. Text (Structured),Original,Full,Low,---,576,Atmospheric sciences (RDF10501)
-Checksum File,.hashes,14. Text (Structured),Retain; use to verify file integrity over time,Full,Moderate,---,691,Astronomical and space sciences (RDF10301)
+Checksum File,.hashes,14. Text (Structured),Original,Full,Moderate,---,691,Astronomical and space sciences (RDF10301)
 CIME Component Build Configuration File,--,14. Text (Structured),Original,Full,Low,---,723,Atmospheric sciences (RDF10501)
 CIME Component Data Stream Description,.som,14. Text (Structured),Original,Full,Low,---,538,Atmospheric sciences (RDF10501)
 CIME Component Input Data Manifest,.input_data_list,14. Text (Structured),Original,Full,Low,---,"1,152",Atmospheric sciences (RDF10501)
 CIME Component Library Build Script,.lo,14. Text (Structured),Original,Full,Low,---,1,Atmospheric sciences (RDF10501)
-CIME Component Library Compilation Script,.pio,14. Text (Structured),Retain; preserve compilation instructions and dependencies,Full,Low,---,192,Atmospheric sciences (RDF10501)
+CIME Component Library Compilation Script,.pio,14. Text (Structured),Original,Full,Low,---,192,Atmospheric sciences (RDF10501)
 Citation File Format,.cff,14. Text (Structured),Original,Full,Low,---,1,Artificial intelligence (AI) (RDF10201)
 Clock RINEX File Format,.clk,14. Text (Structured),Original,Full,Moderate,GIS/Geospatial,188,Environmental geoscience (RDF10506)
 Cluster Batch Job Submission Script,.computecanada,14. Text (Structured),Original,Full,Moderate,---,192,Atmospheric sciences (RDF10501)
@@ -99,19 +99,19 @@ Cold Regions Hydrological Modelling (CRHM) Project File,.prj,14. Text (Structure
 Command Prompt File,.cmd,14. Text (Structured),Original,Full,Moderate,---,"3,737","Artificial intelligence (AI) (RDF10201)
 Ecology (except applications) (RDF10603)
 Other earth and related environmental sciences (RDF10599)"
-Compiler Macro Files,.intel,14. Text (Structured),Retain with compiler and build-environment information,Full,Moderate,---,190,Atmospheric sciences (RDF10501)
+Compiler Macro Files,.intel,14. Text (Structured),Original,Full,Moderate,---,190,Atmospheric sciences (RDF10501)
 Configuration File,.cnf; .conf,14. Text (Structured),Original,Full,Moderate,---,4,"Applied mathematics (RDF10102)
 Neurosciences, medical and physiological and health aspects (RDF30104)"
-Control Input File,.in,14. Text (Structured),Retain with associated software and experiment documentation,Watch,Moderate,---,1,Atmospheric sciences (RDF10501)
-Custom Bioinformatics Pipeline Layout Data File,.dat,14. Text (Structured),Retain with pipeline documentation and software dependencies,Watch,Moderate,---,2,"Hydrology (RDF10507)
+Control Input File,.in,14. Text (Structured),Original,Watch,Moderate,---,1,Atmospheric sciences (RDF10501)
+Custom Bioinformatics Pipeline Layout Data File,.dat,14. Text (Structured),Original,Watch,Moderate,---,2,"Hydrology (RDF10507)
 Oceanography (RDF10505)"
-DeepLabCut Snapshot Index File,.index,14. Text (Structured),Retain with its corresponding checkpoint data files,Watch,Low,---,3,"Neurosciences, biological and chemical aspects (RDF10611)"
-DeepLabCut Snapshot Meta File,.meta,14. Text (Structured),Retain with the corresponding checkpoint data and model configuration,Watch,Low,---,2,"Neurosciences, biological and chemical aspects (RDF10611)"
-Demeter Project File,.prj,14. Text (Structured),Retain with associated project data and software documentation,Watch,Moderate,---,30,"Environmental geoscience (RDF10506)
+DeepLabCut Snapshot Index File,.index,14. Text (Structured),Original,Watch,Low,---,3,"Neurosciences, biological and chemical aspects (RDF10611)"
+DeepLabCut Snapshot Meta File,.meta,14. Text (Structured),Original,Watch,Low,---,2,"Neurosciences, biological and chemical aspects (RDF10611)"
+Demeter Project File,.prj,14. Text (Structured),Original,Watch,Moderate,---,30,"Environmental geoscience (RDF10506)
 Geochemistry (RDF10502)"
-DSP Log Editor Configuration File,.DspLogEditorxml,14. Text (Structured),Retain with the associated software and configuration documentation,Watch,Moderate,---,35,Environmental geoscience (RDF10506)
-Encrypted Python Script,.pye,14. Text (Structured),"Retain with the required interpreter, encryption details, and dependencies",Watch,High,---,1,Other earth and related environmental sciences (RDF10599)
-ENVI Raster Header File,.hdr,14. Text (Structured),Retain with its corresponding raster data file,Full,Low,---,82,Geomatics and earth systems observations (RDF10509)
+DSP Log Editor Configuration File,.DspLogEditorxml,14. Text (Structured),Original,Watch,Moderate,---,35,Environmental geoscience (RDF10506)
+Encrypted Python Script,.pye,14. Text (Structured),Original,Watch,High,---,1,Other earth and related environmental sciences (RDF10599)
+ENVI Raster Header File,.hdr,14. Text (Structured),Original,Full,Low,---,82,Geomatics and earth systems observations (RDF10509)
 Environment File,.env,14. Text (Structured),Original,Full,Moderate,---,811,Artificial intelligence (AI) (RDF10201)
 ESRI ArcMap Document,".mxd, .mxt",14. Text (Structured),Original,Basic,High,Dataset,1,Environmental geoscience (RDF10506)
 ESRI Code Page File,.cpg,14. Text (Structured),Original,Basic,Moderate,---,"12,999","Agricultural biotechnology (RDF40401)
@@ -124,7 +124,7 @@ Geomatics engineering (RDF20802)
 Hydrology (RDF10507)
 Other earth and related environmental sciences (RDF10599)
 Urban and regional planning (RDF50702)"
-ESRI Freelist File,.freelist,14. Text (Structured),Retain with the associated geodatabase,Watch,High,---,176,"Ecology (except applications) (RDF10603)
+ESRI Freelist File,.freelist,14. Text (Structured),Original,Watch,High,---,176,"Ecology (except applications) (RDF10603)
 Hydrology (RDF10507)"
 ESRI Persistent Auxiliary Metadata File,.aux.xml,14. Text (Structured),Original,Basic,Low,Dataset,"23,128","Ecological applications (RDF10604)
 Engineering design (RDF21201)
@@ -148,7 +148,7 @@ Other earth and related environmental sciences (RDF10599)
 Other physical sciences (RDF10399)
 Statistics (RDF10103)
 Urban and regional planning (RDF50702)"
-ESRI Timestamp File,.timestamps,14. Text (Structured),Retain with its associated geodatabase,Watch,Moderate,---,6,"Ecology (except applications) (RDF10603)
+ESRI Timestamp File,.timestamps,14. Text (Structured),Original,Watch,Moderate,---,6,"Ecology (except applications) (RDF10603)
 Environmental engineering (RDF20801)
 Hydrology (RDF10507)"
 FastText Labeled Text Format,.train,14. Text (Structured),Original,Full,Low,---,1,Artificial intelligence (AI) (RDF10201)
@@ -165,18 +165,18 @@ Geophysics (RDF10504)"
 Fortran Namelist,.nml,14. Text (Structured),Original,Full,Low,---,2,Oceanography (RDF10505)
 Fragment Shader,.frag,14. Text (Structured),Original,Full,Low,---,33,Engineering design (RDF21201)
 FreeSurfer Color Lookup Table,.ctab,14. Text (Structured),Original,Full,Moderate,---,"4,060",Artificial intelligence (AI) (RDF10201)
-FreeSurfer Processing Marker,.touch,14. Text (Structured),Retain if required for workflow provenance; otherwise document its role,Basic,Moderate,---,"57,581",Artificial intelligence (AI) (RDF10201)
-FreeSurfer Status/Flag File,.done,14. Text (Structured),Retain where needed for workflow provenance; document its function,Basic,Moderate,---,811,Artificial intelligence (AI) (RDF10201)
+FreeSurfer Processing Marker,.touch,14. Text (Structured),Original,Basic,Moderate,---,"57,581",Artificial intelligence (AI) (RDF10201)
+FreeSurfer Status/Flag File,.done,14. Text (Structured),Original,Basic,Moderate,---,811,Artificial intelligence (AI) (RDF10201)
 FreeSurfer Workflow/Metadata File,.local-copy,14. Text (Structured),Original,Full,Moderate,---,811,Artificial intelligence (AI) (RDF10201)
-FreeSurfer XFM,.xfm,14. Text (Structured),Retain; document transformation parameters and associated image data,Full,Low,---,"1,622",Artificial intelligence (AI) (RDF10201)
+FreeSurfer XFM,.xfm,14. Text (Structured),Original,Full,Low,---,"1,622",Artificial intelligence (AI) (RDF10201)
 Gain Reference File,.gain,14. Text (Structured),Original,Full,Moderate,---,3,Cell biology (RDF10602)
 General Purpose Timing Library File,.gptl,14. Text (Structured),Original,Full,Moderate,---,192,Atmospheric sciences (RDF10501)
-GL Transmission Format (Text),".json, .gltf",14. Text (Structured),"Retain with referenced textures, buffers, and other dependencies; create an interoperable derivative where appropriate",Full,Low,---,191,Engineering design (RDF21201)
+GL Transmission Format (Text),".json, .gltf",14. Text (Structured),Original,Full,Low,---,191,Engineering design (RDF21201)
 Green Kenue 2D Line Set (ASCII) file,.i2s,14. Text (Structured),Original,Full,Moderate,---,1,Hydrology (RDF10507)
-Green Kenue EnSim Workspace file,.ews,14. Text (Structured),Retain with associated project data and software documentation,Watch,High,---,1,Hydrology (RDF10507)
+Green Kenue EnSim Workspace file,.ews,14. Text (Structured),Original,Watch,High,---,1,Hydrology (RDF10507)
 GROMACS Atom Renaming Database,.arn,14. Text (Structured),Original,Full,Low,Database,3,Food sciences (including food engineering) (RDF40402)
 GROMACS Atom Type Library (ASCII),.atp,14. Text (Structured),Original,Full,High,---,1,Food sciences (including food engineering) (RDF40402)
-GROMACS Force Field Description File,.doc,14. Text (Structured),Retain; create a PDF/A or plain-text access copy where appropriate,Watch,High,---,1,Food sciences (including food engineering) (RDF40402)
+GROMACS Force Field Description File,.doc,14. Text (Structured),Original,Watch,High,---,1,Food sciences (including food engineering) (RDF40402)
 GROMACS Hydrogen Database,.hdb,14. Text (Structured),Original,Full,Low,Database,3,Food sciences (including food engineering) (RDF40402)
 GROMACS Include Typology,.itp,14. Text (Structured),Original,Full,Low,Text (Structured),85,Food sciences (including food engineering) (RDF40402)
 GROMACS Molecular Dynamics Parameters File,.mdp,14. Text (Structured),Original,Full,Low,Text (Structured),7,Food sciences (including food engineering) (RDF40402)
@@ -185,15 +185,15 @@ GROMACS Residue Topology Parameter File,.rtp,14. Text (Structured),Original,Full
 GROMACS Termini Database (ASCII) File,.tdb,14. Text (Structured),Original,Full,Low,---,2,Food sciences (including food engineering) (RDF40402)
 GROMACS Topology File,.top,14. Text (Structured),Original,Full,Low,Text (Structured),50,Food sciences (including food engineering) (RDF40402)
 GROMACS Virtual Site Definition File,.vsd,14. Text (Structured),Original,Full,Low,---,1,Food sciences (including food engineering) (RDF40402)
-HDNNP Configuration File,.nn,14. Text (Structured),"Retain with model version, dependencies, and configuration documentation",Watch,Moderate,---,1,Materials engineering (RDF20601)
-HEVC Common Test Conditions Standard Video Sequence Set,.list,14. Text (Structured),Retain with associated video sequences and test documentation,Full,Moderate,---,18,Data analytics and signal processing (RDF20303)
-Hitachi Project File,.hp,14. Text (Structured),Retain with associated project data and original software documentation,Watch,Moderate,---,2,Condensed matter physics (RDF10305)
+HDNNP Configuration File,.nn,14. Text (Structured),Original,Watch,Moderate,---,1,Materials engineering (RDF20601)
+HEVC Common Test Conditions Standard Video Sequence Set,.list,14. Text (Structured),Original,Full,Moderate,---,18,Data analytics and signal processing (RDF20303)
+Hitachi Project File,.hp,14. Text (Structured),Original,Watch,Moderate,---,2,Condensed matter physics (RDF10305)
 HPL (Halo Photonics) Doppler LiDAR File Format,.hpl,14. Text (Structured),Original,Full,High,---,96,Atmospheric sciences (RDF10501)
-Hugin Project File,.pto,14. Text (Structured),Retain with source images and project settings; create a stitched image derivative where appropriate,Full,Moderate,---,5,Environmental geoscience (RDF10506)
-Huygens Core Batch Script,.hgsb,14. Text (Structured),Retain with the associated Huygens software version and processing dependencies,Watch,Moderate,---,38,"Neurosciences, medical and physiological and health aspects (RDF30104)"
+Hugin Project File,.pto,14. Text (Structured),Original,Full,Moderate,---,5,Environmental geoscience (RDF10506)
+Huygens Core Batch Script,.hgsb,14. Text (Structured),Original,Watch,Moderate,---,38,"Neurosciences, medical and physiological and health aspects (RDF30104)"
 HydroGeoSphere grok Input File,.grok,14. Text (Structured),Original,Full,High,---,20,Hydrology (RDF10507)
-HydroGeoSphere Material Properties File,.mprops,14. Text (Structured),Retain with model configuration and supporting data,Watch,High,---,28,Hydrology (RDF10507)
-HydroGeoSphere Overland Properties File,.oprops,14. Text (Structured),Retain with model configuration and supporting data,Watch,High,---,44,Hydrology (RDF10507)
+HydroGeoSphere Material Properties File,.mprops,14. Text (Structured),Original,Watch,High,---,28,Hydrology (RDF10507)
+HydroGeoSphere Overland Properties File,.oprops,14. Text (Structured),Original,Watch,High,---,44,Hydrology (RDF10507)
 HydroGeoSphere Prefix File,.pfx,14. Text (Structured),Original,Full,High,---,20,Hydrology (RDF10507)
 ImageJ Macro Language,.ijm,14. Text (Structured),Original,Full,High,---,8,"Cell biology (RDF10602)
 Neurosciences, medical and physiological and health aspects (RDF30104)"
@@ -230,15 +230,15 @@ Microbiology (RDF10607)
 Neurosciences, biological and chemical aspects (RDF10611)
 Oceanography (RDF10505)
 Other natural sciences (RDF10799)"
-Keep File,.keep,14. Text (Structured),Retain where it has a documented role in preserving directory or workflow structure,Basic,Moderate,---,4,Hydrology (RDF10507)
-Ligand Preparation/Screening Parameter File,.param,14. Text (Structured),"Retain with associated molecular structures, software version, and processing documentation",Watch,Moderate,---,31,"Artificial intelligence (AI) (RDF10201)
+Keep File,.keep,14. Text (Structured),Original,Basic,Moderate,---,4,Hydrology (RDF10507)
+Ligand Preparation/Screening Parameter File,.param,14. Text (Structured),Original,Watch,Moderate,---,31,"Artificial intelligence (AI) (RDF10201)
 Biomolecular and medicinal chemistry (RDF10405)"
-Linux GNOME Input/Output (GIO),.goutputstream; .goutputstream-QUX48Z,14. Text (Structured),Retain only if the file contains a completed or recoverable research output; otherwise document as a temporary file,Basic,Moderate,---,2,"Neurosciences, biological and chemical aspects (RDF10611)"
-MacKay Model Input,.in,14. Text (Structured),Retain with model documentation and associated software,Watch,Moderate,---,1,Atmospheric sciences (RDF10501)
+Linux GNOME Input/Output (GIO),.goutputstream; .goutputstream-QUX48Z,14. Text (Structured),Original,Basic,Moderate,---,2,"Neurosciences, biological and chemical aspects (RDF10611)"
+MacKay Model Input,.in,14. Text (Structured),Original,Watch,Moderate,---,1,Atmospheric sciences (RDF10501)
 Main Movement Analysis Script,.sas,14. Text (Structured),Original,Full,Moderate,---,1,"Neurosciences, biological and chemical aspects (RDF10611)"
-Makefile,--,14. Text (Structured),Retain with the source code and build-environment documentation,Full,Low,---,192,Atmospheric sciences (RDF10501)
-MALA GPR Raw Header Parameter File,.rad,14. Text (Structured),Retain with the corresponding raw data file,Full,Moderate,---,28,Cryosphere processes (RDF10508)
-MATLAB Autosave File,.asv,14. Text (Structured),Retain when it contains unsaved or otherwise unique work; document its relationship to the original script,Basic,Moderate,---,4,Environmental geoscience (RDF10506)
+Makefile,--,14. Text (Structured),Original,Full,Low,---,192,Atmospheric sciences (RDF10501)
+MALA GPR Raw Header Parameter File,.rad,14. Text (Structured),Original,Full,Moderate,---,28,Cryosphere processes (RDF10508)
+MATLAB Autosave File,.asv,14. Text (Structured),Original,Basic,Moderate,---,4,Environmental geoscience (RDF10506)
 MATLAB Script File,.m,14. Text (Structured),Original,Basic,Moderate,---,"1,607","Analytical chemistry (RDF10401)
 Applied mathematics (RDF10102)
 Artificial intelligence (AI) (RDF10201)
@@ -267,65 +267,65 @@ Other industrial, systems and processes engineering (RDF20299)
 Plant biology (RDF10609)
 Soil sciences (RDF10511)"
 MD5 File,.md5,14. Text (Structured),Original,Full,Moderate,---,36,Genetics (RDF10606)
-MEX (MATLAB Executable) File (32-bit),.mexmaci,14. Text (Structured),"Retain with source code, MATLAB version, compiler details, and dependencies",Watch,High,---,3,Geophysics (RDF10504)
-MEX (MATLAB Executable) File (64-bit),.mexmaci64,14. Text (Structured),"Retain with source code, MATLAB version, compiler details, and dependencies",Watch,High,---,4,Geophysics (RDF10504)
-Microscopy Data Header File,.hdr,14. Text (Structured),Retain with its corresponding image or microscopy data file,Full,Moderate,---,6,Physical chemistry (including structural) (RDF10406)
-MITgcm Compile-Time Configuration File,.conf,14. Text (Structured),Retain with model version and build-environment documentation,Full,Moderate,---,3,"Cryosphere processes (RDF10508)
+MEX (MATLAB Executable) File (32-bit),.mexmaci,14. Text (Structured),Original,Watch,High,---,3,Geophysics (RDF10504)
+MEX (MATLAB Executable) File (64-bit),.mexmaci64,14. Text (Structured),Original,Watch,High,---,4,Geophysics (RDF10504)
+Microscopy Data Header File,.hdr,14. Text (Structured),Original,Full,Moderate,---,6,Physical chemistry (including structural) (RDF10406)
+MITgcm Compile-Time Configuration File,.conf,14. Text (Structured),Original,Full,Moderate,---,3,"Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
-MITgcm Execution Environment File,--,14. Text (Structured),Retain with the associated model configuration and execution documentation,Full,Moderate,---,8,"Cryosphere processes (RDF10508)
+MITgcm Execution Environment File,--,14. Text (Structured),Original,Full,Moderate,---,8,"Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
-MITgcm Ice Plume Package Configuration Namelist,.iceplume,14. Text (Structured),Retain with model version and associated configuration files,Full,Moderate,---,9,"Cryosphere processes (RDF10508)
+MITgcm Ice Plume Package Configuration Namelist,.iceplume,14. Text (Structured),Original,Full,Moderate,---,9,"Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
-MITgcm Main Parameters File,--,14. Text (Structured),"Retain with model configuration, version, and associated input data",Full,Moderate,---,7,"Cryosphere processes (RDF10508)
+MITgcm Main Parameters File,--,14. Text (Structured),Original,Full,Moderate,---,7,"Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
-MITgcm Multi-Dimensional Serial (MDS) Metadata File,.meta,14. Text (Structured),Retain with the corresponding binary data file and model documentation,Full,Moderate,---,"138,871","Cryosphere processes (RDF10508)
+MITgcm Multi-Dimensional Serial (MDS) Metadata File,.meta,14. Text (Structured),Original,Full,Moderate,---,"138,871","Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
-MITgcm OBCS Configuration/Input File,.obcs; .save,14. Text (Structured),Retain with associated model configuration and input data,Full,Moderate,---,14,"Cryosphere processes (RDF10508)
+MITgcm OBCS Configuration/Input File,.obcs; .save,14. Text (Structured),Original,Full,Moderate,---,14,"Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
-MITgcm Package Information File,.pkg,14. Text (Structured),Retain with the associated model source code and configuration,Full,Moderate,---,8,"Cryosphere processes (RDF10508)
+MITgcm Package Information File,.pkg,14. Text (Structured),Original,Full,Moderate,---,8,"Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
-MITgcm PTRACERS Configuration/Input File,.ptracers,14. Text (Structured),Retain with model configuration and associated input data,Full,Moderate,---,8,"Cryosphere processes (RDF10508)
+MITgcm PTRACERS Configuration/Input File,.ptracers,14. Text (Structured),Original,Full,Moderate,---,8,"Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
-MITgcm SHELFICE Configuration/Input File,.shelfice,14. Text (Structured),Retain with model configuration and associated input data,Full,Moderate,---,8,"Cryosphere processes (RDF10508)
+MITgcm SHELFICE Configuration/Input File,.shelfice,14. Text (Structured),Original,Full,Moderate,---,8,"Cryosphere processes (RDF10508)
 Oceanography (RDF10505)"
-Model Coupling Toolkit File,.mct,14. Text (Structured),"Retain with source code, model version, and build dependencies",Watch,High,---,192,Atmospheric sciences (RDF10501)
-Molecular Mechanics Parameter File,.parm,14. Text (Structured),"Retain with the associated molecular model, force field, and software documentation",Full,Moderate,---,89,"Artificial intelligence (AI) (RDF10201)
+Model Coupling Toolkit File,.mct,14. Text (Structured),Original,Watch,High,---,192,Atmospheric sciences (RDF10501)
+Molecular Mechanics Parameter File,.parm,14. Text (Structured),Original,Full,Moderate,---,89,"Artificial intelligence (AI) (RDF10201)
 Biomolecular and medicinal chemistry (RDF10405)"
-Mountain Legacy Project File,.mlp,14. Text (Structured),Retain with project documentation and associated image or survey data,Watch,High,---,178,Environmental geoscience (RDF10506)
-NEMO Appended Suffix File,.xml_fluxesCorr,14. Text (Structured),Retain with the associated NEMO output and processing documentation,Full,Moderate,---,4,"Hydrology (RDF10507)
+Mountain Legacy Project File,.mlp,14. Text (Structured),Original,Watch,High,---,178,Environmental geoscience (RDF10506)
+NEMO Appended Suffix File,.xml_fluxesCorr,14. Text (Structured),Original,Full,Moderate,---,4,"Hydrology (RDF10507)
 Oceanography (RDF10505)"
-NEMO FCM Compilation Definition File,.fcm,14. Text (Structured),Retain with the associated source code and build environment,Full,Moderate,---,3,"Hydrology (RDF10507)
+NEMO FCM Compilation Definition File,.fcm,14. Text (Structured),Original,Full,Moderate,---,3,"Hydrology (RDF10507)
 Oceanography (RDF10505)"
 NEMO Fortran 90 Header File,.h90,14. Text (Structured),Original,Full,Moderate,---,4,"Hydrology (RDF10507)
 Oceanography (RDF10505)"
-NEMO Namelist Configuration,--; .Switches-SPM; .bottom; .boundaries_Mn; .compute; .constants; .domain_Mn; .dynamics; .forcing; .forcing-seasonal; .general; .general-restart; .general2022; .mn; .offline; .rivers; .surface; .switches-bio; .switches-clean; .switches-ref; .switches-seasonal; .tracers,14. Text (Structured),"Retain with NEMO version, model configuration, and associated input data",Full,Moderate,---,135,"Geochemistry (RDF10502)
+NEMO Namelist Configuration,--; .Switches-SPM; .bottom; .boundaries_Mn; .compute; .constants; .domain_Mn; .dynamics; .forcing; .forcing-seasonal; .general; .general-restart; .general2022; .mn; .offline; .rivers; .surface; .switches-bio; .switches-clean; .switches-ref; .switches-seasonal; .tracers,14. Text (Structured),Original,Full,Moderate,---,135,"Geochemistry (RDF10502)
 Oceanography (RDF10505)"
-NEMO Namelist Reference,--; .switches-ref,14. Text (Structured),Retain with the corresponding NEMO version and configuration documentation,Full,Moderate,---,83,"Geochemistry (RDF10502)
+NEMO Namelist Reference,--; .switches-ref,14. Text (Structured),Original,Full,Moderate,---,83,"Geochemistry (RDF10502)
 Oceanography (RDF10505)"
-NEMO Run Namelist Configuration,.dyn; .sme; .top,14. Text (Structured),Retain with model version and associated run configuration,Full,Moderate,---,78,"Geochemistry (RDF10502)
+NEMO Run Namelist Configuration,.dyn; .sme; .top,14. Text (Structured),Original,Full,Moderate,---,78,"Geochemistry (RDF10502)
 Hydrology (RDF10507)
 Oceanography (RDF10505)"
-NFS Hidden Lock File,--,14. Text (Structured),Retain only if it has evidentiary or workflow significance; otherwise document as a temporary system file,Basic,Moderate,---,4,Bioinformatics (RDF10208)
-Nortek Vectrino ADV Deployment / Settings File,.dep,14. Text (Structured),Retain with corresponding measurements and instrument documentation,Full,High,---,1,Environmental geoscience (RDF10506)
+NFS Hidden Lock File,--,14. Text (Structured),Original,Basic,Moderate,---,4,Bioinformatics (RDF10208)
+Nortek Vectrino ADV Deployment / Settings File,.dep,14. Text (Structured),Original,Full,High,---,1,Environmental geoscience (RDF10506)
 Obstacle Analysis Script,.sas,14. Text (Structured),Original,Full,Moderate,---,1,"Neurosciences, biological and chemical aspects (RDF10611)"
-Olympus FluoView Image Property File,.pty,14. Text (Structured),Retain with associated image data and acquisition metadata,Watch,Moderate,---,890,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-Open Ephys Binary Index,.oebin,14. Text (Structured),Retain with the associated recording data and metadata,Full,Moderate,---,221,"Neurosciences, biological and chemical aspects (RDF10611)"
-OpenSim Scale Tool setup file,--,14. Text (Structured),Retain with the associated OpenSim model and configuration documentation,Watch,Moderate,---,1,Medical and biomedical engineering (RDF20701)
-Perl Module,.pm,14. Text (Structured),Retain with dependencies and interpreter version,Full,Moderate,---,768,Atmospheric sciences (RDF10501)
+Olympus FluoView Image Property File,.pty,14. Text (Structured),Original,Watch,Moderate,---,890,"Neurosciences, medical and physiological and health aspects (RDF30104)"
+Open Ephys Binary Index,.oebin,14. Text (Structured),Original,Full,Moderate,---,221,"Neurosciences, biological and chemical aspects (RDF10611)"
+OpenSim Scale Tool setup file,--,14. Text (Structured),Original,Watch,Moderate,---,1,Medical and biomedical engineering (RDF20701)
+Perl Module,.pm,14. Text (Structured),Original,Full,Moderate,---,768,Atmospheric sciences (RDF10501)
 Perl Script,.pl,14. Text (Structured),Original,Full,Low,---,772,"Atmospheric sciences (RDF10501)
 Environmental geoscience (RDF10506)"
-Persistent Auxiliary Metadata,.xml,14. Text (Structured),Retain with the associated dataset; validate XML structure,Full,Low,---,1,Engineering design (RDF21201)
+Persistent Auxiliary Metadata,.xml,14. Text (Structured),Original,Full,Low,---,1,Engineering design (RDF21201)
 PEST Control File,.pst,14. Text (Structured),Original,Full,Moderate,---,8,Hydrology (RDF10507)
 PEST Instruction File,.ins,14. Text (Structured),Original,Full,Moderate,---,16,Hydrology (RDF10507)
 PEST Template File,.tpl,14. Text (Structured),Original,Full,Moderate,---,16,Hydrology (RDF10507)
-PostgreSQL Database Dump File,.data,14. Text (Structured),Retain; validate restoration and document database version and dependencies,Watch,High,---,1,Environmental geoscience (RDF10506)
-PPMstar Simulation Input/include Configuration,.include,14. Text (Structured),Retain with associated model inputs and configuration files,Full,Moderate,---,7,Astronomical and space sciences (RDF10301)
+PostgreSQL Database Dump File,.data,14. Text (Structured),Original,Watch,High,---,1,Environmental geoscience (RDF10506)
+PPMstar Simulation Input/include Configuration,.include,14. Text (Structured),Original,Full,Moderate,---,7,Astronomical and space sciences (RDF10301)
 Protein Data Bank File,.pdb,14. Text (Structured),Original,Watch,Low,---,51,"Artificial intelligence (AI) (RDF10201)
 Biomolecular and medicinal chemistry (RDF10405)
 Food sciences (including food engineering) (RDF40402)
 Microbiology (RDF10607)"
-Protocol Buffers Text Format,.pbtxt,14. Text (Structured),Retain; validate against the corresponding schema,Full,Low,---,1,Ecological applications (RDF10604)
-PSUICE3D Ice Sheet Model Fortran Namelist Template,.in,14. Text (Structured),Retain with model version and configuration documentation,Full,Low,---,1,"Cryosphere processes (RDF10508)
+Protocol Buffers Text Format,.pbtxt,14. Text (Structured),Original,Full,Low,---,1,Ecological applications (RDF10604)
+PSUICE3D Ice Sheet Model Fortran Namelist Template,.in,14. Text (Structured),Original,Full,Low,---,1,"Cryosphere processes (RDF10508)
 Geophysics (RDF10504)"
 Python Source Code File,.py,14. Text (Structured),Original,Full,Low,---,"2,984","Artificial intelligence (AI) (RDF10201)
 Astronomical and space sciences (RDF10301)
@@ -354,7 +354,7 @@ Systems control and automation (RDF20307)"
 QGIS Spatial Index File,.qix,14. Text (Structured),Original,Watch,Moderate,---,3,Environmental geoscience (RDF10506)
 QINSY Vector Map,.xml,14. Text (Structured),Original,Basic,High,---,74,Environmental geoscience (RDF10506)
 QPD Automated Cleaning Log,.qvm,14. Text (Structured),Original,Basic,Moderate,---,122,Environmental geoscience (RDF10506)
-R Native Raster Grid Header File,.grd,14. Text (Structured),Retain with its corresponding raster data file,Full,High,---,6,Biosystems and agricultural engineering (RDF20204)
+R Native Raster Grid Header File,.grd,14. Text (Structured),Original,Full,High,---,6,Biosystems and agricultural engineering (RDF20204)
 R Program File,.r,14. Text (Structured),Original,Full,Low,---,146,"Agricultural biotechnology (RDF40401)
 Animal physiology (RDF10608)
 Artificial intelligence (AI) (RDF10201)
@@ -373,19 +373,19 @@ Hydrology (RDF10507)
 Microbiology (RDF10607)
 Plant biology (RDF10609)
 Zoology (RDF10610)"
-Raven Classed Parameter Input File,.rvp,14. Text (Structured),Retain with model version and associated input files,Full,Moderate,---,286,Hydrology (RDF10507)
-Raven HRU/Basin Definition File,.rvh,14. Text (Structured),Retain with model configuration and associated spatial data,Full,Moderate,---,286,Hydrology (RDF10507)
-Raven HRU/Basin Definition File Template,rvh.tpl,14. Text (Structured),Retain with the associated model configuration and template documentation,Full,Moderate,---,2,Hydrology (RDF10507)
-Raven Initial Conditions Input File,.rvc,14. Text (Structured),Retain with model configuration and associated input data,Full,Moderate,---,143,Hydrology (RDF10507)
-Raven Primary Input File,.rvi,14. Text (Structured),Retain with model version and associated input data,Full,Moderate,---,143,Hydrology (RDF10507)
-Raven Time Series Input File,.rvt,14. Text (Structured),"Retain with time-series metadata, units, and model configuration",Full,Moderate,---,848,Hydrology (RDF10507)
-Reflexw GPR Profile Header Parameter File,.par,14. Text (Structured),Retain with associated GPR data and acquisition parameters,Full,Moderate,---,31,Cryosphere processes (RDF10508)
+Raven Classed Parameter Input File,.rvp,14. Text (Structured),Original,Full,Moderate,---,286,Hydrology (RDF10507)
+Raven HRU/Basin Definition File,.rvh,14. Text (Structured),Original,Full,Moderate,---,286,Hydrology (RDF10507)
+Raven HRU/Basin Definition File Template,rvh.tpl,14. Text (Structured),Original,Full,Moderate,---,2,Hydrology (RDF10507)
+Raven Initial Conditions Input File,.rvc,14. Text (Structured),Original,Full,Moderate,---,143,Hydrology (RDF10507)
+Raven Primary Input File,.rvi,14. Text (Structured),Original,Full,Moderate,---,143,Hydrology (RDF10507)
+Raven Time Series Input File,.rvt,14. Text (Structured),Original,Full,Moderate,---,848,Hydrology (RDF10507)
+Reflexw GPR Profile Header Parameter File,.par,14. Text (Structured),Original,Full,Moderate,---,31,Cryosphere processes (RDF10508)
 RINEX Observation File,.obs,14. Text (Structured),Original,Full,Low,---,24,Zoology (RDF10610)
-RStudio Internal Session File,--,14. Text (Structured),Retain only where session state is necessary to reproduce work; document the RStudio version and dependencies,Basic,High,---,82,Animal physiology (RDF10608)
-RStudio Internal Session Persistent Property File,.pper,14. Text (Structured),Retain only where required for reproducibility or recovery; document its role and software version,Basic,High,---,32,Animal physiology (RDF10608)
-RStudio Project File,.rproj,14. Text (Structured),"Retain with the associated source files, data, and package dependencies",Full,Moderate,---,7,Animal physiology (RDF10608)
+RStudio Internal Session File,--,14. Text (Structured),Original,Basic,High,---,82,Animal physiology (RDF10608)
+RStudio Internal Session Persistent Property File,.pper,14. Text (Structured),Original,Basic,High,---,32,Animal physiology (RDF10608)
+RStudio Project File,.rproj,14. Text (Structured),Original,Full,Moderate,---,7,Animal physiology (RDF10608)
 SAS Program File,.sas,14. Text (Structured),Original,Full,Moderate,---,4,Forestry sciences (RDF40104)
-SHA256 File,.sha256,14. Text (Structured),Retain; use to verify file integrity over time,Full,Moderate,---,24,"Artificial intelligence (AI) (RDF10201)
+SHA256 File,.sha256,14. Text (Structured),Original,Full,Moderate,---,24,"Artificial intelligence (AI) (RDF10201)
 Astronomical and space sciences (RDF10301)"
 Shell Script,.sh,14. Text (Structured),Original,Full,Moderate,---,"3,538","Artificial intelligence (AI) (RDF10201)
 Atmospheric sciences (RDF10501)
@@ -398,50 +398,50 @@ Geochemistry (RDF10502)
 Hydrology (RDF10507)
 Neurosciences, medical and physiological and health aspects (RDF30104)
 Oceanography (RDF10505)"
-SKOG Carbon Model Simulation Layout File,.dat,14. Text (Structured),Retain with associated model configuration and documentation,Watch,High,---,24,Geochemistry (RDF10502)
+SKOG Carbon Model Simulation Layout File,.dat,14. Text (Structured),Original,Watch,High,---,24,Geochemistry (RDF10502)
 Slurm Batch Script,.sbatch,14. Text (Structured),Original,Full,Moderate,---,5,"Artificial intelligence (AI) (RDF10201)
 Bioinformatics (RDF10208)"
-SMILE (Simplified Molecular Input Line Entry Specification) Chemical Format,.smi,14. Text (Structured),Retain; validate chemical structure representations and preserve associated metadata,Full,Moderate,---,198,"Artificial intelligence (AI) (RDF10201)
+SMILE (Simplified Molecular Input Line Entry Specification) Chemical Format,.smi,14. Text (Structured),Original,Full,Moderate,---,198,"Artificial intelligence (AI) (RDF10201)
 Biomolecular and medicinal chemistry (RDF10405)"
-Snakefile,--,14. Text (Structured),"Retain with workflow configuration, dependencies, and source code",Full,Moderate,---,3,"Neurosciences, medical and physiological and health aspects (RDF30104)"
+Snakefile,--,14. Text (Structured),Original,Full,Moderate,---,3,"Neurosciences, medical and physiological and health aspects (RDF30104)"
 Standard for the Exchange of Product Model data,".step, .stp",14. Text (Structured),Original,Basic,Low,---,4,Manufacturing engineering (RDF20403)
 Structured Query Language Data,.sql,14. Text (Structured),Original,Full,Low,---,5,"Artificial intelligence (AI) (RDF10201)
 Bioinformatics (RDF10208)
 Theoretical computer science and computational mathematics (RDF10202)"
-Tab-separated Values,".tsv, .tab",14. Text (Structured),Transform to CSV,Full,Moderate,---,357,"Artificial intelligence (AI) (RDF10201)
+Tab-separated Values,".tsv, .tab",14. Text (Structured),Original,Full,Moderate,---,357,"Artificial intelligence (AI) (RDF10201)
 Environmental geoscience (RDF10506)
 Genetics (RDF10606)
 Microbiology (RDF10607)
 Natural environment sciences (RDF10510)
 Neurosciences, biological and chemical aspects (RDF10611)
 Neurosciences, medical and physiological and health aspects (RDF30104)"
-TDT Block Index File,.tbk,14. Text (Structured),Retain with associated TDT data files and metadata,Watch,High,---,257,"Neurosciences, biological and chemical aspects (RDF10611)"
-TDT Block Metadata/Header File,.tdx,14. Text (Structured),Retain with associated TDT data files,Watch,High,---,249,"Neurosciences, biological and chemical aspects (RDF10611)"
-TDT Event Data,.tbk,14. Text (Structured),Retain with associated TDT recording data and event metadata,Watch,High,---,253,"Neurosciences, biological and chemical aspects (RDF10611)"
-TDT Tank Info,.tev,14. Text (Structured),Retain with associated TDT recordings and experiment documentation,Watch,High,---,253,"Neurosciences, biological and chemical aspects (RDF10611)"
-TDT Tank Notes File,.tin,14. Text (Structured),Retain with associated TDT recordings and experiment documentation,Full,High,---,253,"Neurosciences, biological and chemical aspects (RDF10611)"
-Teledyne RDI WinRiver Configuration File,.wrc,14. Text (Structured),Retain with associated WinRiver project and instrument configuration,Watch,High,---,125,Environmental geoscience (RDF10506)
-Temporary File,.tmp,14. Text (Structured),Retain only if it contains unique research data or evidence; otherwise document as temporary and assess for disposal,Basic,High,---,12,"Hydrology (RDF10507)
+TDT Block Index File,.tbk,14. Text (Structured),Original,Watch,High,---,257,"Neurosciences, biological and chemical aspects (RDF10611)"
+TDT Block Metadata/Header File,.tdx,14. Text (Structured),Original,Watch,High,---,249,"Neurosciences, biological and chemical aspects (RDF10611)"
+TDT Event Data,.tbk,14. Text (Structured),Original,Watch,High,---,253,"Neurosciences, biological and chemical aspects (RDF10611)"
+TDT Tank Info,.tev,14. Text (Structured),Original,Watch,High,---,253,"Neurosciences, biological and chemical aspects (RDF10611)"
+TDT Tank Notes File,.tin,14. Text (Structured),Original,Full,High,---,253,"Neurosciences, biological and chemical aspects (RDF10611)"
+Teledyne RDI WinRiver Configuration File,.wrc,14. Text (Structured),Original,Watch,High,---,125,Environmental geoscience (RDF10506)
+Temporary File,.tmp,14. Text (Structured),Original,Basic,High,---,12,"Hydrology (RDF10507)
 Oceanography (RDF10505)"
-TensorFlow Checkpoint Index,.index,14. Text (Structured),Retain with the corresponding checkpoint data files,Watch,Low,---,1,Ecological applications (RDF10604)
-TensorFlow SavedModel Index,.index,14. Text (Structured),Retain with the corresponding SavedModel data and variables,Watch,Low,---,1,Ecological applications (RDF10604)
+TensorFlow Checkpoint Index,.index,14. Text (Structured),Original,Watch,Low,---,1,Ecological applications (RDF10604)
+TensorFlow SavedModel Index,.index,14. Text (Structured),Original,Watch,Low,---,1,Ecological applications (RDF10604)
 Text Configuration file,.ini,14. Text (Structured),Original,Full,Moderate,---,"2,597","Environmental geoscience (RDF10506)
 Hydrology (RDF10507)
 Neurosciences, biological and chemical aspects (RDF10611)"
-Tree Description File,.tre,14. Text (Structured),Retain; validate tree structure and export to Newick where appropriate,Full,Moderate,---,10,Biological evolution (RDF10605)
-UVic ESCM / MOM2 Fortran Namelist,control.in,14. Text (Structured),Retain with model version and configuration documentation,Full,Low,---,9,Atmospheric sciences (RDF10501)
-UVic ESCM Build Configuration,mk.in,14. Text (Structured),"Retain with source code, compiler details, and build-environment documentation",Full,Low,---,9,Atmospheric sciences (RDF10501)
-VASP Final Geometry Output File,--,14. Text (Structured),Retain with calculation inputs and associated structural metadata,Full,Low,---,874,Materials engineering (RDF20601)
+Tree Description File,.tre,14. Text (Structured),Original,Full,Moderate,---,10,Biological evolution (RDF10605)
+UVic ESCM / MOM2 Fortran Namelist,control.in,14. Text (Structured),Original,Full,Low,---,9,Atmospheric sciences (RDF10501)
+UVic ESCM Build Configuration,mk.in,14. Text (Structured),Original,Full,Low,---,9,Atmospheric sciences (RDF10501)
+VASP Final Geometry Output File,--,14. Text (Structured),Original,Full,Low,---,874,Materials engineering (RDF20601)
 VASP INCAR File,--,14. Text (Structured),Original,Full,Moderate,---,874,Materials engineering (RDF20601)
-VASP Initial Geometry Input File,--,14. Text (Structured),Retain with calculation inputs and associated structural metadata,Full,Low,---,"1,046,771",Materials engineering (RDF20601)
+VASP Initial Geometry Input File,--,14. Text (Structured),Original,Full,Low,---,"1,046,771",Materials engineering (RDF20601)
 VASP POTCAR File,--,14. Text (Structured),Original,Full,Moderate,---,874,Materials engineering (RDF20601)
-Vessel Geometry Metadata File,.geom,14. Text (Structured),"Retain with associated survey data, coordinate system, and geometry documentation",Watch,Moderate,---,30,Environmental geoscience (RDF10506)
-Vicon Eclipse Node Database File,.enf,14. Text (Structured),Retain with associated motion capture data and software documentation,Watch,High,---,225,Medical and biomedical engineering (RDF20701)
-Vicon Model Parameter File,.imp,14. Text (Structured),Retain with associated model and motion capture data,Watch,High,---,12,Medical and biomedical engineering (RDF20701)
-Visual C++ Project File,.vcproj,14. Text (Structured),"Retain with source code, compiler version, and build dependencies; migrate project configuration where feasible",Full,High,---,4,Cell biology (RDF10602)
-Visual Studio Solution File,.sln,14. Text (Structured),"Retain with all associated projects, source code, and build dependencies",Full,High,---,1,Cell biology (RDF10602)
-Wavefront Material Template Library,.mtl,14. Text (Structured),Retain with associated OBJ geometry and texture files,Full,High,---,162,Engineering design (RDF21201)
-WebAnno TSV File Format,.tsv,14. Text (Structured),Retain; validate tabular structure and preserve annotation schema and metadata,Full,High,---,"4,788","Linguistics (RDF60202)
+Vessel Geometry Metadata File,.geom,14. Text (Structured),Original,Watch,Moderate,---,30,Environmental geoscience (RDF10506)
+Vicon Eclipse Node Database File,.enf,14. Text (Structured),Original,Watch,High,---,225,Medical and biomedical engineering (RDF20701)
+Vicon Model Parameter File,.imp,14. Text (Structured),Original,Watch,High,---,12,Medical and biomedical engineering (RDF20701)
+Visual C++ Project File,.vcproj,14. Text (Structured),Original,Full,High,---,4,Cell biology (RDF10602)
+Visual Studio Solution File,.sln,14. Text (Structured),Original,Full,High,---,1,Cell biology (RDF10602)
+Wavefront Material Template Library,.mtl,14. Text (Structured),Original,Full,High,---,162,Engineering design (RDF21201)
+WebAnno TSV File Format,.tsv,14. Text (Structured),Original,Full,High,---,"4,788","Linguistics (RDF60202)
 Microbiology (RDF10607)"
 Windows Powershell Script,.ps1,14. Text (Structured),Original,Full,Low,---,2,Other mechanical engineering (RDF20499)
 YAML,".yml, .yaml",14. Text (Structured),Original,Full,Low,---,"141,824","Artificial intelligence (AI) (RDF10201)

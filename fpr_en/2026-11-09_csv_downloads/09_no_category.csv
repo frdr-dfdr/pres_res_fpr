@@ -1,10 +1,15 @@
 Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Cross Listed,Total Files,Field of Research
 Back Up File,.bak,09. No category,Original,Watch,High,---,814,"Artificial intelligence (AI) (RDF10201)
 Hydrology (RDF10507)"
-Google Chrome Download File,.crdownload,09. No category,Retain only if the partial download has evidentiary or research value; otherwise document as incomplete,Basic,High,---,4,Animal physiology (RDF10608)
+Google Chrome Download File,.crdownload,09. No category,Original,Basic,High,---,4,Animal physiology (RDF10608)
+Microsoft Windows Shortcut,.lnk,09. No category,Original,Basic,High,---,5,Environmental geoscience (RDF10506)
 MS-DOS Executable,.exe,09. No category,Original,Basic,High,---,2,"Geochemistry (RDF10502)
 Natural environment sciences (RDF10510)"
-Timestamp Backup,xxxxxxx,09. No category,Retain where it provides relevant provenance or workflow information; otherwise document its purpose,Basic,High,---,2,Artificial intelligence (AI) (RDF10201)
+Olympus Lookup Table,.lut,09. No category,Original,Full,Moderate,---,24,"Neurosciences, medical and physiological and health aspects (RDF30104)"
+Python Compiled File,.pyc,09. No category,Original,Full,Low,---,281,"Ecology (except applications) (RDF10603)
+Neurosciences, medical and physiological and health aspects (RDF30104)
+Other earth and related environmental sciences (RDF10599)"
+Timestamp Backup,xxxxxxx,09. No category,Original,Basic,High,---,2,Artificial intelligence (AI) (RDF10201)
 Windows Portable Executable,".exe, .dll, .sys",09. No category,Original,Basic,Moderate,---,31,"Atmospheric sciences (RDF10501)
 Hydrology (RDF10507)
 Natural environment sciences (RDF10510)

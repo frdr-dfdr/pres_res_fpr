@@ -5,7 +5,7 @@ Hydrology (RDF10507)
 Neurosciences, biological and chemical aspects (RDF10611)
 Neurosciences, medical and physiological and health aspects (RDF30104)
 Oceanography (RDF10505)"
-H.264 Raw Elementary Video Stream File,.h264,16. Video/Moving Image,Retain; create an access copy in a well-supported container where appropriate,Full,Moderate,---,63,"Neurosciences, biological and chemical aspects (RDF10611)"
+H.264 Raw Elementary Video Stream File,.h264,16. Video/Moving Image,Original,Full,Moderate,---,63,"Neurosciences, biological and chemical aspects (RDF10611)"
 MPEG-1 Program Stream,".mpeg, .mpg",16. Video/Moving Image,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full,Moderate,---,"13,776","Cognitive sciences (RDF50102)
 Neurosciences, biological and chemical aspects (RDF10611)
 Neurosciences, medical and physiological and health aspects (RDF30104)
@@ -28,5 +28,5 @@ Quicktime,.mov,16. Video/Moving Image,Transform to Matroska (mkv – video: ffv1
 Bioinformatics (RDF10208)
 Environmental geoscience (RDF10506)
 Oceanography (RDF10505)"
-Uncompressed Raw Video Pixel Stream File,.raw,16. Video/Moving Image,"Retain with codec-independent stream parameters, resolution, frame rate, and pixel format; create a playable derivative where possible",Watch,High,---,320,"Neurosciences, biological and chemical aspects (RDF10611)"
+Uncompressed Raw Video Pixel Stream File,.raw,16. Video/Moving Image,Original,Watch,High,---,320,"Neurosciences, biological and chemical aspects (RDF10611)"
 Windows Media Video,.wmv,16. Video/Moving Image,Transform to Matroska (mkv – video: ffv1 / audio: lcpm),Full,High,---,2,Cell biology (RDF10602)

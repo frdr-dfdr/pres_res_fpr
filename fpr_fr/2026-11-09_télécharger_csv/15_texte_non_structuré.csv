@@ -29,17 +29,17 @@ CESM Interactive Preflight Diagnostic Utility Script,--,15. Texte (non structur�
 CESM Internal Framework Utility Script,--,15. Texte (non structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
 CESM Performance Timing Summary File,.xxxxxx-xxxxxx,15. Texte (non structuré),Fichier original,Complet,Risque faible,---,14,Sciences de l'atmosphère
 CESM Simulation Tracking Log,--,15. Texte (non structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
-Channel Calibration Log,.qgfcont,15. Texte (non structuré),,Surveillance,Risque élevé,---,1,Géosciences de l'environnement
+Channel Calibration Log,.qgfcont,15. Texte (non structuré),Fichier original,Surveillance,Risque élevé,---,1,Géosciences de l'environnement
 CSRS-PPP Summary File,.sum,15. Texte (non structuré),Fichier original,Complet,Risque faible,---,188,Géosciences de l'environnement
 Diagnostics Output List,.diagnostics,15. Texte (non structuré),Fichier original,Complet,Moderate,---,9,"Processus de la cryosphère
 Océanographie"
-Dump File,.save,15. Texte (non structuré),,Surveillance,Risque élevé,---,3,Biologie cellulaire
-Echo Sounder Log,.echo_01,15. Texte (non structuré),,Surveillance,Moderate,---,122,Géosciences de l'environnement
+Dump File,.save,15. Texte (non structuré),Fichier original,Surveillance,Risque élevé,---,3,Biologie cellulaire
+Echo Sounder Log,.echo_01,15. Texte (non structuré),Fichier original,Surveillance,Moderate,---,122,Géosciences de l'environnement
 Failure Log File,.fail,15. Texte (non structuré),Fichier original,Complet,Moderate,---,89,"Intelligence artificielle (IA)
 Chimie biomoléculaire et thérapeutique (médicinale)"
 Feature Note Logs,--,15. Texte (non structuré),Fichier original,Complet,Moderate,---,3,"Neurosciences, aspects médicaux et physiologiques et de la santé"
 FreeSurfer Command Log Backup ,.old,15. Texte (non structuré),Fichier original,Complet,Risque élevé,---,811,Intelligence artificielle (IA)
-Gitignore File,".ignore, .gitignore",15. Texte (non structuré),,Complet,Risque faible,---,2,"Hydrologie
+Gitignore File,".ignore, .gitignore",15. Texte (non structuré),Fichier original,Complet,Risque faible,---,2,"Hydrologie
 Neurosciences, aspects médicaux et physiologiques et de la santé"
 Grid Processing Trail/Audit Log,.grdx,15. Texte (non structuré),Fichier original,Complet,Moderate,---,2,Géosciences de l'environnement
 Journal Files (Ferret),.jnl,15. Texte (non structuré),Fichier original,Complet,Moderate,---,2,Sciences de l'atmosphère
@@ -55,15 +55,15 @@ Génie des matériaux
 Nanotechnologies
 Neurosciences, aspects biologiques et chimiques
 Océanographie"
-MALA GPR Survey Marker ASCII File,.mrk,15. Texte (non structuré),,Complet,Risque élevé,---,28,Processus de la cryosphère
+MALA GPR Survey Marker ASCII File,.mrk,15. Texte (non structuré),Fichier original,Complet,Risque élevé,---,28,Processus de la cryosphère
 NEMO Execution Log,.output,15. Texte (non structuré),Fichier original,Complet,Moderate,---,2,"Hydrologie
 Océanographie"
-NEMO Runtime Diagnostic and Checkpoint Log,.stat; .stop,15. Texte (non structuré),,Complet,Moderate,---,78,"Géochimie
+NEMO Runtime Diagnostic and Checkpoint Log,.stat; .stop,15. Texte (non structuré),Fichier original,Complet,Moderate,---,78,"Géochimie
 Hydrologie
 Océanographie"
-OMEGA Report File,.rpt,15. Texte (non structuré),,Surveillance,Moderate,---,89,"Intelligence artificielle (IA)
+OMEGA Report File,.rpt,15. Texte (non structuré),Fichier original,Surveillance,Moderate,---,89,"Intelligence artificielle (IA)
 Chimie biomoléculaire et thérapeutique (médicinale)"
-PCO Camware Recorder Comment File,.rec,15. Texte (non structuré),,Base,Risque élevé,---,110,Santé publique et santé des populations
+PCO Camware Recorder Comment File,.rec,15. Texte (non structuré),Fichier original,Base,Risque élevé,---,110,Santé publique et santé des populations
 Plain Text File,.txt,15. Texte (non structuré),Fichier original,Complet,Risque faible,---,"1,078,254","Génie aérospatial
 Biotechnologies de l'agriculture
 Gestion de l'exploitation agricole et des terres
@@ -156,20 +156,20 @@ Urbanisme et planification régionale
 Sciences vétérinaires
 Arts visuels et arts médiatiques
 Zoologie"
-Raw Pseudorange (PSR) Data Logs,.psr,15. Texte (non structuré),,Surveillance,Risque élevé,---,24,Zoologie
+Raw Pseudorange (PSR) Data Logs,.psr,15. Texte (non structuré),Fichier original,Surveillance,Risque élevé,---,24,Zoologie
 Reflexw GPR Data Import Report File,.rep,15. Texte (non structuré),Fichier original,Complet,Risque élevé,---,3,Processus de la cryosphère
-Reflexw GPR Processed Component History File,.xxt,15. Texte (non structuré),,Surveillance,Risque élevé,---,182,Processus de la cryosphère
-Reflexw GPR Processed History File,.xxr,15. Texte (non structuré),,Surveillance,Risque élevé,---,182,Processus de la cryosphère
-Rhistory File,.Rhistory,15. Texte (non structuré),,Base,Moderate,---,24,"Biotechnologies de l'agriculture
+Reflexw GPR Processed Component History File,.xxt,15. Texte (non structuré),Fichier original,Surveillance,Risque élevé,---,182,Processus de la cryosphère
+Reflexw GPR Processed History File,.xxr,15. Texte (non structuré),Fichier original,Surveillance,Risque élevé,---,182,Processus de la cryosphère
+Rhistory File,.Rhistory,15. Texte (non structuré),Fichier original,Base,Moderate,---,24,"Biotechnologies de l'agriculture
 Physiologie animale
 Biologie de l'évolution
 Biosystèmes et génie agricole
 Écologie (sauf les applications)
 Géochimie
 Hydrologie"
-Seakon Output File,--,15. Texte (non structuré),,Surveillance,Risque élevé,---,"6,457",Géophysique
-Standard Error File,".err, -",15. Texte (non structuré),,Base,Risque élevé,---,24,Géochimie
-Standard Output File,".out, -",15. Texte (non structuré),,Base,Risque élevé,---,"302,324","Gestion de l'exploitation agricole et des terres
+Seakon Output File,--,15. Texte (non structuré),Fichier original,Surveillance,Risque élevé,---,"6,457",Géophysique
+Standard Error File,".err, -",15. Texte (non structuré),Fichier original,Base,Risque élevé,---,24,Géochimie
+Standard Output File,".out, -",15. Texte (non structuré),Fichier original,Base,Risque élevé,---,"302,324","Gestion de l'exploitation agricole et des terres
 Physiologie animale
 Intelligence artificielle (IA)
 Sciences de l'atmosphère
@@ -180,7 +180,7 @@ Géosciences de l'environnement
 Géochimie
 Océanographie
 Autres sciences de la Terre et sciences de l'environnement connexes"
-VASP Done File,--,15. Texte (non structuré),,Base,Moderate,---,708,Génie des matériaux
+VASP Done File,--,15. Texte (non structuré),Fichier original,Base,Moderate,---,708,Génie des matériaux
 VASP KPOINTS File,--,15. Texte (non structuré),Fichier original,Complet,Moderate,---,874,Génie des matériaux
 VASP Main Output Log,--,15. Texte (non structuré),Fichier original,Complet,Moderate,---,874,Génie des matériaux
 VASP POSCAR File,--,15. Texte (non structuré),Fichier original,Complet,Moderate,---,874,Génie des matériaux

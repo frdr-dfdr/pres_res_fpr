@@ -1,7 +1,7 @@
 Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Cross Listed,Total Files,Field of Research
 Apple iWork Numbers,.numbers,12. Spreadsheet,Transform to CSV,Watch,Moderate,---,1,Environmental geoscience (RDF10506)
 Microsoft Excel 5.0/95 Workbook (xls),.xls,12. Spreadsheet,Transform to ODS,Full,High,---,1,Environmental geoscience (RDF10506)
-Microsoft Excel 97-2003 Workbook (xls),.xls,12. Spreadsheet,Retain original; create an XLSX or CSV access derivative where appropriate,Full,High,---,149,"Analytical chemistry (RDF10401)
+Microsoft Excel 97-2003 Workbook (xls),.xls,12. Spreadsheet,Original,Full,High,---,149,"Analytical chemistry (RDF10401)
 Artificial intelligence (AI) (RDF10201)
 Condensed matter physics (RDF10305)
 Demography (RDF50903)
@@ -74,4 +74,4 @@ Zoology (RDF10610)"
 Microsoft Excel Macro-Enabled,.xlsm,12. Spreadsheet,Original,Watch,Low,---,3,"Cognitive sciences (RDF50102)
 Ecology (except applications) (RDF10603)
 Public and population health (RDF30302)"
-OpenDocument Spreadsheet,.ods,12. Spreadsheet,Retain; create CSV or PDF access derivatives where appropriate,Full,Low,---,18,Biological evolution (RDF10605)
+OpenDocument Spreadsheet,.ods,12. Spreadsheet,Original,Full,Low,---,18,Biological evolution (RDF10605)
