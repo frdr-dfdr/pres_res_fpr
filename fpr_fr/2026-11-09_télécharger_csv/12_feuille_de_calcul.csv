@@ -1,77 +1,77 @@
 Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
-Apple iWork Numbers,.numbers,12. Feuille de calcul,Transformer en CSV,Surveillance,Moderate,---,1,Environmental geoscience (RDF10506)
-Microsoft Excel 5.0/95 Workbook (xls),.xls,12. Feuille de calcul,Transformer en ODS,Complet,Risque faible,---,1,Environmental geoscience (RDF10506)
-Microsoft Excel 97-2003 Workbook (xls),.xls,12. Feuille de calcul,,Complet,Risque faible,---,149,"Analytical chemistry (RDF10401)
-Artificial intelligence (AI) (RDF10201)
-Condensed matter physics (RDF10305)
-Demography (RDF50903)
-Ecology (except applications) (RDF10603)
-Environmental geoscience (RDF10506)
-Genetics (RDF10606)
-Hydrology (RDF10507)"
-Microsoft Excel for Windows,.xlsx,12. Feuille de calcul,Fichier original,Complet,Risque faible,---,"1,936","Aerospace engineering (RDF20401)
-Agricultural biotechnology (RDF40401)
-Agriculture, land and farm management (RDF40101)
-Analytical chemistry (RDF10401)
-Animal physiology (RDF10608)
-Anthropology (RDF50901)
-Archaeology (RDF60102)
-Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Biochemistry (RDF10601)
-Biological evolution (RDF10605)
-Biomolecular and medicinal chemistry (RDF10405)
-Biosystems and agricultural engineering (RDF20204)
-Cell biology (RDF10602)
-Chemical engineering (RDF20501)
-Civil engineering (RDF20101)
-Cognitive sciences (RDF50102)
-Cryosphere processes (RDF10508)
-Ecological applications (RDF10604)
-Ecology (except applications) (RDF10603)
-Economics (RDF50201)
-Environmental biotechnology (RDF20901)
-Environmental engineering (RDF20801)
-Environmental geoscience (RDF10506)
-Finance (RDF50204)
-Fisheries sciences (RDF40105)
-Forestry sciences (RDF40104)
-Genetics (RDF10606)
-Geochemistry (RDF10502)
-Geology (RDF10503)
-Geomatics and earth systems observations (RDF10509)
-Geomatics engineering (RDF20802)
-Geophysics (RDF10504)
-Human geography (RDF50701)
-Human-centered computing (RDF10205)
-Hydrology (RDF10507)
-Information Systems (RDF10206)
-Library science and information studies (RDF10207)
-Manufacturing engineering (RDF20403)
-Materials engineering (RDF20601)
-Medical and biomedical engineering (RDF20701)
-Microbiology (RDF10607)
-Musculoskeletal health and human movement (RDF30107)
-Natural environment sciences (RDF10510)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Oceanography (RDF10505)
-Operational research (RDF20203)
-Other biological sciences (RDF10699)
-Other earth and related environmental sciences (RDF10599)
-Other mechanical engineering (RDF20499)
-Other medical sciences (RDF30599)
-Other social sciences (RDF50999)
-Plant biology (RDF10609)
-Policy and policy administration (RDF50602)
-Psychology, social and behavioural aspects (RDF50101)
-Public and population health (RDF30302)
-Rehabilitation medicine (RDF30303)
-Soil sciences (RDF10511)
-Statistics (RDF10103)
-Urban and regional planning (RDF50702)
-Zoology (RDF10610)"
-Microsoft Excel Macro-Enabled,.xlsm,12. Feuille de calcul,Fichier original,Surveillance,Risque faible,---,3,"Cognitive sciences (RDF50102)
-Ecology (except applications) (RDF10603)
-Public and population health (RDF30302)"
-OpenDocument Spreadsheet,.ods,12. Feuille de calcul,,Complet,Risque faible,---,18,Biological evolution (RDF10605)
+Apple iWork Numbers,.numbers,12. Feuille de calcul,Transformer en CSV,Surveillance,Moderate,---,1,Géosciences de l'environnement
+Microsoft Excel 5.0/95 Workbook (xls),.xls,12. Feuille de calcul,Transformer en ODS,Complet,Risque élevé,---,1,Géosciences de l'environnement
+Microsoft Excel 97-2003 Workbook (xls),.xls,12. Feuille de calcul,,Complet,Risque élevé,---,149,"Chimie analytique
+Intelligence artificielle (IA)
+Physique de la matière condensée
+Démographie
+Écologie (sauf les applications)
+Géosciences de l'environnement
+Génétique
+Hydrologie"
+Microsoft Excel for Windows,.xlsx,12. Feuille de calcul,Fichier original,Complet,Risque faible,---,"1,936","Génie aérospatial
+Biotechnologies de l'agriculture
+Gestion de l'exploitation agricole et des terres
+Chimie analytique
+Physiologie animale
+Anthropologie
+Archéologie
+Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Biochimie
+Biologie de l'évolution
+Chimie biomoléculaire et thérapeutique (médicinale)
+Biosystèmes et génie agricole
+Biologie cellulaire
+Génie chimique
+Génie civil
+Sciences cognitives
+Processus de la cryosphère
+Applications écologiques
+Écologie (sauf les applications)
+Sciences économiques
+Biotechnologies de l'environnement
+Génie de l'environnement
+Géosciences de l'environnement
+Finance
+Sciences de la pêche
+Sciences de la foresterie
+Génétique
+Géochimie
+Géologie
+Géomatique et observation des systèmes terrestres
+Génie géomatique
+Géophysique
+Géographie humaine
+Informatique centrée sur l'humain
+Hydrologie
+Systèmes d'information
+Bibliothéconomie et études de l'information
+Génie de la fabrication
+Génie des matériaux
+Génie médical et biomédical
+Microbiologie
+Santé de l'appareil locomoteur et mouvements humains
+Sciences du milieu naturel
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Océanographie
+Recherche opérationnelle
+Autres sciences biologiques
+Autres sciences de la Terre et sciences de l'environnement connexes
+Autre génie mécanique
+Autres sciences médicales
+Other social sciences
+Phytobiologie
+Politiques et administration des politiques
+Psychologie, aspects sociaux et comportementaux
+Santé publique et santé des populations
+Médecine de la réadaptation
+Sciences des sols
+Statistique
+Urbanisme et planification régionale
+Zoologie"
+Microsoft Excel Macro-Enabled,.xlsm,12. Feuille de calcul,Fichier original,Surveillance,Risque faible,---,3,"Sciences cognitives
+Écologie (sauf les applications)
+Santé publique et santé des populations"
+OpenDocument Spreadsheet,.ods,12. Feuille de calcul,,Complet,Risque faible,---,18,Biologie de l'évolution

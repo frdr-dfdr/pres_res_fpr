@@ -22,9 +22,9 @@ Oceanography (RDF10505)"
 BZIP2 Compressed Archive,.bz2,01. Aggregate,Retain but extract content,Full,Moderate,---,"2,632,843","Astronomical and space sciences (RDF10301)
 Atmospheric sciences (RDF10501)"
 EKKO Project ZIP Archive File,.gpz,01. Aggregate,Retain; verify archive integrity and preserve associated project files,Watch,Moderate,---,2,Cryosphere processes (RDF10508)
-ESRI Layer Package,.lpk,01. Aggregate,Retain; extract or export the contained layers where possible,Watch,High,GIS/GIS/Geospatial,6,"Geology (RDF10503)
+ESRI Layer Package,.lpk,01. Aggregate,Retain but extract content,Watch,High,GIS/GIS/Geospatial,6,"Geology (RDF10503)
 Soil sciences (RDF10511)"
-ESRI Map Package,.mpk,01. Aggregate,Retain; extract or export the contained map and data where possible,Watch,High,GIS/GIS/Geospatial,4,Environmental geoscience (RDF10506)
+ESRI Map Package,.mpk,01. Aggregate,Retain but extract content,Watch,High,GIS/GIS/Geospatial,4,Environmental geoscience (RDF10506)
 GZIP Format,".gz, .z",01. Aggregate,Original,Full,Moderate,---,"138,949","Artificial intelligence (AI) (RDF10201)
 Atmospheric sciences (RDF10501)
 Bioinformatics (RDF10208)
@@ -44,8 +44,8 @@ Plant biology (RDF10609)"
 NumPy Zipped Archive File Format,.npz,01. Aggregate,,Watch,Moderate,---,"11,637","Artificial intelligence (AI) (RDF10201)
 Atmospheric sciences (RDF10501)"
 OLE2 Compound Document Format,".ole, .ole2",01. Aggregate,Original,Basic,Moderate,---,1,"Neurosciences, biological and chemical aspects (RDF10611)"
-Olympus Image Format (OIF),.oif,01. Aggregate,Retain with all associated image files and metadata; create an interoperable image derivative where appropriate,Watch,High,---,12,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-Open Microscopy Environment Zarr,.zarr,01. Aggregate,Retain complete Zarr directory structure and metadata; validate dataset integrity,Full,Low,---,14,"Neurosciences, medical and physiological and health aspects (RDF30104)"
+Olympus Image Format (OIF),.oif,01. Aggregate,Retain with all associated image files and metadata,Watch,High,---,12,"Neurosciences, medical and physiological and health aspects (RDF30104)"
+Open Microscopy Environment Zarr,.zarr,01. Aggregate,Retain; validate dataset integrity,Full,Low,---,14,"Neurosciences, medical and physiological and health aspects (RDF30104)"
 PDF Portfolio,.pdf,01. Aggregate,Retain but extract content if possible,Watch,Moderate,"Model; Image (Raster); Spreadsheet, Presentation",1,Environmental geoscience (RDF10506)
 Qinsy Bulk Attribute/Boundary Archive File,.qba,01. Aggregate,Original,Basic,High,---,8,Environmental geoscience (RDF10506)
 RAR Archive,.rar,01. Aggregate,Retain but extract content,Watch,Moderate,---,1,"Artificial intelligence (AI) (RDF10201)

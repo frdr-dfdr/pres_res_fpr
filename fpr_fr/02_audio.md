@@ -6,13 +6,11 @@ Le son numérique est défini comme une onde sonore créée sous forme numériqu
 Les formats audio peuvent inclure différents niveaux de compression, notamment avec perte, sans perte ou non compressés.
  
 ## Formats 
-[02_audio.csv](./2026-11-09_télécharger_csv/02_audio.csv) (CSV 1.32 Ko) 
+[02_audio.csv](./2026-11-09_télécharger_csv/02_audio.csv) (CSV 1.33 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 
-| Format                         | Extension   | Action de préservation proposée   | Niveau de préservation   | Niveau de risque   | Multi-catégorie   |   Nombre total de fichiers | Domaine de recherche                                      |
-|:-------------------------------|:------------|:----------------------------------|:-------------------------|:-------------------|:------------------|---------------------------:|:----------------------------------------------------------|
-| MuBu (MUlti-BUffer) Object     | .mubu       | Fichier original                  | Base                     | Risque élevé       | ---               |                         63 | Human-centered computing (RDF10205)                       |
-| Waveform Audio (PCMWAVEFORMAT) | .wav        | Fichier original                  | Complet                  | Moderate           | ---               |                     65,989 | Data analytics and signal processing (RDF20303)           |
-|                                |             |                                   |                          |                    |                   |                            | Neurosciences, biological and chemical aspects (RDF10611) |
-|                                |             |                                   |                          |                    |                   |                            | Zoology (RDF10610)                                        |
+| Format                         | Extension   | Action de préservation proposée   | Niveau de préservation   | Niveau de risque   | Multi-catégorie   |   Nombre total de fichiers | Domaine de recherche                                                                                          |
+|:-------------------------------|:------------|:----------------------------------|:-------------------------|:-------------------|:------------------|---------------------------:|:--------------------------------------------------------------------------------------------------------------|
+| MuBu (MUlti-BUffer) Object     | .mubu       | Fichier original                  | Base                     | Risque élevé       | ---               |                         63 | Informatique centrée sur l'humain                                                                             |
+| Waveform Audio (PCMWAVEFORMAT) | .wav        | Fichier original                  | Complet                  | Moderate           | ---               |                     65,989 | Analytique des données et traitement du signal<br>Neurosciences, aspects biologiques et chimiques<br>Zoologie |
