@@ -1,5 +1,5 @@
 # Changelog
-## [1.2] - 2026-11-11
+## [1.2] - 2026-11-09
 ### Added
 - Added cross listing and field of research columns
 

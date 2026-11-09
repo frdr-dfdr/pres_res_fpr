@@ -9,16 +9,16 @@ Océanographie
 Phytobiologie
 Zoologie"
 Aperio ScanScope Virtual Slide,.svs,06. Image (matricielle),À réviser,Base,Risque élevé,---,10,Sciences cliniques
-BigTIFF,".tiff, .tif",06. Image (matricielle),Fichier original,Complet,Risque faible,GIS/Geospatial,33,"Applications écologiques
+BigTIFF,".tiff, .tif",06. Image (matricielle),Fichier original,Complet,Risque faible,SIG/Géospatial,33,"Applications écologiques
 Écologie (sauf les applications)
 Conception technique en ingénierie
 Génie de l'environnement
 Géosciences de l'environnement
 Géomatique et observation des systèmes terrestres
 Hydrologie"
-Digimizer Image File,.dgz,06. Image (matricielle),,Surveillance,Risque élevé,---,19,Géosciences de l'environnement
+Digimizer Image File,.dgz,06. Image (matricielle),Fichier original,Surveillance,Risque élevé,---,19,Géosciences de l'environnement
 DjVu File Format,".djv, .djvu",06. Image (matricielle),À réviser,Surveillance,Moderate,---,3,Géosciences de l'environnement
-ESRI Arc/Info Grid,.dir,06. Image (matricielle),,Base,Risque élevé,---,1,Hydrologie
+ESRI Arc/Info Grid,.dir,06. Image (matricielle),Fichier original,Base,Risque élevé,---,1,Hydrologie
 Exchangeable Image File Format (Compressed),".jpeg, .jpg",06. Image (matricielle),Transformer en TIFF,Complet,Risque faible,---,"652,943","Physiologie animale
 Sciences de l'atmosphère
 Biologie de l'évolution
@@ -37,9 +37,9 @@ Exchangeable Image File Format (Uncompressed),".tif, .tiff",06. Image (matriciel
 Géosciences de l'environnement
 Phytobiologie"
 Flexible Image Transport System,.fits,06. Image (matricielle),Transformer en TIFF,Surveillance,Risque faible,---,7,Chimie physique (y compris la chimie structurale)
-FreeSurfer MGZ/MGH Volume Format,.mgz,06. Image (matricielle),,Complet,Moderate,---,"25,952",Intelligence artificielle (IA)
+FreeSurfer MGZ/MGH Volume Format,.mgz,06. Image (matricielle),Fichier original,Complet,Moderate,---,"25,952",Intelligence artificielle (IA)
 Fujifilm RAW Image Format,.raf,06. Image (matricielle),Transformer en TIFF,Surveillance,Moderate,---,2,Géosciences de l'environnement
-Geographic Tagged Image File Format (GeoTIFF),".tif, .tiff, .cog",06. Image (matricielle),Fichier original,Complet,Risque faible,Image (Raster),"2,118,577","Sciences de l'atmosphère
+Geographic Tagged Image File Format (GeoTIFF),".tif, .tiff, .cog",06. Image (matricielle),Fichier original,Complet,Risque faible,Image (matricielle),"2,118,577","Sciences de l'atmosphère
 Biosystèmes et génie agricole
 Applications écologiques
 Écologie (sauf les applications)
@@ -63,8 +63,8 @@ Neurosciences, aspects biologiques et chimiques
 Neurosciences, aspects médicaux et physiologiques et de la santé
 Psychologie, aspects sociaux et comportementaux"
 Hasselblad 3FR Raw Image,.3fr,06. Image (matricielle),Transformer en TIFF,Complet,Risque élevé,---,"2,895",Géosciences de l'environnement
-Hasselblad FFF Raw Image,.fff,06. Image (matricielle),,Surveillance,Risque élevé,---,"1,134",Géosciences de l'environnement
-High Efficiency Image File Format,.heif,06. Image (matricielle),,Surveillance,Risque faible,---,59,"Géosciences de l'environnement
+Hasselblad FFF Raw Image,.fff,06. Image (matricielle),Fichier original,Surveillance,Risque élevé,---,"1,134",Géosciences de l'environnement
+High Efficiency Image File Format,.heif,06. Image (matricielle),Fichier original,Surveillance,Risque faible,---,59,"Géosciences de l'environnement
 Océanographie"
 JPEG File Interchange Format,".jpeg, .jpg, .jif, .jpe, .jfif, .jfi",06. Image (matricielle),Transformer en TIFF,Complet,Risque faible,---,"2,196,383","Physiologie animale
 Archéologie
@@ -98,8 +98,8 @@ Urbanisme et planification régionale"
 JPX (JPEG 2000 part 2),".jpx, .jpf",06. Image (matricielle),Transformer en TIFF,Complet,Risque faible,---,2,Géosciences de l'environnement
 Nikon Digital SLR Camera Raw Image File,.nef,06. Image (matricielle),Transformer en TIFF,Complet,Moderate,---,"2,218","Géosciences de l'environnement
 Génie médical et biomédical"
-Olympus File Format Raw,.oir,06. Image (matricielle),,Surveillance,Risque élevé,---,263,"Neurosciences, aspects médicaux et physiologiques et de la santé"
-Olympus Virtual Slide Pixel Data File,.ets,06. Image (matricielle),,Surveillance,Risque faible,---,542,"Neurosciences, aspects biologiques et chimiques"
+Olympus File Format Raw,.oir,06. Image (matricielle),Fichier original,Surveillance,Risque élevé,---,263,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+Olympus Virtual Slide Pixel Data File,.ets,06. Image (matricielle),Fichier original,Surveillance,Risque faible,---,542,"Neurosciences, aspects biologiques et chimiques"
 Portable Network Graphics,.png,06. Image (matricielle),Transformer en TIFF,Complet,Moderate,---,"4,452,212","Génie aérospatial
 Physiologie animale
 Intelligence artificielle (IA)
@@ -171,7 +171,7 @@ Chimie physique (y compris la chimie structurale)
 Phytobiologie
 Santé publique et santé des populations
 Zoologie"
-Visual Slide Image,.vsi,06. Image (matricielle),,Surveillance,Moderate,---,60,"Neurosciences, aspects biologiques et chimiques"
+Visual Slide Image,.vsi,06. Image (matricielle),Fichier original,Surveillance,Moderate,---,60,"Neurosciences, aspects biologiques et chimiques"
 Windows Bitmap,.bmp,06. Image (matricielle),Transformer en TIFF,Complet,Moderate,---,"408,171","Archéologie
 Médecine cardiorespiratoire et hématologie
 Sciences cognitives
@@ -182,6 +182,6 @@ Neurosciences, aspects biologiques et chimiques
 Neurosciences, aspects médicaux et physiologiques et de la santé
 Autre génie mécanique
 Psychologie, aspects sociaux et comportementaux"
-Zoomify Image Format,".tif, .zif",06. Image (matricielle),,Surveillance,Risque élevé,---,22,"Géomatique et observation des systèmes terrestres
+Zoomify Image Format,".tif, .zif",06. Image (matricielle),Fichier original,Surveillance,Risque élevé,---,22,"Géomatique et observation des systèmes terrestres
 Hydrologie
 Autres sciences de la Terre et sciences de l'environnement connexes"

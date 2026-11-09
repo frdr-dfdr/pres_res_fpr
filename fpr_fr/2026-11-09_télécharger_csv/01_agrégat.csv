@@ -8,7 +8,7 @@ Neurosciences, aspects biologiques et chimiques
 Océanographie
 Autres informatique et sciences de l'information
 Informatique théorique et mathématiques computationnelles"
-Apple Partition Map Disk Image,.dat,01. Agrégat,,Base,Moderate,---,1,Sciences astronomiques et spatiales
+Apple Partition Map Disk Image,.dat,01. Agrégat,À réviser,Base,Moderate,---,1,Sciences astronomiques et spatiales
 Apple Safari Webarchive,.webarchive,01. Agrégat,À réviser,Base,Risque élevé,---,9,Urbanisme et planification régionale
 Binary File,.bin,01. Agrégat,Fichier original,Base,Risque élevé,---,"90,515","Sciences de l'atmosphère
 Processus de la cryosphère
@@ -21,10 +21,10 @@ Neurosciences, aspects biologiques et chimiques
 Océanographie"
 BZIP2 Compressed Archive,.bz2,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,"2,632,843","Sciences astronomiques et spatiales
 Sciences de l'atmosphère"
-EKKO Project ZIP Archive File,.gpz,01. Agrégat,,Surveillance,Moderate,---,2,Processus de la cryosphère
-ESRI Layer Package,.lpk,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Risque élevé,GIS/GIS/Geospatial,6,"Géologie
+EKKO Project ZIP Archive File,.gpz,01. Agrégat,Conserver ; vérifier l'intégrité et préserver les fichiers de projet associés,Surveillance,Moderate,---,2,Processus de la cryosphère
+ESRI Layer Package,.lpk,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Risque élevé,SIG/Géospatial,6,"Géologie
 Sciences des sols"
-ESRI Map Package,.mpk,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Risque élevé,GIS/GIS/Geospatial,4,Géosciences de l'environnement
+ESRI Map Package,.mpk,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Risque élevé,SIG/Géospatial,4,Géosciences de l'environnement
 GZIP Format,".gz, .z",01. Agrégat,Fichier original,Complet,Moderate,---,"138,949","Intelligence artificielle (IA)
 Sciences de l'atmosphère
 Bioinformatique
@@ -44,14 +44,14 @@ Phytobiologie"
 NumPy Zipped Archive File Format,.npz,01. Agrégat,,Surveillance,Moderate,---,"11,637","Intelligence artificielle (IA)
 Sciences de l'atmosphère"
 OLE2 Compound Document Format,".ole, .ole2",01. Agrégat,Fichier original,Base,Moderate,---,1,"Neurosciences, aspects biologiques et chimiques"
-Olympus Image Format (OIF),.oif,01. Agrégat,,Surveillance,Risque élevé,---,12,"Neurosciences, aspects médicaux et physiologiques et de la santé"
-Open Microscopy Environment Zarr,.zarr,01. Agrégat,,Complet,Risque faible,---,14,"Neurosciences, aspects médicaux et physiologiques et de la santé"
-PDF Portfolio,.pdf,01. Agrégat,Conserver mais extraire le contenu si possible,Surveillance,Moderate,"Model; Image (Raster); Spreadsheet, Presentation",1,Géosciences de l'environnement
+Olympus Image Format (OIF),.oif,01. Agrégat,Conserver avec tous les fichiers image et métadonnées associés,Surveillance,Risque élevé,---,12,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+Open Microscopy Environment Zarr,.zarr,01. Agrégat,Conserver ; vérifier l'intégrité de jeu de données,Complet,Risque faible,---,14,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+PDF Portfolio,.pdf,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Moderate,---,1,Géosciences de l'environnement
 Qinsy Bulk Attribute/Boundary Archive File,.qba,01. Agrégat,Fichier original,Base,Risque élevé,---,8,Géosciences de l'environnement
 RAR Archive,.rar,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Moderate,---,1,"Intelligence artificielle (IA)
 Chimie biomoléculaire et thérapeutique (médicinale)
 Microbiologie"
-Singularity Image File,.im,01. Agrégat,,Surveillance,Moderate,---,2,"Intelligence artificielle (IA)
+Singularity Image File,.im,01. Agrégat,"Conserver les métadonnées du conteneur, les dépendances logicielles et les instructions de compilation",Surveillance,Moderate,---,2,"Intelligence artificielle (IA)
 Bioinformatique"
 Tape Archive Format,.tar,01. Agrégat,Conserver mais extraire le contenu,Complet,Risque faible,---,"1,547","Intelligence artificielle (IA)
 Sciences de l'atmosphère
@@ -63,7 +63,7 @@ Neurosciences, aspects biologiques et chimiques
 Neurosciences, aspects médicaux et physiologiques et de la santé
 Océanographie
 Autres sciences biologiques"
-Tar Gzipped File,.tgz,01. Agrégat,,Complet,Moderate,---,1,Urbanisme et planification régionale
+Tar Gzipped File,.tgz,01. Agrégat,Conserver ; vérifier l'intégrité et préserver la structure des répertoires,Complet,Moderate,---,1,Urbanisme et planification régionale
 XZ File Format,.xz,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,69,Bibliothéconomie et études de l'information
 ZIP Format,.zip,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,"3,955","Biotechnologies de l'agriculture
 Gestion de l'exploitation agricole et des terres
@@ -106,4 +106,4 @@ Sciences des sols
 Urbanisme et planification régionale
 Arts visuels et arts médiatiques
 Zoologie"
-Zstandard Compression Format,.zst,01. Agrégat,,Complet,Moderate,---,17,Intelligence artificielle (IA)
+Zstandard Compression Format,.zst,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,17,Intelligence artificielle (IA)

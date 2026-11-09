@@ -8,7 +8,7 @@ Neurosciences, biological and chemical aspects (RDF10611)
 Oceanography (RDF10505)
 Other computer and information sciences (RDF10299)
 Theoretical computer science and computational mathematics (RDF10202)"
-Apple Partition Map Disk Image,.dat,01. Aggregate,,Basic,Moderate,---,1,Astronomical and space sciences (RDF10301)
+Apple Partition Map Disk Image,.dat,01. Aggregate,To be reviewed,Basic,Moderate,---,1,Astronomical and space sciences (RDF10301)
 Apple Safari Webarchive,.webarchive,01. Aggregate,To be reviewed,Basic,High,---,9,Urban and regional planning (RDF50702)
 Binary File,.bin,01. Aggregate,Original,Basic,High,---,"90,515","Atmospheric sciences (RDF10501)
 Cryosphere processes (RDF10508)
@@ -21,10 +21,10 @@ Neurosciences, biological and chemical aspects (RDF10611)
 Oceanography (RDF10505)"
 BZIP2 Compressed Archive,.bz2,01. Aggregate,Retain but extract content,Full,Moderate,---,"2,632,843","Astronomical and space sciences (RDF10301)
 Atmospheric sciences (RDF10501)"
-EKKO Project ZIP Archive File,.gpz,01. Aggregate,Retain; verify archive integrity and preserve associated project files,Watch,Moderate,---,2,Cryosphere processes (RDF10508)
-ESRI Layer Package,.lpk,01. Aggregate,Retain but extract content,Watch,High,GIS/GIS/Geospatial,6,"Geology (RDF10503)
+EKKO Project ZIP Archive File,.gpz,01. Aggregate,Retain; verify integrity and preserve associated project files,Watch,Moderate,---,2,Cryosphere processes (RDF10508)
+ESRI Layer Package,.lpk,01. Aggregate,Retain but extract content,Watch,High,GIS/Geospatial,6,"Geology (RDF10503)
 Soil sciences (RDF10511)"
-ESRI Map Package,.mpk,01. Aggregate,Retain but extract content,Watch,High,GIS/GIS/Geospatial,4,Environmental geoscience (RDF10506)
+ESRI Map Package,.mpk,01. Aggregate,Retain but extract content,Watch,High,GIS/Geospatial,4,Environmental geoscience (RDF10506)
 GZIP Format,".gz, .z",01. Aggregate,Original,Full,Moderate,---,"138,949","Artificial intelligence (AI) (RDF10201)
 Atmospheric sciences (RDF10501)
 Bioinformatics (RDF10208)
@@ -46,12 +46,12 @@ Atmospheric sciences (RDF10501)"
 OLE2 Compound Document Format,".ole, .ole2",01. Aggregate,Original,Basic,Moderate,---,1,"Neurosciences, biological and chemical aspects (RDF10611)"
 Olympus Image Format (OIF),.oif,01. Aggregate,Retain with all associated image files and metadata,Watch,High,---,12,"Neurosciences, medical and physiological and health aspects (RDF30104)"
 Open Microscopy Environment Zarr,.zarr,01. Aggregate,Retain; validate dataset integrity,Full,Low,---,14,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-PDF Portfolio,.pdf,01. Aggregate,Retain but extract content if possible,Watch,Moderate,"Model; Image (Raster); Spreadsheet, Presentation",1,Environmental geoscience (RDF10506)
+PDF Portfolio,.pdf,01. Aggregate,Retain but extract content,Watch,Moderate,---,1,Environmental geoscience (RDF10506)
 Qinsy Bulk Attribute/Boundary Archive File,.qba,01. Aggregate,Original,Basic,High,---,8,Environmental geoscience (RDF10506)
 RAR Archive,.rar,01. Aggregate,Retain but extract content,Watch,Moderate,---,1,"Artificial intelligence (AI) (RDF10201)
 Biomolecular and medicinal chemistry (RDF10405)
 Microbiology (RDF10607)"
-Singularity Image File,.im,01. Aggregate,"Retain with container metadata, software dependencies, and build instructions; consider exporting to an OCI-compatible container where possible",Watch,Moderate,---,2,"Artificial intelligence (AI) (RDF10201)
+Singularity Image File,.im,01. Aggregate,"Retain with container metadata, software dependencies, and build instructions",Watch,Moderate,---,2,"Artificial intelligence (AI) (RDF10201)
 Bioinformatics (RDF10208)"
 Tape Archive Format,.tar,01. Aggregate,Retain but extract content,Full,Low,---,"1,547","Artificial intelligence (AI) (RDF10201)
 Atmospheric sciences (RDF10501)
@@ -63,7 +63,7 @@ Neurosciences, biological and chemical aspects (RDF10611)
 Neurosciences, medical and physiological and health aspects (RDF30104)
 Oceanography (RDF10505)
 Other biological sciences (RDF10699)"
-Tar Gzipped File,.tgz,01. Aggregate,Retain; validate archive integrity and preserve directory structure,Full,Moderate,---,1,Urban and regional planning (RDF50702)
+Tar Gzipped File,.tgz,01. Aggregate,Retain; validate integrity and preserve directory structure,Full,Moderate,---,1,Urban and regional planning (RDF50702)
 XZ File Format,.xz,01. Aggregate,Retain but extract content,Full,Moderate,---,69,Library science and information studies (RDF10207)
 ZIP Format,.zip,01. Aggregate,Retain but extract content,Full,Moderate,---,"3,955","Agricultural biotechnology (RDF40401)
 Agriculture, land and farm management (RDF40101)
@@ -106,4 +106,4 @@ Soil sciences (RDF10511)
 Urban and regional planning (RDF50702)
 Visual arts and media arts (RDF60407)
 Zoology (RDF10610)"
-Zstandard Compression Format,.zst,01. Aggregate,Retain but extract contents,Full,Moderate,---,17,Artificial intelligence (AI) (RDF10201)
+Zstandard Compression Format,.zst,01. Aggregate,Retain but extract content,Full,Moderate,---,17,Artificial intelligence (AI) (RDF10201)

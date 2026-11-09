@@ -29,17 +29,17 @@ Hydrology (RDF10507)
 Oceanography (RDF10505)
 Other earth and related environmental sciences (RDF10599)
 Urban and regional planning (RDF50702)"
-ESRI ArcInfo Coverage,.dir,05. GIS/Geospatial,Retain with all associated coverage files and directory structure,Watch,High,---,2,Hydrology (RDF10507)
-ESRI Attribute Index File,.atx,05. GIS/Geospatial,Retain with its associated shapefile components; regenerate if necessary,Basic,High,---,808,"Ecology (except applications) (RDF10603)
+ESRI ArcInfo Coverage,.dir,05. GIS/Geospatial,Original,Watch,High,---,2,Hydrology (RDF10507)
+ESRI Attribute Index File,.atx,05. GIS/Geospatial,Original,Basic,High,---,808,"Ecology (except applications) (RDF10603)
 Environmental engineering (RDF20801)
 Hydrology (RDF10507)"
-ESRI Geodatabase Index,.gdbindexes,05. GIS/Geospatial,Retain with the complete geodatabase,Watch,High,---,922,"Ecology (except applications) (RDF10603)
+ESRI Geodatabase Index,.gdbindexes,05. GIS/Geospatial,Original,Watch,High,---,922,"Ecology (except applications) (RDF10603)
 Environmental engineering (RDF20801)
 Hydrology (RDF10507)"
-ESRI Geodatabase Table,.gdbtable,05. GIS/Geospatial,Retain with the complete geodatabase and supporting files,Watch,High,---,928,"Ecology (except applications) (RDF10603)
+ESRI Geodatabase Table,.gdbtable,05. GIS/Geospatial,Original,Watch,High,---,928,"Ecology (except applications) (RDF10603)
 Environmental engineering (RDF20801)
 Hydrology (RDF10507)"
-ESRI Geodatabase Table Lookup List,.gdbtablx,05. GIS/Geospatial,Retain with the complete geodatabase,Watch,High,---,928,"Ecology (except applications) (RDF10603)
+ESRI Geodatabase Table Lookup List,.gdbtablx,05. GIS/Geospatial,Original,Watch,High,---,928,"Ecology (except applications) (RDF10603)
 Environmental engineering (RDF20801)
 Hydrology (RDF10507)"
 ESRI Shapefile Projection (Well-Known Text) Format,.prj,05. GIS/Geospatial,Original,Basic,Low,Dataset,"16,382","Agricultural biotechnology (RDF40401)
@@ -74,18 +74,18 @@ Other earth and related environmental sciences (RDF10599)
 Other physical sciences (RDF10399)
 Statistics (RDF10103)
 Urban and regional planning (RDF50702)"
-File Geodatabase System Reference File,.horizon,05. GIS/Geospatial,Retain with the complete geodatabase and associated software documentation,Watch,High,---,30,"Ecology (except applications) (RDF10603)
+File Geodatabase System Reference File,.horizon,05. GIS/Geospatial,Original,Watch,High,---,30,"Ecology (except applications) (RDF10603)
 Environmental engineering (RDF20801)"
-GeoJSON,.geojson,05. GIS/Geospatial,Retain; validate and create alternative geospatial derivatives where appropriate,Full,Low,---,1,Geomatics and earth systems observations (RDF10509)
-Golden Software Blanking File,.bln,05. GIS/Geospatial,Retain; consider exporting to a documented geospatial format where appropriate,Watch,Moderate,---,104,"Environmental geoscience (RDF10506)
+GeoJSON,.geojson,05. GIS/Geospatial,Original,Full,Low,---,1,Geomatics and earth systems observations (RDF10509)
+Golden Software Blanking File,.bln,05. GIS/Geospatial,Original,Watch,Moderate,---,104,"Environmental geoscience (RDF10506)
 Natural environment sciences (RDF10510)"
-Green Kenue Waterflood Map File,.map,05. GIS/Geospatial,Retain with associated project data and software documentation,Watch,High,---,1,Hydrology (RDF10507)
-Layer File,.lyr,05. GIS/Geospatial,Retain with associated GIS data and software documentation; export layer information where possible,Watch,High,---,1,Geomatics engineering (RDF20802)
+Green Kenue Waterflood Map File,.map,05. GIS/Geospatial,Original,Watch,High,---,1,Hydrology (RDF10507)
+Layer File,.lyr,05. GIS/Geospatial,Original,Watch,High,---,1,Geomatics engineering (RDF20802)
 OGC GeoPackage,.gpkg,05. GIS/Geospatial,Original,Watch,Low,---,164,"Ecological applications (RDF10604)
 Forestry sciences (RDF40104)
 Geology (RDF10503)
 Hydrology (RDF10507)"
-QGIS Projection File,.prj,05. GIS/Geospatial,Retain with associated spatial data; validate coordinate reference system information,Full,Low,---,66,"Environmental geoscience (RDF10506)
+QGIS Projection File,.prj,05. GIS/Geospatial,Original,Full,Low,---,66,"Environmental geoscience (RDF10506)
 Hydrology (RDF10507)
 Urban and regional planning (RDF50702)"
 Qimera Line Trackline File,.track,05. GIS/Geospatial,Original,Basic,High,---,128,Environmental geoscience (RDF10506)
@@ -96,6 +96,6 @@ Qinsy Graphics Feature Background File,.qgfback,05. GIS/Geospatial,Original,Basi
 Qinsy Graphics Feature Contours File,.qgfcont,05. GIS/Geospatial,Original,Basic,High,---,7,Environmental geoscience (RDF10506)
 Qinsy Graphics Feature Line File,.qgfline,05. GIS/Geospatial,Original,Basic,High,---,30,Environmental geoscience (RDF10506)
 Qinsy Graphics Feature Navigation File,.qgfnav,05. GIS/Geospatial,Original,Basic,High,---,74,Environmental geoscience (RDF10506)
-Surfer SRF File,.srf,05. GIS/Geospatial,Retain with associated project data and software documentation,Watch,High,---,39,Environmental geoscience (RDF10506)
-Well-Known Text (WKT) File,.wkt,05. GIS/Geospatial,Retain; validate geometry and coordinate reference information,Full,Low,---,8,Environmental geoscience (RDF10506)
-Well-Known Text (WKT) Output File,.wktout,05. GIS/Geospatial,Retain; validate geometry and coordinate reference information,Full,Low,---,122,Environmental geoscience (RDF10506)
+Surfer SRF File,.srf,05. GIS/Geospatial,Original,Watch,High,---,39,Environmental geoscience (RDF10506)
+Well-Known Text (WKT) File,.wkt,05. GIS/Geospatial,Original,Full,Low,---,8,Environmental geoscience (RDF10506)
+Well-Known Text (WKT) Output File,.wktout,05. GIS/Geospatial,Original,Full,Low,---,122,Environmental geoscience (RDF10506)

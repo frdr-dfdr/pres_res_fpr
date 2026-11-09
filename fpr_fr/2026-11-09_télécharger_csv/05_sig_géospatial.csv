@@ -1,0 +1,101 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
+ASPRS Lidar Data Exchange Format,".las, .laz",05. SIG/Géospatial,Fichier original,Base,Risque faible,Image (matricielle),"6,352","Intelligence artificielle (IA)
+Applications écologiques
+Conception technique en ingénierie
+Géosciences de l'environnement
+Sciences de la foresterie
+Géomatique et observation des systèmes terrestres
+Génie géomatique
+Hydrologie"
+Coastal Isotopic Ocean Prediction System Region Boundary File,--,05. SIG/Géospatial,Fichier original,Complet,Moderate,---,2,Océanographie
+Coastal Isotopic Ocean Prediction System Segment-Grid Region Boundary File,--,05. SIG/Géospatial,Fichier original,Complet,Moderate,---,2,Océanographie
+ESRI Arc/View ShapeFile,.shp,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,Jeu de données,"11,016","Biotechnologies de l'agriculture
+Sciences de l'atmosphère
+Processus de la cryosphère
+Géosciences de l'environnement
+Géomatique et observation des systèmes terrestres
+Génie géomatique
+Hydrologie
+Océanographie
+Autres sciences de la Terre et sciences de l'environnement connexes
+Urbanisme et planification régionale"
+ESRI Arc/View Shapefile Index,.shx,05. SIG/Géospatial,Fichier original,Base,Risque élevé,Jeu de données,"10,999","Biotechnologies de l'agriculture
+Sciences de l'atmosphère
+Processus de la cryosphère
+Géosciences de l'environnement
+Géomatique et observation des systèmes terrestres
+Génie géomatique
+Hydrologie
+Océanographie
+Autres sciences de la Terre et sciences de l'environnement connexes
+Urbanisme et planification régionale"
+ESRI ArcInfo Coverage,.dir,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,2,Hydrologie
+ESRI Attribute Index File,.atx,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,808,"Écologie (sauf les applications)
+Génie de l'environnement
+Hydrologie"
+ESRI Geodatabase Index,.gdbindexes,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,922,"Écologie (sauf les applications)
+Génie de l'environnement
+Hydrologie"
+ESRI Geodatabase Table,.gdbtable,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,928,"Écologie (sauf les applications)
+Génie de l'environnement
+Hydrologie"
+ESRI Geodatabase Table Lookup List,.gdbtablx,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,928,"Écologie (sauf les applications)
+Génie de l'environnement
+Hydrologie"
+ESRI Shapefile Projection (Well-Known Text) Format,.prj,05. SIG/Géospatial,Fichier original,Base,Risque faible,Jeu de données,"16,382","Biotechnologies de l'agriculture
+Sciences de l'atmosphère
+Processus de la cryosphère
+Géosciences de l'environnement
+Géomatique et observation des systèmes terrestres
+Génie géomatique
+Hydrologie
+Océanographie
+Autres sciences de la Terre et sciences de l'environnement connexes
+Urbanisme et planification régionale"
+ESRI Spatial Index File,".sbn, .sbx",05. SIG/Géospatial,Fichier original,Base,Risque élevé,Jeu de données,774,"Biotechnologies de l'agriculture
+Sciences de l'atmosphère
+Processus de la cryosphère
+Écologie (sauf les applications)
+Génie de l'environnement
+Géosciences de l'environnement
+Géomatique et observation des systèmes terrestres
+Génie géomatique
+Hydrologie
+Autres sciences de la Terre et sciences de l'environnement connexes
+Urbanisme et planification régionale"
+ESRI World File Format,.tfw,05. SIG/Géospatial,Fichier original,Base,Moderate,Jeu de données,272,"Écologie (sauf les applications)
+Conception technique en ingénierie
+Géosciences de l'environnement
+Géomatique et observation des systèmes terrestres
+Hydrologie
+Sciences du milieu naturel
+Océanographie
+Autres sciences de la Terre et sciences de l'environnement connexes
+Autres sciences physiques
+Statistique
+Urbanisme et planification régionale"
+File Geodatabase System Reference File,.horizon,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,30,"Écologie (sauf les applications)
+Génie de l'environnement"
+GeoJSON,.geojson,05. SIG/Géospatial,Fichier original,Complet,Risque faible,---,1,Géomatique et observation des systèmes terrestres
+Golden Software Blanking File,.bln,05. SIG/Géospatial,Fichier original,Surveillance,Moderate,---,104,"Géosciences de l'environnement
+Sciences du milieu naturel"
+Green Kenue Waterflood Map File,.map,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,1,Hydrologie
+Layer File,.lyr,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,1,Génie géomatique
+OGC GeoPackage,.gpkg,05. SIG/Géospatial,Fichier original,Surveillance,Risque faible,---,164,"Applications écologiques
+Sciences de la foresterie
+Géologie
+Hydrologie"
+QGIS Projection File,.prj,05. SIG/Géospatial,Fichier original,Complet,Risque faible,---,66,"Géosciences de l'environnement
+Hydrologie
+Urbanisme et planification régionale"
+Qimera Line Trackline File,.track,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,128,Géosciences de l'environnement
+Qimera Navigation Mapping File,.navsysmap,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,6,Géosciences de l'environnement
+Qinsy Graphics Feature Annotations File,.qgfanno,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,58,Géosciences de l'environnement
+Qinsy Graphics Feature Area File,qgfarea,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,22,Géosciences de l'environnement
+Qinsy Graphics Feature Background File,.qgfback,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,22,Géosciences de l'environnement
+Qinsy Graphics Feature Contours File,.qgfcont,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,7,Géosciences de l'environnement
+Qinsy Graphics Feature Line File,.qgfline,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,30,Géosciences de l'environnement
+Qinsy Graphics Feature Navigation File,.qgfnav,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,74,Géosciences de l'environnement
+Surfer SRF File,.srf,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,39,Géosciences de l'environnement
+Well-Known Text (WKT) File,.wkt,05. SIG/Géospatial,Fichier original,Complet,Risque faible,---,8,Géosciences de l'environnement
+Well-Known Text (WKT) Output File,.wktout,05. SIG/Géospatial,Fichier original,Complet,Risque faible,---,122,Géosciences de l'environnement

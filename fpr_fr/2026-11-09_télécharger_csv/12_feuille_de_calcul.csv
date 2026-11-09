@@ -1,7 +1,7 @@
 Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
 Apple iWork Numbers,.numbers,12. Feuille de calcul,Transformer en CSV,Surveillance,Moderate,---,1,Géosciences de l'environnement
 Microsoft Excel 5.0/95 Workbook (xls),.xls,12. Feuille de calcul,Transformer en ODS,Complet,Risque élevé,---,1,Géosciences de l'environnement
-Microsoft Excel 97-2003 Workbook (xls),.xls,12. Feuille de calcul,,Complet,Risque élevé,---,149,"Chimie analytique
+Microsoft Excel 97-2003 Workbook (xls),.xls,12. Feuille de calcul,Fichier original,Complet,Risque élevé,---,149,"Chimie analytique
 Intelligence artificielle (IA)
 Physique de la matière condensée
 Démographie
@@ -74,4 +74,4 @@ Zoologie"
 Microsoft Excel Macro-Enabled,.xlsm,12. Feuille de calcul,Fichier original,Surveillance,Risque faible,---,3,"Sciences cognitives
 Écologie (sauf les applications)
 Santé publique et santé des populations"
-OpenDocument Spreadsheet,.ods,12. Feuille de calcul,,Complet,Risque faible,---,18,Biologie de l'évolution
+OpenDocument Spreadsheet,.ods,12. Feuille de calcul,Fichier original,Complet,Risque faible,---,18,Biologie de l'évolution
