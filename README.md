@@ -35,6 +35,11 @@ Each file type is grouped into a larger file category. A table for each category
 |Total Files|Includes the number of files in FRDR associated with the format.| 
 |Field of Research|Indicates the field of researc (CRCD) associated with the format. These are taken directly from FRDR.|
 
+### Extensions
+- Formats with no extensions will include an `---` in the extension column.
+- Formats with variations to the extensions will include `.xxxx-xxx` in the column. The pattern of Xs will roughly mimic the structure of the extension.
+- `---` is used to indicate that there is no information for the specific value in that column.
+
 ## Complete List of Formats
 - [Full Format Listing](/fpr_en/2026-11-08_csv_downloads/00_full_listing.csv) (CSV 158 KB)
 
@@ -58,13 +63,16 @@ Each file type is grouped into a larger file category. A table for each category
 - [16-Video/Moving Image](/fpr_en/16_video_moving_image.md)
 - [17-Word Processor](/fpr_en/17_word_processing.md)
 
-Formats may belong to multiple categories. Mapping to multiple categories is under development.
-
 ## About
 - [Background](/docs/02_background_contexte.md)
 - [Team](/docs/03_team_équipe.md)
 - [Development](/docs/04_developments_développements.md)
 - [Stats](/docs/06_stats_statistiques.md)
+
+## Submissions
+If you would like to suggest a format for inclusion or a change to an existing format please create a GitHub Issues using either the `New format submission` template or the `Request changes to a format` template. Submissions can be summited in English or French
+
+We will do our best to respond in a timely manner.
 
 ## Acknowledgments
 Digital Preservation Services wishes to acknowledge and thank the Digital Research Alliance of Canada translation team for their help in translating this content. 
@@ -102,6 +110,11 @@ Chaque type de fichier est regroupé dans une catégorie de fichiers plus large.
 |Nombre total de fichiers| Comprend le nombre de fichiers dans le DFDR associés au format.|
 |Domaine de recherche|Indique le domaine de recherche (CCRD) associé au format. Ces informations sont tirées directement du DFDR|
 
+### Extensions
+- Les formats sans extension seront indiqués par « --- » dans la colonne des extensions.
+- Les formats présentant des variations au niveau des extensions seront indiqués par « .xxxx-xxx » dans cette colonne. La séquence de « X » reproduira approximativement la structure de l'extension.
+- « --- » est utilisé pour indiquer qu'il n'y a aucune information concernant la valeur spécifique dans cette colonne.
+
 ## Liste complète des formats
 - [Liste complète des formats](/fpr_fr/2026-11-08_télécharger_csv/00_liste_complète.csv) (CSV 146 Ko)
 
@@ -125,13 +138,16 @@ Chaque type de fichier est regroupé dans une catégorie de fichiers plus large.
 - [16-Vidéo/Image animée](/fpr_fr/16_vidéo-image_animée.md)
 - [17-Traitement de texte](/fpr_fr/17_traitement_de_texte.md)
 
-Certains formats peuvent appartenir à plusieurs catégories. Le classement dans plusieurs catégories est en cours de développement.
-
 ## À propos
 - [Contexte](/docs/02_background_contexte.md#contexte)
 - [Équipe](/docs/03_team_équipe.md#léquipe)
 - [Développement](/docs/04_developments_développements.md#développements-et-mises-à-jour)
 - [Statistiques](/docs/06_stats_statistiques.md#statistiques)
+
+## Soumissions
+Si vous souhaitez proposer un nouveau format à ajouter ou une modification d'un format existant, veuillez créer un ticket GitHub en utilisant soit le modèle `New format submission`, soit le modèle `Request changes to a format`. Les contributions peuvent être soumises en anglais ou en français.
+
+Nous ferons de notre mieux pour vous répondre dans les plus brefs délais.
 
 ## Remerciements
 Les Services de préservation numérique remercient l’équipe de traduction de l’Alliance de recherche numérique du Canada pour sa précieuse contribution à la traduction de ce contenu.
