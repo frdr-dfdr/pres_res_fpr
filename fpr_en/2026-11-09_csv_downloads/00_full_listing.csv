@@ -553,8 +553,8 @@ Encrypted Python Script,.pye,14. Text (Structured),"Retain with the required int
 ENVI Binary Raster Data Cube File,.dat,04. Dataset,Retain with its corresponding header file and geospatial metadata,Full,Moderate,---,Geomatics and earth systems observations (RDF10509)
 ENVI Raster Header File,.hdr,14. Text (Structured),Retain with its corresponding raster data file,Full,Low,---,Geomatics and earth systems observations (RDF10509)
 Environment File,.env,14. Text (Structured),Original,Full,Moderate,---,Artificial intelligence (AI) (RDF10201)
-ESRI Arc/Info Binary Grid,.adf,04. Dataset,Original,Basic,High,---,Hydrology (RDF10507)
-ESRI Arc/Info Grid,.dir,05. GIS/Geospatial,Retain with associated grid data and supporting files,Watch,High,---,Hydrology (RDF10507)
+ESRI Arc/Info Binary Grid,.adf,04. Dataset,Original,Basic,High,GIS/Geospatial,Hydrology (RDF10507)
+ESRI Arc/Info Grid,.dir,06. Image (Raster),Retain with associated grid data and supporting files,Basic,High,---,Hydrology (RDF10507)
 ESRI Arc/View ShapeFile,.shp,05. GIS/Geospatial,Original,Watch,High,Dataset,"Agricultural biotechnology (RDF40401)
 Atmospheric sciences (RDF10501)
 Cryosphere processes (RDF10508)
@@ -1171,13 +1171,6 @@ Urban and regional planning (RDF50702)
 Zoology (RDF10610)"
 Microsoft Excel Macro-Enabled,.xlsm,12. Spreadsheet,Original,Watch,Low,---,"Cognitive sciences (RDF50102)
 Ecology (except applications) (RDF10603)
-Public and population health (RDF30302)"
-Microsoft Powerpoint for Windows,.ppt,11. Presentation,Original,Watch,Low,---,"Cognitive sciences (RDF50102)
-Environmental geoscience (RDF10506)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Oceanography (RDF10505)
-Psychology, social and behavioural aspects (RDF50101)
 Public and population health (RDF30302)"
 Microsoft Powerpoint for Windows,.pptx,11. Presentation,Original,Watch,Low,---,"Cell biology (RDF10602)
 Geophysics (RDF10504)"

@@ -18,6 +18,7 @@ Geomatics and earth systems observations (RDF10509)
 Hydrology (RDF10507)"
 Digimizer Image File,.dgz,06. Image (Raster),Retain with the original application or export an accessible image copy,Watch,High,---,19,Environmental geoscience (RDF10506)
 DjVu File Format,".djv, .djvu",06. Image (Raster),To be reviewed,Watch,Moderate,---,3,Environmental geoscience (RDF10506)
+ESRI Arc/Info Grid,.dir,06. Image (Raster),Retain with associated grid data and supporting files,Basic,High,---,1,Hydrology (RDF10507)
 Exchangeable Image File Format (Compressed),".jpeg, .jpg",06. Image (Raster),Transform to TIFF,Full,Low,---,"652,943","Animal physiology (RDF10608)
 Atmospheric sciences (RDF10501)
 Biological evolution (RDF10605)

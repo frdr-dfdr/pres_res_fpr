@@ -548,8 +548,8 @@ Encrypted Python Script,.pye,14. Texte (structuré),,Surveillance,Risque élevé
 ENVI Binary Raster Data Cube File,.dat,04. Jeu de données,,Complet,Moderate,---,82,Geomatics and earth systems observations (RDF10509)
 ENVI Raster Header File,.hdr,14. Texte (structuré),,Complet,Risque faible,---,82,Geomatics and earth systems observations (RDF10509)
 Environment File,.env,14. Texte (structuré),Fichier original,Complet,Moderate,---,811,Artificial intelligence (AI) (RDF10201)
-ESRI Arc/Info Binary Grid,.adf,04. Jeu de données,Fichier original,Base,Risque élevé,---,66,Hydrology (RDF10507)
-ESRI Arc/Info Grid,.dir,05. SIG/Géospatiales,,Surveillance,Risque élevé,---,1,Hydrology (RDF10507)
+ESRI Arc/Info Binary Grid,.adf,04. Jeu de données,Fichier original,Base,Risque élevé,GIS/Geospatial,66,Hydrology (RDF10507)
+ESRI Arc/Info Grid,.dir,06. Image (matricielle),,Base,Risque élevé,---,1,Hydrology (RDF10507)
 ESRI Arc/View ShapeFile,.shp,05. SIG/Géospatiales,Fichier original,Surveillance,Risque élevé,Dataset,"11,016","Agricultural biotechnology (RDF40401)
 Atmospheric sciences (RDF10501)
 Cryosphere processes (RDF10508)
@@ -1109,13 +1109,6 @@ Urban and regional planning (RDF50702)
 Zoology (RDF10610)"
 Microsoft Excel Macro-Enabled,.xlsm,12. Feuille de calcul,Fichier original,Surveillance,Risque faible,---,3,"Cognitive sciences (RDF50102)
 Ecology (except applications) (RDF10603)
-Public and population health (RDF30302)"
-Microsoft Powerpoint for Windows,.ppt,11. Présentation,Fichier original,Surveillance,Risque faible,---,60,"Cognitive sciences (RDF50102)
-Environmental geoscience (RDF10506)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Oceanography (RDF10505)
-Psychology, social and behavioural aspects (RDF50101)
 Public and population health (RDF30302)"
 Microsoft Powerpoint for Windows,.pptx,11. Présentation,Fichier original,Surveillance,Risque faible,---,60,"Cell biology (RDF10602)
 Geophysics (RDF10504)"

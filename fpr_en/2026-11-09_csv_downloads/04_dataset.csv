@@ -208,7 +208,7 @@ EEGLAB STUDY Design Metadata File,.study,04. Dataset,Original,Basic,Moderate,---
 Neurosciences, medical and physiological and health aspects (RDF30104)"
 Electron Event Representation File,.eer,04. Dataset,Retain with acquisition metadata and software documentation,Watch,High,---,"51,827",Cell biology (RDF10602)
 ENVI Binary Raster Data Cube File,.dat,04. Dataset,Retain with its corresponding header file and geospatial metadata,Full,Moderate,---,82,Geomatics and earth systems observations (RDF10509)
-ESRI Arc/Info Binary Grid,.adf,04. Dataset,Original,Basic,High,---,66,Hydrology (RDF10507)
+ESRI Arc/Info Binary Grid,.adf,04. Dataset,Original,Basic,High,GIS/Geospatial,66,Hydrology (RDF10507)
 ESRI ArcGIS Overview File,.ovr,04. Dataset,Retain with the associated raster dataset; regenerate if necessary,Basic,High,---,164,"Ecological applications (RDF10604)
 Ecology (except applications) (RDF10603)
 Engineering design (RDF21201)

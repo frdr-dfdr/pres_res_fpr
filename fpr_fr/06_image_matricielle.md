@@ -3,7 +3,7 @@ Dernière mise à jour : 2026-11-09
 
 Les images matricielles comprennent les représentations visuelles bidimensionnelles d'objets, de dessins, etc. Cela peut inclure les photographies, affiches, graphiques,  diagrammes et illustrations. Les images matricielles sont composées de pixels. 
 ## Formats 
-[06_image_matricielle.csv](./2026-11-09_télécharger_csv/06_image_matricielle.csv) (CSV 21.08 Ko) 
+[06_image_matricielle.csv](./2026-11-09_télécharger_csv/06_image_matricielle.csv) (CSV 21.6 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 
@@ -28,6 +28,7 @@ Original désigne le fichier original déposé dans le dépôt.
 |                                               |                                      |                                   |                          |                    |                   |                            | Hydrology (RDF10507)                                                   |
 | Digimizer Image File                          | .dgz                                 | nan                               | Surveillance             | Risque élevé       | ---               |                         19 | Environmental geoscience (RDF10506)                                    |
 | DjVu File Format                              | .djv, .djvu                          | À réviser                         | Surveillance             | Moderate           | ---               |                          3 | Environmental geoscience (RDF10506)                                    |
+| ESRI Arc/Info Grid                            | .dir                                 | nan                               | Base                     | Risque élevé       | ---               |                          1 | Hydrology (RDF10507)                                                   |
 | Exchangeable Image File Format (Compressed)   | .jpeg, .jpg                          | Transformer en TIFF               | Complet                  | Risque faible      | ---               |                    652,943 | Animal physiology (RDF10608)                                           |
 |                                               |                                      |                                   |                          |                    |                   |                            | Atmospheric sciences (RDF10501)                                        |
 |                                               |                                      |                                   |                          |                    |                   |                            | Biological evolution (RDF10605)                                        |

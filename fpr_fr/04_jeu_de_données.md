@@ -3,7 +3,7 @@ Dernière mise à jour : 2026-11-09
 
 Les formats des fichiers de jeux de données comprennent les formats utilisés pour des jeux de données individuels et des valeurs de données organisées et structurées en vue de l’analyse. 
 ## Formats 
-[04_jeu_de_données.csv](./2026-11-09_télécharger_csv/04_jeu_de_données.csv) (CSV 179.04 Ko) 
+[04_jeu_de_données.csv](./2026-11-09_télécharger_csv/04_jeu_de_données.csv) (CSV 179.06 Ko) 
 
 Original désigne le fichier original déposé dans le dépôt. 
 
@@ -218,7 +218,7 @@ Original désigne le fichier original déposé dans le dépôt.
 |                                                                                                 |                                                |                                   |                          |                    |                   |                            | Neurosciences, medical and physiological and health aspects (RDF30104) |
 | Electron Event Representation File                                                              | .eer                                           | nan                               | Surveillance             | Risque élevé       | ---               |                     51,827 | Cell biology (RDF10602)                                                |
 | ENVI Binary Raster Data Cube File                                                               | .dat                                           | nan                               | Complet                  | Moderate           | ---               |                         82 | Geomatics and earth systems observations (RDF10509)                    |
-| ESRI Arc/Info Binary Grid                                                                       | .adf                                           | Fichier original                  | Base                     | Risque élevé       | ---               |                         66 | Hydrology (RDF10507)                                                   |
+| ESRI Arc/Info Binary Grid                                                                       | .adf                                           | Fichier original                  | Base                     | Risque élevé       | GIS/Geospatial    |                         66 | Hydrology (RDF10507)                                                   |
 | ESRI ArcGIS Overview File                                                                       | .ovr                                           | nan                               | Base                     | Risque élevé       | ---               |                        164 | Ecological applications (RDF10604)                                     |
 |                                                                                                 |                                                |                                   |                          |                    |                   |                            | Ecology (except applications) (RDF10603)                               |
 |                                                                                                 |                                                |                                   |                          |                    |                   |                            | Engineering design (RDF21201)                                          |
