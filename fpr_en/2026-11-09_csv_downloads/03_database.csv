@@ -1,0 +1,20 @@
+Format,Extension,Category,Proposed Preservation Action,Preservation Level,Risk Level,Cross Listed,Total Files,Field of Research
+dBASE Database,.dbf,03. Database,Transform to CSV,Full,Moderate,---,"13,039","Agricultural biotechnology (RDF40401)
+Atmospheric sciences (RDF10501)
+Cryosphere processes (RDF10508)
+Ecology (except applications) (RDF10603)
+Environmental geoscience (RDF10506)
+Geomatics and earth systems observations (RDF10509)
+Geomatics engineering (RDF20802)
+Hydrology (RDF10507)
+Oceanography (RDF10505)
+Other earth and related environmental sciences (RDF10599)
+Urban and regional planning (RDF50702)"
+Microsoft Access Database File,.accdb,03. Database,Retain original; export tables and other database content to open formats where appropriate,Watch,High,---,1,Environmental geoscience (RDF10506)
+Qinsy Database File,.db,03. Database,Original,Basic,High,---,"1,994",Environmental geoscience (RDF10506)
+SQLite Database File Format,".sqlite, .db, .rsk",03. Database,Original,Watch,Moderate,---,299,"Biological evolution (RDF10605)
+Computer engineering (RDF20301)
+Data analytics and signal processing (RDF20303)
+Environmental geoscience (RDF10506)
+Nano-technology (RDF21101)
+Oceanography (RDF10505)"
