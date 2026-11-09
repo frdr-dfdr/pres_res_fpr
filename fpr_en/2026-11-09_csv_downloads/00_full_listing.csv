@@ -615,9 +615,9 @@ Hydrology (RDF10507)"
 ESRI Geodatabase Table Lookup List,.gdbtablx,05. GIS/Geospatial,Retain with the complete geodatabase,Watch,High,---,"Ecology (except applications) (RDF10603)
 Environmental engineering (RDF20801)
 Hydrology (RDF10507)"
-ESRI Layer Package,.lpk,01. Aggregate,Retain; extract or export the contained layers where possible,Watch,High,GIS/GIS/Geospatial,"Geology (RDF10503)
+ESRI Layer Package,.lpk,01. Aggregate,Retain but extract content,Watch,High,GIS/GIS/Geospatial,"Geology (RDF10503)
 Soil sciences (RDF10511)"
-ESRI Map Package,.mpk,01. Aggregate,Retain; extract or export the contained map and data where possible,Watch,High,GIS/GIS/Geospatial,Environmental geoscience (RDF10506)
+ESRI Map Package,.mpk,01. Aggregate,Retain but extract content,Watch,High,GIS/GIS/Geospatial,Environmental geoscience (RDF10506)
 ESRI MapInfo Data File,.mid,04. Dataset,Retain with its corresponding .mif file,Full,Moderate,---,Artificial intelligence (AI) (RDF10201)
 ESRI Persistent Auxiliary Metadata File,.aux.xml,14. Text (Structured),Original,Basic,Low,Dataset,"Ecological applications (RDF10604)
 Engineering design (RDF21201)
@@ -1098,8 +1098,8 @@ MEX (MATLAB Executable) File (32-bit),.mexmaci,14. Text (Structured),"Retain wit
 MEX (MATLAB Executable) File (64-bit),.mexmaci64,14. Text (Structured),"Retain with source code, MATLAB version, compiler details, and dependencies",Watch,High,---,Geophysics (RDF10504)
 Microscopy Data Header File,.hdr,14. Text (Structured),Retain with its corresponding image or microscopy data file,Full,Moderate,---,Physical chemistry (including structural) (RDF10406)
 Microsoft Access Database File,.accdb,03. Database,Retain original; export tables and other database content to open formats where appropriate,Watch,High,---,Environmental geoscience (RDF10506)
-Microsoft Excel 5.0/95 Workbook (xls),.xls,12. Spreadsheet,Transform to ODS,Full,Low,---,Environmental geoscience (RDF10506)
-Microsoft Excel 97-2003 Workbook (xls),.xls,12. Spreadsheet,Retain original; create an XLSX or CSV access derivative where appropriate,Full,Low,---,"Analytical chemistry (RDF10401)
+Microsoft Excel 5.0/95 Workbook (xls),.xls,12. Spreadsheet,Transform to ODS,Full,High,---,Environmental geoscience (RDF10506)
+Microsoft Excel 97-2003 Workbook (xls),.xls,12. Spreadsheet,Retain original; create an XLSX or CSV access derivative where appropriate,Full,High,---,"Analytical chemistry (RDF10401)
 Artificial intelligence (AI) (RDF10201)
 Condensed matter physics (RDF10305)
 Demography (RDF50903)
@@ -1346,13 +1346,13 @@ OGR GFS File,.gfs,04. Dataset,Original,Watch,Low,---,Urban and regional planning
 OLE2 Compound Document Format,".ole, .ole2",01. Aggregate,Original,Basic,Moderate,---,"Neurosciences, biological and chemical aspects (RDF10611)"
 Olympus File Format Raw,.oir,06. Image (Raster),Retain original with acquisition metadata; create an accessible image derivative where appropriate,Watch,High,---,"Neurosciences, medical and physiological and health aspects (RDF30104)"
 Olympus FluoView Image Property File,.pty,14. Text (Structured),Retain with associated image data and acquisition metadata,Watch,Moderate,---,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-Olympus Image Format (OIF),.oif,01. Aggregate,Retain with all associated image files and metadata; create an interoperable image derivative where appropriate,Watch,High,---,"Neurosciences, medical and physiological and health aspects (RDF30104)"
+Olympus Image Format (OIF),.oif,01. Aggregate,Retain with all associated image files and metadata,Watch,High,---,"Neurosciences, medical and physiological and health aspects (RDF30104)"
 Olympus Virtual Slide Pixel Data File,.ets,06. Image (Raster),Retain with associated slide metadata and software documentation,Watch,Low,---,"Neurosciences, biological and chemical aspects (RDF10611)"
 OMEGA Report File,.rpt,15. Text (Unstructured),Retain; export to PDF or plain text where possible,Watch,Moderate,---,"Artificial intelligence (AI) (RDF10201)
 Biomolecular and medicinal chemistry (RDF10405)"
 One-Dimensional Measurement Model File,.1dmb,04. Dataset,Retain with model configuration and software documentation,Watch,High,---,Manufacturing engineering (RDF20403)
 Open Ephys Binary Index,.oebin,14. Text (Structured),Retain with the associated recording data and metadata,Full,Moderate,---,"Neurosciences, biological and chemical aspects (RDF10611)"
-Open Microscopy Environment Zarr,.zarr,01. Aggregate,Retain complete Zarr directory structure and metadata; validate dataset integrity,Full,Low,---,"Neurosciences, medical and physiological and health aspects (RDF30104)"
+Open Microscopy Environment Zarr,.zarr,01. Aggregate,Retain; validate dataset integrity,Full,Low,---,"Neurosciences, medical and physiological and health aspects (RDF30104)"
 Open Scene Graph Binary,.osgb,08. Model,Retain with associated scene dependencies; consider exporting to an interoperable 3D format,Watch,Moderate,---,Engineering design (RDF21201)
 OpenDocument Spreadsheet,.ods,12. Spreadsheet,Retain; create CSV or PDF access derivatives where appropriate,Full,Low,---,Biological evolution (RDF10605)
 OpenEye Binary Format,.oeb,04. Dataset,Retain with software version and molecular structure metadata; export structures where possible,Watch,High,---,"Artificial intelligence (AI) (RDF10201)

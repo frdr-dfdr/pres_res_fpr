@@ -1,109 +1,109 @@
 Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
-7Zip format,.7z,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,258,"Artificial intelligence (AI) (RDF10201)
-Cryosphere processes (RDF10508)
-Geochemistry (RDF10502)
-Hydrology (RDF10507)
-Natural environment sciences (RDF10510)
-Neurosciences, biological and chemical aspects (RDF10611)
-Oceanography (RDF10505)
-Other computer and information sciences (RDF10299)
-Theoretical computer science and computational mathematics (RDF10202)"
-Apple Partition Map Disk Image,.dat,01. Agrégat,,Base,Moderate,---,1,Astronomical and space sciences (RDF10301)
-Apple Safari Webarchive,.webarchive,01. Agrégat,À réviser,Base,Risque élevé,---,9,Urban and regional planning (RDF50702)
-Binary File,.bin,01. Agrégat,Fichier original,Base,Risque élevé,---,"90,515","Atmospheric sciences (RDF10501)
-Cryosphere processes (RDF10508)
-Environmental engineering (RDF20801)
-Environmental geoscience (RDF10506)
-Geochemistry (RDF10502)
-Hydrology (RDF10507)
-Medical and biomedical engineering (RDF20701)
-Neurosciences, biological and chemical aspects (RDF10611)
-Oceanography (RDF10505)"
-BZIP2 Compressed Archive,.bz2,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,"2,632,843","Astronomical and space sciences (RDF10301)
-Atmospheric sciences (RDF10501)"
-EKKO Project ZIP Archive File,.gpz,01. Agrégat,,Surveillance,Moderate,---,2,Cryosphere processes (RDF10508)
-ESRI Layer Package,.lpk,01. Agrégat,,Surveillance,Risque élevé,GIS/GIS/Geospatial,6,"Geology (RDF10503)
-Soil sciences (RDF10511)"
-ESRI Map Package,.mpk,01. Agrégat,,Surveillance,Risque élevé,GIS/GIS/Geospatial,4,Environmental geoscience (RDF10506)
-GZIP Format,".gz, .z",01. Agrégat,Fichier original,Complet,Moderate,---,"138,949","Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Bioinformatics (RDF10208)
-Biological evolution (RDF10605)
-Biomolecular and medicinal chemistry (RDF10405)
-Clinical sciences (RDF30202)
-Data analytics and signal processing (RDF20303)
-Ecology (except applications) (RDF10603)
-Environmental geoscience (RDF10506)
-Genetics (RDF10606)
-Library science and information studies (RDF10207)
-Microbiology (RDF10607)
-Natural environment sciences (RDF10510)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Other natural sciences (RDF10799)
-Plant biology (RDF10609)"
-NumPy Zipped Archive File Format,.npz,01. Agrégat,,Surveillance,Moderate,---,"11,637","Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)"
-OLE2 Compound Document Format,".ole, .ole2",01. Agrégat,Fichier original,Base,Moderate,---,1,"Neurosciences, biological and chemical aspects (RDF10611)"
-Olympus Image Format (OIF),.oif,01. Agrégat,,Surveillance,Risque élevé,---,12,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-Open Microscopy Environment Zarr,.zarr,01. Agrégat,,Complet,Risque faible,---,14,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-PDF Portfolio,.pdf,01. Agrégat,Conserver mais extraire le contenu si possible,Surveillance,Moderate,"Model; Image (Raster); Spreadsheet, Presentation",1,Environmental geoscience (RDF10506)
-Qinsy Bulk Attribute/Boundary Archive File,.qba,01. Agrégat,Fichier original,Base,Risque élevé,---,8,Environmental geoscience (RDF10506)
-RAR Archive,.rar,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Moderate,---,1,"Artificial intelligence (AI) (RDF10201)
-Biomolecular and medicinal chemistry (RDF10405)
-Microbiology (RDF10607)"
-Singularity Image File,.im,01. Agrégat,,Surveillance,Moderate,---,2,"Artificial intelligence (AI) (RDF10201)
-Bioinformatics (RDF10208)"
-Tape Archive Format,.tar,01. Agrégat,Conserver mais extraire le contenu,Complet,Risque faible,---,"1,547","Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Bioinformatics (RDF10208)
-Biomolecular and medicinal chemistry (RDF10405)
-Hydrology (RDF10507)
-Library science and information studies (RDF10207)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Oceanography (RDF10505)
-Other biological sciences (RDF10699)"
-Tar Gzipped File,.tgz,01. Agrégat,,Complet,Moderate,---,1,Urban and regional planning (RDF50702)
-XZ File Format,.xz,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,69,Library science and information studies (RDF10207)
-ZIP Format,.zip,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,"3,955","Agricultural biotechnology (RDF40401)
-Agriculture, land and farm management (RDF40101)
-Analytical chemistry (RDF10401)
-Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Biochemistry (RDF10601)
-Bioinformatics (RDF10208)
-Biological evolution (RDF10605)
-Biomolecular and medicinal chemistry (RDF10405)
-Cell biology (RDF10602)
-Cognitive sciences (RDF50102)
-Computer engineering (RDF20301)
-Cryosphere processes (RDF10508)
-Data analytics and signal processing (RDF20303)
-Ecology (except applications) (RDF10603)
-Environmental engineering (RDF20801)
-Environmental geoscience (RDF10506)
-Genetics (RDF10606)
-Geochemistry (RDF10502)
-Geology (RDF10503)
-Geomatics and earth systems observations (RDF10509)
-Hydrology (RDF10507)
-Library science and information studies (RDF10207)
-Linguistics (RDF60202)
-Materials engineering (RDF20601)
-Medical and biomedical engineering (RDF20701)
-Microbiology (RDF10607)
-Natural environment sciences (RDF10510)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Oceanography (RDF10505)
-Other computer and information sciences (RDF10299)
-Other earth and related environmental sciences (RDF10599)
-Other health sciences (RDF30399)
-Other industrial, systems and processes engineering (RDF20299)
-Psychology, social and behavioural aspects (RDF50101)
-Rehabilitation medicine (RDF30303)
-Soil sciences (RDF10511)
-Urban and regional planning (RDF50702)
-Visual arts and media arts (RDF60407)
-Zoology (RDF10610)"
-Zstandard Compression Format,.zst,01. Agrégat,,Complet,Moderate,---,17,Artificial intelligence (AI) (RDF10201)
+7Zip format,.7z,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,258,"Intelligence artificielle (IA)
+Processus de la cryosphère
+Géochimie
+Hydrologie
+Sciences du milieu naturel
+Neurosciences, aspects biologiques et chimiques
+Océanographie
+Autres informatique et sciences de l'information
+Informatique théorique et mathématiques computationnelles"
+Apple Partition Map Disk Image,.dat,01. Agrégat,,Base,Moderate,---,1,Sciences astronomiques et spatiales
+Apple Safari Webarchive,.webarchive,01. Agrégat,À réviser,Base,Risque élevé,---,9,Urbanisme et planification régionale
+Binary File,.bin,01. Agrégat,Fichier original,Base,Risque élevé,---,"90,515","Sciences de l'atmosphère
+Processus de la cryosphère
+Génie de l'environnement
+Géosciences de l'environnement
+Géochimie
+Hydrologie
+Génie médical et biomédical
+Neurosciences, aspects biologiques et chimiques
+Océanographie"
+BZIP2 Compressed Archive,.bz2,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,"2,632,843","Sciences astronomiques et spatiales
+Sciences de l'atmosphère"
+EKKO Project ZIP Archive File,.gpz,01. Agrégat,,Surveillance,Moderate,---,2,Processus de la cryosphère
+ESRI Layer Package,.lpk,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Risque élevé,GIS/GIS/Geospatial,6,"Géologie
+Sciences des sols"
+ESRI Map Package,.mpk,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Risque élevé,GIS/GIS/Geospatial,4,Géosciences de l'environnement
+GZIP Format,".gz, .z",01. Agrégat,Fichier original,Complet,Moderate,---,"138,949","Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Bioinformatique
+Biologie de l'évolution
+Chimie biomoléculaire et thérapeutique (médicinale)
+Sciences cliniques
+Analytique des données et traitement du signal
+Écologie (sauf les applications)
+Géosciences de l'environnement
+Génétique
+Bibliothéconomie et études de l'information
+Microbiologie
+Sciences du milieu naturel
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Autres sciences naturelles
+Phytobiologie"
+NumPy Zipped Archive File Format,.npz,01. Agrégat,,Surveillance,Moderate,---,"11,637","Intelligence artificielle (IA)
+Sciences de l'atmosphère"
+OLE2 Compound Document Format,".ole, .ole2",01. Agrégat,Fichier original,Base,Moderate,---,1,"Neurosciences, aspects biologiques et chimiques"
+Olympus Image Format (OIF),.oif,01. Agrégat,,Surveillance,Risque élevé,---,12,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+Open Microscopy Environment Zarr,.zarr,01. Agrégat,,Complet,Risque faible,---,14,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+PDF Portfolio,.pdf,01. Agrégat,Conserver mais extraire le contenu si possible,Surveillance,Moderate,"Model; Image (Raster); Spreadsheet, Presentation",1,Géosciences de l'environnement
+Qinsy Bulk Attribute/Boundary Archive File,.qba,01. Agrégat,Fichier original,Base,Risque élevé,---,8,Géosciences de l'environnement
+RAR Archive,.rar,01. Agrégat,Conserver mais extraire le contenu,Surveillance,Moderate,---,1,"Intelligence artificielle (IA)
+Chimie biomoléculaire et thérapeutique (médicinale)
+Microbiologie"
+Singularity Image File,.im,01. Agrégat,,Surveillance,Moderate,---,2,"Intelligence artificielle (IA)
+Bioinformatique"
+Tape Archive Format,.tar,01. Agrégat,Conserver mais extraire le contenu,Complet,Risque faible,---,"1,547","Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Bioinformatique
+Chimie biomoléculaire et thérapeutique (médicinale)
+Hydrologie
+Bibliothéconomie et études de l'information
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Océanographie
+Autres sciences biologiques"
+Tar Gzipped File,.tgz,01. Agrégat,,Complet,Moderate,---,1,Urbanisme et planification régionale
+XZ File Format,.xz,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,69,Bibliothéconomie et études de l'information
+ZIP Format,.zip,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,"3,955","Biotechnologies de l'agriculture
+Gestion de l'exploitation agricole et des terres
+Chimie analytique
+Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Biochimie
+Bioinformatique
+Biologie de l'évolution
+Chimie biomoléculaire et thérapeutique (médicinale)
+Biologie cellulaire
+Sciences cognitives
+Génie informatique
+Processus de la cryosphère
+Analytique des données et traitement du signal
+Écologie (sauf les applications)
+Génie de l'environnement
+Géosciences de l'environnement
+Génétique
+Géochimie
+Géologie
+Géomatique et observation des systèmes terrestres
+Hydrologie
+Bibliothéconomie et études de l'information
+Linguistique
+Génie des matériaux
+Génie médical et biomédical
+Microbiologie
+Sciences du milieu naturel
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Océanographie
+Autres informatique et sciences de l'information
+Autres sciences de la Terre et sciences de l'environnement connexes
+Autres sciences de la santé
+Autre génie industriel, des systèmes et des procédés
+Psychologie, aspects sociaux et comportementaux
+Médecine de la réadaptation
+Sciences des sols
+Urbanisme et planification régionale
+Arts visuels et arts médiatiques
+Zoologie"
+Zstandard Compression Format,.zst,01. Agrégat,,Complet,Moderate,---,17,Intelligence artificielle (IA)

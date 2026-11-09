@@ -1,462 +1,462 @@
 Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
-AMICA Configuration Parameter File,.param,14. Texte (structuré),Fichier original,Complet,Moderate,---,62,"Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)"
-Bash Shell Script,.sh,14. Texte (structuré),,Complet,Risque faible,---,8,"Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-Batch file (executable),.bat,14. Texte (structuré),Fichier original,Complet,Moderate,---,15,"Cognitive sciences (RDF50102)
-Hydrology (RDF10507)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Psychology, social and behavioural aspects (RDF50101)"
-BibTeX Database File,.bib,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Hydrology (RDF10507)
-BrainVision Data Exchange Header File,.vhdr,14. Texte (structuré),Fichier original,Complet,Moderate,---,96,"Neurosciences, biological and chemical aspects (RDF10611)"
-BrainVision Data Exchange Marker File,.vmkr,14. Texte (structuré),Fichier original,Complet,Moderate,---,96,"Neurosciences, biological and chemical aspects (RDF10611)"
-Brewer Colormap file,.bmaps,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,1,Hydrology (RDF10507)
-Bruker NMR Parameter File,"--, .temp, .par",14. Texte (structuré),Fichier original,Complet,Risque élevé,---,200,Biochemistry (RDF10601)
-Bruker ParaVision Scan Protocol Configuration File,.PvProtocols,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,8,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-Bruker ParaVision Subject Metadata File,.subject,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,3,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-Bruker Pulse Sequence & Waveform File,--,14. Texte (structuré),,Surveillance,Risque élevé,---,14,Biochemistry (RDF10601)
-Bruker Topspin Acquisition-Specific Parameter Editor,.ased,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,2,Biochemistry (RDF10601)
-C Shell Script,.csh,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"4,608",Atmospheric sciences (RDF10501)
-C Source Code File,.c,14. Texte (structuré),Fichier original,Complet,Risque faible,---,7,"Bioinformatics (RDF10208)
-Cell biology (RDF10602)
-Geophysics (RDF10504)"
-C/C++ Header File,".h, .hpp, .hxx",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"3,299","Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Cell biology (RDF10602)
-Cryosphere processes (RDF10508)
-Geophysics (RDF10504)
-Oceanography (RDF10505)"
-C# Source Code File,.cs,14. Texte (structuré),Fichier original,Complet,Risque faible,---,3,Agricultural biotechnology (RDF40401)
-C++ Source Code File,".cpp, .cxx, .cc",14. Texte (structuré),Fichier original,Complet,Risque faible,---,20,"Applied mathematics (RDF10102)
-Cell biology (RDF10602)"
-Camtasia Project File format (Windows),.tscproj,14. Texte (structuré),,Surveillance,Risque élevé,---,16,Hydrology (RDF10507)
-Cascading Style Sheet,.css,14. Texte (structuré),Fichier original,Complet,Risque faible,---,37,"Atmospheric sciences (RDF10501)
-Hydrology (RDF10507)"
-CCSM C Shell Script,.csh,14. Texte (structuré),Fichier original,Complet,Risque faible,---,13,Atmospheric sciences (RDF10501)
-CE-QUAL-W2 Bathymetry File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,102,"Atmospheric sciences (RDF10501)
-Hydrology (RDF10507)"
-CE-QUAL-W2 Boundary Inflow Data File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Hydrology (RDF10507)
-CE-QUAL-W2 CEMA Input File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Natural environment sciences (RDF10510)
-CE-QUAL-W2 Concentration Inflow Data File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Hydrology (RDF10507)
-CE-QUAL-W2 Control File,"npt, .npt2, .npt3, .npt4",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"96,209","Atmospheric sciences (RDF10501)
-Geochemistry (RDF10502)
-Hydrology (RDF10507)
-Natural environment sciences (RDF10510)"
-CE-QUAL-W2 Dynamic Pump Input File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,57,"Atmospheric sciences (RDF10501)
-Hydrology (RDF10507)"
-CE-QUAL-W2 Graph Input File,"npt,  npt2",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"96,273","Atmospheric sciences (RDF10501)
-Geochemistry (RDF10502)
-Hydrology (RDF10507)
-Natural environment sciences (RDF10510)"
-CE-QUAL-W2 Inflow File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,54,"Atmospheric sciences (RDF10501)
-Hydrology (RDF10507)"
-CE-QUAL-W2 Meteorological File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,12,Atmospheric sciences (RDF10501)
-CE-QUAL-W2 Model Output Specification File,opt.,14. Texte (structuré),Fichier original,Complet,Risque faible,---,50,"Atmospheric sciences (RDF10501)
-Natural environment sciences (RDF10510)"
-CE-QUAL-W2 Observed Reservoir Elevation File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Natural environment sciences (RDF10510)
-CE-QUAL-W2 Outflow File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,30,"Atmospheric sciences (RDF10501)
-Hydrology (RDF10507)"
-CE-QUAL-W2 Post Linkage File,.w2l,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Natural environment sciences (RDF10510)
-CE-QUAL-W2 Shading Coefficient File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"96,273","Atmospheric sciences (RDF10501)
-Geochemistry (RDF10502)
-Hydrology (RDF10507)
-Natural environment sciences (RDF10510)"
-CE-QUAL-W2 Water Quality Boundary Input file,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Natural environment sciences (RDF10510)
-CE-QUAL-W2 Wind Sheltering Coefficient File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,143,"Atmospheric sciences (RDF10501)
-Geochemistry (RDF10502)
-Hydrology (RDF10507)
-Natural environment sciences (RDF10510)"
-CESM Atmosphere Chemistry Mechanism Namelist File,in,14. Texte (structuré),Fichier original,Complet,Risque faible,---,58,Atmospheric sciences (RDF10501)
-CESM Case Configuration File,.case,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Atmospheric sciences (RDF10501)
-CESM Compiler Configuration / Preprocessor Definition File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,576,Atmospheric sciences (RDF10501)
-CESM Component Fortran Namelist File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"3,550",Atmospheric sciences (RDF10501)
-CESM Component Parallel Input/Output Namelist File,.nml,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"3,352",Atmospheric sciences (RDF10501)
-CESM Component Restart Pointer File,".atm, .lnd, .rof., .drv, . ice, .ocn, .ovf, .restart",14. Texte (structuré),Fichier original,Complet,Risque faible,---,618,Atmospheric sciences (RDF10501)
-CESM Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,45,Atmospheric sciences (RDF10501)
-CESM Derived Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Atmospheric sciences (RDF10501)
-CESM Diagnostic Output Configuration Snippet,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,4,Atmospheric sciences (RDF10501)
-CESM Hardware-Specific Environment Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Atmospheric sciences (RDF10501)
-CESM Namelist File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"1,152",Atmospheric sciences (RDF10501)
-CESM Runtime Map Specification File,.rc,14. Texte (structuré),Fichier original,Complet,Risque faible,---,384,Atmospheric sciences (RDF10501)
-CESM Setup Utility Script,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Atmospheric sciences (RDF10501)
-CESM Shared Precision Parameter Module,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,3,Atmospheric sciences (RDF10501)
-CESM Source Code Discovery Utility Script,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Atmospheric sciences (RDF10501)
-CESM System-Generated Documentation Manifest,--; science_support,14. Texte (structuré),Fichier original,Complet,Risque faible,---,384,Atmospheric sciences (RDF10501)
-CESM Test Suite Generation Utility Script,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Atmospheric sciences (RDF10501)
-CESM User Namelist,--,14. Texte (structuré),,Complet,Risque faible,---,"1,536",Atmospheric sciences (RDF10501)
-CESM Workflow Script,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,576,Atmospheric sciences (RDF10501)
-Checksum File,.hashes,14. Texte (structuré),,Complet,Moderate,---,691,Astronomical and space sciences (RDF10301)
-CIME Component Build Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,723,Atmospheric sciences (RDF10501)
-CIME Component Data Stream Description,.som,14. Texte (structuré),Fichier original,Complet,Risque faible,---,538,Atmospheric sciences (RDF10501)
-CIME Component Input Data Manifest,.input_data_list,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"1,152",Atmospheric sciences (RDF10501)
-CIME Component Library Build Script,.lo,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Atmospheric sciences (RDF10501)
-CIME Component Library Compilation Script,.pio,14. Texte (structuré),,Complet,Risque faible,---,192,Atmospheric sciences (RDF10501)
-Citation File Format,.cff,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Artificial intelligence (AI) (RDF10201)
-Clock RINEX File Format,.clk,14. Texte (structuré),Fichier original,Complet,Moderate,GIS/Geospatial,188,Environmental geoscience (RDF10506)
-Cluster Batch Job Submission Script,.computecanada,14. Texte (structuré),Fichier original,Complet,Moderate,---,192,Atmospheric sciences (RDF10501)
-Cold Regions Hydrological Modelling (CRHM) Project File,.prj,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"1,049",Hydrology (RDF10507)
-Command Prompt File,.cmd,14. Texte (structuré),Fichier original,Complet,Moderate,---,"3,737","Artificial intelligence (AI) (RDF10201)
-Ecology (except applications) (RDF10603)
-Other earth and related environmental sciences (RDF10599)"
-Compiler Macro Files,.intel,14. Texte (structuré),,Complet,Moderate,---,190,Atmospheric sciences (RDF10501)
-Configuration File,.cnf; .conf,14. Texte (structuré),Fichier original,Complet,Moderate,---,4,"Applied mathematics (RDF10102)
-Neurosciences, medical and physiological and health aspects (RDF30104)"
-Control Input File,.in,14. Texte (structuré),,Surveillance,Moderate,---,1,Atmospheric sciences (RDF10501)
-Custom Bioinformatics Pipeline Layout Data File,.dat,14. Texte (structuré),,Surveillance,Moderate,---,2,"Hydrology (RDF10507)
-Oceanography (RDF10505)"
-DeepLabCut Snapshot Index File,.index,14. Texte (structuré),,Surveillance,Risque faible,---,3,"Neurosciences, biological and chemical aspects (RDF10611)"
-DeepLabCut Snapshot Meta File,.meta,14. Texte (structuré),,Surveillance,Risque faible,---,2,"Neurosciences, biological and chemical aspects (RDF10611)"
-Demeter Project File,.prj,14. Texte (structuré),,Surveillance,Moderate,---,30,"Environmental geoscience (RDF10506)
-Geochemistry (RDF10502)"
-DSP Log Editor Configuration File,.DspLogEditorxml,14. Texte (structuré),,Surveillance,Moderate,---,35,Environmental geoscience (RDF10506)
-Encrypted Python Script,.pye,14. Texte (structuré),,Surveillance,Risque élevé,---,1,Other earth and related environmental sciences (RDF10599)
-ENVI Raster Header File,.hdr,14. Texte (structuré),,Complet,Risque faible,---,82,Geomatics and earth systems observations (RDF10509)
-Environment File,.env,14. Texte (structuré),Fichier original,Complet,Moderate,---,811,Artificial intelligence (AI) (RDF10201)
-ESRI ArcMap Document,".mxd, .mxt",14. Texte (structuré),Fichier original,Base,Risque élevé,Dataset,1,Environmental geoscience (RDF10506)
-ESRI Code Page File,.cpg,14. Texte (structuré),Fichier original,Base,Moderate,---,"12,999","Agricultural biotechnology (RDF40401)
-Atmospheric sciences (RDF10501)
-Cryosphere processes (RDF10508)
-Ecology (except applications) (RDF10603)
-Environmental geoscience (RDF10506)
-Geomatics and earth systems observations (RDF10509)
-Geomatics engineering (RDF20802)
-Hydrology (RDF10507)
-Other earth and related environmental sciences (RDF10599)
-Urban and regional planning (RDF50702)"
-ESRI Freelist File,.freelist,14. Texte (structuré),,Surveillance,Risque élevé,---,176,"Ecology (except applications) (RDF10603)
-Hydrology (RDF10507)"
-ESRI Persistent Auxiliary Metadata File,.aux.xml,14. Texte (structuré),Fichier original,Base,Risque faible,Dataset,"23,128","Ecological applications (RDF10604)
-Engineering design (RDF21201)
-Environmental geoscience (RDF10506)
-Geomatics and earth systems observations (RDF10509)
-Hydrology (RDF10507)
-Natural environment sciences (RDF10510)
-Neurosciences, biological and chemical aspects (RDF10611)
-Oceanography (RDF10505)
-Other physical sciences (RDF10399)
-Statistics (RDF10103)
-Urban and regional planning (RDF50702)"
-Esri Shapefile Geospatial Metadata File,.xml,14. Texte (structuré),Fichier original,Base,Risque faible,Dataset,427,"Atmospheric sciences (RDF10501)
-Engineering design (RDF21201)
-Environmental geoscience (RDF10506)
-Geomatics and earth systems observations (RDF10509)
-Geomatics engineering (RDF20802)
-Hydrology (RDF10507)
-Oceanography (RDF10505)
-Other earth and related environmental sciences (RDF10599)
-Other physical sciences (RDF10399)
-Statistics (RDF10103)
-Urban and regional planning (RDF50702)"
-ESRI Timestamp File,.timestamps,14. Texte (structuré),,Surveillance,Moderate,---,6,"Ecology (except applications) (RDF10603)
-Environmental engineering (RDF20801)
-Hydrology (RDF10507)"
-FastText Labeled Text Format,.train,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Artificial intelligence (AI) (RDF10201)
-FlowSizer Setup Files,.set,14. Texte (structuré),Fichier original,Complet,Moderate,---,100,Environmental geoscience (RDF10506)
-Fortran,".f90, .f",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"8,148","Astronomical and space sciences (RDF10301)
-Atmospheric sciences (RDF10501)
-Cryosphere processes (RDF10508)
-Geochemistry (RDF10502)
-Geophysics (RDF10504)
-Hydrology (RDF10507)
-Oceanography (RDF10505)"
-Fortran Formatted Output,.fo,14. Texte (structuré),Fichier original,Complet,Moderate,---,1,"Cryosphere processes (RDF10508)
-Geophysics (RDF10504)"
-Fortran Namelist,.nml,14. Texte (structuré),Fichier original,Complet,Risque faible,---,2,Oceanography (RDF10505)
-Fragment Shader,.frag,14. Texte (structuré),Fichier original,Complet,Risque faible,---,33,Engineering design (RDF21201)
-FreeSurfer Color Lookup Table,.ctab,14. Texte (structuré),Fichier original,Complet,Moderate,---,"4,060",Artificial intelligence (AI) (RDF10201)
-FreeSurfer Processing Marker,.touch,14. Texte (structuré),,Base,Moderate,---,"57,581",Artificial intelligence (AI) (RDF10201)
-FreeSurfer Status/Flag File,.done,14. Texte (structuré),,Base,Moderate,---,811,Artificial intelligence (AI) (RDF10201)
-FreeSurfer Workflow/Metadata File,.local-copy,14. Texte (structuré),Fichier original,Complet,Moderate,---,811,Artificial intelligence (AI) (RDF10201)
-FreeSurfer XFM,.xfm,14. Texte (structuré),,Complet,Risque faible,---,"1,622",Artificial intelligence (AI) (RDF10201)
-Gain Reference File,.gain,14. Texte (structuré),Fichier original,Complet,Moderate,---,3,Cell biology (RDF10602)
-General Purpose Timing Library File,.gptl,14. Texte (structuré),Fichier original,Complet,Moderate,---,192,Atmospheric sciences (RDF10501)
-GL Transmission Format (Text),".json, .gltf",14. Texte (structuré),,Complet,Risque faible,---,191,Engineering design (RDF21201)
-Green Kenue 2D Line Set (ASCII) file,.i2s,14. Texte (structuré),Fichier original,Complet,Moderate,---,1,Hydrology (RDF10507)
-Green Kenue EnSim Workspace file,.ews,14. Texte (structuré),,Surveillance,Risque élevé,---,1,Hydrology (RDF10507)
-GROMACS Atom Renaming Database,.arn,14. Texte (structuré),Fichier original,Complet,Risque faible,Database,3,Food sciences (including food engineering) (RDF40402)
-GROMACS Atom Type Library (ASCII),.atp,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,1,Food sciences (including food engineering) (RDF40402)
-GROMACS Force Field Description File,.doc,14. Texte (structuré),,Surveillance,Risque élevé,---,1,Food sciences (including food engineering) (RDF40402)
-GROMACS Hydrogen Database,.hdb,14. Texte (structuré),Fichier original,Complet,Risque faible,Database,3,Food sciences (including food engineering) (RDF40402)
-GROMACS Include Typology,.itp,14. Texte (structuré),Fichier original,Complet,Risque faible,Text (Structured),85,Food sciences (including food engineering) (RDF40402)
-GROMACS Molecular Dynamics Parameters File,.mdp,14. Texte (structuré),Fichier original,Complet,Risque faible,Text (Structured),7,Food sciences (including food engineering) (RDF40402)
-GROMACS Residue to Building Block File,.r2b,14. Texte (structuré),Fichier original,Surveillance,Risque faible,---,3,Food sciences (including food engineering) (RDF40402)
-GROMACS Residue Topology Parameter File,.rtp,14. Texte (structuré),Fichier original,Complet,Risque faible,Text (Structured),3,Food sciences (including food engineering) (RDF40402)
-GROMACS Termini Database (ASCII) File,.tdb,14. Texte (structuré),Fichier original,Complet,Risque faible,---,2,Food sciences (including food engineering) (RDF40402)
-GROMACS Topology File,.top,14. Texte (structuré),Fichier original,Complet,Risque faible,Text (Structured),50,Food sciences (including food engineering) (RDF40402)
-GROMACS Virtual Site Definition File,.vsd,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Food sciences (including food engineering) (RDF40402)
-HDNNP Configuration File,.nn,14. Texte (structuré),,Surveillance,Moderate,---,1,Materials engineering (RDF20601)
-HEVC Common Test Conditions Standard Video Sequence Set,.list,14. Texte (structuré),,Complet,Moderate,---,18,Data analytics and signal processing (RDF20303)
-Hitachi Project File,.hp,14. Texte (structuré),,Surveillance,Moderate,---,2,Condensed matter physics (RDF10305)
-HPL (Halo Photonics) Doppler LiDAR File Format,.hpl,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,96,Atmospheric sciences (RDF10501)
-Hugin Project File,.pto,14. Texte (structuré),,Complet,Moderate,---,5,Environmental geoscience (RDF10506)
-Huygens Core Batch Script,.hgsb,14. Texte (structuré),,Surveillance,Moderate,---,38,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-HydroGeoSphere grok Input File,.grok,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,20,Hydrology (RDF10507)
-HydroGeoSphere Material Properties File,.mprops,14. Texte (structuré),,Surveillance,Risque élevé,---,28,Hydrology (RDF10507)
-HydroGeoSphere Overland Properties File,.oprops,14. Texte (structuré),,Surveillance,Risque élevé,---,44,Hydrology (RDF10507)
-HydroGeoSphere Prefix File,.pfx,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,20,Hydrology (RDF10507)
-ImageJ Macro Language,.ijm,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,8,"Cell biology (RDF10602)
-Neurosciences, medical and physiological and health aspects (RDF30104)"
-JavaScript file,.js,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"8,264","Atmospheric sciences (RDF10501)
-Hydrology (RDF10507)"
-JSON Data Interchange Format,.json,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"139,384","Artificial intelligence (AI) (RDF10201)
-Astronomical and space sciences (RDF10301)
-Atmospheric sciences (RDF10501)
-Civil engineering (RDF20101)
-Clinical sciences (RDF30202)
-Data analytics and signal processing (RDF20303)
-Ecology (except applications) (RDF10603)
-Engineering design (RDF21201)
-Environmental geoscience (RDF10506)
-Hydrology (RDF10507)
-Library science and information studies (RDF10207)
-Linguistics (RDF60202)
-Medical and biomedical engineering (RDF20701)
-Nano-technology (RDF21101)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Other mechanical engineering (RDF20499)
-Other natural sciences (RDF10799)
-Programming languages and software engineering (RDF10203)
-Urban and regional planning (RDF50702)
-Visual arts and media arts (RDF60407)"
-Jupyter Python Notebook,.ipynb,14. Texte (structuré),Fichier original,Surveillance,Risque faible,---,147,"Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Biomolecular and medicinal chemistry (RDF10405)
-Ecological applications (RDF10604)
-Environmental geoscience (RDF10506)
-Hydrology (RDF10507)
-Microbiology (RDF10607)
-Neurosciences, biological and chemical aspects (RDF10611)
-Oceanography (RDF10505)
-Other natural sciences (RDF10799)"
-Keep File,.keep,14. Texte (structuré),,Base,Moderate,---,4,Hydrology (RDF10507)
-Ligand Preparation/Screening Parameter File,.param,14. Texte (structuré),,Surveillance,Moderate,---,31,"Artificial intelligence (AI) (RDF10201)
-Biomolecular and medicinal chemistry (RDF10405)"
-Linux GNOME Input/Output (GIO),.goutputstream; .goutputstream-QUX48Z,14. Texte (structuré),,Base,Moderate,---,2,"Neurosciences, biological and chemical aspects (RDF10611)"
-MacKay Model Input,.in,14. Texte (structuré),,Surveillance,Moderate,---,1,Atmospheric sciences (RDF10501)
-Main Movement Analysis Script,.sas,14. Texte (structuré),Fichier original,Complet,Moderate,---,1,"Neurosciences, biological and chemical aspects (RDF10611)"
-Makefile,--,14. Texte (structuré),,Complet,Risque faible,---,192,Atmospheric sciences (RDF10501)
-MALA GPR Raw Header Parameter File,.rad,14. Texte (structuré),,Complet,Moderate,---,28,Cryosphere processes (RDF10508)
-MATLAB Autosave File,.asv,14. Texte (structuré),,Base,Moderate,---,4,Environmental geoscience (RDF10506)
-MATLAB Script File,.m,14. Texte (structuré),Fichier original,Base,Moderate,---,"1,607","Analytical chemistry (RDF10401)
-Applied mathematics (RDF10102)
-Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Cell biology (RDF10602)
-Cognitive sciences (RDF50102)
-Computer engineering (RDF20301)
-Cryosphere processes (RDF10508)
-Data analytics and signal processing (RDF20303)
-Environmental engineering (RDF20801)
-Environmental geoscience (RDF10506)
-Geochemistry (RDF10502)
-Geology (RDF10503)
-Geomatics and earth systems observations (RDF10509)
-Geophysics (RDF10504)
-Hydrology (RDF10507)
-Manufacturing engineering (RDF20403)
-Materials engineering (RDF20601)
-Medical and biomedical engineering (RDF20701)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Oceanography (RDF10505)
-Other earth and related environmental sciences (RDF10599)
-Other environmental engineering and related engineering (RDF20899)
-Other industrial, systems and processes engineering (RDF20299)
-Plant biology (RDF10609)
-Soil sciences (RDF10511)"
-MD5 File,.md5,14. Texte (structuré),Fichier original,Complet,Moderate,---,36,Genetics (RDF10606)
-MEX (MATLAB Executable) File (32-bit),.mexmaci,14. Texte (structuré),,Surveillance,Risque élevé,---,3,Geophysics (RDF10504)
-MEX (MATLAB Executable) File (64-bit),.mexmaci64,14. Texte (structuré),,Surveillance,Risque élevé,---,4,Geophysics (RDF10504)
-Microscopy Data Header File,.hdr,14. Texte (structuré),,Complet,Moderate,---,6,Physical chemistry (including structural) (RDF10406)
-MITgcm Compile-Time Configuration File,.conf,14. Texte (structuré),,Complet,Moderate,---,3,"Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-MITgcm Execution Environment File,--,14. Texte (structuré),,Complet,Moderate,---,8,"Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-MITgcm Ice Plume Package Configuration Namelist,.iceplume,14. Texte (structuré),,Complet,Moderate,---,9,"Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-MITgcm Main Parameters File,--,14. Texte (structuré),,Complet,Moderate,---,7,"Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-MITgcm Multi-Dimensional Serial (MDS) Metadata File,.meta,14. Texte (structuré),,Complet,Moderate,---,"138,871","Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-MITgcm OBCS Configuration/Input File,.obcs; .save,14. Texte (structuré),,Complet,Moderate,---,14,"Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-MITgcm Package Information File,.pkg,14. Texte (structuré),,Complet,Moderate,---,8,"Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-MITgcm PTRACERS Configuration/Input File,.ptracers,14. Texte (structuré),,Complet,Moderate,---,8,"Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-MITgcm SHELFICE Configuration/Input File,.shelfice,14. Texte (structuré),,Complet,Moderate,---,8,"Cryosphere processes (RDF10508)
-Oceanography (RDF10505)"
-Model Coupling Toolkit File,.mct,14. Texte (structuré),,Surveillance,Risque élevé,---,192,Atmospheric sciences (RDF10501)
-Molecular Mechanics Parameter File,.parm,14. Texte (structuré),,Complet,Moderate,---,89,"Artificial intelligence (AI) (RDF10201)
-Biomolecular and medicinal chemistry (RDF10405)"
-Mountain Legacy Project File,.mlp,14. Texte (structuré),,Surveillance,Risque élevé,---,178,Environmental geoscience (RDF10506)
-NEMO Appended Suffix File,.xml_fluxesCorr,14. Texte (structuré),,Complet,Moderate,---,4,"Hydrology (RDF10507)
-Oceanography (RDF10505)"
-NEMO FCM Compilation Definition File,.fcm,14. Texte (structuré),,Complet,Moderate,---,3,"Hydrology (RDF10507)
-Oceanography (RDF10505)"
-NEMO Fortran 90 Header File,.h90,14. Texte (structuré),Fichier original,Complet,Moderate,---,4,"Hydrology (RDF10507)
-Oceanography (RDF10505)"
-NEMO Namelist Configuration,--; .Switches-SPM; .bottom; .boundaries_Mn; .compute; .constants; .domain_Mn; .dynamics; .forcing; .forcing-seasonal; .general; .general-restart; .general2022; .mn; .offline; .rivers; .surface; .switches-bio; .switches-clean; .switches-ref; .switches-seasonal; .tracers,14. Texte (structuré),,Complet,Moderate,---,135,"Geochemistry (RDF10502)
-Oceanography (RDF10505)"
-NEMO Namelist Reference,--; .switches-ref,14. Texte (structuré),,Complet,Moderate,---,83,"Geochemistry (RDF10502)
-Oceanography (RDF10505)"
-NEMO Run Namelist Configuration,.dyn; .sme; .top,14. Texte (structuré),,Complet,Moderate,---,78,"Geochemistry (RDF10502)
-Hydrology (RDF10507)
-Oceanography (RDF10505)"
-NFS Hidden Lock File,--,14. Texte (structuré),,Base,Moderate,---,4,Bioinformatics (RDF10208)
-Nortek Vectrino ADV Deployment / Settings File,.dep,14. Texte (structuré),,Complet,Risque élevé,---,1,Environmental geoscience (RDF10506)
-Obstacle Analysis Script,.sas,14. Texte (structuré),Fichier original,Complet,Moderate,---,1,"Neurosciences, biological and chemical aspects (RDF10611)"
-Olympus FluoView Image Property File,.pty,14. Texte (structuré),,Surveillance,Moderate,---,890,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-Open Ephys Binary Index,.oebin,14. Texte (structuré),,Complet,Moderate,---,221,"Neurosciences, biological and chemical aspects (RDF10611)"
-OpenSim Scale Tool setup file,--,14. Texte (structuré),,Surveillance,Moderate,---,1,Medical and biomedical engineering (RDF20701)
-Perl Module,.pm,14. Texte (structuré),,Complet,Moderate,---,768,Atmospheric sciences (RDF10501)
-Perl Script,.pl,14. Texte (structuré),Fichier original,Complet,Risque faible,---,772,"Atmospheric sciences (RDF10501)
-Environmental geoscience (RDF10506)"
-Persistent Auxiliary Metadata,.xml,14. Texte (structuré),,Complet,Risque faible,---,1,Engineering design (RDF21201)
-PEST Control File,.pst,14. Texte (structuré),Fichier original,Complet,Moderate,---,8,Hydrology (RDF10507)
-PEST Instruction File,.ins,14. Texte (structuré),Fichier original,Complet,Moderate,---,16,Hydrology (RDF10507)
-PEST Template File,.tpl,14. Texte (structuré),Fichier original,Complet,Moderate,---,16,Hydrology (RDF10507)
-PostgreSQL Database Dump File,.data,14. Texte (structuré),,Surveillance,Risque élevé,---,1,Environmental geoscience (RDF10506)
-PPMstar Simulation Input/include Configuration,.include,14. Texte (structuré),,Complet,Moderate,---,7,Astronomical and space sciences (RDF10301)
-Protein Data Bank File,.pdb,14. Texte (structuré),Fichier original,Surveillance,Risque faible,---,51,"Artificial intelligence (AI) (RDF10201)
-Biomolecular and medicinal chemistry (RDF10405)
-Food sciences (including food engineering) (RDF40402)
-Microbiology (RDF10607)"
-Protocol Buffers Text Format,.pbtxt,14. Texte (structuré),,Complet,Risque faible,---,1,Ecological applications (RDF10604)
-PSUICE3D Ice Sheet Model Fortran Namelist Template,.in,14. Texte (structuré),,Complet,Risque faible,---,1,"Cryosphere processes (RDF10508)
-Geophysics (RDF10504)"
-Python Source Code File,.py,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"2,984","Artificial intelligence (AI) (RDF10201)
-Astronomical and space sciences (RDF10301)
-Atmospheric sciences (RDF10501)
-Bioinformatics (RDF10208)
-Cell biology (RDF10602)
-Civil engineering (RDF20101)
-Computer engineering (RDF20301)
-Condensed matter physics (RDF10305)
-Data analytics and signal processing (RDF20303)
-Ecology (except applications) (RDF10603)
-Environmental geoscience (RDF10506)
-Geochemistry (RDF10502)
-Geomatics and earth systems observations (RDF10509)
-Hydrology (RDF10507)
-Medical and biomedical engineering (RDF20701)
-Nano-technology (RDF21101)
-Natural environment sciences (RDF10510)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Oceanography (RDF10505)
-Other earth and related environmental sciences (RDF10599)
-Other industrial, systems and processes engineering (RDF20299)
-Other mechanical engineering (RDF20499)
-Systems control and automation (RDF20307)"
-QGIS Spatial Index File,.qix,14. Texte (structuré),Fichier original,Surveillance,Moderate,---,3,Environmental geoscience (RDF10506)
-QINSY Vector Map,.xml,14. Texte (structuré),Fichier original,Base,Risque élevé,---,74,Environmental geoscience (RDF10506)
-QPD Automated Cleaning Log,.qvm,14. Texte (structuré),Fichier original,Base,Moderate,---,122,Environmental geoscience (RDF10506)
-R Native Raster Grid Header File,.grd,14. Texte (structuré),,Complet,Risque élevé,---,6,Biosystems and agricultural engineering (RDF20204)
-R Program File,.r,14. Texte (structuré),Fichier original,Complet,Risque faible,---,146,"Agricultural biotechnology (RDF40401)
-Animal physiology (RDF10608)
-Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Bioinformatics (RDF10208)
-Biological evolution (RDF10605)
-Biomolecular and medicinal chemistry (RDF10405)
-Cognitive sciences (RDF50102)
-Ecology (except applications) (RDF10603)
-Environmental engineering (RDF20801)
-Fisheries sciences (RDF40105)
-Forestry sciences (RDF40104)
-Genetics (RDF10606)
-Geochemistry (RDF10502)
-Hydrology (RDF10507)
-Microbiology (RDF10607)
-Plant biology (RDF10609)
-Zoology (RDF10610)"
-Raven Classed Parameter Input File,.rvp,14. Texte (structuré),,Complet,Moderate,---,286,Hydrology (RDF10507)
-Raven HRU/Basin Definition File,.rvh,14. Texte (structuré),,Complet,Moderate,---,286,Hydrology (RDF10507)
-Raven HRU/Basin Definition File Template,rvh.tpl,14. Texte (structuré),,Complet,Moderate,---,2,Hydrology (RDF10507)
-Raven Initial Conditions Input File,.rvc,14. Texte (structuré),,Complet,Moderate,---,143,Hydrology (RDF10507)
-Raven Primary Input File,.rvi,14. Texte (structuré),,Complet,Moderate,---,143,Hydrology (RDF10507)
-Raven Time Series Input File,.rvt,14. Texte (structuré),,Complet,Moderate,---,848,Hydrology (RDF10507)
-Reflexw GPR Profile Header Parameter File,.par,14. Texte (structuré),,Complet,Moderate,---,31,Cryosphere processes (RDF10508)
-RINEX Observation File,.obs,14. Texte (structuré),Fichier original,Complet,Risque faible,---,24,Zoology (RDF10610)
-RStudio Internal Session File,--,14. Texte (structuré),,Base,Risque élevé,---,82,Animal physiology (RDF10608)
-RStudio Internal Session Persistent Property File,.pper,14. Texte (structuré),,Base,Risque élevé,---,32,Animal physiology (RDF10608)
-RStudio Project File,.rproj,14. Texte (structuré),,Complet,Moderate,---,7,Animal physiology (RDF10608)
-SAS Program File,.sas,14. Texte (structuré),Fichier original,Complet,Moderate,---,4,Forestry sciences (RDF40104)
-SHA256 File,.sha256,14. Texte (structuré),,Complet,Moderate,---,24,"Artificial intelligence (AI) (RDF10201)
-Astronomical and space sciences (RDF10301)"
-Shell Script,.sh,14. Texte (structuré),Fichier original,Complet,Moderate,---,"3,538","Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Biomolecular and medicinal chemistry (RDF10405)
-Computer engineering (RDF20301)
-Ecology (except applications) (RDF10603)
-Environmental geoscience (RDF10506)
-Genetics (RDF10606)
-Geochemistry (RDF10502)
-Hydrology (RDF10507)
-Neurosciences, medical and physiological and health aspects (RDF30104)
-Oceanography (RDF10505)"
-SKOG Carbon Model Simulation Layout File,.dat,14. Texte (structuré),,Surveillance,Risque élevé,---,24,Geochemistry (RDF10502)
-Slurm Batch Script,.sbatch,14. Texte (structuré),Fichier original,Complet,Moderate,---,5,"Artificial intelligence (AI) (RDF10201)
-Bioinformatics (RDF10208)"
-SMILE (Simplified Molecular Input Line Entry Specification) Chemical Format,.smi,14. Texte (structuré),,Complet,Moderate,---,198,"Artificial intelligence (AI) (RDF10201)
-Biomolecular and medicinal chemistry (RDF10405)"
-Snakefile,--,14. Texte (structuré),,Complet,Moderate,---,3,"Neurosciences, medical and physiological and health aspects (RDF30104)"
-Standard for the Exchange of Product Model data,".step, .stp",14. Texte (structuré),Fichier original,Base,Risque faible,---,4,Manufacturing engineering (RDF20403)
-Structured Query Language Data,.sql,14. Texte (structuré),Fichier original,Complet,Risque faible,---,5,"Artificial intelligence (AI) (RDF10201)
-Bioinformatics (RDF10208)
-Theoretical computer science and computational mathematics (RDF10202)"
-Tab-separated Values,".tsv, .tab",14. Texte (structuré),Transformer en CSV,Complet,Moderate,---,357,"Artificial intelligence (AI) (RDF10201)
-Environmental geoscience (RDF10506)
-Genetics (RDF10606)
-Microbiology (RDF10607)
-Natural environment sciences (RDF10510)
-Neurosciences, biological and chemical aspects (RDF10611)
-Neurosciences, medical and physiological and health aspects (RDF30104)"
-TDT Block Index File,.tbk,14. Texte (structuré),,Surveillance,Risque élevé,---,257,"Neurosciences, biological and chemical aspects (RDF10611)"
-TDT Block Metadata/Header File,.tdx,14. Texte (structuré),,Surveillance,Risque élevé,---,249,"Neurosciences, biological and chemical aspects (RDF10611)"
-TDT Event Data,.tbk,14. Texte (structuré),,Surveillance,Risque élevé,---,253,"Neurosciences, biological and chemical aspects (RDF10611)"
-TDT Tank Info,.tev,14. Texte (structuré),,Surveillance,Risque élevé,---,253,"Neurosciences, biological and chemical aspects (RDF10611)"
-TDT Tank Notes File,.tin,14. Texte (structuré),,Complet,Risque élevé,---,253,"Neurosciences, biological and chemical aspects (RDF10611)"
-Teledyne RDI WinRiver Configuration File,.wrc,14. Texte (structuré),,Surveillance,Risque élevé,---,125,Environmental geoscience (RDF10506)
-Temporary File,.tmp,14. Texte (structuré),,Base,Risque élevé,---,12,"Hydrology (RDF10507)
-Oceanography (RDF10505)"
-TensorFlow Checkpoint Index,.index,14. Texte (structuré),,Surveillance,Risque faible,---,1,Ecological applications (RDF10604)
-TensorFlow SavedModel Index,.index,14. Texte (structuré),,Surveillance,Risque faible,---,1,Ecological applications (RDF10604)
-Text Configuration file,.ini,14. Texte (structuré),Fichier original,Complet,Moderate,---,"2,597","Environmental geoscience (RDF10506)
-Hydrology (RDF10507)
-Neurosciences, biological and chemical aspects (RDF10611)"
-Tree Description File,.tre,14. Texte (structuré),,Complet,Moderate,---,10,Biological evolution (RDF10605)
-UVic ESCM / MOM2 Fortran Namelist,control.in,14. Texte (structuré),,Complet,Risque faible,---,9,Atmospheric sciences (RDF10501)
-UVic ESCM Build Configuration,mk.in,14. Texte (structuré),,Complet,Risque faible,---,9,Atmospheric sciences (RDF10501)
-VASP Final Geometry Output File,--,14. Texte (structuré),,Complet,Risque faible,---,874,Materials engineering (RDF20601)
-VASP INCAR File,--,14. Texte (structuré),Fichier original,Complet,Moderate,---,874,Materials engineering (RDF20601)
-VASP Initial Geometry Input File,--,14. Texte (structuré),,Complet,Risque faible,---,"1,046,771",Materials engineering (RDF20601)
-VASP POTCAR File,--,14. Texte (structuré),Fichier original,Complet,Moderate,---,874,Materials engineering (RDF20601)
-Vessel Geometry Metadata File,.geom,14. Texte (structuré),,Surveillance,Moderate,---,30,Environmental geoscience (RDF10506)
-Vicon Eclipse Node Database File,.enf,14. Texte (structuré),,Surveillance,Risque élevé,---,225,Medical and biomedical engineering (RDF20701)
-Vicon Model Parameter File,.imp,14. Texte (structuré),,Surveillance,Risque élevé,---,12,Medical and biomedical engineering (RDF20701)
-Visual C++ Project File,.vcproj,14. Texte (structuré),,Complet,Risque élevé,---,4,Cell biology (RDF10602)
-Visual Studio Solution File,.sln,14. Texte (structuré),,Complet,Risque élevé,---,1,Cell biology (RDF10602)
-Wavefront Material Template Library,.mtl,14. Texte (structuré),,Complet,Risque élevé,---,162,Engineering design (RDF21201)
-WebAnno TSV File Format,.tsv,14. Texte (structuré),,Complet,Risque élevé,---,"4,788","Linguistics (RDF60202)
-Microbiology (RDF10607)"
-Windows Powershell Script,.ps1,14. Texte (structuré),Fichier original,Complet,Risque faible,---,2,Other mechanical engineering (RDF20499)
-YAML,".yml, .yaml",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"141,824","Artificial intelligence (AI) (RDF10201)
-Atmospheric sciences (RDF10501)
-Civil engineering (RDF20101)
-Computer engineering (RDF20301)
-Data analytics and signal processing (RDF20303)
-Ecology (except applications) (RDF10603)
-Environmental engineering (RDF20801)
-Environmental geoscience (RDF10506)
-Geochemistry (RDF10502)
-Geomatics and earth systems observations (RDF10509)
-Hydrology (RDF10507)
-Neurosciences, biological and chemical aspects (RDF10611)
-Oceanography (RDF10505)
-Soil sciences (RDF10511)
-Statistics (RDF10103)
-Urban and regional planning (RDF50702)"
+AMICA Configuration Parameter File,.param,14. Texte (structuré),Fichier original,Complet,Moderate,---,62,"Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé"
+Bash Shell Script,.sh,14. Texte (structuré),,Complet,Risque faible,---,8,"Processus de la cryosphère
+Océanographie"
+Batch file (executable),.bat,14. Texte (structuré),Fichier original,Complet,Moderate,---,15,"Sciences cognitives
+Hydrologie
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Psychologie, aspects sociaux et comportementaux"
+BibTeX Database File,.bib,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Hydrologie
+BrainVision Data Exchange Header File,.vhdr,14. Texte (structuré),Fichier original,Complet,Moderate,---,96,"Neurosciences, aspects biologiques et chimiques"
+BrainVision Data Exchange Marker File,.vmkr,14. Texte (structuré),Fichier original,Complet,Moderate,---,96,"Neurosciences, aspects biologiques et chimiques"
+Brewer Colormap file,.bmaps,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,1,Hydrologie
+Bruker NMR Parameter File,"--, .temp, .par",14. Texte (structuré),Fichier original,Complet,Risque élevé,---,200,Biochimie
+Bruker ParaVision Scan Protocol Configuration File,.PvProtocols,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,8,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+Bruker ParaVision Subject Metadata File,.subject,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,3,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+Bruker Pulse Sequence & Waveform File,--,14. Texte (structuré),,Surveillance,Risque élevé,---,14,Biochimie
+Bruker Topspin Acquisition-Specific Parameter Editor,.ased,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,2,Biochimie
+C Shell Script,.csh,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"4,608",Sciences de l'atmosphère
+C Source Code File,.c,14. Texte (structuré),Fichier original,Complet,Risque faible,---,7,"Bioinformatique
+Biologie cellulaire
+Géophysique"
+C/C++ Header File,".h, .hpp, .hxx",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"3,299","Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Biologie cellulaire
+Processus de la cryosphère
+Géophysique
+Océanographie"
+C# Source Code File,.cs,14. Texte (structuré),Fichier original,Complet,Risque faible,---,3,Biotechnologies de l'agriculture
+C++ Source Code File,".cpp, .cxx, .cc",14. Texte (structuré),Fichier original,Complet,Risque faible,---,20,"Mathématiques appliquées
+Biologie cellulaire"
+Camtasia Project File format (Windows),.tscproj,14. Texte (structuré),,Surveillance,Risque élevé,---,16,Hydrologie
+Cascading Style Sheet,.css,14. Texte (structuré),Fichier original,Complet,Risque faible,---,37,"Sciences de l'atmosphère
+Hydrologie"
+CCSM C Shell Script,.csh,14. Texte (structuré),Fichier original,Complet,Risque faible,---,13,Sciences de l'atmosphère
+CE-QUAL-W2 Bathymetry File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,102,"Sciences de l'atmosphère
+Hydrologie"
+CE-QUAL-W2 Boundary Inflow Data File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Hydrologie
+CE-QUAL-W2 CEMA Input File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Sciences du milieu naturel
+CE-QUAL-W2 Concentration Inflow Data File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Hydrologie
+CE-QUAL-W2 Control File,"npt, .npt2, .npt3, .npt4",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"96,209","Sciences de l'atmosphère
+Géochimie
+Hydrologie
+Sciences du milieu naturel"
+CE-QUAL-W2 Dynamic Pump Input File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,57,"Sciences de l'atmosphère
+Hydrologie"
+CE-QUAL-W2 Graph Input File,"npt,  npt2",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"96,273","Sciences de l'atmosphère
+Géochimie
+Hydrologie
+Sciences du milieu naturel"
+CE-QUAL-W2 Inflow File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,54,"Sciences de l'atmosphère
+Hydrologie"
+CE-QUAL-W2 Meteorological File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,12,Sciences de l'atmosphère
+CE-QUAL-W2 Model Output Specification File,opt.,14. Texte (structuré),Fichier original,Complet,Risque faible,---,50,"Sciences de l'atmosphère
+Sciences du milieu naturel"
+CE-QUAL-W2 Observed Reservoir Elevation File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Sciences du milieu naturel
+CE-QUAL-W2 Outflow File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,30,"Sciences de l'atmosphère
+Hydrologie"
+CE-QUAL-W2 Post Linkage File,.w2l,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Sciences du milieu naturel
+CE-QUAL-W2 Shading Coefficient File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"96,273","Sciences de l'atmosphère
+Géochimie
+Hydrologie
+Sciences du milieu naturel"
+CE-QUAL-W2 Water Quality Boundary Input file,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Sciences du milieu naturel
+CE-QUAL-W2 Wind Sheltering Coefficient File,.npt,14. Texte (structuré),Fichier original,Complet,Risque faible,---,143,"Sciences de l'atmosphère
+Géochimie
+Hydrologie
+Sciences du milieu naturel"
+CESM Atmosphere Chemistry Mechanism Namelist File,in,14. Texte (structuré),Fichier original,Complet,Risque faible,---,58,Sciences de l'atmosphère
+CESM Case Configuration File,.case,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
+CESM Compiler Configuration / Preprocessor Definition File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,576,Sciences de l'atmosphère
+CESM Component Fortran Namelist File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"3,550",Sciences de l'atmosphère
+CESM Component Parallel Input/Output Namelist File,.nml,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"3,352",Sciences de l'atmosphère
+CESM Component Restart Pointer File,".atm, .lnd, .rof., .drv, . ice, .ocn, .ovf, .restart",14. Texte (structuré),Fichier original,Complet,Risque faible,---,618,Sciences de l'atmosphère
+CESM Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,45,Sciences de l'atmosphère
+CESM Derived Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
+CESM Diagnostic Output Configuration Snippet,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,4,Sciences de l'atmosphère
+CESM Hardware-Specific Environment Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
+CESM Namelist File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"1,152",Sciences de l'atmosphère
+CESM Runtime Map Specification File,.rc,14. Texte (structuré),Fichier original,Complet,Risque faible,---,384,Sciences de l'atmosphère
+CESM Setup Utility Script,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
+CESM Shared Precision Parameter Module,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,3,Sciences de l'atmosphère
+CESM Source Code Discovery Utility Script,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
+CESM System-Generated Documentation Manifest,--; science_support,14. Texte (structuré),Fichier original,Complet,Risque faible,---,384,Sciences de l'atmosphère
+CESM Test Suite Generation Utility Script,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
+CESM User Namelist,--,14. Texte (structuré),,Complet,Risque faible,---,"1,536",Sciences de l'atmosphère
+CESM Workflow Script,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,576,Sciences de l'atmosphère
+Checksum File,.hashes,14. Texte (structuré),,Complet,Moderate,---,691,Sciences astronomiques et spatiales
+CIME Component Build Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,723,Sciences de l'atmosphère
+CIME Component Data Stream Description,.som,14. Texte (structuré),Fichier original,Complet,Risque faible,---,538,Sciences de l'atmosphère
+CIME Component Input Data Manifest,.input_data_list,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"1,152",Sciences de l'atmosphère
+CIME Component Library Build Script,.lo,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Sciences de l'atmosphère
+CIME Component Library Compilation Script,.pio,14. Texte (structuré),,Complet,Risque faible,---,192,Sciences de l'atmosphère
+Citation File Format,.cff,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Intelligence artificielle (IA)
+Clock RINEX File Format,.clk,14. Texte (structuré),Fichier original,Complet,Moderate,GIS/Geospatial,188,Géosciences de l'environnement
+Cluster Batch Job Submission Script,.computecanada,14. Texte (structuré),Fichier original,Complet,Moderate,---,192,Sciences de l'atmosphère
+Cold Regions Hydrological Modelling (CRHM) Project File,.prj,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"1,049",Hydrologie
+Command Prompt File,.cmd,14. Texte (structuré),Fichier original,Complet,Moderate,---,"3,737","Intelligence artificielle (IA)
+Écologie (sauf les applications)
+Autres sciences de la Terre et sciences de l'environnement connexes"
+Compiler Macro Files,.intel,14. Texte (structuré),,Complet,Moderate,---,190,Sciences de l'atmosphère
+Configuration File,.cnf; .conf,14. Texte (structuré),Fichier original,Complet,Moderate,---,4,"Mathématiques appliquées
+Neurosciences, aspects médicaux et physiologiques et de la santé"
+Control Input File,.in,14. Texte (structuré),,Surveillance,Moderate,---,1,Sciences de l'atmosphère
+Custom Bioinformatics Pipeline Layout Data File,.dat,14. Texte (structuré),,Surveillance,Moderate,---,2,"Hydrologie
+Océanographie"
+DeepLabCut Snapshot Index File,.index,14. Texte (structuré),,Surveillance,Risque faible,---,3,"Neurosciences, aspects biologiques et chimiques"
+DeepLabCut Snapshot Meta File,.meta,14. Texte (structuré),,Surveillance,Risque faible,---,2,"Neurosciences, aspects biologiques et chimiques"
+Demeter Project File,.prj,14. Texte (structuré),,Surveillance,Moderate,---,30,"Géosciences de l'environnement
+Géochimie"
+DSP Log Editor Configuration File,.DspLogEditorxml,14. Texte (structuré),,Surveillance,Moderate,---,35,Géosciences de l'environnement
+Encrypted Python Script,.pye,14. Texte (structuré),,Surveillance,Risque élevé,---,1,Autres sciences de la Terre et sciences de l'environnement connexes
+ENVI Raster Header File,.hdr,14. Texte (structuré),,Complet,Risque faible,---,82,Géomatique et observation des systèmes terrestres
+Environment File,.env,14. Texte (structuré),Fichier original,Complet,Moderate,---,811,Intelligence artificielle (IA)
+ESRI ArcMap Document,".mxd, .mxt",14. Texte (structuré),Fichier original,Base,Risque élevé,Dataset,1,Géosciences de l'environnement
+ESRI Code Page File,.cpg,14. Texte (structuré),Fichier original,Base,Moderate,---,"12,999","Biotechnologies de l'agriculture
+Sciences de l'atmosphère
+Processus de la cryosphère
+Écologie (sauf les applications)
+Géosciences de l'environnement
+Géomatique et observation des systèmes terrestres
+Génie géomatique
+Hydrologie
+Autres sciences de la Terre et sciences de l'environnement connexes
+Urbanisme et planification régionale"
+ESRI Freelist File,.freelist,14. Texte (structuré),,Surveillance,Risque élevé,---,176,"Écologie (sauf les applications)
+Hydrologie"
+ESRI Persistent Auxiliary Metadata File,.aux.xml,14. Texte (structuré),Fichier original,Base,Risque faible,Dataset,"23,128","Applications écologiques
+Conception technique en ingénierie
+Géosciences de l'environnement
+Géomatique et observation des systèmes terrestres
+Hydrologie
+Sciences du milieu naturel
+Neurosciences, aspects biologiques et chimiques
+Océanographie
+Autres sciences physiques
+Statistique
+Urbanisme et planification régionale"
+Esri Shapefile Geospatial Metadata File,.xml,14. Texte (structuré),Fichier original,Base,Risque faible,Dataset,427,"Sciences de l'atmosphère
+Conception technique en ingénierie
+Géosciences de l'environnement
+Géomatique et observation des systèmes terrestres
+Génie géomatique
+Hydrologie
+Océanographie
+Autres sciences de la Terre et sciences de l'environnement connexes
+Autres sciences physiques
+Statistique
+Urbanisme et planification régionale"
+ESRI Timestamp File,.timestamps,14. Texte (structuré),,Surveillance,Moderate,---,6,"Écologie (sauf les applications)
+Génie de l'environnement
+Hydrologie"
+FastText Labeled Text Format,.train,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Intelligence artificielle (IA)
+FlowSizer Setup Files,.set,14. Texte (structuré),Fichier original,Complet,Moderate,---,100,Géosciences de l'environnement
+Fortran,".f90, .f",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"8,148","Sciences astronomiques et spatiales
+Sciences de l'atmosphère
+Processus de la cryosphère
+Géochimie
+Géophysique
+Hydrologie
+Océanographie"
+Fortran Formatted Output,.fo,14. Texte (structuré),Fichier original,Complet,Moderate,---,1,"Processus de la cryosphère
+Géophysique"
+Fortran Namelist,.nml,14. Texte (structuré),Fichier original,Complet,Risque faible,---,2,Océanographie
+Fragment Shader,.frag,14. Texte (structuré),Fichier original,Complet,Risque faible,---,33,Conception technique en ingénierie
+FreeSurfer Color Lookup Table,.ctab,14. Texte (structuré),Fichier original,Complet,Moderate,---,"4,060",Intelligence artificielle (IA)
+FreeSurfer Processing Marker,.touch,14. Texte (structuré),,Base,Moderate,---,"57,581",Intelligence artificielle (IA)
+FreeSurfer Status/Flag File,.done,14. Texte (structuré),,Base,Moderate,---,811,Intelligence artificielle (IA)
+FreeSurfer Workflow/Metadata File,.local-copy,14. Texte (structuré),Fichier original,Complet,Moderate,---,811,Intelligence artificielle (IA)
+FreeSurfer XFM,.xfm,14. Texte (structuré),,Complet,Risque faible,---,"1,622",Intelligence artificielle (IA)
+Gain Reference File,.gain,14. Texte (structuré),Fichier original,Complet,Moderate,---,3,Biologie cellulaire
+General Purpose Timing Library File,.gptl,14. Texte (structuré),Fichier original,Complet,Moderate,---,192,Sciences de l'atmosphère
+GL Transmission Format (Text),".json, .gltf",14. Texte (structuré),,Complet,Risque faible,---,191,Conception technique en ingénierie
+Green Kenue 2D Line Set (ASCII) file,.i2s,14. Texte (structuré),Fichier original,Complet,Moderate,---,1,Hydrologie
+Green Kenue EnSim Workspace file,.ews,14. Texte (structuré),,Surveillance,Risque élevé,---,1,Hydrologie
+GROMACS Atom Renaming Database,.arn,14. Texte (structuré),Fichier original,Complet,Risque faible,Database,3,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Atom Type Library (ASCII),.atp,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,1,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Force Field Description File,.doc,14. Texte (structuré),,Surveillance,Risque élevé,---,1,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Hydrogen Database,.hdb,14. Texte (structuré),Fichier original,Complet,Risque faible,Database,3,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Include Typology,.itp,14. Texte (structuré),Fichier original,Complet,Risque faible,Text (Structured),85,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Molecular Dynamics Parameters File,.mdp,14. Texte (structuré),Fichier original,Complet,Risque faible,Text (Structured),7,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Residue to Building Block File,.r2b,14. Texte (structuré),Fichier original,Surveillance,Risque faible,---,3,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Residue Topology Parameter File,.rtp,14. Texte (structuré),Fichier original,Complet,Risque faible,Text (Structured),3,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Termini Database (ASCII) File,.tdb,14. Texte (structuré),Fichier original,Complet,Risque faible,---,2,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Topology File,.top,14. Texte (structuré),Fichier original,Complet,Risque faible,Text (Structured),50,Sciences de l'alimentation (y compris le génie de l'alimentation)
+GROMACS Virtual Site Definition File,.vsd,14. Texte (structuré),Fichier original,Complet,Risque faible,---,1,Sciences de l'alimentation (y compris le génie de l'alimentation)
+HDNNP Configuration File,.nn,14. Texte (structuré),,Surveillance,Moderate,---,1,Génie des matériaux
+HEVC Common Test Conditions Standard Video Sequence Set,.list,14. Texte (structuré),,Complet,Moderate,---,18,Analytique des données et traitement du signal
+Hitachi Project File,.hp,14. Texte (structuré),,Surveillance,Moderate,---,2,Physique de la matière condensée
+HPL (Halo Photonics) Doppler LiDAR File Format,.hpl,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,96,Sciences de l'atmosphère
+Hugin Project File,.pto,14. Texte (structuré),,Complet,Moderate,---,5,Géosciences de l'environnement
+Huygens Core Batch Script,.hgsb,14. Texte (structuré),,Surveillance,Moderate,---,38,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+HydroGeoSphere grok Input File,.grok,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,20,Hydrologie
+HydroGeoSphere Material Properties File,.mprops,14. Texte (structuré),,Surveillance,Risque élevé,---,28,Hydrologie
+HydroGeoSphere Overland Properties File,.oprops,14. Texte (structuré),,Surveillance,Risque élevé,---,44,Hydrologie
+HydroGeoSphere Prefix File,.pfx,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,20,Hydrologie
+ImageJ Macro Language,.ijm,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,8,"Biologie cellulaire
+Neurosciences, aspects médicaux et physiologiques et de la santé"
+JavaScript file,.js,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"8,264","Sciences de l'atmosphère
+Hydrologie"
+JSON Data Interchange Format,.json,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"139,384","Intelligence artificielle (IA)
+Sciences astronomiques et spatiales
+Sciences de l'atmosphère
+Génie civil
+Sciences cliniques
+Analytique des données et traitement du signal
+Écologie (sauf les applications)
+Conception technique en ingénierie
+Géosciences de l'environnement
+Hydrologie
+Bibliothéconomie et études de l'information
+Linguistique
+Génie médical et biomédical
+Nanotechnologies
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Autre génie mécanique
+Autres sciences naturelles
+Langages de programmation et génie logiciel
+Urbanisme et planification régionale
+Arts visuels et arts médiatiques"
+Jupyter Python Notebook,.ipynb,14. Texte (structuré),Fichier original,Surveillance,Risque faible,---,147,"Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Chimie biomoléculaire et thérapeutique (médicinale)
+Applications écologiques
+Géosciences de l'environnement
+Hydrologie
+Microbiologie
+Neurosciences, aspects biologiques et chimiques
+Océanographie
+Autres sciences naturelles"
+Keep File,.keep,14. Texte (structuré),,Base,Moderate,---,4,Hydrologie
+Ligand Preparation/Screening Parameter File,.param,14. Texte (structuré),,Surveillance,Moderate,---,31,"Intelligence artificielle (IA)
+Chimie biomoléculaire et thérapeutique (médicinale)"
+Linux GNOME Input/Output (GIO),.goutputstream; .goutputstream-QUX48Z,14. Texte (structuré),,Base,Moderate,---,2,"Neurosciences, aspects biologiques et chimiques"
+MacKay Model Input,.in,14. Texte (structuré),,Surveillance,Moderate,---,1,Sciences de l'atmosphère
+Main Movement Analysis Script,.sas,14. Texte (structuré),Fichier original,Complet,Moderate,---,1,"Neurosciences, aspects biologiques et chimiques"
+Makefile,--,14. Texte (structuré),,Complet,Risque faible,---,192,Sciences de l'atmosphère
+MALA GPR Raw Header Parameter File,.rad,14. Texte (structuré),,Complet,Moderate,---,28,Processus de la cryosphère
+MATLAB Autosave File,.asv,14. Texte (structuré),,Base,Moderate,---,4,Géosciences de l'environnement
+MATLAB Script File,.m,14. Texte (structuré),Fichier original,Base,Moderate,---,"1,607","Chimie analytique
+Mathématiques appliquées
+Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Biologie cellulaire
+Sciences cognitives
+Génie informatique
+Processus de la cryosphère
+Analytique des données et traitement du signal
+Génie de l'environnement
+Géosciences de l'environnement
+Géochimie
+Géologie
+Géomatique et observation des systèmes terrestres
+Géophysique
+Hydrologie
+Génie de la fabrication
+Génie des matériaux
+Génie médical et biomédical
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Océanographie
+Autres sciences de la Terre et sciences de l'environnement connexes
+Autre génie de l'environnement et techniques d'ingénierie connexes
+Autre génie industriel, des systèmes et des procédés
+Phytobiologie
+Sciences des sols"
+MD5 File,.md5,14. Texte (structuré),Fichier original,Complet,Moderate,---,36,Génétique
+MEX (MATLAB Executable) File (32-bit),.mexmaci,14. Texte (structuré),,Surveillance,Risque élevé,---,3,Géophysique
+MEX (MATLAB Executable) File (64-bit),.mexmaci64,14. Texte (structuré),,Surveillance,Risque élevé,---,4,Géophysique
+Microscopy Data Header File,.hdr,14. Texte (structuré),,Complet,Moderate,---,6,Chimie physique (y compris la chimie structurale)
+MITgcm Compile-Time Configuration File,.conf,14. Texte (structuré),,Complet,Moderate,---,3,"Processus de la cryosphère
+Océanographie"
+MITgcm Execution Environment File,--,14. Texte (structuré),,Complet,Moderate,---,8,"Processus de la cryosphère
+Océanographie"
+MITgcm Ice Plume Package Configuration Namelist,.iceplume,14. Texte (structuré),,Complet,Moderate,---,9,"Processus de la cryosphère
+Océanographie"
+MITgcm Main Parameters File,--,14. Texte (structuré),,Complet,Moderate,---,7,"Processus de la cryosphère
+Océanographie"
+MITgcm Multi-Dimensional Serial (MDS) Metadata File,.meta,14. Texte (structuré),,Complet,Moderate,---,"138,871","Processus de la cryosphère
+Océanographie"
+MITgcm OBCS Configuration/Input File,.obcs; .save,14. Texte (structuré),,Complet,Moderate,---,14,"Processus de la cryosphère
+Océanographie"
+MITgcm Package Information File,.pkg,14. Texte (structuré),,Complet,Moderate,---,8,"Processus de la cryosphère
+Océanographie"
+MITgcm PTRACERS Configuration/Input File,.ptracers,14. Texte (structuré),,Complet,Moderate,---,8,"Processus de la cryosphère
+Océanographie"
+MITgcm SHELFICE Configuration/Input File,.shelfice,14. Texte (structuré),,Complet,Moderate,---,8,"Processus de la cryosphère
+Océanographie"
+Model Coupling Toolkit File,.mct,14. Texte (structuré),,Surveillance,Risque élevé,---,192,Sciences de l'atmosphère
+Molecular Mechanics Parameter File,.parm,14. Texte (structuré),,Complet,Moderate,---,89,"Intelligence artificielle (IA)
+Chimie biomoléculaire et thérapeutique (médicinale)"
+Mountain Legacy Project File,.mlp,14. Texte (structuré),,Surveillance,Risque élevé,---,178,Géosciences de l'environnement
+NEMO Appended Suffix File,.xml_fluxesCorr,14. Texte (structuré),,Complet,Moderate,---,4,"Hydrologie
+Océanographie"
+NEMO FCM Compilation Definition File,.fcm,14. Texte (structuré),,Complet,Moderate,---,3,"Hydrologie
+Océanographie"
+NEMO Fortran 90 Header File,.h90,14. Texte (structuré),Fichier original,Complet,Moderate,---,4,"Hydrologie
+Océanographie"
+NEMO Namelist Configuration,--; .Switches-SPM; .bottom; .boundaries_Mn; .compute; .constants; .domain_Mn; .dynamics; .forcing; .forcing-seasonal; .general; .general-restart; .general2022; .mn; .offline; .rivers; .surface; .switches-bio; .switches-clean; .switches-ref; .switches-seasonal; .tracers,14. Texte (structuré),,Complet,Moderate,---,135,"Géochimie
+Océanographie"
+NEMO Namelist Reference,--; .switches-ref,14. Texte (structuré),,Complet,Moderate,---,83,"Géochimie
+Océanographie"
+NEMO Run Namelist Configuration,.dyn; .sme; .top,14. Texte (structuré),,Complet,Moderate,---,78,"Géochimie
+Hydrologie
+Océanographie"
+NFS Hidden Lock File,--,14. Texte (structuré),,Base,Moderate,---,4,Bioinformatique
+Nortek Vectrino ADV Deployment / Settings File,.dep,14. Texte (structuré),,Complet,Risque élevé,---,1,Géosciences de l'environnement
+Obstacle Analysis Script,.sas,14. Texte (structuré),Fichier original,Complet,Moderate,---,1,"Neurosciences, aspects biologiques et chimiques"
+Olympus FluoView Image Property File,.pty,14. Texte (structuré),,Surveillance,Moderate,---,890,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+Open Ephys Binary Index,.oebin,14. Texte (structuré),,Complet,Moderate,---,221,"Neurosciences, aspects biologiques et chimiques"
+OpenSim Scale Tool setup file,--,14. Texte (structuré),,Surveillance,Moderate,---,1,Génie médical et biomédical
+Perl Module,.pm,14. Texte (structuré),,Complet,Moderate,---,768,Sciences de l'atmosphère
+Perl Script,.pl,14. Texte (structuré),Fichier original,Complet,Risque faible,---,772,"Sciences de l'atmosphère
+Géosciences de l'environnement"
+Persistent Auxiliary Metadata,.xml,14. Texte (structuré),,Complet,Risque faible,---,1,Conception technique en ingénierie
+PEST Control File,.pst,14. Texte (structuré),Fichier original,Complet,Moderate,---,8,Hydrologie
+PEST Instruction File,.ins,14. Texte (structuré),Fichier original,Complet,Moderate,---,16,Hydrologie
+PEST Template File,.tpl,14. Texte (structuré),Fichier original,Complet,Moderate,---,16,Hydrologie
+PostgreSQL Database Dump File,.data,14. Texte (structuré),,Surveillance,Risque élevé,---,1,Géosciences de l'environnement
+PPMstar Simulation Input/include Configuration,.include,14. Texte (structuré),,Complet,Moderate,---,7,Sciences astronomiques et spatiales
+Protein Data Bank File,.pdb,14. Texte (structuré),Fichier original,Surveillance,Risque faible,---,51,"Intelligence artificielle (IA)
+Chimie biomoléculaire et thérapeutique (médicinale)
+Sciences de l'alimentation (y compris le génie de l'alimentation)
+Microbiologie"
+Protocol Buffers Text Format,.pbtxt,14. Texte (structuré),,Complet,Risque faible,---,1,Applications écologiques
+PSUICE3D Ice Sheet Model Fortran Namelist Template,.in,14. Texte (structuré),,Complet,Risque faible,---,1,"Processus de la cryosphère
+Géophysique"
+Python Source Code File,.py,14. Texte (structuré),Fichier original,Complet,Risque faible,---,"2,984","Intelligence artificielle (IA)
+Sciences astronomiques et spatiales
+Sciences de l'atmosphère
+Bioinformatique
+Biologie cellulaire
+Génie civil
+Génie informatique
+Physique de la matière condensée
+Analytique des données et traitement du signal
+Écologie (sauf les applications)
+Géosciences de l'environnement
+Géochimie
+Géomatique et observation des systèmes terrestres
+Hydrologie
+Génie médical et biomédical
+Nanotechnologies
+Sciences du milieu naturel
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Océanographie
+Autres sciences de la Terre et sciences de l'environnement connexes
+Autre génie industriel, des systèmes et des procédés
+Autre génie mécanique
+Contrôle et automatisation des systèmes"
+QGIS Spatial Index File,.qix,14. Texte (structuré),Fichier original,Surveillance,Moderate,---,3,Géosciences de l'environnement
+QINSY Vector Map,.xml,14. Texte (structuré),Fichier original,Base,Risque élevé,---,74,Géosciences de l'environnement
+QPD Automated Cleaning Log,.qvm,14. Texte (structuré),Fichier original,Base,Moderate,---,122,Géosciences de l'environnement
+R Native Raster Grid Header File,.grd,14. Texte (structuré),,Complet,Risque élevé,---,6,Biosystèmes et génie agricole
+R Program File,.r,14. Texte (structuré),Fichier original,Complet,Risque faible,---,146,"Biotechnologies de l'agriculture
+Physiologie animale
+Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Bioinformatique
+Biologie de l'évolution
+Chimie biomoléculaire et thérapeutique (médicinale)
+Sciences cognitives
+Écologie (sauf les applications)
+Génie de l'environnement
+Sciences de la pêche
+Sciences de la foresterie
+Génétique
+Géochimie
+Hydrologie
+Microbiologie
+Phytobiologie
+Zoologie"
+Raven Classed Parameter Input File,.rvp,14. Texte (structuré),,Complet,Moderate,---,286,Hydrologie
+Raven HRU/Basin Definition File,.rvh,14. Texte (structuré),,Complet,Moderate,---,286,Hydrologie
+Raven HRU/Basin Definition File Template,rvh.tpl,14. Texte (structuré),,Complet,Moderate,---,2,Hydrologie
+Raven Initial Conditions Input File,.rvc,14. Texte (structuré),,Complet,Moderate,---,143,Hydrologie
+Raven Primary Input File,.rvi,14. Texte (structuré),,Complet,Moderate,---,143,Hydrologie
+Raven Time Series Input File,.rvt,14. Texte (structuré),,Complet,Moderate,---,848,Hydrologie
+Reflexw GPR Profile Header Parameter File,.par,14. Texte (structuré),,Complet,Moderate,---,31,Processus de la cryosphère
+RINEX Observation File,.obs,14. Texte (structuré),Fichier original,Complet,Risque faible,---,24,Zoologie
+RStudio Internal Session File,--,14. Texte (structuré),,Base,Risque élevé,---,82,Physiologie animale
+RStudio Internal Session Persistent Property File,.pper,14. Texte (structuré),,Base,Risque élevé,---,32,Physiologie animale
+RStudio Project File,.rproj,14. Texte (structuré),,Complet,Moderate,---,7,Physiologie animale
+SAS Program File,.sas,14. Texte (structuré),Fichier original,Complet,Moderate,---,4,Sciences de la foresterie
+SHA256 File,.sha256,14. Texte (structuré),,Complet,Moderate,---,24,"Intelligence artificielle (IA)
+Sciences astronomiques et spatiales"
+Shell Script,.sh,14. Texte (structuré),Fichier original,Complet,Moderate,---,"3,538","Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Chimie biomoléculaire et thérapeutique (médicinale)
+Génie informatique
+Écologie (sauf les applications)
+Géosciences de l'environnement
+Génétique
+Géochimie
+Hydrologie
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Océanographie"
+SKOG Carbon Model Simulation Layout File,.dat,14. Texte (structuré),,Surveillance,Risque élevé,---,24,Géochimie
+Slurm Batch Script,.sbatch,14. Texte (structuré),Fichier original,Complet,Moderate,---,5,"Intelligence artificielle (IA)
+Bioinformatique"
+SMILE (Simplified Molecular Input Line Entry Specification) Chemical Format,.smi,14. Texte (structuré),,Complet,Moderate,---,198,"Intelligence artificielle (IA)
+Chimie biomoléculaire et thérapeutique (médicinale)"
+Snakefile,--,14. Texte (structuré),,Complet,Moderate,---,3,"Neurosciences, aspects médicaux et physiologiques et de la santé"
+Standard for the Exchange of Product Model data,".step, .stp",14. Texte (structuré),Fichier original,Base,Risque faible,---,4,Génie de la fabrication
+Structured Query Language Data,.sql,14. Texte (structuré),Fichier original,Complet,Risque faible,---,5,"Intelligence artificielle (IA)
+Bioinformatique
+Informatique théorique et mathématiques computationnelles"
+Tab-separated Values,".tsv, .tab",14. Texte (structuré),Transformer en CSV,Complet,Moderate,---,357,"Intelligence artificielle (IA)
+Géosciences de l'environnement
+Génétique
+Microbiologie
+Sciences du milieu naturel
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé"
+TDT Block Index File,.tbk,14. Texte (structuré),,Surveillance,Risque élevé,---,257,"Neurosciences, aspects biologiques et chimiques"
+TDT Block Metadata/Header File,.tdx,14. Texte (structuré),,Surveillance,Risque élevé,---,249,"Neurosciences, aspects biologiques et chimiques"
+TDT Event Data,.tbk,14. Texte (structuré),,Surveillance,Risque élevé,---,253,"Neurosciences, aspects biologiques et chimiques"
+TDT Tank Info,.tev,14. Texte (structuré),,Surveillance,Risque élevé,---,253,"Neurosciences, aspects biologiques et chimiques"
+TDT Tank Notes File,.tin,14. Texte (structuré),,Complet,Risque élevé,---,253,"Neurosciences, aspects biologiques et chimiques"
+Teledyne RDI WinRiver Configuration File,.wrc,14. Texte (structuré),,Surveillance,Risque élevé,---,125,Géosciences de l'environnement
+Temporary File,.tmp,14. Texte (structuré),,Base,Risque élevé,---,12,"Hydrologie
+Océanographie"
+TensorFlow Checkpoint Index,.index,14. Texte (structuré),,Surveillance,Risque faible,---,1,Applications écologiques
+TensorFlow SavedModel Index,.index,14. Texte (structuré),,Surveillance,Risque faible,---,1,Applications écologiques
+Text Configuration file,.ini,14. Texte (structuré),Fichier original,Complet,Moderate,---,"2,597","Géosciences de l'environnement
+Hydrologie
+Neurosciences, aspects biologiques et chimiques"
+Tree Description File,.tre,14. Texte (structuré),,Complet,Moderate,---,10,Biologie de l'évolution
+UVic ESCM / MOM2 Fortran Namelist,control.in,14. Texte (structuré),,Complet,Risque faible,---,9,Sciences de l'atmosphère
+UVic ESCM Build Configuration,mk.in,14. Texte (structuré),,Complet,Risque faible,---,9,Sciences de l'atmosphère
+VASP Final Geometry Output File,--,14. Texte (structuré),,Complet,Risque faible,---,874,Génie des matériaux
+VASP INCAR File,--,14. Texte (structuré),Fichier original,Complet,Moderate,---,874,Génie des matériaux
+VASP Initial Geometry Input File,--,14. Texte (structuré),,Complet,Risque faible,---,"1,046,771",Génie des matériaux
+VASP POTCAR File,--,14. Texte (structuré),Fichier original,Complet,Moderate,---,874,Génie des matériaux
+Vessel Geometry Metadata File,.geom,14. Texte (structuré),,Surveillance,Moderate,---,30,Géosciences de l'environnement
+Vicon Eclipse Node Database File,.enf,14. Texte (structuré),,Surveillance,Risque élevé,---,225,Génie médical et biomédical
+Vicon Model Parameter File,.imp,14. Texte (structuré),,Surveillance,Risque élevé,---,12,Génie médical et biomédical
+Visual C++ Project File,.vcproj,14. Texte (structuré),,Complet,Risque élevé,---,4,Biologie cellulaire
+Visual Studio Solution File,.sln,14. Texte (structuré),,Complet,Risque élevé,---,1,Biologie cellulaire
+Wavefront Material Template Library,.mtl,14. Texte (structuré),,Complet,Risque élevé,---,162,Conception technique en ingénierie
+WebAnno TSV File Format,.tsv,14. Texte (structuré),,Complet,Risque élevé,---,"4,788","Linguistique
+Microbiologie"
+Windows Powershell Script,.ps1,14. Texte (structuré),Fichier original,Complet,Risque faible,---,2,Autre génie mécanique
+YAML,".yml, .yaml",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"141,824","Intelligence artificielle (IA)
+Sciences de l'atmosphère
+Génie civil
+Génie informatique
+Analytique des données et traitement du signal
+Écologie (sauf les applications)
+Génie de l'environnement
+Géosciences de l'environnement
+Géochimie
+Géomatique et observation des systèmes terrestres
+Hydrologie
+Neurosciences, aspects biologiques et chimiques
+Océanographie
+Sciences des sols
+Statistique
+Urbanisme et planification régionale"
