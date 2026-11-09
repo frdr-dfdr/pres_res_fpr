@@ -2,6 +2,8 @@
 ## [1.2] - 2026-11-09
 ### Added
 - Added cross listing and field of research columns
+- Added GitHub Issues templates for new submissions and change requests.
+- Added `Cross Listed` and `Field of Research Columns`
 
 #### Categories
 - No category
