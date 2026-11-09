@@ -1,0 +1,32 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
+Audio/Video Interleaved Format,.avi,16. Vidéo/Image animée,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Risque faible,---,"3,134","Atmospheric sciences (RDF10501)
+Environmental geoscience (RDF10506)
+Hydrology (RDF10507)
+Neurosciences, biological and chemical aspects (RDF10611)
+Neurosciences, medical and physiological and health aspects (RDF30104)
+Oceanography (RDF10505)"
+H.264 Raw Elementary Video Stream File,.h264,16. Vidéo/Image animée,,Complet,Moderate,---,63,"Neurosciences, biological and chemical aspects (RDF10611)"
+MPEG-1 Program Stream,".mpeg, .mpg",16. Vidéo/Image animée,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,---,"13,776","Cognitive sciences (RDF50102)
+Neurosciences, biological and chemical aspects (RDF10611)
+Neurosciences, medical and physiological and health aspects (RDF30104)
+Psychology, social and behavioural aspects (RDF50101)"
+MPEG-4 Media File,".mp4, .mpa",16. Vidéo/Image animée,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Risque faible,Audio,"41,116","Animal physiology (RDF10608)
+Artificial intelligence (AI) (RDF10201)
+Bioinformatics (RDF10208)
+Cell biology (RDF10602)
+Cryosphere processes (RDF10508)
+Ecology (except applications) (RDF10603)
+Environmental geoscience (RDF10506)
+Geomatics and earth systems observations (RDF10509)
+Hydrology (RDF10507)
+Industrial relations and work relations (RDF50202)
+Neurosciences, biological and chemical aspects (RDF10611)
+Neurosciences, medical and physiological and health aspects (RDF30104)
+Oceanography (RDF10505)
+Public and population health (RDF30302)"
+Quicktime,.mov,16. Vidéo/Image animée,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,---,611,"Animal physiology (RDF10608)
+Bioinformatics (RDF10208)
+Environmental geoscience (RDF10506)
+Oceanography (RDF10505)"
+Uncompressed Raw Video Pixel Stream File,.raw,16. Vidéo/Image animée,,Surveillance,Risque élevé,---,320,"Neurosciences, biological and chemical aspects (RDF10611)"
+Windows Media Video,.wmv,16. Vidéo/Image animée,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Risque élevé,---,2,Cell biology (RDF10602)

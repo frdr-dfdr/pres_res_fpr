@@ -1,0 +1,8 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
+Adobe Illustrator,.ai,07. Image (vectorielle),Transformer en PDF/A,Surveillance,Moderate,---,2,Environmental geoscience (RDF10506)
+Drawing Interchange Format (ASCII),.dxf,07. Image (vectorielle),Fichier original,Surveillance,Moderate,---,10,Environmental geoscience (RDF10506)
+Hewlett Packard Vector Graphic Plotter File,.plt,07. Image (vectorielle),Transformer,Surveillance,Moderate,---,1,Environmental geoscience (RDF10506)
+Scalable Vector Graphics,.svg,07. Image (vectorielle),Transformer en Plain SVG,Complet,Risque faible,---,293,"Cell biology (RDF10602)
+Genetics (RDF10606)
+Geomatics and earth systems observations (RDF10509)
+Manufacturing engineering (RDF20403)"

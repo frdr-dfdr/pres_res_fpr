@@ -1,0 +1,11 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
+Back Up File,.bak,09. Sans catégorie,Fichier original,Surveillance,Risque élevé,---,814,"Artificial intelligence (AI) (RDF10201)
+Hydrology (RDF10507)"
+Google Chrome Download File,.crdownload,09. Sans catégorie,,Base,Risque élevé,---,4,Animal physiology (RDF10608)
+MS-DOS Executable,.exe,09. Sans catégorie,Fichier original,Base,Risque élevé,---,2,"Geochemistry (RDF10502)
+Natural environment sciences (RDF10510)"
+Timestamp Backup,xxxxxxx,09. Sans catégorie,,Base,Risque élevé,---,2,Artificial intelligence (AI) (RDF10201)
+Windows Portable Executable,".exe, .dll, .sys",09. Sans catégorie,Fichier original,Base,Moderate,---,31,"Atmospheric sciences (RDF10501)
+Hydrology (RDF10507)
+Natural environment sciences (RDF10510)
+Other environmental engineering and related engineering (RDF20899)"
