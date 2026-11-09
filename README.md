@@ -33,11 +33,11 @@ Each file type is grouped into a larger file category. A table for each category
 |Risk Level|Includes the risk to long-term access and reuse associated with a format.| 
 |Cross Listed| This column indicates if a format belongs to more than one category.|
 |Total Files|Includes the number of files in FRDR associated with the format.| 
-|Field of Research|Indicates the field of researc (CRCD) associated with the format. These are taken directly from FRDR.|
+|Field of Research|Indicates the field of research (CRCD) associated with the format. These are taken directly from FRDR.|
 
 ### Extensions
 - Formats with no extensions will include an `---` in the extension column.
-- Formats with variations to the extensions will include `.xxxx-xxx` in the column. The pattern of Xs will roughly mimic the structure of the extension.
+- Formats with variations to the extension will include `.xxxx-xxx` in the column. The pattern of Xs will roughly mimic the structure of the extension.
 - `---` is used to indicate that there is no information for the specific value in that column.
 
 ## Complete List of Formats
