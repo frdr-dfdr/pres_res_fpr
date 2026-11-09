@@ -130,6 +130,7 @@ Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4,.pdf,10. Description
 Address Event DATa Format,.aedat4,04. Jeu de données,Fichier original,Base,Moderate,---,15,Génie aérospatial
 Adobe Illustrator,.ai,07. Image (vectorielle),Transformer en PDF/A,Surveillance,Moderate,---,2,Géosciences de l'environnement
 Adobe Photoshop,.psd,06. Image (matricielle),Transformer en TIFF,Complet,Moderate,---,953,Géosciences de l'environnement
+Agisoft Project File,.psx,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,2,Géosciences de l'environnement
 AlgoMesh 2D Mesh Interchange Format,.ah2,04. Jeu de données,Fichier original,Complet,Moderate,---,20,Hydrologie
 AlgoMesh HydroGeoSphere ECHOS Selection Set File,.echos,04. Jeu de données,Fichier original,Base,Risque élevé,---,40,Hydrologie
 AlgoMesh HydroGeoSphere Node Selection File,.nchos,04. Jeu de données,Fichier original,Base,Risque élevé,---,140,Hydrologie
@@ -173,6 +174,7 @@ Océanographie
 Phytobiologie
 Zoologie"
 Aperio ScanScope Virtual Slide,.svs,06. Image (matricielle),À réviser,Base,Risque élevé,---,10,Sciences cliniques
+Aperio XML Annotation File,.xml,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,40,Sciences cliniques
 Applanix POSPac Backward Processing Solution Navigation File,.rev,04. Jeu de données,Fichier original,Base,Risque élevé,---,32,Géosciences de l'environnement
 Applanix POSPac Forward Processing Solution Navigation File,.fwd,04. Jeu de données,Fichier original,Base,Risque élevé,---,36,Géosciences de l'environnement
 Applanix POSPac Navigation File,--,04. Jeu de données,Fichier original,Base,Risque élevé,---,414,Géosciences de l'environnement
@@ -263,7 +265,9 @@ C++ Source Code File,".cpp, .cxx, .cc",14. Texte (structuré),Fichier original,C
 Biologie cellulaire"
 C3D File Format,.c3d,04. Jeu de données,Fichier original,Surveillance,Moderate,---,"26,112","Génie médical et biomédical
 Autres sciences de la santé"
+Camtasia Media Asset Sync File,.xml,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,17,Hydrologie
 Camtasia Project File format (Windows),.tscproj,14. Texte (structuré),Fichier original,Surveillance,Risque élevé,---,16,Hydrologie
+Canadian Avalanche Association Markup Language,.caaml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,825,Géosciences de l'environnement
 Canadian Precipitation Analysis (CaPA) Observation File,.obs,04. Jeu de données,Fichier original,Surveillance,Risque faible,---,"5,794",Sciences de l'atmosphère
 Cascading Style Sheet,.css,14. Texte (structuré),Fichier original,Complet,Risque faible,---,37,"Sciences de l'atmosphère
 Hydrologie"
@@ -327,6 +331,7 @@ CESM Configuration Query Utility,--,15. Texte (non structuré),Fichier original,
 CESM Core Compilation Orchestration Utility Script,--,15. Texte (non structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
 CESM Core Configuration Utility Script,--,15. Texte (non structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
 CESM Core Environment Initialization Utility Script,--,15. Texte (non structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
+CESM Data Model Input Stream Configuration Template,xml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,43,Sciences de l'atmosphère
 CESM Derived Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
 CESM Diagnostic Output Configuration Snippet,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,4,Sciences de l'atmosphère
 CESM Hardware-Specific Environment Configuration File,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,192,Sciences de l'atmosphère
@@ -588,6 +593,7 @@ ESRI ArcMap Document,".mxd, .mxt",14. Texte (structuré),Fichier original,Base,R
 ESRI Attribute Index File,.atx,05. SIG/Géospatial,Fichier original,Base,Risque élevé,---,808,"Écologie (sauf les applications)
 Génie de l'environnement
 Hydrologie"
+ESRI Auxiliary Files,.xml,13. Texte (balisage),Fichier original,Surveillance,Risque faible,---,2,Écologie (sauf les applications)
 ESRI Code Page File,.cpg,14. Texte (structuré),Fichier original,Base,Moderate,---,"12,999","Biotechnologies de l'agriculture
 Sciences de l'atmosphère
 Processus de la cryosphère
@@ -691,6 +697,17 @@ Zoologie"
 Exchangeable Image File Format (Uncompressed),".tif, .tiff",06. Image (matricielle),Transformer en TIFF,Complet,Risque faible,---,"8,478","Archéologie
 Géosciences de l'environnement
 Phytobiologie"
+Extensible Markup Language,.xml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,"4,447","Sciences de l'atmosphère
+Biologie cellulaire
+Écologie (sauf les applications)
+Conception technique en ingénierie
+Géosciences de l'environnement
+Génie médical et biomédical"
+Extensible Metadata Platform Packet,.xmp,13. Texte (balisage),Fichier original,Complet,Risque faible,---,"53,409","Sciences cognitives
+Géosciences de l'environnement
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Psychologie, aspects sociaux et comportementaux"
 EyeLink ASCII Data File,.asc,04. Jeu de données,Fichier original,Complet,Moderate,---,755,"Neurosciences, aspects médicaux et physiologiques et de la santé"
 Failure Log File,.fail,15. Texte (non structuré),Fichier original,Complet,Moderate,---,89,"Intelligence artificielle (IA)
 Chimie biomoléculaire et thérapeutique (médicinale)"
@@ -720,6 +737,7 @@ Flexible Image Transport System,.fits,06. Image (matricielle),Transformer en TIF
 Flow Cytometry Standard File,.fcs,04. Jeu de données,Fichier original,Surveillance,Risque faible,---,"3,277",Bioinformatique
 FlowJo Workspace File,.wsp,04. Jeu de données,Fichier original,Base,Moderate,---,25,Bioinformatique
 FlowSizer Setup Files,.set,14. Texte (structuré),Fichier original,Complet,Moderate,---,100,Géosciences de l'environnement
+FO File,.fo,13. Texte (balisage),Fichier original,Complet,Risque faible,---,2,Génétique
 Fortran,".f90, .f",14. Texte (structuré),Fichier original,Complet,Risque faible,---,"8,148","Sciences astronomiques et spatiales
 Sciences de l'atmosphère
 Processus de la cryosphère
@@ -770,6 +788,7 @@ FreeSurfer XFM,.xfm,14. Texte (structuré),Fichier original,Complet,Risque faibl
 Fujifilm RAW Image Format,.raf,06. Image (matricielle),Transformer en TIFF,Surveillance,Moderate,---,2,Géosciences de l'environnement
 FVCOM Output File,.oxxxxxxxxxxx,04. Jeu de données,Fichier original,Surveillance,Risque faible,---,18,Océanographie
 Gain Reference File,.gain,14. Texte (structuré),Fichier original,Complet,Moderate,---,3,Biologie cellulaire
+Gating-ML (Gating Markup Language) XML file,.xml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,1,Bioinformatique
 Gaussian Curvature File,.K,04. Jeu de données,Fichier original,Surveillance,Moderate,---,"3,244",Intelligence artificielle (IA)
 General Purpose Timing Library File,.gptl,14. Texte (structuré),Fichier original,Complet,Moderate,---,192,Sciences de l'atmosphère
 Geographic Tagged Image File Format (GeoTIFF),".tif, .tiff, .cog",06. Image (matricielle),Fichier original,Complet,Risque faible,Image (matricielle),"2,118,577","Sciences de l'atmosphère
@@ -789,6 +808,7 @@ Autres sciences physiques
 Statistique
 Urbanisme et planification régionale
 Zoologie"
+Geography Markup Language,.gml,13. Texte (balisage),Fichier original,Complet,Risque faible,SIG/Géospatial,5,Urbanisme et planification régionale
 GeoJSON,.geojson,05. SIG/Géospatial,Fichier original,Complet,Risque faible,---,1,Géomatique et observation des systèmes terrestres
 Gitignore File,".ignore, .gitignore",15. Texte (non structuré),Fichier original,Complet,Risque faible,---,2,"Hydrologie
 Neurosciences, aspects médicaux et physiologiques et de la santé"
@@ -797,6 +817,9 @@ GL Transmission Format (Text),".json, .gltf",14. Texte (structuré),Fichier orig
 Golden Software Blanking File,.bln,05. SIG/Géospatial,Fichier original,Surveillance,Moderate,---,104,"Géosciences de l'environnement
 Sciences du milieu naturel"
 Google Chrome Download File,.crdownload,09. Sans catégorie,Fichier original,Base,Risque élevé,---,4,Physiologie animale
+GPS Exchange Format,.gpx,13. Texte (balisage),Fichier original,Complet,Risque faible,---,2,Zoologie
+Graph Exchange XML Format,.gexf,13. Texte (balisage),Fichier original,Complet,Moderate,---,65,Bibliothéconomie et études de l'information
+Graph Markup Language,.graphml,13. Texte (balisage),Fichier original,Complet,Moderate,---,67,Bibliothéconomie et études de l'information
 Graphics Interchange Format,.gif,06. Image (matricielle),Transformer en TIFF,Complet,Risque faible,---,"38,966","Sciences de l'atmosphère
 Sciences cognitives
 Géosciences de l'environnement
@@ -869,6 +892,16 @@ HydroGeoSphere Overland Properties File,.oprops,14. Texte (structuré),Fichier o
 HydroGeoSphere Prefix File,.pfx,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,20,Hydrologie
 Hydrographic Sound Velocity Profile File,.svp,04. Jeu de données,Fichier original,Complet,Moderate,---,38,Géosciences de l'environnement
 Hydrographic Survey Peripheral Sensor Raw Binary Log,.0,04. Jeu de données,Fichier original,Surveillance,Risque élevé,---,1,Géosciences de l'environnement
+Hypertext Markup Language,.html,13. Texte (balisage),Fichier original,Complet,Risque faible,---,"13,442","Sciences de l'atmosphère
+Sciences cognitives
+Curriculum, pédagogie et didactique
+Génétique
+Génie géomatique
+Hydrologie
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Autres sciences de la Terre et sciences de l'environnement connexes
+Psychologie, aspects sociaux et comportementaux"
 IDL Binary file,.ncb,04. Jeu de données,Fichier original,Surveillance,Risque élevé,---,4,Chimie physique (y compris la chimie structurale)
 IGS Precise Ephemeris File (SP3),.sp3,04. Jeu de données,Fichier original,Complet,Risque faible,---,48,Géosciences de l'environnement
 ImageJ Macro Language,.ijm,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,8,"Biologie cellulaire
@@ -941,7 +974,15 @@ Neurosciences, aspects biologiques et chimiques
 Océanographie
 Autres sciences naturelles"
 Keep File,.keep,14. Texte (structuré),Fichier original,Base,Moderate,---,4,Hydrologie
+Keyhole Markup Language (Container),.kmz,13. Texte (balisage),Fichier original,Complet,Risque faible,---,67,"Géosciences de l'environnement
+Hydrologie
+Autres sciences de la Terre et sciences de l'environnement connexes"
+Keyhole Markup Language (XML),.kml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,50,"Géosciences de l'environnement
+Urbanisme et planification régionale
+Zoologie"
 Lagrangian Trajectory Output File,.sav,04. Jeu de données,Fichier original,Surveillance,Risque élevé,---,36,Océanographie
+LaTeX (Master document),.tex,13. Texte (balisage),Fichier original,Complet,Risque faible,---,1,Hydrologie
+LaTeX (Subdocument),.tex,13. Texte (balisage),Fichier original,Complet,Risque faible,---,492,Sciences de l'atmosphère
 Layer File,.lyr,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,1,Génie géomatique
 Ligand Preparation/Screening Parameter File,.param,14. Texte (structuré),Fichier original,Surveillance,Moderate,---,31,"Intelligence artificielle (IA)
 Chimie biomoléculaire et thérapeutique (médicinale)"
@@ -968,6 +1009,27 @@ Makefile,--,14. Texte (structuré),Fichier original,Complet,Risque faible,---,19
 MALA GPR Raw Binary Trace Data File,.rd3,04. Jeu de données,Fichier original,Surveillance,Risque élevé,---,28,Processus de la cryosphère
 MALA GPR Raw Header Parameter File,.rad,14. Texte (structuré),Fichier original,Complet,Moderate,---,28,Processus de la cryosphère
 MALA GPR Survey Marker ASCII File,.mrk,15. Texte (non structuré),Fichier original,Complet,Risque élevé,---,28,Processus de la cryosphère
+Markdown,.md,13. Texte (balisage),Fichier original,Complet,Risque faible,---,370,"Intelligence artificielle (IA)
+Sciences astronomiques et spatiales
+Sciences de l'atmosphère
+Biologie de l'évolution
+Biologie cellulaire
+Génie civil
+Génie informatique
+Physique de la matière condensée
+Curriculum, pédagogie et didactique
+Conception technique en ingénierie
+Génie de l'environnement
+Géosciences de l'environnement
+Génétique
+Hydrologie
+Génie médical et biomédical
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Océanographie
+Autres informatique et sciences de l'information
+Autre génie mécanique
+Sciences des sols
+Contrôle et automatisation des systèmes"
 Mathematica Notebook,.mb,04. Jeu de données,Fichier original,Surveillance,Moderate,---,1,Biologie cellulaire
 MATLAB Autosave File,.asv,14. Texte (structuré),Fichier original,Base,Moderate,---,4,Géosciences de l'environnement
 MATLAB Live Code File Format,.mlx,04. Jeu de données,Fichier original,Surveillance,Risque élevé,---,5,"Génie des matériaux
@@ -1180,6 +1242,7 @@ Microbiologie"
 Molecular Mechanics Parameter File,.parm,14. Texte (structuré),Fichier original,Complet,Moderate,---,89,"Intelligence artificielle (IA)
 Chimie biomoléculaire et thérapeutique (médicinale)"
 Mountain Legacy Project File,.mlp,14. Texte (structuré),Fichier original,Surveillance,Risque élevé,---,178,Géosciences de l'environnement
+Mountain Legacy Project Repeat Location Studio File,.rls,13. Texte (balisage),Fichier original,Surveillance,Moderate,---,1,Géosciences de l'environnement
 MPEG-1 Program Stream,".mpeg, .mpg",16. Vidéo/Image animée,Transform en Matroska (mkv – video: ffv1 / audio: lcpm),Complet,Moderate,---,"13,776","Sciences cognitives
 Neurosciences, aspects biologiques et chimiques
 Neurosciences, aspects médicaux et physiologiques et de la santé
@@ -1223,6 +1286,9 @@ NEMO Run Namelist Configuration,.dyn; .sme; .top,14. Texte (structuré),Fichier 
 Hydrologie
 Océanographie"
 NEMO Runtime Diagnostic and Checkpoint Log,.stat; .stop,15. Texte (non structuré),Fichier original,Complet,Moderate,---,78,"Géochimie
+Hydrologie
+Océanographie"
+NEMO XIOS XML Configuration File,.xml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,124,"Géochimie
 Hydrologie
 Océanographie"
 netCDF-3 64-bit,.nc,04. Jeu de données,Fichier original,Surveillance,Moderate,SIG/Géospatial,"2,849","Sciences de l'atmosphère
@@ -1513,6 +1579,10 @@ PyTorch Serialized File Format,".pth, .pt",04. Jeu de données,Fichier original,
 Applications écologiques
 Géomatique et observation des systèmes terrestres
 Langages de programmation et génie logiciel"
+QGIS Layer Style File,.qml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,4,Autres sciences de la Terre et sciences de l'environnement connexes
+QGIS Metadata File,.qmd,13. Texte (balisage),Fichier original,Complet,Risque faible,---,32,"Géosciences de l'environnement
+Hydrologie
+Autres sciences de la Terre et sciences de l'environnement connexes"
 QGIS Projection File,.prj,05. SIG/Géospatial,Fichier original,Complet,Risque faible,---,66,"Géosciences de l'environnement
 Hydrologie
 Urbanisme et planification régionale"
@@ -1570,6 +1640,8 @@ Biologie de l'évolution
 Géochimie
 Hydrologie
 Zoologie"
+R Documentation Format,.rd,13. Texte (balisage),Fichier original,Complet,Moderate,---,91,Bioinformatique
+R Markdown File,.rmd,13. Texte (balisage),Fichier original,Complet,Moderate,---,1,Physiologie animale
 R Native Raster Grid Data File,.gri,04. Jeu de données,Fichier original,Surveillance,Risque élevé,---,6,Biosystèmes et génie agricole
 R Native Raster Grid Header File,.grd,14. Texte (structuré),Fichier original,Complet,Risque élevé,---,6,Biosystèmes et génie agricole
 R Program File,.r,14. Texte (structuré),Fichier original,Complet,Risque faible,---,146,"Biotechnologies de l'agriculture
@@ -1730,6 +1802,7 @@ SuperDARN Raw Auto-Correlation Function File,.rawacf,04. Jeu de données,Fichier
 Surface Fit File (MATLAB),.sfit,04. Jeu de données,Fichier original,Surveillance,Risque élevé,---,1,Génie des matériaux
 Surfer Grid File,.grd,04. Jeu de données,Fichier original,Surveillance,Risque élevé,---,230,Géosciences de l'environnement
 Surfer SRF File,.srf,05. SIG/Géospatial,Fichier original,Surveillance,Risque élevé,---,39,Géosciences de l'environnement
+Sweave File,.rnw,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,2,Bioinformatique
 T3Ster Thermal Structure Function File,.stf,04. Jeu de données,Fichier original,Surveillance,Risque élevé,---,164,Génie de la fabrication
 Tab-separated Values,".tsv, .tab",14. Texte (structuré),Fichier original,Complet,Moderate,---,357,"Intelligence artificielle (IA)
 Géosciences de l'environnement
@@ -1900,6 +1973,7 @@ Océanographie
 Sciences des sols
 Statistique
 Urbanisme et planification régionale"
+ZEISS ZEN Microscope Metadata XML File,.xml,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,178,Physiologie animale
 ZIP Format,.zip,01. Agrégat,Conserver mais extraire le contenu,Complet,Moderate,---,"3,955","Biotechnologies de l'agriculture
 Gestion de l'exploitation agricole et des terres
 Chimie analytique

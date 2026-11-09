@@ -541,10 +541,10 @@ VASP Main Output File,.xml,04. Dataset,Original,Full,Moderate,---,"1,771",Materi
 VASP Pair Correlation Function File,--,04. Dataset,Original,Watch,Moderate,---,874,Materials engineering (RDF20601)
 VASP Trajectory History File,--,04. Dataset,Original,Watch,Moderate,---,874,Materials engineering (RDF20601)
 VASP Wavefunction Coefficients File,--,04. Dataset,Original,Watch,High,---,874,Materials engineering (RDF20601)
-Vicon Extended Camera Parameter File,.xcp,04. Dataset,Original,Full,Moderate, Text (Mark-up),193,Medical and biomedical engineering (RDF20701)
+Vicon Extended Camera Parameter File,.xcp,04. Dataset,Original,Full,Moderate, Text (Markup),193,Medical and biomedical engineering (RDF20701)
 Vicon Raw 2D Camera Data,.x2d,04. Dataset,Original,Watch,High,---,193,Medical and biomedical engineering (RDF20701)
-Vicon Skeleton Description File,.vsk,04. Dataset,Original,Full,Moderate, Text (Mark-up),12,Medical and biomedical engineering (RDF20701)
-Vicon System Configuration File,.system,04. Dataset,Original,Watch,Moderate, Text (Mark-up),193,Medical and biomedical engineering (RDF20701)
+Vicon Skeleton Description File,.vsk,04. Dataset,Original,Full,Moderate, Text (Markup),12,Medical and biomedical engineering (RDF20701)
+Vicon System Configuration File,.system,04. Dataset,Original,Watch,Moderate, Text (Markup),193,Medical and biomedical engineering (RDF20701)
 Visualization Toolkit Multi-Block Data Set Format,.vtm,04. Dataset,Original,Full,Moderate,---,125,"Environmental geoscience (RDF10506)
 Other mechanical engineering (RDF20499)"
 Visualization Toolkit PolyData Format,.vtp,04. Dataset,Original,Full,Moderate,---,14,Other mechanical engineering (RDF20499)

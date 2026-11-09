@@ -70,7 +70,7 @@ Each file type is grouped into a larger file category. A table for each category
 - [Stats](/docs/06_stats_statistiques.md)
 
 ## Submissions
-If you would like to suggest a format for inclusion or a change to an existing format please create a GitHub Issues using either the `New format submission` template or the `Request changes to a format` template. Submissions can be summited in English or French
+If you would like to suggest a format for inclusion or a change to an existing format please create a GitHub Issue using either the `New format submission` template or the `Request changes to a format` template. Submissions can be submited in English or French
 
 We will do our best to respond in a timely manner.
 

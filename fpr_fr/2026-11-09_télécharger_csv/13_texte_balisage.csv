@@ -1,0 +1,75 @@
+Format,Extension,Catégorie,Action de préservation proposée,Niveau de préservation,Niveau de risque,Multi-catégorie,Nombre total de fichiers,Domaine de recherche
+Agisoft Project File,.psx,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,2,Géosciences de l'environnement
+Aperio XML Annotation File,.xml,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,40,Sciences cliniques
+Camtasia Media Asset Sync File,.xml,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,17,Hydrologie
+Canadian Avalanche Association Markup Language,.caaml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,825,Géosciences de l'environnement
+CESM Data Model Input Stream Configuration Template,xml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,43,Sciences de l'atmosphère
+ESRI Auxiliary Files,.xml,13. Texte (balisage),Fichier original,Surveillance,Risque faible,---,2,Écologie (sauf les applications)
+Extensible Markup Language,.xml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,"4,447","Sciences de l'atmosphère
+Biologie cellulaire
+Écologie (sauf les applications)
+Conception technique en ingénierie
+Géosciences de l'environnement
+Génie médical et biomédical"
+Extensible Metadata Platform Packet,.xmp,13. Texte (balisage),Fichier original,Complet,Risque faible,---,"53,409","Sciences cognitives
+Géosciences de l'environnement
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Psychologie, aspects sociaux et comportementaux"
+FO File,.fo,13. Texte (balisage),Fichier original,Complet,Risque faible,---,2,Génétique
+Gating-ML (Gating Markup Language) XML file,.xml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,1,Bioinformatique
+Geography Markup Language,.gml,13. Texte (balisage),Fichier original,Complet,Risque faible,SIG/Géospatial,5,Urbanisme et planification régionale
+GPS Exchange Format,.gpx,13. Texte (balisage),Fichier original,Complet,Risque faible,---,2,Zoologie
+Graph Exchange XML Format,.gexf,13. Texte (balisage),Fichier original,Complet,Moderate,---,65,Bibliothéconomie et études de l'information
+Graph Markup Language,.graphml,13. Texte (balisage),Fichier original,Complet,Moderate,---,67,Bibliothéconomie et études de l'information
+Hypertext Markup Language,.html,13. Texte (balisage),Fichier original,Complet,Risque faible,---,"13,442","Sciences de l'atmosphère
+Sciences cognitives
+Curriculum, pédagogie et didactique
+Génétique
+Génie géomatique
+Hydrologie
+Neurosciences, aspects biologiques et chimiques
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Autres sciences de la Terre et sciences de l'environnement connexes
+Psychologie, aspects sociaux et comportementaux"
+Keyhole Markup Language (Container),.kmz,13. Texte (balisage),Fichier original,Complet,Risque faible,---,67,"Géosciences de l'environnement
+Hydrologie
+Autres sciences de la Terre et sciences de l'environnement connexes"
+Keyhole Markup Language (XML),.kml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,50,"Géosciences de l'environnement
+Urbanisme et planification régionale
+Zoologie"
+LaTeX (Master document),.tex,13. Texte (balisage),Fichier original,Complet,Risque faible,---,1,Hydrologie
+LaTeX (Subdocument),.tex,13. Texte (balisage),Fichier original,Complet,Risque faible,---,492,Sciences de l'atmosphère
+Markdown,.md,13. Texte (balisage),Fichier original,Complet,Risque faible,---,370,"Intelligence artificielle (IA)
+Sciences astronomiques et spatiales
+Sciences de l'atmosphère
+Biologie de l'évolution
+Biologie cellulaire
+Génie civil
+Génie informatique
+Physique de la matière condensée
+Curriculum, pédagogie et didactique
+Conception technique en ingénierie
+Génie de l'environnement
+Géosciences de l'environnement
+Génétique
+Hydrologie
+Génie médical et biomédical
+Neurosciences, aspects médicaux et physiologiques et de la santé
+Océanographie
+Autres informatique et sciences de l'information
+Autre génie mécanique
+Sciences des sols
+Contrôle et automatisation des systèmes"
+Mountain Legacy Project Repeat Location Studio File,.rls,13. Texte (balisage),Fichier original,Surveillance,Moderate,---,1,Géosciences de l'environnement
+NEMO XIOS XML Configuration File,.xml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,124,"Géochimie
+Hydrologie
+Océanographie"
+QGIS Layer Style File,.qml,13. Texte (balisage),Fichier original,Complet,Risque faible,---,4,Autres sciences de la Terre et sciences de l'environnement connexes
+QGIS Metadata File,.qmd,13. Texte (balisage),Fichier original,Complet,Risque faible,---,32,"Géosciences de l'environnement
+Hydrologie
+Autres sciences de la Terre et sciences de l'environnement connexes"
+R Documentation Format,.rd,13. Texte (balisage),Fichier original,Complet,Moderate,---,91,Bioinformatique
+R Markdown File,.rmd,13. Texte (balisage),Fichier original,Complet,Moderate,---,1,Physiologie animale
+Sweave File,.rnw,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,2,Bioinformatique
+ZEISS ZEN Microscope Metadata XML File,.xml,13. Texte (balisage),Fichier original,Complet,Risque élevé,---,178,Physiologie animale
